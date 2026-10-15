@@ -46,4 +46,4 @@ function validateEntry(e, categoryIds, where) {
   return p;
 }
 
-module.exports = { validateEntry, CADENCE_DAYS: { high: 14, medium: 30, low: 90 } };
+module.exports = { validateEntry, CADENCE_DAYS: { high: 45, medium: 90, low: 180 } };

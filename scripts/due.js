@@ -35,8 +35,15 @@ const due = entries
   .map((e) => Object.assign({}, e, { nextCheck: nextCheck(e) }))
   .filter((e) => flag("--all") || e.nextCheck <= today || e.status !== "verified" || extraIds.includes(e.id))
   .sort((a, b) => a.nextCheck.localeCompare(b.nextCheck));
+// --limit N keeps a scheduled run small: only the N most overdue entries.
+const limitArg = args.indexOf("--limit");
+if (limitArg >= 0) due.splice(parseInt(args[limitArg + 1], 10) || due.length);
 
-if (flag("--json")) {
+if (flag("--brief")) {
+  // Just what a recheck needs, to keep the scheduled run cheap.
+  const brief = due.map((e) => ({ id: e.id, name: e.name, key: e.key || "", who: (e.who || []).slice(0, 2), closes: e.closes || "", url: e.source.url }));
+  process.stdout.write(JSON.stringify(brief) + "\n");
+} else if (flag("--json")) {
   // Strip working fields so the agent sees only what the site publishes.
   const clean = due.map(({ nextCheck, evidence, open_questions, changes, ...rest }) => rest);
   process.stdout.write(JSON.stringify(clean, null, 2) + "\n");

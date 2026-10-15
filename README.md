@@ -97,6 +97,9 @@ build.js               turns the above into dist/ or preview/
 
 ## Keeping the data current
 
+A scheduled task rechecks the most overdue entries three times a week by following `scripts/RECHECK.md` (`due.js --brief --limit 25`, one page fetch each, then `scripts/recheck.js`). Changed or missing offers become "rechecking" and stay live as "Might apply" until you review them in `research/recheck-log.md`. Recheck intervals: high 45 days, medium 90, low 180.
+
+
 The entry files in `data/entries/` are the only source of truth. Every tool reads and writes them.
 
 ```
