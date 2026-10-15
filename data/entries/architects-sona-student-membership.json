@@ -1,0 +1,51 @@
+{
+  "id": "architects-sona-student-membership",
+  "name": "SONA student membership (Australian Institute of Architects)",
+  "provider": "Australian Institute of Architects",
+  "category": "career",
+  "summary": "Student membership of SONA, the student body of the Australian Institute of Architects, for architecture students.",
+  "key": "$49 annual fee (includes GST).",
+  "who": [
+    "Students enrolled in a Bachelor's or Master's program in a recognised architecture or related course in Australia",
+    "Students on a one-year deferral are also eligible"
+  ],
+  "how": [
+    "Complete the online application form and payment."
+  ],
+  "tags": [
+    "architecture",
+    "architect",
+    "sona",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.architecture.com.au/sona",
+    "label": "Australian Institute of Architects: Student Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Fee",
+      "quote": "$49 annual fee (includes GST)",
+      "url": "https://www.architecture.com.au/sona",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Students enrolled in a Bachelors's or Master's program in a recognised architecture or related course in Australia",
+      "url": "https://www.architecture.com.au/sona",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "qut-legal-name-change-bursary",
+  "name": "QUT Legal Name and Birth Certificate Change Bursary",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "Financial help for trans and gender diverse QUT students to change their name and sex on legal documents.",
+  "who": [
+    "Trans and gender diverse QUT students."
+  ],
+  "catches": [
+    "The amount and dates were not shown on the page. Check the listing."
+  ],
+  "tags": [
+    "qut",
+    "trans",
+    "gender diverse",
+    "lgbtiqa",
+    "name change",
+    "bursary"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/legal-name-change-bursary-for-trans-and-gender-diverse-students",
+    "label": "QUT: Legal Name and Birth Certificate Change Bursary"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Purpose and who it's for",
+      "quote": "This bursary provides trans and gender diverse students with financial assistance to change names and sex on legal documents.",
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/legal-name-change-bursary-for-trans-and-gender-diverse-students",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

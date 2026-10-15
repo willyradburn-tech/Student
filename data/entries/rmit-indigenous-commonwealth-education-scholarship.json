@@ -1,0 +1,63 @@
+{
+  "id": "rmit-indigenous-commonwealth-education-scholarship",
+  "name": "RMIT Indigenous Commonwealth Education Scholarship",
+  "provider": "RMIT University",
+  "category": "uni",
+  "summary": "Up to $7,000 a year for Aboriginal and Torres Strait Islander RMIT students in financial hardship or who moved from regional areas.",
+  "key": "Up to $7,000 a year full-time, or $3,500 part-time.",
+  "who": [
+    "Identifies as Aboriginal and/or Torres Strait Islander and is an Australian citizen.",
+    "Enrolling in an associate, bachelor or postgraduate coursework program in Semester 1 2027.",
+    "Financial hardship, or moved from a rural or regional area to Melbourne in the last four years."
+  ],
+  "how": [
+    "Apply direct to RMIT online (preferred) or through VTAC."
+  ],
+  "catches": [
+    "Semester 1 2027 applications close 2pm Tuesday 20 October 2026.",
+    "The page shows conflicting headline totals, so check the amount."
+  ],
+  "tags": [
+    "rmit",
+    "rmit university",
+    "melbourne",
+    "vic",
+    "indigenous",
+    "first nations"
+  ],
+  "source": {
+    "url": "https://www.rmit.edu.au/scholarships/coursework/ices",
+    "label": "RMIT: Indigenous Commonwealth Education Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Up to $7,000 per year ($3,500 per semester) for full-time enrolled students (for the standard duration of program)",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/ices",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-10-20"
+}

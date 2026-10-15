@@ -1,0 +1,51 @@
+{
+  "id": "sa-emergency-services-levy-remission",
+  "name": "SA Emergency Services Levy remission",
+  "provider": "Government of South Australia",
+  "category": "health",
+  "summary": "Reduction on the fixed-property Emergency Services Levy for low-income South Australian homeowners.",
+  "key": "A remission of up to $46 per year on the Emergency Services Levy (ESL) (fixed property).",
+  "who": [
+    "Live at and own the property on 1 July",
+    "Hold an eligible card such as a Low Income Health Care Card, or receive an eligible Centrelink payment"
+  ],
+  "catches": [
+    "Homeowners only.",
+    "Residential park residents are not eligible for an ESL (fixed property) remission."
+  ],
+  "tags": [
+    "SA",
+    "homeowners",
+    "ESL",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/emergency-services-levy-remission",
+    "label": "SA.GOV.AU: Emergency services levy remission"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "a remission of up to $46 per year on the Emergency Services Levy (ESL) (fixed property)",
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/emergency-services-levy-remission",
+      "page_date": null
+    },
+    {
+      "claim": "Card or payment requirement",
+      "quote": "hold an eligible card or receive an eligible Centrelink payment between the levy notice issue and due dates",
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/emergency-services-levy-remission",
+      "page_date": null
+    }
+  ]
+}

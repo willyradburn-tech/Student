@@ -1,0 +1,1309 @@
+[
+  {
+    "id": "qld-electricity-rebate",
+    "name": "Queensland Electricity Rebate",
+    "provider": "Queensland Government",
+    "category": "payments",
+    "summary": "Yearly rebate on your home electricity bill for Queenslanders holding an eligible concession card, including the Health Care Card.",
+    "key": "Eligible households can receive $386.34 per year (2025–26 rate).",
+    "who": [
+      "Queensland resident holding an eligible card, including a Health Care Card issued by Services Australia"
+    ],
+    "how": [
+      "Contact your electricity retailer – their number is on your electricity bill."
+    ],
+    "catches": [
+      "The factsheet states amounts for the 2025–26 financial year; the 2026–27 figure may differ."
+    ],
+    "tags": [
+      "electricity",
+      "energy",
+      "concession",
+      "health care card",
+      "qld",
+      "Queensland"
+    ],
+    "source": {
+      "url": "https://www.qld.gov.au/__data/assets/pdf_file/0031/168943/energy-rebates-factsheet-general.pdf",
+      "label": "Queensland Government: Energy rebates factsheet"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Rebate amount",
+        "quote": "can receive $386.34* per year.",
+        "url": "https://www.qld.gov.au/__data/assets/pdf_file/0031/168943/energy-rebates-factsheet-general.pdf",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card is an eligible card",
+        "quote": "Health Care Card issued by Services Australia.",
+        "url": "https://www.qld.gov.au/__data/assets/pdf_file/0031/168943/energy-rebates-factsheet-general.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qld-medical-cooling-heating-concession",
+    "name": "Medical Cooling and Heating Electricity Concession Scheme (MCHECS)",
+    "provider": "Queensland Government",
+    "category": "payments",
+    "summary": "Yearly payment towards power costs for Queenslanders with a medical condition that needs air-conditioning or heating, who hold a concession card.",
+    "key": "It currently provides $522.09 (including GST) per year to eligible applicants.",
+    "who": [
+      "Queensland resident",
+      "Have a qualifying condition such as multiple sclerosis, autonomic system dysfunction, or loss of skin integrity or sweating capacity",
+      "Hold a Pensioner Concession Card or a current Services Australia Health Care Card",
+      "Live at your principal place of residence with an air-conditioning or heating unit and pay the electricity bill"
+    ],
+    "how": [
+      "Complete the MCHECS application form and post it to the address on the form",
+      "Call 13 QGOV (13 74 68) if you can't use the PDF"
+    ],
+    "catches": [
+      "Paid quarterly into your bank account; eligibility reviewed every two years."
+    ],
+    "tags": [
+      "electricity",
+      "medical",
+      "energy",
+      "health care card",
+      "qld",
+      "Queensland"
+    ],
+    "source": {
+      "url": "https://www.qld.gov.au/community/cost-of-living-support/concessions/medical-concessions/medical-cooling-heating-electricity-concession-scheme",
+      "label": "Queensland Government: Medical Cooling and Heating Electricity Concession Scheme"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "It currently provides $522.09 (including GST) per year to eligible applicants (eligibility is reviewed every two years).",
+        "url": "https://www.qld.gov.au/community/cost-of-living-support/concessions/medical-concessions/medical-cooling-heating-electricity-concession-scheme",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card accepted",
+        "quote": "a current Services Australia Health Care Card",
+        "url": "https://www.qld.gov.au/community/cost-of-living-support/concessions/medical-concessions/medical-cooling-heating-electricity-concession-scheme",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qld-electricity-life-support-concession",
+    "name": "Electricity Life Support Concession",
+    "provider": "Queensland Government",
+    "category": "payments",
+    "summary": "Yearly payment towards electricity for Queenslanders using a home oxygen concentrator or kidney dialysis machine.",
+    "key": "$1,063.30 per year for each oxygen concentrator, or $712.07 per year for each kidney dialysis machine.",
+    "who": [
+      "Oxygen concentrator users must get the machine free through MASS and hold an eligible card, such as a Health Care Card",
+      "Kidney dialysis users must get a home machine free through a Queensland Health hospital"
+    ],
+    "how": [
+      "Complete the Electricity Life Support Concession application form",
+      "Phone Concession Services on 13 QGOV (13 74 68)"
+    ],
+    "catches": [
+      "CPAP machine users are not eligible."
+    ],
+    "tags": [
+      "electricity",
+      "life support",
+      "medical",
+      "energy",
+      "qld",
+      "Queensland"
+    ],
+    "source": {
+      "url": "https://www.qld.gov.au/community/cost-of-living-support/electricity-life-support",
+      "label": "Queensland Government: Electricity life support"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Oxygen concentrator amount",
+        "quote": "$1,063.30 per year for each oxygen concentrator",
+        "url": "https://www.qld.gov.au/community/cost-of-living-support/electricity-life-support",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card accepted (oxygen)",
+        "quote": "Health Care Card",
+        "url": "https://www.qld.gov.au/community/cost-of-living-support/electricity-life-support",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qld-home-energy-emergency-assistance",
+    "name": "Home Energy Emergency Assistance Scheme (HEEAS)",
+    "provider": "Queensland Government",
+    "category": "payments",
+    "summary": "One-off help paying an electricity or gas bill for Queenslanders hit by an emergency or short-term financial crisis.",
+    "key": "The scheme pays up to $720 once every 2 years.",
+    "who": [
+      "Responsible for the outstanding bill",
+      "Hold a current concession card, have income at or below the part-age pension maximum, or be on your provider's hardship program or payment plan",
+      "Faced an unforeseen emergency or short-term financial crisis in the past 12 months"
+    ],
+    "how": [
+      "Contact your energy provider to check eligibility and get an application number",
+      "Complete the online application form"
+    ],
+    "catches": [
+      "Payment goes to your energy provider, not to you."
+    ],
+    "tags": [
+      "electricity",
+      "gas",
+      "hardship",
+      "emergency",
+      "qld",
+      "Queensland"
+    ],
+    "source": {
+      "url": "https://www.qld.gov.au/community/cost-of-living-support/concessions/energy-concessions/home-energy-emergency-assistance-scheme",
+      "label": "Queensland Government: Home Energy Emergency Assistance Scheme"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "pays up to $720 once every 2 years.",
+        "url": "https://www.qld.gov.au/community/cost-of-living-support/concessions/energy-concessions/home-energy-emergency-assistance-scheme",
+        "page_date": null
+      },
+      {
+        "claim": "Crisis requirement",
+        "quote": "an unforeseen emergency or a short-term financial crisis",
+        "url": "https://www.qld.gov.au/community/cost-of-living-support/concessions/energy-concessions/home-energy-emergency-assistance-scheme",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qld-spectacle-supply-scheme",
+    "name": "Spectacle Supply Scheme (free glasses)",
+    "provider": "Queensland Health",
+    "category": "health",
+    "summary": "Free basic prescription glasses every two years for Queenslanders who have held a Health Care Card or other concession card for six months.",
+    "key": "Free basic spectacles, once every two years.",
+    "who": [
+      "Permanent resident in Queensland",
+      "Hold a Pensioner Concession Card, Health Care Card or Queensland Seniors Card in your own name for at least six months",
+      "Clinical need for spectacles as determined by your optometrist or ophthalmologist"
+    ],
+    "how": [
+      "Book an eye examination with an optometrist registered with SSS",
+      "Your optometrist helps complete the MASS 30 application form and submits it"
+    ],
+    "catches": [
+      "The card must be held continuously for six months first."
+    ],
+    "tags": [
+      "glasses",
+      "eye",
+      "optometrist",
+      "health care card",
+      "qld",
+      "Queensland"
+    ],
+    "source": {
+      "url": "https://www.qld.gov.au/health/condition/eye-health/vision-problems-and-impairments/spectacles-supply-scheme-eligibility",
+      "label": "Queensland Government: Spectacles supply scheme - eligibility"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free spectacles",
+        "quote": "providing a comprehensive range of free basic spectacles",
+        "url": "https://www.qld.gov.au/health/condition/eye-health/vision-problems-and-impairments/spectacles-supply-scheme-eligibility",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card held six months",
+        "quote": "Hold, in your own name, one of the following concession cards continuously for a minimum period of six months",
+        "url": "https://www.qld.gov.au/health/condition/eye-health/vision-problems-and-impairments/spectacles-supply-scheme-eligibility",
+        "page_date": null
+      },
+      {
+        "claim": "How often",
+        "quote": "You are eligible to apply for new spectacles through SSS every two (2) years.",
+        "url": "https://www.qld.gov.au/health/condition/eye-health/vision-problems-and-impairments/spectacles-supply-scheme-eligibility",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qld-medical-aids-subsidy-scheme",
+    "name": "Medical Aids Subsidy Scheme (MASS)",
+    "provider": "Queensland Health",
+    "category": "health",
+    "summary": "Subsidised aids and equipment for Queenslanders with a permanent condition or disability who hold a Health Care Card or other concession card.",
+    "who": [
+      "Permanent resident of Queensland",
+      "Hold an eligible card in your own name, including a Centrelink Health Care Card",
+      "Have a permanent or stable condition or disability and meet clinical criteria for each aid"
+    ],
+    "catches": [
+      "Covers aids such as communication, continence, daily living and mobility aids, home oxygen, medical grade footwear and orthoses."
+    ],
+    "tags": [
+      "disability",
+      "medical aids",
+      "equipment",
+      "health care card",
+      "qld",
+      "Queensland"
+    ],
+    "source": {
+      "url": "https://www.health.qld.gov.au/mass/consumer-information/apply",
+      "label": "Queensland Health: MASS - Can I apply?"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Health Care Card accepted",
+        "quote": "You hold one of the following eligibility cards in your own name:",
+        "url": "https://www.health.qld.gov.au/mass/consumer-information/apply",
+        "page_date": null
+      },
+      {
+        "claim": "Residency",
+        "quote": "You are a permanent resident of Queensland.",
+        "url": "https://www.health.qld.gov.au/mass/consumer-information/apply",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qld-public-dental",
+    "name": "Free public dental care (Queensland)",
+    "provider": "Queensland Health",
+    "category": "health",
+    "summary": "Free public dental care for Queensland adults with a Health Care Card or other eligible concession card.",
+    "key": "Public dental services are provided free to eligible people.",
+    "who": [
+      "Queensland resident",
+      "Receive benefits from an eligible concession card, including the Health Care Card"
+    ],
+    "how": [
+      "Contact your local public dental service to check eligibility, book or join the waiting list"
+    ],
+    "catches": [
+      "Waiting lists apply; you pay your own transport to the clinic."
+    ],
+    "tags": [
+      "dental",
+      "dentist",
+      "teeth",
+      "health care card",
+      "qld",
+      "Queensland"
+    ],
+    "source": {
+      "url": "https://www.qld.gov.au/health/services/oral-eye-ear/dental-services",
+      "label": "Queensland Government: Public dental services"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free for eligible people",
+        "quote": "Public dental services in Queensland are funded by the government and are provided free to eligible people.",
+        "url": "https://www.qld.gov.au/health/services/oral-eye-ear/dental-services",
+        "page_date": null
+      },
+      {
+        "claim": "Residency",
+        "quote": "For adults and their dependants to be eligible for free public dental care they must be a Queensland resident",
+        "url": "https://www.qld.gov.au/health/services/oral-eye-ear/dental-services",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qld-patient-travel-subsidy-scheme",
+    "name": "Patient Travel Subsidy Scheme (PTSS)",
+    "provider": "Queensland Health",
+    "category": "health",
+    "summary": "Help with travel and accommodation costs when specialist treatment isn't available within 50km of your nearest public hospital.",
+    "key": "Private car travel is subsidised at $0.45 per km, and commercial accommodation up to $70 per night.",
+    "who": [
+      "Specialist treatment not available within 50km of your closest public hospital or public health facility"
+    ],
+    "how": [
+      "Check eligibility with the online Eligibility Checking tool",
+      "Complete Form A (Patient Registration) and the banking details form; your doctor helps with Form B",
+      "Submit forms to a Queensland public hospital or public health service"
+    ],
+    "tags": [
+      "medical travel",
+      "regional",
+      "rural",
+      "qld",
+      "Queensland"
+    ],
+    "source": {
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0025/1246282/ptss-brochure-generic.pdf",
+      "label": "Queensland Health: Patient Travel Subsidy Scheme brochure"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Distance rule",
+        "quote": "not available within 50km of the patient’s closest public hospital or public health facility.",
+        "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0025/1246282/ptss-brochure-generic.pdf",
+        "page_date": null
+      },
+      {
+        "claim": "Private car rate",
+        "quote": "A rate of $0.45 per km, calculated using a predetermined toll-free route between facilities.",
+        "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0025/1246282/ptss-brochure-generic.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qld-bond-loan",
+    "name": "Queensland Bond Loan",
+    "provider": "Queensland Government (Housing)",
+    "category": "payments",
+    "summary": "Interest-free help with a rental bond for low-income Queenslanders, with income limits that count Youth Allowance.",
+    "who": [
+      "Australian citizen, permanent resident, or temporary protection or bridging visa holder",
+      "Less than $5,500 in cash or savings among all applicants",
+      "Combined gross income within the limits (for example $1,428 a week for one adult)",
+      "Rent no more than 60% of the total gross weekly income of all applicants"
+    ],
+    "how": [
+      "Use the eligibility checker, or contact Housing Services on 13 QGOV (13 74 68)"
+    ],
+    "catches": [
+      "Youth Allowance counts as income; the Tertiary Access Payment does not."
+    ],
+    "tags": [
+      "rent",
+      "bond",
+      "housing",
+      "renting",
+      "qld",
+      "Queensland"
+    ],
+    "source": {
+      "url": "https://www.qld.gov.au/housing/renting/rent-assistance/financial/bond-loan/bond-loan-rental-grant-guide/bond-loan-rental-grant-eligibility",
+      "label": "Queensland Government: Bond loan and rental grant eligibility"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Savings limit",
+        "quote": "less than $5,500 in cash or savings among all the bond loan applicants",
+        "url": "https://www.qld.gov.au/housing/renting/rent-assistance/financial/bond-loan/bond-loan-rental-grant-guide/bond-loan-rental-grant-eligibility",
+        "page_date": null
+      },
+      {
+        "claim": "Rent cap",
+        "quote": "60% of the total gross weekly income of all applicants",
+        "url": "https://www.qld.gov.au/housing/renting/rent-assistance/financial/bond-loan/bond-loan-rental-grant-guide/bond-loan-rental-grant-eligibility",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qld-rental-grant",
+    "name": "Queensland Rental Grant",
+    "provider": "Queensland Government (Housing)",
+    "category": "payments",
+    "summary": "Help with rent to start a tenancy for low-income Queenslanders who are homeless or at risk of homelessness.",
+    "who": [
+      "Meet the bond loan income, savings and residency rules",
+      "Meet at least one extra condition, such as being homeless or at risk of becoming homeless"
+    ],
+    "how": [
+      "Use the eligibility checker, or contact Housing Services on 13 QGOV (13 74 68)"
+    ],
+    "catches": [
+      "The page does not state the grant amount."
+    ],
+    "tags": [
+      "rent",
+      "housing",
+      "homelessness",
+      "qld",
+      "Queensland"
+    ],
+    "source": {
+      "url": "https://www.qld.gov.au/housing/renting/rent-assistance/financial/bond-loan/bond-loan-rental-grant-guide/bond-loan-rental-grant-eligibility",
+      "label": "Queensland Government: Bond loan and rental grant eligibility"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Extra condition",
+        "quote": "You’re currently homeless or at risk of becoming homeless.",
+        "url": "https://www.qld.gov.au/housing/renting/rent-assistance/financial/bond-loan/bond-loan-rental-grant-guide/bond-loan-rental-grant-eligibility",
+        "page_date": null
+      },
+      {
+        "claim": "Savings limit",
+        "quote": "less than $5,500 in cash or savings among all the bond loan applicants",
+        "url": "https://www.qld.gov.au/housing/renting/rent-assistance/financial/bond-loan/bond-loan-rental-grant-guide/bond-loan-rental-grant-eligibility",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qld-blue-card-free-students",
+    "name": "Free blue card for students",
+    "provider": "Queensland Government (Blue Card Services)",
+    "category": "career",
+    "summary": "Students linked to an education provider pay no fee for a Queensland blue card (working with children check) for placements.",
+    "key": "No application fee for students linked to an education provider; the paid-work fee is $108.30 from 1 July 2026.",
+    "who": [
+      "Student linked to an education provider (for example for a placement)"
+    ],
+    "catches": [
+      "Paid work needs a paid application."
+    ],
+    "tags": [
+      "blue card",
+      "working with children",
+      "placement",
+      "prac",
+      "teaching",
+      "nursing",
+      "qld",
+      "Queensland"
+    ],
+    "source": {
+      "url": "https://www.qld.gov.au/jobs/blue-card/applications/payment",
+      "label": "Queensland Government: Pay for your blue card application"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Students pay no fee",
+        "quote": "You do not pay an application fee if you are:",
+        "url": "https://www.qld.gov.au/jobs/blue-card/applications/payment",
+        "page_date": null
+      },
+      {
+        "claim": "Student category",
+        "quote": "a student linked to an education provider",
+        "url": "https://www.qld.gov.au/jobs/blue-card/applications/payment",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-low-income-household-rebate",
+    "name": "NSW Low Income Household Rebate",
+    "provider": "NSW Government",
+    "category": "payments",
+    "summary": "Daily credit on your electricity bill for NSW households holding a Health Care Card or other eligible concession card.",
+    "who": [
+      "Live in NSW",
+      "Hold a Pensioner Concession Card, Health Care Card, Low Income Health Care Card or DVA Veteran Gold Card"
+    ],
+    "how": [
+      "Contact your electricity retailer and ask for the rebate to be applied",
+      "Give your concession card details and confirm it has been applied"
+    ],
+    "catches": [
+      "The page does not state the dollar amount. Embedded network (on-supply) customers apply through Service NSW instead."
+    ],
+    "tags": [
+      "electricity",
+      "energy",
+      "health care card",
+      "nsw",
+      "New South Wales"
+    ],
+    "source": {
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-retail-customers",
+      "label": "Service NSW: Apply for the Low Income Household Rebate (retail customers)"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Health Care Card accepted",
+        "quote": "Health Care Card issued by Services Australia",
+        "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-retail-customers",
+        "page_date": null
+      },
+      {
+        "claim": "Paid as bill credit",
+        "quote": "Retail customers receive the rebate as a daily credit on each electricity bill.",
+        "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-retail-customers",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-gas-rebate",
+    "name": "NSW Gas Rebate",
+    "provider": "NSW Government",
+    "category": "payments",
+    "summary": "Daily credit on your natural gas bill for NSW households holding a Health Care Card or other eligible concession card.",
+    "who": [
+      "Live in NSW at your principal place of residence",
+      "Hold a Pensioner Concession Card, Health Care Card, Low Income Health Care Card or DVA Veteran Gold Card"
+    ],
+    "how": [
+      "Call your gas retailer.",
+      "Ask for the NSW Gas Rebate to be applied to your account."
+    ],
+    "catches": [
+      "One NSW Gas Rebate per household per financial year; the page does not state the amount."
+    ],
+    "tags": [
+      "gas",
+      "energy",
+      "health care card",
+      "nsw",
+      "New South Wales"
+    ],
+    "source": {
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-retail-customers",
+      "label": "Service NSW: Apply for the Gas Rebate (retail customers)"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Eligible cards",
+        "quote": "Health Care Card",
+        "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-retail-customers",
+        "page_date": null
+      },
+      {
+        "claim": "Principal residence",
+        "quote": "You can only receive the rebate for your principal place of residence.",
+        "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-retail-customers",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-medical-energy-rebate",
+    "name": "NSW Medical Energy Rebate",
+    "provider": "NSW Government",
+    "category": "payments",
+    "summary": "Electricity bill credit for NSW concession card holders who, or whose household member, cannot self-regulate body temperature.",
+    "who": [
+      "Hold a Pensioner Concession Card, Health Care Card, Low Income Health Care Card or DVA Veteran Gold Card",
+      "You or someone living with you cannot self-regulate body temperature and meets the qualifying conditions"
+    ],
+    "how": [
+      "Complete the form with your medical practitioner",
+      "Contact your electricity retailer and provide them with a copy of your completed form."
+    ],
+    "catches": [
+      "The page does not state the dollar amount."
+    ],
+    "tags": [
+      "electricity",
+      "medical",
+      "energy",
+      "health care card",
+      "nsw",
+      "New South Wales"
+    ],
+    "source": {
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-retail-customers",
+      "label": "Service NSW: Apply for the Medical Energy Rebate (retail customers)"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Health Care Card accepted",
+        "quote": "Health Care Card issued by Services Australia",
+        "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-retail-customers",
+        "page_date": null
+      },
+      {
+        "claim": "Medical condition",
+        "quote": "meets at least one Primary Qualifying Condition and at least one Secondary Qualifying Condition.",
+        "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-retail-customers",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-energy-accounts-payment-assistance",
+    "name": "Energy Accounts Payment Assistance (EAPA)",
+    "provider": "NSW Government",
+    "category": "payments",
+    "summary": "Help paying a current electricity or gas bill for NSW households in a short-term financial crisis or emergency.",
+    "who": [
+      "Get electricity or gas from a retailer",
+      "Have not paid your most recent bill",
+      "Having a short-term financial crisis or emergency"
+    ],
+    "how": [
+      "Apply online, or in person or by phone through an approved non-government EAPA provider"
+    ],
+    "catches": [
+      "The page does not state the amount."
+    ],
+    "tags": [
+      "electricity",
+      "gas",
+      "hardship",
+      "emergency",
+      "nsw",
+      "New South Wales"
+    ],
+    "source": {
+      "url": "https://service.nsw.gov.au/eapa",
+      "label": "Service NSW: Energy Accounts Payment Assistance"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "What it does",
+        "quote": "EAPA can help you pay for your current residential electricity or gas bills",
+        "url": "https://service.nsw.gov.au/eapa",
+        "page_date": null
+      },
+      {
+        "claim": "Crisis requirement",
+        "quote": "You're having a short-term financial crisis or emergency and finding it hard to pay your recent energy bill.",
+        "url": "https://service.nsw.gov.au/eapa",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-ambulance-fee-exemption",
+    "name": "NSW Ambulance fee exemption for Health Care Card holders",
+    "provider": "NSW Ambulance",
+    "category": "health",
+    "summary": "Health Care Card holders are exempt from NSW Ambulance fees; claim the exemption against your invoice.",
+    "who": [
+      "The patient must hold a valid Health Care Card or Pensioner Concession Card"
+    ],
+    "how": [
+      "On Service NSW, select 'Manage your invoice', enter your payment reference number and issue date, and provide your exemption details"
+    ],
+    "catches": [
+      "Partners or family members listed on the card are not exempt."
+    ],
+    "tags": [
+      "ambulance",
+      "health care card",
+      "emergency",
+      "nsw",
+      "New South Wales"
+    ],
+    "source": {
+      "url": "https://www.ambulance.nsw.gov.au/our-services/accounts-and-fees/exemptions-from-nsw-ambulance-fees",
+      "label": "NSW Ambulance: Exemptions from NSW Ambulance fees"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free for concession card holders",
+        "quote": "Some ambulance services are provided free of charge to people who hold a valid concession card",
+        "url": "https://www.ambulance.nsw.gov.au/our-services/accounts-and-fees/exemptions-from-nsw-ambulance-fees",
+        "page_date": null
+      },
+      {
+        "claim": "Patient must hold card",
+        "quote": "The patient must have a valid health care card and/or pensioner concession card to be exempt from the fee.",
+        "url": "https://www.ambulance.nsw.gov.au/our-services/accounts-and-fees/exemptions-from-nsw-ambulance-fees",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-public-dental",
+    "name": "Free public dental care (NSW)",
+    "provider": "NSW Health",
+    "category": "health",
+    "summary": "Free dental care at NSW public clinics for adults holding a Health Care Card or other eligible concession card.",
+    "key": "Eligible adults can receive free dental care from NSW public dental clinics.",
+    "who": [
+      "Hold, or be listed as a dependant on, a Health Care Card, Pensioner Concession Card or Commonwealth Seniors Health Card"
+    ],
+    "how": [
+      "Call 1800 679 336 with your postcode, Medicare and concession card details ready"
+    ],
+    "catches": [
+      "Waiting lists apply."
+    ],
+    "tags": [
+      "dental",
+      "dentist",
+      "teeth",
+      "health care card",
+      "nsw",
+      "New South Wales"
+    ],
+    "source": {
+      "url": "https://www.health.nsw.gov.au/oralhealth/Pages/info-patients.aspx",
+      "label": "NSW Health: Public dental services - information for patients"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free care",
+        "quote": "Eligible adults can receive free dental care from NSW public dental clinics.",
+        "url": "https://www.health.nsw.gov.au/oralhealth/Pages/info-patients.aspx",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card eligible",
+        "quote": "hold, or are listed as a dependent on, one of the following valid Australian Government concession cards:",
+        "url": "https://www.health.nsw.gov.au/oralhealth/Pages/info-patients.aspx",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-spectacles-program",
+    "name": "NSW Spectacles Program (free glasses)",
+    "provider": "NSW Government",
+    "category": "health",
+    "summary": "Free glasses every two years for financially disadvantaged NSW residents on a full Centrelink income support payment or low wages.",
+    "key": "One pair of single vision glasses or bifocals in any 2-year period.",
+    "who": [
+      "Australian permanent resident living in NSW",
+      "Receive a full Centrelink pension or income support payment with no other income, or earn less than the full JobSeeker Payment (under 65)",
+      "Financial assets less than $500 (single) or $1,000 (partnered or parent)",
+      "Not eligible for any other spectacles subsidy scheme"
+    ],
+    "catches": [
+      "Asset test is strict; part-rate payment recipients with other income may not qualify."
+    ],
+    "tags": [
+      "glasses",
+      "eye",
+      "optometrist",
+      "nsw",
+      "New South Wales"
+    ],
+    "source": {
+      "url": "https://www.service.nsw.gov.au/transaction/nsw-spectacles-program",
+      "label": "Service NSW: NSW Spectacles Program"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "What it provides",
+        "quote": "free glasses and vision aids to financially disadvantaged NSW residents.",
+        "url": "https://www.service.nsw.gov.au/transaction/nsw-spectacles-program",
+        "page_date": null
+      },
+      {
+        "claim": "Payment rule",
+        "quote": "receive a full Centrelink pension or income support payment",
+        "url": "https://www.service.nsw.gov.au/transaction/nsw-spectacles-program",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-wwcc-free-students",
+    "name": "Free Working With Children Check for students on placement",
+    "provider": "NSW Office of the Children's Guardian",
+    "category": "career",
+    "summary": "The NSW Working With Children Check is free for students over 18 on professional placement.",
+    "key": "The WWCC is free for students over 18 on professional placement.",
+    "who": [
+      "Student over 18 on a professional placement"
+    ],
+    "catches": [
+      "If you are in paid work, you must apply for a paid WWCC."
+    ],
+    "tags": [
+      "wwcc",
+      "working with children",
+      "placement",
+      "prac",
+      "teaching",
+      "nursing",
+      "nsw",
+      "New South Wales"
+    ],
+    "source": {
+      "url": "https://www.ocg.nsw.gov.au/working-children-check/applicant",
+      "label": "Office of the Children's Guardian: Apply for a WWCC"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free for placement students",
+        "quote": "students over 18 on professional placement",
+        "url": "https://www.ocg.nsw.gov.au/working-children-check/applicant",
+        "page_date": null
+      },
+      {
+        "claim": "Lead-in",
+        "quote": "The WWCC is free for:",
+        "url": "https://www.ocg.nsw.gov.au/working-children-check/applicant",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-rentstart-bond-loan",
+    "name": "Rentstart Bond Loan",
+    "provider": "Homes NSW",
+    "category": "payments",
+    "summary": "Interest-free loan covering up to 100% of a rental bond for low-income NSW renters with limited savings.",
+    "key": "The interest-free loan can be up to 100% of your rental bond.",
+    "who": [
+      "Australian citizen or permanent resident in NSW",
+      "Less than $5,000 in cash assets",
+      "Not own or part-own property",
+      "Rent no more than 50% of household gross weekly income"
+    ],
+    "how": [
+      "Apply online or with the PDF form"
+    ],
+    "catches": [
+      "Repaid fortnightly over 12 or 18 months.",
+      "The Homes NSW factsheet gives the rent limit as 60% of income; check with Homes NSW."
+    ],
+    "tags": [
+      "rent",
+      "bond",
+      "housing",
+      "renting",
+      "nsw",
+      "New South Wales"
+    ],
+    "source": {
+      "url": "https://www.service.nsw.gov.au/transaction/apply-rentstart-bond-loan",
+      "label": "Service NSW: Apply for a Rentstart Bond Loan"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "The interest-free loan can be up to 100% of your rental bond.",
+        "url": "https://www.service.nsw.gov.au/transaction/apply-rentstart-bond-loan",
+        "page_date": null
+      },
+      {
+        "claim": "Assets",
+        "quote": "have less than $5,000 in cash assets",
+        "url": "https://www.service.nsw.gov.au/transaction/apply-rentstart-bond-loan",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-advance-rent",
+    "name": "Advance Rent (Homes NSW)",
+    "provider": "Homes NSW",
+    "category": "payments",
+    "summary": "Up to two weeks' rent in advance to help eligible clients start a new private rental tenancy in NSW.",
+    "key": "Up to two weeks' Advance Rent.",
+    "who": [
+      "Need help setting up a new tenancy",
+      "Less than $5,000 in cash assets"
+    ],
+    "catches": [
+      "Full eligibility is not set out on this page; ask Homes NSW."
+    ],
+    "tags": [
+      "rent",
+      "housing",
+      "renting",
+      "nsw",
+      "New South Wales"
+    ],
+    "source": {
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rentstart-bond-loan-factsheet-for-clients",
+      "label": "Homes NSW: About the Rentstart Bond Loan (factsheet)"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "may be eligible for up to two weeks’ Advance Rent.",
+        "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rentstart-bond-loan-factsheet-for-clients",
+        "page_date": null
+      },
+      {
+        "claim": "Assets",
+        "quote": "have less than $5,000 in cash assets.",
+        "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rentstart-bond-loan-factsheet-for-clients",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-iptaas",
+    "name": "Isolated Patients Travel and Accommodation Assistance Scheme (IPTAAS)",
+    "provider": "NSW Health",
+    "category": "health",
+    "summary": "NSW subsidy towards travel and accommodation when you must travel 100km or more for specialist treatment not available locally.",
+    "who": [
+      "NSW resident enrolled with Medicare",
+      "Travel at least 100km one way, or 200km in a week over multiple trips, to the nearest approved health service"
+    ],
+    "how": [
+      "Apply online (Digital ID or MFA needed) or send the paper form with invoices to your local IPTAAS office"
+    ],
+    "catches": [
+      "Applications must be submitted within 12 months of your discharge or appointment end date.",
+      "Concession card holders may get advance travel help (per the assessment guidelines)."
+    ],
+    "tags": [
+      "medical travel",
+      "regional",
+      "rural",
+      "northern rivers",
+      "nsw",
+      "New South Wales"
+    ],
+    "source": {
+      "url": "https://www.iptaas.health.nsw.gov.au/",
+      "label": "NSW Health: IPTAAS"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "What it is",
+        "quote": "IPTAAS provides financial assistance from the NSW Government towards your travel and accommodation costs",
+        "url": "https://www.iptaas.health.nsw.gov.au/",
+        "page_date": null
+      },
+      {
+        "claim": "Deadline",
+        "quote": "Applications must be submitted within 12 months of your hospitalisation discharge or appointment end date.",
+        "url": "https://www.iptaas.health.nsw.gov.au/",
+        "page_date": null
+      }
+    ]
+  }
+]

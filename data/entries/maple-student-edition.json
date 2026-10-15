@@ -1,0 +1,34 @@
+{
+  "id": "maple-student-edition",
+  "name": "Maple Student Edition",
+  "provider": "Maplesoft",
+  "category": "software",
+  "summary": "Student edition of Maple maths software at a reduced price.",
+  "key": "Maple Student Edition starts at just $75.",
+  "catches": [
+    "Currency and eligibility rules aren't stated on the page."
+  ],
+  "tags": [
+    "maths",
+    "engineering",
+    "maple",
+    "symbolic"
+  ],
+  "source": {
+    "url": "https://www.maplesoft.com/products/maple/students/",
+    "label": "Maplesoft: Maple for students"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Price",
+      "quote": "Maple Student Edition starts at just $75",
+      "url": "https://www.maplesoft.com/products/maple/students/",
+      "page_date": null
+    }
+  ]
+}

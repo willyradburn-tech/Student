@@ -1,0 +1,63 @@
+{
+  "id": "fares-allowance",
+  "name": "Fares Allowance",
+  "provider": "Services Australia",
+  "category": "payments",
+  "summary": "Reimburses travel between your permanent home and campus if you get Youth Allowance or Austudy and have to live away from home.",
+  "tags": [
+    "travel",
+    "moving away",
+    "regional",
+    "flights"
+  ],
+  "who": [
+    "Tertiary students getting Youth Allowance or Austudy who need to live away from home to study."
+  ],
+  "numbers": [
+    [
+      "Trips covered",
+      "One trip to start the academic year and one home at the end"
+    ],
+    [
+      "Extra trip",
+      "One return trip home during the year if you study 3 months or more of the year"
+    ],
+    [
+      "How much",
+      "The cheapest practical fare. If you can get a concession fare, only that is paid."
+    ]
+  ],
+  "how": [
+    "It is paid as a lump sum with your Youth Allowance or Austudy. Ask Services Australia how to claim each trip."
+  ],
+  "catches": [
+    "Flights are covered only if a train trip would take more than 36 hours, or no car or other public transport is possible.",
+    "A flight is reimbursed only if you actually flew."
+  ],
+  "extra_sources": [
+    {
+      "url": "https://guides.dss.gov.au/social-security-guide/1/2/7/90",
+      "label": "DSS Social Security Guide: Fares Allowance description"
+    }
+  ],
+  "status": "verified",
+  "verified": "2026-10-13",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "payment": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://guides.dss.gov.au/social-security-guide/3/8/9/20",
+    "label": "DSS Social Security Guide: Fares Allowance entitlement"
+  }
+}

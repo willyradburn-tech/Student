@@ -1,0 +1,64 @@
+{
+  "id": "scu-rowe-scientific-chemistry-honours-scholarship",
+  "name": "Rowe Scientific Chemistry Honours Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$5,000 for an SCU Bachelor of Science with Honours student doing a chemistry project.",
+  "key": "$5,000 for one year.",
+  "who": [
+    "Australian or New Zealand citizen, permanent resident or permanent humanitarian visa holder.",
+    "Formal acceptance into the Bachelor of Science with Honours, studying chemistry.",
+    "Preference for disadvantaged students or students from rural, regional or remote Australia."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with a 100 to 200 word statement."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One scholarship available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "chemistry",
+    "honours",
+    "science"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/rowe-scientific-chemistry-honours-scholarship/",
+    "label": "Southern Cross University: Rowe Scientific Chemistry Honours Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$5,000 for one year",
+      "url": "https://www.scu.edu.au/scholarships/rowe-scientific-chemistry-honours-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Application close 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/rowe-scientific-chemistry-honours-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

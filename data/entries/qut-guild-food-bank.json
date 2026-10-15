@@ -1,0 +1,55 @@
+{
+  "id": "qut-guild-food-bank",
+  "name": "QUT Guild Food Bank",
+  "provider": "QUT Guild",
+  "category": "uni",
+  "summary": "Free groceries for QUT students facing financial hardship, once a week at Kelvin Grove.",
+  "who": [
+    "All QUT students facing financial hardship."
+  ],
+  "how": [
+    "Arrive at 10 AM or earlier. No appointment needed."
+  ],
+  "catches": [
+    "One visit per week.",
+    "QUT Kelvin Grove, C Block, Level 4, C406. Open Tuesday to Thursday, 10 AM to 2 PM, unless capacity is reached."
+  ],
+  "tags": [
+    "qut",
+    "guild",
+    "food",
+    "groceries",
+    "hardship",
+    "free",
+    "kelvin grove"
+  ],
+  "source": {
+    "url": "https://qutguild.com/foodbank/",
+    "label": "QUT Guild: Food Bank"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Available to all QUT students",
+      "quote": "QUT Guild Food Bank is available to all QUT students to help you get through till your next payday.",
+      "url": "https://qutguild.com/foodbank/",
+      "page_date": null
+    },
+    {
+      "claim": "One visit a week",
+      "quote": "Students are limited to one visit per week.",
+      "url": "https://qutguild.com/foodbank/",
+      "page_date": null
+    }
+  ]
+}

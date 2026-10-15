@@ -1,0 +1,60 @@
+{
+  "id": "nsw-ambulance-fee-exemption",
+  "name": "NSW Ambulance fee exemption for Health Care Card holders",
+  "provider": "NSW Ambulance",
+  "category": "health",
+  "summary": "Health Care Card holders are exempt from NSW Ambulance fees; claim the exemption against your invoice.",
+  "who": [
+    "The patient must hold a valid Health Care Card or Pensioner Concession Card"
+  ],
+  "how": [
+    "On Service NSW, select 'Manage your invoice', enter your payment reference number and issue date, and provide your exemption details"
+  ],
+  "catches": [
+    "Partners or family members listed on the card are not exempt."
+  ],
+  "tags": [
+    "ambulance",
+    "health care card",
+    "emergency",
+    "nsw",
+    "New South Wales"
+  ],
+  "source": {
+    "url": "https://www.ambulance.nsw.gov.au/our-services/accounts-and-fees/exemptions-from-nsw-ambulance-fees",
+    "label": "NSW Ambulance: Exemptions from NSW Ambulance fees"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free for concession card holders",
+      "quote": "Some ambulance services are provided free of charge to people who hold a valid concession card",
+      "url": "https://www.ambulance.nsw.gov.au/our-services/accounts-and-fees/exemptions-from-nsw-ambulance-fees",
+      "page_date": null
+    },
+    {
+      "claim": "Patient must hold card",
+      "quote": "The patient must have a valid health care card and/or pensioner concession card to be exempt from the fee.",
+      "url": "https://www.ambulance.nsw.gov.au/our-services/accounts-and-fees/exemptions-from-nsw-ambulance-fees",
+      "page_date": null
+    }
+  ]
+}

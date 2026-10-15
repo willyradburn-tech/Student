@@ -1,0 +1,60 @@
+{
+  "id": "qagoma-student-concession",
+  "name": "QAGOMA free entry and student concession for exhibitions",
+  "provider": "Queensland Art Gallery | Gallery of Modern Art",
+  "category": "streaming",
+  "summary": "Free entry to QAGOMA in Brisbane, with concession prices for full-time tertiary and TAFE students at ticketed exhibitions.",
+  "key": "Entry to the Gallery is free; some exhibitions, cinema screenings and events need a paid ticket.",
+  "who": [
+    "Full-time Australian tertiary and TAFE students.",
+    "Full-time international students with an ISIC card and their institution card."
+  ],
+  "how": [
+    "Show your concession card at the exhibition entry."
+  ],
+  "catches": [
+    "Concession prices are listed on each exhibition page, not here."
+  ],
+  "tags": [
+    "qagoma",
+    "goma",
+    "art gallery",
+    "brisbane",
+    "south bank"
+  ],
+  "source": {
+    "url": "https://www.qagoma.qld.gov.au/visit/ticket-faqs/",
+    "label": "QAGOMA: General ticket information"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free entry",
+      "quote": "Entry to the Gallery is free, some exhibitions, cinema screenings and events may require a paid or booked ticket.",
+      "url": "https://www.qagoma.qld.gov.au/visit/ticket-faqs/",
+      "page_date": null
+    },
+    {
+      "claim": "Tertiary students",
+      "quote": "Full Time Australian Tertiary and TAFE Students",
+      "url": "https://www.qagoma.qld.gov.au/visit/ticket-faqs/",
+      "page_date": null
+    },
+    {
+      "claim": "Show card",
+      "quote": "Individual patrons must show concession cards at the exhibition entry to receive concession ticket price.",
+      "url": "https://www.qagoma.qld.gov.au/visit/ticket-faqs/",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "qut-counselling",
+  "name": "QUT Counselling",
+  "provider": "QUT",
+  "category": "health",
+  "summary": "Free, confidential professional counselling for QUT students through Student Services.",
+  "who": [
+    "QUT students."
+  ],
+  "how": [
+    "Contact Student Services on 3138 2019, or request a call back online."
+  ],
+  "tags": [
+    "qut",
+    "counselling",
+    "mental health",
+    "free",
+    "wellbeing"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/student-life/support",
+    "label": "QUT: Student support"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free counselling",
+      "quote": "Student Services and our counsellors can provide you with free, professional and confidential services",
+      "url": "https://www.qut.edu.au/study/student-life/support",
+      "page_date": null
+    }
+  ]
+}

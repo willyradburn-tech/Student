@@ -1,0 +1,43 @@
+{
+  "id": "qut-financial-assistance-bursary",
+  "name": "QUT Financial Assistance Bursary",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "A once-off payment for QUT students in sudden financial hardship.",
+  "tags": [
+    "qut",
+    "hardship",
+    "emergency money",
+    "bursary"
+  ],
+  "key": "$300, $500, $750 or $1,000 depending on need, one per semester.",
+  "who": [
+    "Current domestic or international QUT students enrolled this semester."
+  ],
+  "need": [
+    "Bank statements in an accepted format. Screenshots are not accepted."
+  ],
+  "how": [
+    "Apply with the online form, or call (07) 3138 2019 to book an appointment."
+  ],
+  "catches": [
+    "Single-unit and cross-institutional students are not eligible.",
+    "Applications are usually considered after the census date."
+  ],
+  "status": "verified",
+  "verified": "2026-10-12",
+  "cadence": "medium",
+  "review": "approved",
+  "cap": "maybe",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/financial-assistance-bursary",
+    "label": "QUT: Financial Assistance Bursary"
+  }
+}

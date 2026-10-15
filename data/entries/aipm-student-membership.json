@@ -1,0 +1,54 @@
+{
+  "id": "aipm-student-membership",
+  "name": "AIPM Student Membership",
+  "provider": "Australian Institute of Project Management",
+  "category": "career",
+  "summary": "Discounted student membership of the Australian Institute of Project Management, with mentoring, resources and free or discounted events.",
+  "key": "Annual price: $89.45.",
+  "who": [
+    "Must be currently enrolled in study"
+  ],
+  "how": [
+    "Select Join now and provide evidence of enrolment such as a student card, course listing screenshot or enrolment confirmation."
+  ],
+  "catches": [
+    "Student members can't vote at the AGM or in elections.",
+    "RegPM certification is limited to Individual Membership."
+  ],
+  "tags": [
+    "project management",
+    "pm",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://aipm.com.au/membership/student-member/",
+    "label": "AIPM: Student Project Management Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "business",
+        "engineering"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Price",
+      "quote": "Annual price: $89.45",
+      "url": "https://aipm.com.au/membership/student-member/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "To be eligible, you must be currently enrolled in study.",
+      "url": "https://aipm.com.au/membership/student-member/",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "tas-vehicle-registration-fee-concession",
+  "name": "Tasmanian vehicle registration fee discount",
+  "provider": "Tasmanian Government",
+  "category": "transport",
+  "summary": "Discount on Tasmanian vehicle registration fees for concession cardholders, including Health Care Card holders.",
+  "who": [
+    "Hold an eligible concession card; the Services Australia Health Care Card is shown as eligible"
+  ],
+  "catches": [
+    "The page does not state the discount amount.",
+    "Separate from the 40% motor tax rebate and the MAIB concession."
+  ],
+  "tags": [
+    "Tasmania",
+    "car registration",
+    "rego",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
+    "label": "Tasmanian Concessions: Vehicles"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Discount exists",
+      "quote": "Discounts on vehicle registration fees are available for:",
+      "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
+      "page_date": null
+    },
+    {
+      "claim": "Health Care Card shown as eligible card",
+      "quote": "Services Australia Health Care Card",
+      "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
+      "page_date": null
+    }
+  ]
+}

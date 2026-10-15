@@ -1,0 +1,52 @@
+{
+  "id": "cineplex-student-tickets",
+  "name": "Cineplex full-time student movie tickets",
+  "provider": "Cineplex",
+  "category": "streaming",
+  "summary": "$9 standard 2D tickets, and $8 off-peak discount tickets, for full-time students at Cineplex cinemas.",
+  "key": "Full-time students pay $9.00 for standard 2D films.",
+  "who": [
+    "Full-time students aged 13 and over with a valid, unexpired student ID card."
+  ],
+  "catches": [
+    "$10 on public holidays and $11 for 3D.",
+    "No student price for Deluxe sessions.",
+    "Off-peak $8 discount tickets are at the cinema's discretion."
+  ],
+  "tags": [
+    "cineplex",
+    "movies",
+    "brisbane",
+    "gold coast",
+    "cinema"
+  ],
+  "source": {
+    "url": "https://www.cineplex.com.au/Pricing",
+    "label": "Cineplex: Pricing"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Price line",
+      "quote": "Full Time Student ID, Senior Card, Health Care ID",
+      "url": "https://www.cineplex.com.au/Pricing",
+      "page_date": null
+    },
+    {
+      "claim": "Full-time and 13+",
+      "quote": "A Student is 13+ and must be full time (they must have a valid (i.e. current and not expired) student ID card",
+      "url": "https://www.cineplex.com.au/Pricing",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ansys-student",
+  "name": "Ansys Student (free simulation software)",
+  "provider": "Ansys (Synopsys)",
+  "category": "software",
+  "summary": "Free student versions of Ansys simulation tools including Mechanical, CFD, Discovery, LS-DYNA and Electronics Desktop.",
+  "key": "Free simulation engineering software licences for students at all levels.",
+  "how": [
+    "Use the Free Download Now button for each product on the Ansys student page."
+  ],
+  "catches": [
+    "Installs on supported MS Windows 64-bit machines only."
+  ],
+  "tags": [
+    "engineering",
+    "simulation",
+    "cfd",
+    "fea",
+    "mechanical",
+    "ansys"
+  ],
+  "source": {
+    "url": "https://ansys.synopsys.com/academic/students",
+    "label": "Ansys: Free Student Software Downloads"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Free licences for students",
+      "quote": "providing free simulation engineering software licenses to students at all levels",
+      "url": "https://ansys.synopsys.com/academic/students",
+      "page_date": null
+    },
+    {
+      "claim": "Free download worldwide",
+      "quote": "can be downloaded at no cost by students across the globe",
+      "url": "https://ansys.synopsys.com/academic/students",
+      "page_date": null
+    }
+  ]
+}

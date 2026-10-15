@@ -1,0 +1,68 @@
+{
+  "id": "study-melbourne-hub-welfare-support",
+  "name": "Study Melbourne Hub welfare support",
+  "provider": "Study Melbourne (Victorian Government)",
+  "category": "health",
+  "summary": "Walk-in and phone hub in Melbourne CBD offering international students confidential welfare advice, legal help referrals and language help.",
+  "key": "Confidential advice and support from our international student welfare team",
+  "who": [
+    "International students in Victoria"
+  ],
+  "how": [
+    "Visit 17 Hardware Lane, Melbourne, or call 1800 056 449 (+61 3 9623 1512 from outside Australia)"
+  ],
+  "catches": [
+    "Open all year from 9 am - 5 pm, Monday to Friday (excluding public holidays)",
+    "Category is the closest fit: support service"
+  ],
+  "tags": [
+    "international",
+    "intl",
+    "victoria",
+    "vic",
+    "melbourne",
+    "welfare",
+    "support",
+    "study melbourne hub"
+  ],
+  "source": {
+    "url": "https://studymelbourne.vic.gov.au/our-hub/study-melbourne-hub-victoria",
+    "label": "Study Melbourne: Study Melbourne Hub"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Welfare support",
+      "quote": "Confidential advice and support from our international student welfare team",
+      "url": "https://studymelbourne.vic.gov.au/our-hub/study-melbourne-hub-victoria",
+      "page_date": null
+    },
+    {
+      "claim": "Legal help",
+      "quote": "Independent and confidential legal advice and support for employment and housing matters",
+      "url": "https://studymelbourne.vic.gov.au/our-hub/study-melbourne-hub-victoria",
+      "page_date": null
+    },
+    {
+      "claim": "Hours",
+      "quote": "Open all year from 9 am - 5 pm, Monday to Friday (excluding public holidays)",
+      "url": "https://studymelbourne.vic.gov.au/our-hub/study-melbourne-hub-victoria",
+      "page_date": null
+    }
+  ]
+}

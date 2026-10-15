@@ -1,0 +1,58 @@
+{
+  "id": "curtin-emergency-student-loan",
+  "name": "Curtin Emergency Student Loan",
+  "provider": "Curtin University",
+  "category": "uni",
+  "summary": "Loan of up to $2,000, repaid within six months, for Curtin students with a temporary, unexpected financial need.",
+  "key": "Successful recipients may borrow up to $2000.",
+  "who": [
+    "Enrolled in a Curtin award course within Australia",
+    "No outstanding debt to Curtin and a satisfactory academic record",
+    "Temporary, unexpected financial need with documents, and evidence you can repay"
+  ],
+  "how": [
+    "Contact the Scholarships Office (Building 102, Perth campus, 1300 222 888) and explain why you need the loan"
+  ],
+  "catches": [
+    "Repay within six months of approval under a signed loan agreement",
+    "Missed payments may incur a financial penalty",
+    "Not for tuition, study costs, existing commercial debt or recreation"
+  ],
+  "tags": [
+    "curtin",
+    "perth",
+    "wa",
+    "loan",
+    "emergency",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://www.curtin.edu.au/students/personal-support/financial-advice/curtin-emergency-student-loans",
+    "label": "Curtin University: Curtin Emergency Student Loans"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "Successful recipients may borrow up to $2000.",
+      "url": "https://www.curtin.edu.au/students/personal-support/financial-advice/curtin-emergency-student-loans",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "be enrolled in an Curtin award course within Australia",
+      "url": "https://www.curtin.edu.au/students/personal-support/financial-advice/curtin-emergency-student-loans",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "une-life-technology-bursary",
+  "name": "UNE Technology Bursary",
+  "provider": "UNE Life",
+  "category": "uni",
+  "summary": "One-off payment to help continuing UNE students in financial need maintain or replace a computer.",
+  "key": "A one-off payment of up to $1,500 to support students in maintaining or replacing a computer.",
+  "who": [
+    "Australian citizen or permanent resident",
+    "Continuing student who has completed at least 48 credit points of an undergraduate degree",
+    "Studying on campus or online, at least 24 credit points a year",
+    "Able to show financial need"
+  ],
+  "tags": [
+    "une",
+    "une life",
+    "laptop",
+    "computer",
+    "technology",
+    "bursary"
+  ],
+  "source": {
+    "url": "https://www.unelife.com.au/advocacy/financial-help/",
+    "label": "UNE Life: Financial Help"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "offers a one-off payment of up to $1,500 to support students in maintaining or replacing a computer.",
+      "url": "https://www.unelife.com.au/advocacy/financial-help/",
+      "page_date": null
+    },
+    {
+      "claim": "Financial need",
+      "quote": "able to demonstrate financial need",
+      "url": "https://www.unelife.com.au/advocacy/financial-help/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

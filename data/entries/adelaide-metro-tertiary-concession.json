@@ -1,0 +1,65 @@
+{
+  "id": "adelaide-metro-tertiary-concession",
+  "name": "Adelaide Metro tertiary student concession fare",
+  "provider": "Adelaide Metro (South Australian Government)",
+  "category": "transport",
+  "summary": "Concession fares on Adelaide buses, trains and trams for full-time, on-site tertiary and university students at approved SA institutions.",
+  "who": [
+    "Full-time, on-site tertiary or university students from approved South Australian institutions"
+  ],
+  "catches": [
+    "University and tertiary students are not eligible for the cheaper student fare, only the concession fare.",
+    "You must carry your concession card whenever you travel on a concession fare.",
+    "International student eligibility is not stated on the page."
+  ],
+  "tags": [
+    "SA",
+    "Adelaide",
+    "metroCARD",
+    "bus",
+    "train",
+    "tram",
+    "tertiary",
+    "concession"
+  ],
+  "source": {
+    "url": "https://www.adelaidemetro.com.au/tickets-and-fares/metrocard/concession",
+    "label": "Adelaide Metro: Concession"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "campus": {
+      "yes": [
+        "other"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Full-time on-site university students at approved SA institutions get concession fares",
+      "quote": "Concession fare for full time, on-site, university students from approved South Australian institutions.",
+      "url": "https://www.adelaidemetro.com.au/tickets-and-fares/metrocard/concession",
+      "page_date": null
+    },
+    {
+      "claim": "Must carry concession card",
+      "quote": "You must have your concession card with you whenever you are travelling on a concession fare.",
+      "url": "https://www.adelaidemetro.com.au/tickets-and-fares/metrocard/concession",
+      "page_date": null
+    },
+    {
+      "claim": "Uni students get concession, not student, fares",
+      "quote": "University and tertiary students are not eligible for a student fare but may be eligible for a concession fare.",
+      "url": "https://adelaidemetro.com.au/tickets-and-fares/metrocard/student",
+      "page_date": null
+    }
+  ]
+}

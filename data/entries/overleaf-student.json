@@ -1,0 +1,34 @@
+{
+  "id": "overleaf-student",
+  "name": "Overleaf Student plan",
+  "provider": "Overleaf",
+  "category": "software",
+  "summary": "Free and discounted Overleaf LaTeX plans for students at degree-granting institutions.",
+  "catches": [
+    "The paid Student plan appeared as US$8.25/month billed yearly; confirm on the page."
+  ],
+  "tags": [
+    "latex",
+    "thesis",
+    "writing",
+    "research",
+    "overleaf"
+  ],
+  "source": {
+    "url": "https://www.overleaf.com/user/subscription/plans",
+    "label": "Overleaf: Plans and pricing"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Student eligibility",
+      "quote": "Available to students currently enrolled at a degree-granting institution.",
+      "url": "https://www.overleaf.com/user/subscription/plans",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "jetbrains-student-pack",
+  "name": "JetBrains Student Pack",
+  "provider": "JetBrains",
+  "category": "software",
+  "summary": "Free JetBrains IDEs, such as IntelliJ IDEA and PyCharm, for students.",
+  "tags": [
+    "coding",
+    "intellij",
+    "pycharm",
+    "ide",
+    "programming"
+  ],
+  "need": [
+    "A university email address, an ISIC card, or a GitHub Student Developer Pack."
+  ],
+  "how": [
+    "Apply on JetBrains' student page with your uni email or ISIC card, or choose Authorize with GitHub if you have the GitHub Student Developer Pack."
+  ],
+  "catches": [
+    "Official school documents are no longer accepted as proof, since July 2024."
+  ],
+  "source": {
+    "url": "https://sales.jetbrains.com/hc/en-gb/articles/19480141673106-Can-I-apply-for-a-free-individual-educational-license-using-official-documents-provided-by-my-school",
+    "label": "JetBrains Sales Support: applying for an educational licence"
+  },
+  "status": "rechecking",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "it",
+        "engineering"
+      ],
+      "maybe": [
+        "business",
+        "care",
+        "other"
+      ]
+    }
+  },
+  "open_questions": [
+    "Eligibility rules (full-time, course length) and licence length could not be read: jetbrains.com education pages returned no content or blocked automated reading.",
+    "Grok's 'full-time student in accredited program of at least 1 year' and 'for the duration of studies' are unconfirmed."
+  ]
+}

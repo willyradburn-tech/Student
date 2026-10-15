@@ -1,0 +1,50 @@
+{
+  "id": "scu-itas-indigenous-tutoring",
+  "name": "SCU Indigenous Tutorial Assistance Scheme (ITAS)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "Free tutoring from a qualified tutor for Aboriginal and Torres Strait Islander students at SCU.",
+  "key": "A free tutoring service to all Indigenous students studying at SCU.",
+  "who": [
+    "Admitted and enrolled Aboriginal and Torres Strait Islander students."
+  ],
+  "how": [
+    "Contact Indigenous Australian Student Services (IASS)."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "indigenous",
+    "tutoring",
+    "itas",
+    "iass"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/current-students/services-and-support/indigenous-australian-student-services-iass/",
+    "label": "Southern Cross University: Indigenous Australian Student Services"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free tutoring",
+      "quote": "The Indigenous Tutorial Assistance Scheme (ITAS) is a free tutoring service to all Indigenous students studying at SCU.",
+      "url": "https://www.scu.edu.au/current-students/services-and-support/indigenous-australian-student-services-iass/",
+      "page_date": null
+    }
+  ]
+}

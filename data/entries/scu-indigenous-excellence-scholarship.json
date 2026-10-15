@@ -1,0 +1,62 @@
+{
+  "id": "scu-indigenous-excellence-scholarship",
+  "name": "SCU Indigenous Excellence Scholarship",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$27,000 offered automatically to the top 10 Indigenous school leavers by ATAR starting full-time study at SCU in 2027.",
+  "key": "$27,000.",
+  "who": [
+    "Aboriginal and/or Torres Strait Islander.",
+    "Starting a full-time Bachelor or Diploma in a Commonwealth supported place in 2027.",
+    "ATAR in the top 10 of Indigenous school leavers seeking admission to SCU."
+  ],
+  "how": [
+    "No separate application. Awarded on 2026 Year 12 results."
+  ],
+  "catches": [
+    "Ten scholarships available.",
+    "Only for 2026 school leavers."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "indigenous",
+    "school leaver",
+    "atar",
+    "merit"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/indigenous-excellence-scholarship/",
+    "label": "Southern Cross University: Indigenous Excellence Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Have achieved an ATAR which is in the top 10 of Indigenous school leavers",
+      "url": "https://www.scu.edu.au/scholarships/indigenous-excellence-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

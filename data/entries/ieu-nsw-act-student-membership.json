@@ -1,0 +1,47 @@
+{
+  "id": "ieu-nsw-act-student-membership",
+  "name": "IEU NSW/ACT student membership",
+  "provider": "Independent Education Union NSW/ACT Branch",
+  "category": "career",
+  "summary": "Free IEU NSW/ACT union membership for tertiary student teachers, with discounted membership in your first year of teaching.",
+  "key": "Free membership for tertiary students.",
+  "how": [
+    "Use the Join today button on the page."
+  ],
+  "catches": [
+    "Discounted (not free) membership in your first year of teaching."
+  ],
+  "tags": [
+    "teaching",
+    "education",
+    "teacher",
+    "nsw",
+    "act",
+    "union",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.ieu.asn.au/why-join-us/student-teachers/",
+    "label": "IEU NSW/ACT: Students (free membership)"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "field": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "We offer free membership for tertiary students",
+      "url": "https://www.ieu.asn.au/why-join-us/student-teachers/",
+      "page_date": null
+    }
+  ]
+}

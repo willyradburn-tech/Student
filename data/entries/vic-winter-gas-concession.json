@@ -1,0 +1,53 @@
+{
+  "id": "vic-winter-gas-concession",
+  "name": "Victorian winter gas concession",
+  "provider": "Victorian Department of Families, Fairness and Housing",
+  "category": "health",
+  "summary": "17.5% off gas usage and service costs from May to October for Victorian account holders with a Health Care Card.",
+  "key": "17.5 per cent of gas usage and service costs.",
+  "who": [
+    "Gas account holder with a Pensioner Concession Card, Health Care Card or Veterans' Affairs Gold Card"
+  ],
+  "how": [
+    "Phone your gas retailer and give your concession card details over the phone."
+  ],
+  "catches": [
+    "The concession is available over the winter period of 1 May to 31 October each year."
+  ],
+  "tags": [
+    "Victoria",
+    "Melbourne",
+    "gas",
+    "energy",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://services.dffh.vic.gov.au/node/196",
+    "label": "DFFH Victoria: Winter gas concession"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "17.5 per cent of gas usage and service costs.",
+      "url": "https://services.dffh.vic.gov.au/node/196",
+      "page_date": null
+    },
+    {
+      "claim": "Period",
+      "quote": "The concession is available over the winter period of 1 May to 31 October each year.",
+      "url": "https://services.dffh.vic.gov.au/node/196",
+      "page_date": null
+    }
+  ]
+}

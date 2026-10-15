@@ -1,0 +1,75 @@
+{
+  "id": "scu-naturopathic-medicine-indigenous-student-scholarship",
+  "name": "Naturopathic Medicine Indigenous Student Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "Up to $2,500 for Aboriginal or Torres Strait Islander students in SCU's health and lifestyle or naturopathic medicine courses.",
+  "key": "The successful recipient can receive funding up to $2,500.",
+  "who": [
+    "Identify as an Aboriginal and/or Torres Strait Islander person.",
+    "Australian citizen or permanent resident.",
+    "Enrolled in the Bachelor of Health Science (Health and Lifestyle) or Master of Naturopathic Medicine.",
+    "Making satisfactory academic progress."
+  ],
+  "how": [
+    "Apply through the National Centre for Naturopathic Medicine Scholarship Application Form."
+  ],
+  "catches": [
+    "Applications close Friday 18 December 2026."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "naturopathy",
+    "indigenous",
+    "health",
+    "ncnm"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/naturopathic-medicine-indigenous-student-scholarship/",
+    "label": "Southern Cross University: Naturopathic Medicine Indigenous Student Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "the successful recipient can receive funding up to $2,500",
+      "url": "https://www.scu.edu.au/scholarships/naturopathic-medicine-indigenous-student-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications for this scholarship are open until Friday 18 December 2026.",
+      "url": "https://www.scu.edu.au/scholarships/naturopathic-medicine-indigenous-student-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-12-18"
+}

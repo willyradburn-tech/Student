@@ -1,0 +1,54 @@
+{
+  "id": "unimelb-access-bachelor-of-arts-scholarship",
+  "name": "Melbourne Access Bachelor of Arts Scholarship",
+  "provider": "University of Melbourne",
+  "category": "uni",
+  "summary": "A $10,000 yearly allowance for Access Melbourne Arts students from financially disadvantaged or rural backgrounds.",
+  "key": "$10,000 a year, up to $30,000, about 4 offered.",
+  "who": [
+    "Completed Year 12 or IB in Australia and meets Access Melbourne entry requirements.",
+    "Disadvantaged financial background and/or living in a rural or isolated area."
+  ],
+  "how": [
+    "Automatic consideration when you apply for admission and submit a VTAC Equity Schemes and scholarships application."
+  ],
+  "tags": [
+    "unimelb",
+    "university of melbourne",
+    "melbourne",
+    "vic",
+    "arts",
+    "access melbourne",
+    "equity",
+    "rural"
+  ],
+  "source": {
+    "url": "https://scholarships.unimelb.edu.au/awards/melbourne-access-bachelor-of-arts-scholarship",
+    "label": "University of Melbourne: Melbourne Access Bachelor of Arts Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "An allowance of $10,000 per year for the duration of a Bachelor of Arts degree.",
+      "url": "https://scholarships.unimelb.edu.au/awards/melbourne-access-bachelor-of-arts-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

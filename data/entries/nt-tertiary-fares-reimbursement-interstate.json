@@ -1,0 +1,68 @@
+{
+  "id": "nt-tertiary-fares-reimbursement-interstate",
+  "name": "NT tertiary fares reimbursement (interstate)",
+  "provider": "Northern Territory Government",
+  "category": "transport",
+  "summary": "Reimburses up to two return trips a year for NT students who move interstate to study a priority course not offered in the NT.",
+  "key": "A maximum of 2 return trips per academic year may be reimbursed.",
+  "who": [
+    "The applicant and student must be NT residents",
+    "Student moved from home in the NT to study full-time interstate",
+    "The course must not be available at Charles Darwin University or any other registered training authority within the NT",
+    "The course must be a priority field on the NT skilled occupation priority list"
+  ],
+  "how": [
+    "Complete the Tertiary fares reimbursement application form in GrantsNT by 30 September.",
+    "Claim with academic results, flight invoice and boarding pass."
+  ],
+  "catches": [
+    "Apply by 30 September in the year you claim; submit the claim form by 31 March of the following year.",
+    "The cost of changing booked flights will not be reimbursed."
+  ],
+  "tags": [
+    "NT",
+    "interstate",
+    "travel",
+    "flights",
+    "living away from home"
+  ],
+  "source": {
+    "url": "https://nt.gov.au/learning/student-financial-help-and-scholarships/financial-help-for-isolated-students/tertiary-fares-reimbursement-schemes/tertiary-fares-reimbursement-interstate",
+    "label": "NT.GOV.AU: Tertiary fares reimbursement interstate"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Trips reimbursed",
+      "quote": "A maximum of 2 return trips per academic year may be reimbursed.",
+      "url": "https://nt.gov.au/learning/student-financial-help-and-scholarships/financial-help-for-isolated-students/tertiary-fares-reimbursement-schemes/tertiary-fares-reimbursement-interstate",
+      "page_date": null
+    },
+    {
+      "claim": "Course not available in NT",
+      "quote": "the course must not be available at Charles Darwin University or any other registered training authority within the NT.",
+      "url": "https://nt.gov.au/learning/student-financial-help-and-scholarships/financial-help-for-isolated-students/tertiary-fares-reimbursement-schemes/tertiary-fares-reimbursement-interstate",
+      "page_date": null
+    }
+  ]
+}

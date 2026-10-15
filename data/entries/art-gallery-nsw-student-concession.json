@@ -1,0 +1,54 @@
+{
+  "id": "art-gallery-nsw-student-concession",
+  "name": "Art Gallery of NSW free entry and student concession",
+  "provider": "Art Gallery of New South Wales",
+  "category": "streaming",
+  "summary": "Free general entry to the Art Gallery of NSW, with concession tickets for full-time student card holders at ticketed exhibitions.",
+  "key": "Entry to the Art Gallery is free and does not require a ticket.",
+  "who": [
+    "Full-time student card holders, for concession tickets to ticketed exhibitions."
+  ],
+  "how": [
+    "Bring your card to show at the exhibition entry."
+  ],
+  "catches": [
+    "Concession prices are not stated on this page.",
+    "The gallery's Inspire membership also has concession pricing for full-time student card holders."
+  ],
+  "tags": [
+    "agnsw",
+    "art gallery",
+    "sydney",
+    "free",
+    "exhibitions"
+  ],
+  "source": {
+    "url": "https://www.artgallery.nsw.gov.au/visit/plan-your-visit/visit-faqs",
+    "label": "Art Gallery of NSW: Visit FAQs"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free entry",
+      "quote": "Entry to the Art Gallery is free and does not require a ticket.",
+      "url": "https://www.artgallery.nsw.gov.au/visit/plan-your-visit/visit-faqs",
+      "page_date": null
+    },
+    {
+      "claim": "Student concession",
+      "quote": "...or Full Time Student Card, you are eligible for a concession ticket.",
+      "url": "https://www.artgallery.nsw.gov.au/visit/plan-your-visit/visit-faqs",
+      "page_date": null
+    }
+  ]
+}

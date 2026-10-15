@@ -1,0 +1,61 @@
+{
+  "id": "uq-wheatley-bursary",
+  "name": "Wheatley Bursary (UQ)",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "Bursary for mature-age UQ Bachelor of Arts students majoring in political science or public policy who show financial need.",
+  "key": "At least $8,000 for 1 year.",
+  "who": [
+    "Enrolled in the Bachelor of Arts or a dual, with a major or extended major in political science and/or public policy.",
+    "Credit for 16 to 24 units, with at least 4 in a relevant field in a prior semester.",
+    "Aged 20 or older from 1 January 2026."
+  ],
+  "how": [
+    "Submit the online application form with evidence of your studies and demonstrated financial need."
+  ],
+  "catches": [
+    "Opens March 2027 and closes April 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "arts",
+    "political science",
+    "public policy",
+    "bursary",
+    "mature age"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/wheatley-bursary",
+    "label": "UQ Scholarships: Wheatley Bursary"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "age": {
+      "min": 20
+    }
+  },
+  "evidence": [
+    {
+      "claim": "At least $8,000",
+      "quote": "At least $8,000",
+      "url": "https://scholarships.uq.edu.au/scholarship/wheatley-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "Political science or public policy major",
+      "quote": "with a major or extended major in political science and/or public policy",
+      "url": "https://scholarships.uq.edu.au/scholarship/wheatley-bursary",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

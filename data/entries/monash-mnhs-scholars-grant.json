@@ -1,0 +1,73 @@
+{
+  "id": "monash-mnhs-scholars-grant",
+  "name": "Monash Medicine, Nursing and Health Sciences Scholars Grant",
+  "provider": "Monash University",
+  "category": "uni",
+  "summary": "A $3,000 one-off grant for full-time Monash health undergraduates from an equity or disadvantaged group.",
+  "key": "$3,000 one-off.",
+  "who": [
+    "Full-time undergraduate in the Faculty of Medicine, Nursing and Health Sciences.",
+    "Belongs to an equity group such as financial hardship, Indigenous, recent refugee, or living with a disability."
+  ],
+  "how": [
+    "Apply through VTAC SEAS, or directly to Monash if already studying."
+  ],
+  "catches": [
+    "Number offered varies with funding."
+  ],
+  "tags": [
+    "monash",
+    "monash university",
+    "melbourne",
+    "vic",
+    "nursing",
+    "medicine",
+    "health",
+    "equity"
+  ],
+  "source": {
+    "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/mnhs-scholars-grant-5623",
+    "label": "Monash: MNHS Scholars Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$3000 one-off payment.",
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/mnhs-scholars-grant-5623",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

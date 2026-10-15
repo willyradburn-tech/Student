@@ -1,0 +1,77 @@
+{
+  "id": "scu-twin-towns-community-foundation-scholarship",
+  "name": "Twin Towns Services Community Foundation Scholarship (SCU Gold Coast)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$5,000 for a Tweed or Gold Coast resident starting a full-time bachelor degree at SCU's Gold Coast campus.",
+  "key": "$5,000 per scholarship for one year.",
+  "who": [
+    "Live in the Tweed Shire or Gold Coast City Council area.",
+    "Australian citizen or permanent resident.",
+    "Starting a full-time bachelor degree at the Gold Coast campus.",
+    "Strong academic results and community contribution."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "Up to two scholarships.",
+    "Priority for applicants living from Burleigh Heads south to the Tweed border."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "gold coast",
+    "tweed",
+    "twin towns",
+    "first year"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/twin-towns-community-foundation-scholarship/",
+    "label": "Southern Cross University: Twin Towns Community Foundation Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$5,000 per scholarship for one year",
+      "url": "https://www.scu.edu.au/scholarships/twin-towns-community-foundation-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Residence rule",
+      "quote": "Reside within the boundaries of the Tweed Shire and Gold Coast City Council local government areas.",
+      "url": "https://www.scu.edu.au/scholarships/twin-towns-community-foundation-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

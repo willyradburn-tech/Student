@@ -1,0 +1,64 @@
+{
+  "id": "uq-goldburg-family-foundation-aspire-scholarship",
+  "name": "Goldburg Family Foundation Aspire Scholarship (UQ)",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "Extra first-year scholarship in UQ's Aspire scheme for Queensland Commitment Scholarship recipients.",
+  "key": "$4,500 for 1 year.",
+  "who": [
+    "Domestic student commencing any UQ bachelor program in Semester 1, with no prior bachelor-level study.",
+    "Maximum points in the Financial Hardship category of QTAC's Educational Access Scheme.",
+    "Awarded The Queensland Commitment Scholarship."
+  ],
+  "how": [
+    "Apply using the online form. One application covers all scholarships in the Aspire Scholarship scheme."
+  ],
+  "catches": [
+    "Applications opened 17 August 2026 and close 26 February 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "aspire",
+    "equity",
+    "financial hardship",
+    "first year"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/goldburg-family-foundation-aspire-scholarship",
+    "label": "UQ Scholarships: Goldburg Family Foundation Aspire Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$4,500",
+      "quote": "$4,500",
+      "url": "https://scholarships.uq.edu.au/scholarship/goldburg-family-foundation-aspire-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Must hold the Queensland Commitment Scholarship",
+      "quote": "have been awarded The Queensland Commitment Scholarship",
+      "url": "https://scholarships.uq.edu.au/scholarship/goldburg-family-foundation-aspire-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-26"
+}

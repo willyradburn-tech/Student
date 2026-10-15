@@ -1,0 +1,64 @@
+{
+  "id": "une-life-online-student-textbook-bursary",
+  "name": "UNE Online Student Textbook Bursary",
+  "provider": "UNE Life",
+  "category": "uni",
+  "summary": "Bookshop credit to help continuing online UNE students in financial need afford textbooks.",
+  "key": "Up to $1000 credit with the UNE Life bookshop.",
+  "who": [
+    "Australian citizen or permanent resident",
+    "Continuing student who has completed at least 48 credit points",
+    "Studying online, at least 24 credit points a year",
+    "Able to show financial need",
+    "Minimum GPA of 4.0"
+  ],
+  "tags": [
+    "une",
+    "une life",
+    "textbooks",
+    "online study",
+    "bursary"
+  ],
+  "source": {
+    "url": "https://www.unelife.com.au/advocacy/financial-help/",
+    "label": "UNE Life: Financial Help"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "offers students up to $1000 credit with the UNE Life bookshop – to support students in affording textbooks.",
+      "url": "https://www.unelife.com.au/advocacy/financial-help/",
+      "page_date": null
+    },
+    {
+      "claim": "Online study rule",
+      "quote": "be studying online",
+      "url": "https://www.unelife.com.au/advocacy/financial-help/",
+      "page_date": null
+    },
+    {
+      "claim": "Financial need",
+      "quote": "be able to demonstrate financial need",
+      "url": "https://www.unelife.com.au/advocacy/financial-help/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

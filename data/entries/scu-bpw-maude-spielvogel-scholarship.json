@@ -1,0 +1,65 @@
+{
+  "id": "scu-bpw-maude-spielvogel-scholarship",
+  "name": "BPW Maude Spielvogel Scholarship (SCU Coffs Harbour)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$1,500 for a female Coffs Harbour campus student, second year or later, who is facing hardship or another challenge.",
+  "key": "$1,500.",
+  "who": [
+    "Identify as female.",
+    "Enrolled in the second year or later of on-campus studies in Coffs Harbour.",
+    "Live between Grafton and Nambucca and west to Dorrigo.",
+    "Facing a challenge such as financial hardship, family trauma, medical concerns, single parenthood or disability."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with a 150 to 250 word personal statement."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One scholarship available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "coffs harbour",
+    "women",
+    "hardship",
+    "bpw"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/business-and-professional-women-maude-spielvogel-scholarship/",
+    "label": "Southern Cross University: BPW Maude Spielvogel Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Be enrolled in the second year or later of on-campus studies in Coffs Harbour",
+      "url": "https://www.scu.edu.au/scholarships/business-and-professional-women-maude-spielvogel-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/business-and-professional-women-maude-spielvogel-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

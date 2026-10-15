@@ -1,0 +1,67 @@
+{
+  "id": "anu-low-income-parking-permit",
+  "name": "ANU Low-income Surface Parking Permit",
+  "provider": "Australian National University",
+  "category": "uni",
+  "summary": "Limited surface parking permits for low-income, full-time, off-campus domestic undergraduates at ANU.",
+  "who": [
+    "Undergraduate, domestic, enrolled full time",
+    "Non-residential (live off campus)",
+    "Low-income"
+  ],
+  "how": [
+    "Apply through the Basic Needs Supports online form"
+  ],
+  "catches": [
+    "Valid in surface permit parking zones only",
+    "The number of permits available is limited"
+  ],
+  "tags": [
+    "anu",
+    "canberra",
+    "act",
+    "parking",
+    "low income",
+    "basic needs"
+  ],
+  "source": {
+    "url": "https://www.anu.edu.au/students/health-safety-wellbeing/spending-well/financial-advice-and-assistance",
+    "label": "ANU: Financial advice and assistance"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Eligible students must be: Undergraduate, Domestic, Enrolled full time, Non-residential (live off campus), and Low-income**",
+      "url": "https://www.anu.edu.au/students/health-safety-wellbeing/spending-well/financial-advice-and-assistance",
+      "page_date": null
+    },
+    {
+      "claim": "Limited",
+      "quote": "The number of permits available is limited.",
+      "url": "https://www.anu.edu.au/students/health-safety-wellbeing/spending-well/financial-advice-and-assistance",
+      "page_date": null
+    }
+  ]
+}

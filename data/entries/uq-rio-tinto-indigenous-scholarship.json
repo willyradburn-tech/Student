@@ -1,0 +1,67 @@
+{
+  "id": "uq-rio-tinto-indigenous-scholarship",
+  "name": "Rio Tinto Indigenous Scholarship (UQ)",
+  "provider": "University of Queensland and Rio Tinto",
+  "category": "uni",
+  "summary": "Two-year scholarship for full-time Aboriginal and Torres Strait Islander UQ undergraduates in financial need.",
+  "key": "$10,000, over a 2-year duration.",
+  "who": [
+    "Can demonstrate financial need.",
+    "Aboriginal and/or Torres Strait Islander person.",
+    "Enrolled full time in any undergraduate program at UQ."
+  ],
+  "how": [
+    "Apply using the online application form. One application covers the Aspire, Aboriginal and Torres Strait Islander Education and UQ Residential scholarship schemes."
+  ],
+  "catches": [
+    "Applications opened 17 August 2026 and close 26 February 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "indigenous",
+    "first nations",
+    "undergraduate"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/rio-tinto-indigenous-scholarship",
+    "label": "UQ Scholarships: Rio Tinto Indigenous Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$10,000",
+      "quote": "$10,000",
+      "url": "https://scholarships.uq.edu.au/scholarship/rio-tinto-indigenous-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Full-time undergraduate",
+      "quote": "are enrolled full time in any undergraduate program at the University of Queensland.",
+      "url": "https://scholarships.uq.edu.au/scholarship/rio-tinto-indigenous-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-26"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "anusa-medical-grant",
+  "name": "ANUSA Medical Grant",
+  "provider": "ANU Students' Association (ANUSA)",
+  "category": "uni",
+  "summary": "ANUSA grant for ANU students hit by unexpected medical bills or treatment that affect their ability to cover living costs.",
+  "tags": [
+    "anu",
+    "anusa",
+    "canberra",
+    "act",
+    "medical",
+    "grant",
+    "student union"
+  ],
+  "source": {
+    "url": "https://anusa.com.au/student-assistance/financial/",
+    "label": "ANUSA: Financial assistance"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Purpose",
+      "quote": "Assists students with unexpected medical bills or required treatment which impact ability to manage living costs.",
+      "url": "https://anusa.com.au/student-assistance/financial/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

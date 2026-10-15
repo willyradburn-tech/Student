@@ -1,0 +1,69 @@
+{
+  "id": "scu-vice-chancellors-regional-leadership-scholarship",
+  "name": "SCU Vice Chancellor's Regional Leadership Scholarship",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$50,000 offered automatically to the top 10 regional school leavers with an ATAR of 90 or more starting full-time at SCU.",
+  "key": "$50,000.",
+  "who": [
+    "ATAR of 90 or above.",
+    "Commonwealth supported place or onshore international student.",
+    "Starting a full-time bachelor degree at SCU.",
+    "Live in, or finished Year 12 at a school in, Northern NSW to South East Queensland."
+  ],
+  "how": [
+    "No application. Students do not have to apply for merit-based scholarships."
+  ],
+  "catches": [
+    "Ten scholarships, offered to the top 10 eligible students by ATAR."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "merit",
+    "atar",
+    "regional",
+    "school leaver"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/southern-cross-university-vice-chancellors-regional-leadership/",
+    "label": "Southern Cross University: Vice Chancellor's Regional Leadership Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "state": {
+      "yes": [
+        "nsw",
+        "qld"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "ATAR rule",
+      "quote": "Have achieved an ATAR of 90 or above.",
+      "url": "https://www.scu.edu.au/scholarships/southern-cross-university-vice-chancellors-regional-leadership/",
+      "page_date": null
+    },
+    {
+      "claim": "No application",
+      "quote": "Students do not have to apply for Merit-based Scholarships.",
+      "url": "https://www.scu.edu.au/scholarships/southern-cross-university-vice-chancellors-regional-leadership/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

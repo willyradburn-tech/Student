@@ -1,0 +1,61 @@
+{
+  "id": "usyd-walter-eliza-hall-opportunity-scholarship",
+  "name": "Walter and Eliza Hall Trust Opportunity Scholarship",
+  "provider": "University of Sydney",
+  "category": "uni",
+  "summary": "Scholarship for Australian citizen students with a physical disability who demonstrate financial need.",
+  "key": "$10,000 (for up to 5 years).",
+  "who": [
+    "Australian citizen",
+    "Formally diagnosed physical disability",
+    "Demonstrate financial need",
+    "At least 12 credit points each semester"
+  ],
+  "how": [
+    "Apply via the online form linked on the page"
+  ],
+  "catches": [
+    "Open and close dates listed as TBC"
+  ],
+  "tags": [
+    "usyd",
+    "disability",
+    "scholarship",
+    "equity",
+    "sydney"
+  ],
+  "source": {
+    "url": "https://www.sydney.edu.au/scholarships/e/walter-eliza-hall-trust-opportunity-scholarship-student-physical.html",
+    "label": "University of Sydney: Walter and Eliza Hall Trust Opportunity Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$10,000 for up to 5 years",
+      "quote": "$10,000 (for up to 5 years)",
+      "url": "https://www.sydney.edu.au/scholarships/e/walter-eliza-hall-trust-opportunity-scholarship-student-physical.html",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

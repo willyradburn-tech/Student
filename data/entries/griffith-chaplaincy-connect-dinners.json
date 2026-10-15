@@ -1,0 +1,54 @@
+{
+  "id": "griffith-chaplaincy-connect-dinners",
+  "name": "Chaplaincy Connect Dinners",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Free fortnightly dinners for Griffith students at Gold Coast and Nathan, aimed at helping international students connect.",
+  "who": [
+    "All students welcome."
+  ],
+  "how": [
+    "Register through the Chaplaincy page link."
+  ],
+  "catches": [
+    "Fortnightly on Mondays during trimester at 6pm."
+  ],
+  "tags": [
+    "griffith",
+    "food",
+    "free dinner",
+    "international",
+    "gold coast",
+    "nathan",
+    "chaplaincy"
+  ],
+  "source": {
+    "url": "https://student.griffith.edu.au/student-support/spiritual-wellbeing/chaplaincy",
+    "label": "Griffith University: Chaplaincy"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "eligibility",
+      "quote": "All students welcome.",
+      "url": "https://student.griffith.edu.au/student-support/spiritual-wellbeing/chaplaincy",
+      "page_date": null
+    },
+    {
+      "claim": "free dinner",
+      "quote": "Each fortnight Griffith Chaplaincy host free dinners",
+      "url": "https://www.griffith.edu.au/student-support/cost-of-living",
+      "page_date": null
+    }
+  ]
+}

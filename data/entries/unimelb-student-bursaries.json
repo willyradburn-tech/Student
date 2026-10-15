@@ -1,0 +1,64 @@
+{
+  "id": "unimelb-student-bursaries",
+  "name": "University of Melbourne Student Bursaries",
+  "provider": "University of Melbourne",
+  "category": "uni",
+  "summary": "One-off bursaries of $1,000 to $10,000 for University of Melbourne students in financial need, applied for in two rounds a year.",
+  "key": "A one-off $1,000 to $10,000, depending on financial need.",
+  "who": [
+    "Enrolled at the University of Melbourne at the round's close date, in Good Standing.",
+    "Selected on financial need. Single-subject and non-award students aren't eligible."
+  ],
+  "how": [
+    "Submit the Student Financial Assessment form while a round is open."
+  ],
+  "catches": [
+    "Round 1 opens 1 January and closes 8 March. Round 2 opens 1 May and closes 2 August.",
+    "One application also puts you in for smaller named awards such as the Housing Bursary."
+  ],
+  "tags": [
+    "unimelb",
+    "university of melbourne",
+    "melbourne",
+    "vic",
+    "bursary",
+    "hardship",
+    "financial need",
+    "international"
+  ],
+  "source": {
+    "url": "https://scholarships.unimelb.edu.au/awards/student-bursaries",
+    "label": "University of Melbourne: Student Bursaries"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "The bursaries provide a one-off payment of between $1000 to $10,000 depending on the level of financial need.",
+      "url": "https://scholarships.unimelb.edu.au/awards/student-bursaries",
+      "page_date": null
+    },
+    {
+      "claim": "Round dates",
+      "quote": "Round 1: Opens 1 January - closes 8 March",
+      "url": "https://scholarships.unimelb.edu.au/awards/student-bursaries",
+      "page_date": null
+    }
+  ],
+  "closes": "2027-03-08"
+}

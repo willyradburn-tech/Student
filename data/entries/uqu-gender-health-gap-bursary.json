@@ -1,0 +1,47 @@
+{
+  "id": "uqu-gender-health-gap-bursary",
+  "name": "UQ Union Gender Health Gap Bursary",
+  "provider": "UQ Union",
+  "category": "uni",
+  "summary": "One-off UQ Union bursary for UQ students facing financial difficulty with gender-related health costs, open all year.",
+  "who": [
+    "UQ students facing financial difficulty."
+  ],
+  "catches": [
+    "Open all year.",
+    "Amounts are decided case by case and not published.",
+    "The fetched page didn't list detailed eligibility. Check the page."
+  ],
+  "tags": [
+    "uq",
+    "uq union",
+    "uqu",
+    "health",
+    "women's health",
+    "bursary"
+  ],
+  "source": {
+    "url": "https://uqu.com.au/student-advocacy-and-support",
+    "label": "UQ Union: Student Advocacy and Support"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Open any time",
+      "quote": "Students can apply for the Gender Health Gap Bursary at any time of the year",
+      "url": "https://uqu.com.au/student-advocacy-and-support",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

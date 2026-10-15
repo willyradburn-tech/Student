@@ -1,0 +1,35 @@
+{
+  "id": "figma-education",
+  "name": "Figma for Education",
+  "provider": "Figma",
+  "category": "software",
+  "summary": "Free Figma and FigJam for students, including paid-team features.",
+  "tags": [
+    "design",
+    "ui",
+    "ux",
+    "figma",
+    "figjam"
+  ],
+  "key": "Free for students and educators.",
+  "need": [
+    "A student email address."
+  ],
+  "how": [
+    "Sign up with your student email.",
+    "Go to Figma's education application page and verify you're a student.",
+    "Set up or join an education team."
+  ],
+  "catches": [
+    "Figma's page doesn't say how long the free access lasts before you need to re-verify."
+  ],
+  "status": "verified",
+  "verified": "2026-10-13",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "source": {
+    "url": "https://www.figma.com/education/",
+    "label": "Figma: Education"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ca-anz-achiever-program",
+  "name": "CA ANZ Achiever Program",
+  "provider": "Chartered Accountants Australia and New Zealand",
+  "category": "career",
+  "summary": "Paid accounting internships for penultimate and final-year accounting students, arranged through Chartered Accountants ANZ.",
+  "key": "All internships offered through the Achiever Program are paid, with pay varying by employer.",
+  "who": [
+    "Penultimate or final-year tertiary accounting student in Australia or New Zealand"
+  ],
+  "how": [
+    "Complete the online application form when the intake opens.",
+    "Eligible applicants are invited to a video interview, then shortlisted students interview with an employer."
+  ],
+  "catches": [
+    "Applications only open during intake periods."
+  ],
+  "tags": [
+    "accounting",
+    "chartered accountant",
+    "internship",
+    "ca anz",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.charteredaccountantsanz.com/become-a-member/value-of-your-provisional-membership/achiever-program-for-students",
+    "label": "CA ANZ: Achiever Program for students"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "business"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Paid",
+      "quote": "All internships offered through the Achiever Program are paid, with compensation varying by employer.",
+      "url": "https://www.charteredaccountantsanz.com/become-a-member/value-of-your-provisional-membership/achiever-program-for-students",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "You must be a penultimate or final-year tertiary accounting student in Australia or New Zealand.",
+      "url": "https://www.charteredaccountantsanz.com/become-a-member/value-of-your-provisional-membership/achiever-program-for-students",
+      "page_date": null
+    }
+  ]
+}

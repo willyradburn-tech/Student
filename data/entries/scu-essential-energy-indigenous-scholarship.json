@@ -1,0 +1,82 @@
+{
+  "id": "scu-essential-energy-indigenous-scholarship",
+  "name": "Essential Energy Aboriginal and Torres Strait Islander Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$10,000 for an Aboriginal or Torres Strait Islander SCU student in second year or later of engineering, business, IT or law.",
+  "key": "$10,000 per year for one year.",
+  "who": [
+    "Aboriginal or Torres Strait Islander.",
+    "Australian citizen or permanent resident.",
+    "Entering second, third or fourth year of an eligible degree, such as engineering, business, IT or law.",
+    "Pass average or better."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with a 100 to 200 word statement."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "Two scholarships available.",
+    "Recipients may be offered paid work experience with Essential Energy."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "indigenous",
+    "engineering",
+    "business",
+    "it",
+    "law",
+    "essential energy"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/essential-energy-aboriginal-and-torres-strait-islander-scholarship/",
+    "label": "Southern Cross University: Essential Energy Aboriginal and Torres Strait Islander Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering",
+        "it",
+        "business",
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$10,000 per year for one year",
+      "url": "https://www.scu.edu.au/scholarships/essential-energy-aboriginal-and-torres-strait-islander-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close on 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/essential-energy-aboriginal-and-torres-strait-islander-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

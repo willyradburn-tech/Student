@@ -1,0 +1,51 @@
+{
+  "id": "usyd-anthony-howson-disability-bursary",
+  "name": "Anthony Howson Disability Bursary",
+  "provider": "University of Sydney",
+  "category": "uni",
+  "summary": "Once-off bursary for University of Sydney students registered with Inclusion and Disability Services.",
+  "key": "Up to $3,000, paid once.",
+  "who": [
+    "Undergraduate or postgraduate student registered with Inclusion and Disability Services",
+    "Full or part time"
+  ],
+  "catches": [
+    "Advertised bursaries open in set rounds; the Semester 2 2026 round closed 13 September 2026, so watch for the next round"
+  ],
+  "tags": [
+    "usyd",
+    "bursary",
+    "disability",
+    "sydney"
+  ],
+  "source": {
+    "url": "https://www.sydney.edu.au/students/financial-support/advertised-bursaries.html",
+    "label": "University of Sydney: Advertised bursaries"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Up to $3,000 once",
+      "quote": "Anthony Howson Disability Bursary",
+      "url": "https://www.sydney.edu.au/students/financial-support/advertised-bursaries.html",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

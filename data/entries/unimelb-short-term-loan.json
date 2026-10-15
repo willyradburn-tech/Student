@@ -1,0 +1,61 @@
+{
+  "id": "unimelb-short-term-loan",
+  "name": "University of Melbourne short-term student loan",
+  "provider": "University of Melbourne",
+  "category": "uni",
+  "summary": "An interest-free loan of up to $1,000, with no guarantor, for urgent course or living costs.",
+  "key": "Up to $1,000, no guarantor needed.",
+  "who": [
+    "Current enrolment at the University of Melbourne."
+  ],
+  "how": [
+    "Apply online with a copy of your student ID card."
+  ],
+  "catches": [
+    "Generally repaid within 6 months.",
+    "Can't be used for tuition fees."
+  ],
+  "tags": [
+    "unimelb",
+    "university of melbourne",
+    "melbourne",
+    "vic",
+    "loan",
+    "interest-free",
+    "emergency"
+  ],
+  "source": {
+    "url": "https://students.unimelb.edu.au/support-and-wellbeing/student-loans-and-grants/short-term-loans",
+    "label": "University of Melbourne: Short-term loans"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Loan limit",
+      "quote": "The maximum amount available to borrow is $1,000 without a guarantor.",
+      "url": "https://students.unimelb.edu.au/support-and-wellbeing/student-loans-and-grants/short-term-loans",
+      "page_date": null
+    },
+    {
+      "claim": "Repayment",
+      "quote": "Generally repayment is due within 6 months (or earlier based on your enrolment in the current year).",
+      "url": "https://students.unimelb.edu.au/support-and-wellbeing/student-loans-and-grants/short-term-loans",
+      "page_date": null
+    }
+  ]
+}

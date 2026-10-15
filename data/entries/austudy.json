@@ -1,0 +1,48 @@
+{
+  "id": "austudy",
+  "name": "Austudy",
+  "provider": "Services Australia",
+  "category": "payments",
+  "summary": "Income support for full-time students and apprentices aged 25 or over.",
+  "tags": [
+    "centrelink",
+    "income support",
+    "mature age"
+  ],
+  "who": [
+    "Full-time students and Australian Apprentices aged 25 or over, with no upper age limit.",
+    "It can't be paid at the same time as another income support payment."
+  ],
+  "how": [
+    "Claim online through Services Australia. The official page walks you through who can get it and how to claim."
+  ],
+  "catches": [
+    "Residence requirements apply. Check them with Services Australia."
+  ],
+  "status": "verified",
+  "verified": "2026-10-12",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "age": {
+      "min": 25
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ],
+      "maybe": [
+        "pr"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://www.servicesaustralia.gov.au/who-can-get-austudy",
+    "label": "Services Australia: Austudy"
+  }
+}

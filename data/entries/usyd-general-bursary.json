@@ -1,0 +1,70 @@
+{
+  "id": "usyd-general-bursary",
+  "name": "University of Sydney General Bursary",
+  "provider": "University of Sydney",
+  "category": "uni",
+  "summary": "Non-repayable bursary for domestic University of Sydney students in genuine, immediate financial hardship.",
+  "key": "Worth up to $2000 per semester, depending on available funds.",
+  "who": [
+    "Domestic student currently enrolled at the University of Sydney",
+    "Currently residing in Australia",
+    "Evidence of genuine and immediate financial hardship",
+    "Satisfactory progress (generally a WAM of at least 50)"
+  ],
+  "how": [
+    "Submit a general bursary application through Sydney Student",
+    "Include supporting documents including a recent 30-day bank transaction history"
+  ],
+  "catches": [
+    "No more than two general bursaries in the same calendar year",
+    "Available all year; you may apply once per semester",
+    "Commencing students applying before census date may receive up to $1000"
+  ],
+  "tags": [
+    "usyd",
+    "bursary",
+    "hardship",
+    "sydney"
+  ],
+  "source": {
+    "url": "https://www.sydney.edu.au/students/financial-support/general-bursaries.html",
+    "label": "University of Sydney: General bursaries"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Up to $2000 per semester",
+      "quote": "worth up to $2000 per semester, depending on available funds.",
+      "url": "https://www.sydney.edu.au/students/financial-support/general-bursaries.html",
+      "page_date": null
+    },
+    {
+      "claim": "Domestic students only",
+      "quote": "are a domestic student currently enrolled at the University of Sydney",
+      "url": "https://www.sydney.edu.au/students/financial-support/general-bursaries.html",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

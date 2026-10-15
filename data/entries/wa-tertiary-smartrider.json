@@ -1,0 +1,50 @@
+{
+  "id": "wa-tertiary-smartrider",
+  "name": "Tertiary SmartRider (WA)",
+  "provider": "Transperth",
+  "category": "transport",
+  "summary": "Discounted Transperth fares for full-time students at WA universities and TAFE.",
+  "tags": [
+    "smartrider",
+    "perth",
+    "wa",
+    "transperth"
+  ],
+  "key": "The card costs $10, including $5 of credit, at most institutions.",
+  "who": [
+    "Full-time students at a Western Australian university or TAFE college.",
+    "Full-time is set by your institution. For example, 24 credit points at UWA or 12 contact hours a week at Notre Dame."
+  ],
+  "how": [
+    "Curtin, ECU, Murdoch, UWA and TAFE: get a SmartRider and register it through your institution's portal or form, then tag on and off to activate the concession.",
+    "Notre Dame and other colleges: fill in the Tertiary SmartRider application, have Student Administration sign it, and take it to a Transperth sales outlet."
+  ],
+  "need": [
+    "A second photo ID, such as a driver's licence. Your student ID doesn't count as proof of full-time study."
+  ],
+  "catches": [
+    "Part-time and correspondence students can't apply, and neither can students from interstate or overseas institutions.",
+    "At Notre Dame and other colleges the concession expires on 31 March of the next year, so reapply before then.",
+    "Transperth doesn't state the size of the discount, so no figure is shown."
+  ],
+  "cadence": "medium",
+  "match": {
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "wa"
+      ]
+    }
+  },
+  "verified": "2026-10-13",
+  "review": "pending",
+  "status": "verified",
+  "source": {
+    "url": "https://www.transperth.wa.gov.au/smartrider/types-of-smartrider/tertiary-smartrider",
+    "label": "Transperth: Tertiary SmartRider"
+  }
+}

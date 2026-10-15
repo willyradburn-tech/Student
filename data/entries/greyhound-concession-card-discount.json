@@ -1,0 +1,43 @@
+{
+  "id": "greyhound-concession-card-discount",
+  "name": "Greyhound concession card discount (Health Care Card)",
+  "provider": "Greyhound Australia",
+  "category": "transport",
+  "summary": "10% off Greyhound adult fares for concession card holders, including Health Care Card holders such as students on Youth Allowance.",
+  "key": "10% off the standard adult fare when travelling with Greyhound.",
+  "who": [
+    "Holders of a valid concession card, including seniors, pensioner, carer, veteran and health care cards."
+  ],
+  "how": [
+    "Select the concession type and enter your concession card details when booking."
+  ],
+  "tags": [
+    "greyhound",
+    "coach",
+    "health care card",
+    "concession"
+  ],
+  "source": {
+    "url": "https://help.greyhound.com.au/support/solutions/articles/51000512617-are-concession-discounts-available-on-greyhound-services-",
+    "label": "Greyhound Australia: Are concession discounts available?"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "payment": {
+      "maybe": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "10% off for concession card holders",
+      "quote": "10% off the standard adult fare when travelling with Greyhound.",
+      "url": "https://help.greyhound.com.au/support/solutions/articles/51000512617-are-concession-discounts-available-on-greyhound-services-",
+      "page_date": null
+    }
+  ]
+}

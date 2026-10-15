@@ -1,0 +1,64 @@
+{
+  "id": "uq-halim-family-women-stem-scholarship",
+  "name": "Halim Family Women in STEM Scholarship (UQ)",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "Aspire scheme scholarship for women starting a STEM bachelor at UQ who hold the Queensland Commitment Scholarship.",
+  "who": [
+    "Domestic female student commencing a bachelor program with a significant component of STEM, with no prior bachelor-level study.",
+    "Maximum points in the Financial Hardship category of QTAC's Educational Access Scheme.",
+    "Awarded The Queensland Commitment Scholarship."
+  ],
+  "how": [
+    "Apply using the online form. One application covers all scholarships in the Aspire Scholarship scheme."
+  ],
+  "catches": [
+    "Value may vary. UQ doesn't publish a fixed amount.",
+    "Applications opened 17 August 2026 and close 26 February 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "aspire",
+    "women in stem",
+    "engineering",
+    "science"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/halim-family-women-stem-scholarship",
+    "label": "UQ Scholarships: Halim Family Women in STEM Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "For female students in a STEM bachelor",
+      "quote": "are a commencing student in a bachelor program with a significant component of STEM",
+      "url": "https://scholarships.uq.edu.au/scholarship/halim-family-women-stem-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Value may vary",
+      "quote": "May vary",
+      "url": "https://scholarships.uq.edu.au/scholarship/halim-family-women-stem-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-26"
+}

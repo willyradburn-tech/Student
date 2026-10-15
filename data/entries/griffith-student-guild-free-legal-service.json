@@ -1,0 +1,55 @@
+{
+  "id": "griffith-student-guild-free-legal-service",
+  "name": "Student Guild free legal service",
+  "provider": "Griffith University Gold Coast Student Guild",
+  "category": "uni",
+  "summary": "Free legal advice from McInnes Wilson Lawyers for all currently enrolled Griffith students.",
+  "key": "Free legal advice through the Student Guild's partnership with McInnes Wilson Lawyers.",
+  "who": [
+    "All students currently enrolled at Griffith University."
+  ],
+  "how": [
+    "Use the Enquire now form; a lawyer should reply by email within 48 hours on weekdays."
+  ],
+  "catches": [
+    "Advice only, no legal representation.",
+    "No longer covers migration law.",
+    "Covers family, estates and personal injury law."
+  ],
+  "tags": [
+    "griffith",
+    "legal",
+    "lawyer",
+    "student guild",
+    "gold coast"
+  ],
+  "source": {
+    "url": "https://gugcstudentguild.com.au/legal-service/",
+    "label": "Griffith University Gold Coast Student Guild: Legal service"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "free legal advice",
+      "quote": "We offer free legal services through our partnership with McInnes Wilson Lawyers.",
+      "url": "https://gugcstudentguild.com.au/legal-service/",
+      "page_date": null
+    },
+    {
+      "claim": "eligibility",
+      "quote": "all students currently enrolled at Griffith University",
+      "url": "https://gugcstudentguild.com.au/legal-service/",
+      "page_date": null
+    }
+  ]
+}

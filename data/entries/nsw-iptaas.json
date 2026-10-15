@@ -1,0 +1,55 @@
+{
+  "id": "nsw-iptaas",
+  "name": "Isolated Patients Travel and Accommodation Assistance Scheme (IPTAAS)",
+  "provider": "NSW Health",
+  "category": "health",
+  "summary": "NSW subsidy towards travel and accommodation when you must travel 100km or more for specialist treatment not available locally.",
+  "who": [
+    "NSW resident enrolled with Medicare",
+    "Travel at least 100km one way, or 200km in a week over multiple trips, to the nearest approved health service"
+  ],
+  "how": [
+    "Apply online (Digital ID or MFA needed) or send the paper form with invoices to your local IPTAAS office"
+  ],
+  "catches": [
+    "Applications must be submitted within 12 months of your discharge or appointment end date.",
+    "Concession card holders may get advance travel help (per the assessment guidelines)."
+  ],
+  "tags": [
+    "medical travel",
+    "regional",
+    "rural",
+    "northern rivers",
+    "nsw",
+    "New South Wales"
+  ],
+  "source": {
+    "url": "https://www.iptaas.health.nsw.gov.au/",
+    "label": "NSW Health: IPTAAS"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "What it is",
+      "quote": "IPTAAS provides financial assistance from the NSW Government towards your travel and accommodation costs",
+      "url": "https://www.iptaas.health.nsw.gov.au/",
+      "page_date": null
+    },
+    {
+      "claim": "Deadline",
+      "quote": "Applications must be submitted within 12 months of your hospitalisation discharge or appointment end date.",
+      "url": "https://www.iptaas.health.nsw.gov.au/",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "griffith-accommodation-residential-leadership-scholarship",
+  "name": "Griffith Accommodation Residential Leadership Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "$2,500 per trimester for returning Griffith Accommodation residents on the student leadership team.",
+  "key": "$2,500 per trimester for up to three years.",
+  "who": [
+    "Returning Griffith Accommodation resident who has lived on campus for at least one trimester.",
+    "Hold a position on the Griffith Accommodation Student Leadership Team.",
+    "Cumulative GPA of 4.5 or above."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Opening soon for 2027; no closing date published yet."
+  ],
+  "tags": [
+    "griffith",
+    "accommodation",
+    "residential",
+    "leadership",
+    "nathan"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-accommodation-residential-leadership-scholarship",
+    "label": "Griffith University: Griffith Accommodation Residential Leadership Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "$2,500 per trimester for up to three years",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-accommodation-residential-leadership-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "usyd-bruton-educational-trust-scholarship",
+  "name": "Bruton Educational Trust Scholarship",
+  "provider": "University of Sydney",
+  "category": "uni",
+  "summary": "Yearly scholarship for financially disadvantaged commencing undergraduates who did the HSC at a rural or regional school.",
+  "key": "$10,000 p.a. (course duration), for up to five years of full-time study.",
+  "who": [
+    "Commencing the first semester of an undergraduate degree at the University of Sydney",
+    "Able to demonstrate financial disadvantage",
+    "Completed the HSC at a high school more than 100km from the University of Sydney or ANU"
+  ],
+  "catches": [
+    "Must maintain a Semester Average Mark of 65",
+    "2026 round opened 10 April 2026 and closed 9 October 2026"
+  ],
+  "tags": [
+    "usyd",
+    "equity",
+    "scholarship",
+    "regional",
+    "rural",
+    "sydney"
+  ],
+  "source": {
+    "url": "https://www.sydney.edu.au/scholarships/f/bruton-educational-trust.html",
+    "label": "University of Sydney: Bruton Educational Trust Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$10,000 a year",
+      "quote": "$10,000 p.a. (course duration)",
+      "url": "https://www.sydney.edu.au/scholarships/f/bruton-educational-trust.html",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

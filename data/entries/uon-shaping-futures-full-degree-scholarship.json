@@ -1,0 +1,77 @@
+{
+  "id": "uon-shaping-futures-full-degree-scholarship",
+  "name": "University of Newcastle Shaping Futures Full Degree Scholarship",
+  "provider": "University of Newcastle",
+  "category": "uni",
+  "summary": "Multi-year scholarship for first-year UON undergraduates facing educational disadvantage such as caring duties or financial hardship.",
+  "key": "A total benefit of up to $25,000, up to a maximum term of 5 years.",
+  "who": [
+    "Enrolled in first year of a UON undergraduate degree",
+    "Studying full-time (minimum 60 units per year)",
+    "Australian citizen or permanent resident",
+    "Able to show educational disadvantage such as caring or sole parent duties, financial hardship or a long-term medical condition"
+  ],
+  "how": [
+    "Apply through the online portal (PDF uploads only)"
+  ],
+  "catches": [
+    "Closes 3 March 2027",
+    "15 scholarships available"
+  ],
+  "tags": [
+    "uon",
+    "newcastle",
+    "shaping futures",
+    "equity",
+    "carers",
+    "sole parents"
+  ],
+  "source": {
+    "url": "https://www.newcastle.edu.au/scholarships/EXT_367",
+    "label": "University of Newcastle: Shaping Futures Full Degree Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "This scholarship provides a total benefit of up to $25,000, up to a maximum term of 5 years.",
+      "url": "https://www.newcastle.edu.au/scholarships/EXT_367",
+      "page_date": null
+    },
+    {
+      "claim": "Annual payment",
+      "quote": "The scholarship provides $5000 annually, paid as a lump sum in Semester 1 each year.",
+      "url": "https://www.newcastle.edu.au/scholarships/EXT_367",
+      "page_date": null
+    },
+    {
+      "claim": "First-year rule",
+      "quote": "Be enrolled in 1st year of an undergraduate degree program with the University of Newcastle.",
+      "url": "https://www.newcastle.edu.au/scholarships/EXT_367",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-03-03"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "wsu-western-pantry",
+  "name": "Western Pantry",
+  "provider": "Western Sydney University",
+  "category": "uni",
+  "summary": "Free weekly pantry staples and fresh produce for WSU students at Kingswood and Parramatta South.",
+  "key": "Pick 5 free items once per week.",
+  "who": [
+    "Western Sydney University students"
+  ],
+  "how": [
+    "Register on WesternLife and bring your own bags",
+    "Kingswood Wednesdays 9am-1pm; Parramatta South Thursdays 10am-1pm"
+  ],
+  "catches": [
+    "Closed during stuvac, exams, public holidays and intersession"
+  ],
+  "tags": [
+    "wsu",
+    "food",
+    "pantry",
+    "free",
+    "kingswood",
+    "parramatta"
+  ],
+  "source": {
+    "url": "https://www.westernsydney.edu.au/students/support/food-security-programs",
+    "label": "Western Sydney University: Food security programs"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free student service",
+      "quote": "free student service",
+      "url": "https://www.westernsydney.edu.au/students/support/food-security-programs",
+      "page_date": null
+    }
+  ],
+  "closes": "closed"
+}

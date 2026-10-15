@@ -1,0 +1,63 @@
+{
+  "id": "scu-hqb-future-leaders-scholarship",
+  "name": "HQB Future Leaders Scholarship (SCU Business)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$5,000 for an SCU Bachelor of Business student starting their final year with a credit average or better.",
+  "key": "$5,000 for one year.",
+  "who": [
+    "Starting the final year of the Bachelor of Business at SCU, on campus or online.",
+    "Credit average (GPA 5) or better."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with a 100 to 200 word statement."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One scholarship available.",
+    "HQB Accountants may offer the recipient a graduate role."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "business",
+    "accounting",
+    "final year"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/hqb-future-leaders-scholarship/",
+    "label": "Southern Cross University: HQB Future Leaders Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "field": {
+      "yes": [
+        "business"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$5,000 for one year",
+      "url": "https://www.scu.edu.au/scholarships/hqb-future-leaders-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Academic rule",
+      "quote": "Students must provide their academic transcript showing a credit average or greater",
+      "url": "https://www.scu.edu.au/scholarships/hqb-future-leaders-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "nsw-spectacles-program",
+  "name": "NSW Spectacles Program (free glasses)",
+  "provider": "NSW Government",
+  "category": "health",
+  "summary": "Free glasses every two years for financially disadvantaged NSW residents on a full Centrelink income support payment or low wages.",
+  "key": "One pair of single vision glasses or bifocals in any 2-year period.",
+  "who": [
+    "Australian permanent resident living in NSW",
+    "Receive a full Centrelink pension or income support payment with no other income, or earn less than the full JobSeeker Payment (under 65)",
+    "Financial assets less than $500 (single) or $1,000 (partnered or parent)",
+    "Not eligible for any other spectacles subsidy scheme"
+  ],
+  "catches": [
+    "Asset test is strict; part-rate payment recipients with other income may not qualify."
+  ],
+  "tags": [
+    "glasses",
+    "eye",
+    "optometrist",
+    "nsw",
+    "New South Wales"
+  ],
+  "source": {
+    "url": "https://www.service.nsw.gov.au/transaction/nsw-spectacles-program",
+    "label": "Service NSW: NSW Spectacles Program"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "What it provides",
+      "quote": "free glasses and vision aids to financially disadvantaged NSW residents.",
+      "url": "https://www.service.nsw.gov.au/transaction/nsw-spectacles-program",
+      "page_date": null
+    },
+    {
+      "claim": "Payment rule",
+      "quote": "receive a full Centrelink pension or income support payment",
+      "url": "https://www.service.nsw.gov.au/transaction/nsw-spectacles-program",
+      "page_date": null
+    }
+  ]
+}

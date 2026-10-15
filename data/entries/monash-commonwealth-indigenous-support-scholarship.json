@@ -1,0 +1,60 @@
+{
+  "id": "monash-commonwealth-indigenous-support-scholarship",
+  "name": "Monash Commonwealth Indigenous Support Scholarship",
+  "provider": "Monash University",
+  "category": "uni",
+  "summary": "$5,000 a year for Indigenous Australian students at Monash who are experiencing financial hardship.",
+  "key": "$5,000 a year, up to $25,000, with 20 available.",
+  "who": [
+    "An Indigenous Australian.",
+    "Full-time undergraduate or postgraduate coursework at a Monash campus in Australia.",
+    "Experiencing financial hardship."
+  ],
+  "how": [
+    "Apply through VTAC SEAS or directly to Monash.",
+    "Send proof of heritage to the William Cooper Institute."
+  ],
+  "tags": [
+    "monash",
+    "monash university",
+    "melbourne",
+    "vic",
+    "indigenous",
+    "first nations",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/commonwealth-indigenous-support-scholarship-6096",
+    "label": "Monash: Commonwealth Indigenous Support Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$5000 per annum (48 credit points of study)",
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/commonwealth-indigenous-support-scholarship-6096",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "qut-gender-affirmation-bursary",
+  "name": "QUT Gender Affirmation Bursary",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "Financial help for trans and gender diverse QUT students to access gender-affirming care.",
+  "who": [
+    "Trans and gender diverse QUT students."
+  ],
+  "catches": [
+    "The amount and dates were not shown on the page. Check the listing."
+  ],
+  "tags": [
+    "qut",
+    "trans",
+    "gender diverse",
+    "lgbtiqa",
+    "bursary",
+    "health"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/gender-affirmation-bursary",
+    "label": "QUT: Gender Affirmation Bursary"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Purpose and who it's for",
+      "quote": "This bursary provides trans and gender diverse students with financial assistance to access gender-affirming care",
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/gender-affirmation-bursary",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

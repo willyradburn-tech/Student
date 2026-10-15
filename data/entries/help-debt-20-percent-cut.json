@@ -1,0 +1,56 @@
+{
+  "id": "help-debt-20-percent-cut",
+  "name": "20% HELP debt reduction",
+  "provider": "Australian Taxation Office",
+  "category": "loans",
+  "summary": "Student loan debts that existed on 1 June 2025 were cut by 20%, and repayments now come only from income above the threshold.",
+  "tags": [
+    "hecs debt",
+    "help debt",
+    "20 per cent",
+    "repayment",
+    "refund"
+  ],
+  "key": "Automatic. Every study and training loan debt that existed on 1 June 2025 was reduced by 20%.",
+  "numbers": [
+    [
+      "Applies to",
+      "All study and training support debts that existed on 1 June 2025"
+    ],
+    [
+      "Repayments from 1 July 2025",
+      "Worked out only on income above the minimum threshold, not on your whole income"
+    ],
+    [
+      "Minimum repayment income, 2025-26",
+      "$67,000"
+    ]
+  ],
+  "how": [
+    "You don't need to apply. Check the change in your loan account through the ATO app or ATO online services in myGov."
+  ],
+  "catches": [
+    "If the cut left your loan in credit, the ATO generally refunded it to your nominated bank account, as long as you had no other tax or Commonwealth debts.",
+    "If you paid your loan by card, you may need to contact the ATO for a manual refund.",
+    "If you earn $179,286 or more, your repayments don't change."
+  ],
+  "cadence": "low",
+  "cap": "maybe",
+  "match": {
+    "res": {
+      "yes": [
+        "citizen"
+      ],
+      "maybe": [
+        "pr"
+      ]
+    }
+  },
+  "verified": "2026-10-13",
+  "review": "pending",
+  "status": "verified",
+  "source": {
+    "url": "https://www.ato.gov.au/individuals-and-families/study-and-training-support-loans/study-and-training-loans-what-s-new",
+    "label": "ATO: study and training loans, what's new"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "scu-father-lou-molloy-woodlawn-scholarship",
+  "name": "Father Lou Molloy (Marist) Woodlawn Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$5,000 for a student starting an undergraduate degree at SCU, with preference for St John's College Woodlawn graduates.",
+  "key": "5,000 for one year.",
+  "who": [
+    "Starting an undergraduate degree at SCU.",
+    "Australian citizen, permanent resident or permanent humanitarian visa holder.",
+    "Preference for graduates of St John's College Woodlawn, Lismore."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with a 100 to 200 word statement."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One scholarship available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "lismore",
+    "woodlawn",
+    "first year"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/father-lou-molloy-marist-woodlawn-scholarship/",
+    "label": "Southern Cross University: Father Lou Molloy (Marist) Woodlawn Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "Value: 5,000 for one year",
+      "url": "https://www.scu.edu.au/scholarships/father-lou-molloy-marist-woodlawn-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Student must be commencing an undergraduate degree at Southern Cross University.",
+      "url": "https://www.scu.edu.au/scholarships/father-lou-molloy-marist-woodlawn-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

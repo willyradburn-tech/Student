@@ -1,0 +1,56 @@
+{
+  "id": "esa-nsw-student-membership",
+  "name": "Economic Society NSW student membership",
+  "provider": "Economic Society of Australia (NSW Branch)",
+  "category": "career",
+  "summary": "Cheap NSW Economic Society membership for full-time university students.",
+  "key": "University Student (Full Time): $20 / $10 for new members.",
+  "who": [
+    "Full-time university students",
+    "Sign up with your university student email address"
+  ],
+  "how": [
+    "Register on the ESA NSW site."
+  ],
+  "tags": [
+    "economics",
+    "nsw",
+    "economist",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://esansw.org.au/news/16290/information-on-becoming-a-member/?type_fr=",
+    "label": "Economic Society of Australia NSW: Information on becoming a Member"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "business"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Price",
+      "quote": "University Student (Full Time): $20 / $10 (new members*)",
+      "url": "https://esansw.org.au/news/16290/information-on-becoming-a-member/?type_fr=",
+      "page_date": null
+    },
+    {
+      "claim": "Email",
+      "quote": "sign up using your University Student Email Address",
+      "url": "https://esansw.org.au/news/16290/information-on-becoming-a-member/?type_fr=",
+      "page_date": null
+    }
+  ]
+}

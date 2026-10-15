@@ -1,0 +1,52 @@
+{
+  "id": "scu-elite-athlete-performer-program",
+  "name": "SCU Elite Athlete and Performer Program",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "Study flexibility and case-by-case grants for travel, registration and competition costs for elite athletes and performers at SCU.",
+  "who": [
+    "Athletes identified as elite by a listed body, such as a state academy or institute of sport or a national senior squad.",
+    "Performers in significant state, national or international performances.",
+    "Others may apply for consideration."
+  ],
+  "how": [
+    "Apply online with a club or coach support letter and photos.",
+    "Claim approved costs with the Elite Athlete and Performer Expense Form."
+  ],
+  "catches": [
+    "No amounts are listed. Applications are reviewed case by case.",
+    "The panel reviews current-student applications at the end of each term."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "sport",
+    "elite athlete",
+    "performer",
+    "music",
+    "unilife"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/current-students/unilife/elite-athletes-and-performers/",
+    "label": "Southern Cross University: Elite athletes and performers"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Financial support",
+      "quote": "Applications are reviewed on a case-by-case basis",
+      "url": "https://www.scu.edu.au/current-students/unilife/elite-athletes-and-performers/",
+      "page_date": null
+    }
+  ]
+}

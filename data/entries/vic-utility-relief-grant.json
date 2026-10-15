@@ -1,0 +1,58 @@
+{
+  "id": "vic-utility-relief-grant",
+  "name": "Victorian Utility Relief Grant Scheme",
+  "provider": "Victorian Department of Families, Fairness and Housing",
+  "category": "payments",
+  "summary": "Grant to help Victorian Health Care Card holders and low-income households pay overdue electricity, gas or water bills.",
+  "key": "You can receive a maximum of $650 on each utility type in a two-year period.",
+  "who": [
+    "Account holders with a Pensioner Concession Card, Health Care Card or Veterans' Affairs Gold Card, or part of a low-income household",
+    "Must show you can't pay without help and are at risk of disconnection"
+  ],
+  "how": [
+    "Phone your electricity, gas or water retailer to request an application."
+  ],
+  "catches": [
+    "The grant is based on the amount you owe when you apply."
+  ],
+  "tags": [
+    "Victoria",
+    "URGS",
+    "bills",
+    "hardship",
+    "electricity",
+    "gas",
+    "water",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://services.dffh.vic.gov.au/node/226",
+    "label": "DFFH Victoria: Utility relief grant scheme"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "You can receive a maximum of $650 on each utility type in a two-year period",
+      "url": "https://services.dffh.vic.gov.au/node/226",
+      "page_date": null
+    },
+    {
+      "claim": "Low-income households without a card",
+      "quote": "If you don’t have one of these cards but are part of a low-income household, you may also be able to apply.",
+      "url": "https://services.dffh.vic.gov.au/node/226",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

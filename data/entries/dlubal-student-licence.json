@@ -1,0 +1,44 @@
+{
+  "id": "dlubal-student-licence",
+  "name": "Dlubal RFEM/RSTAB free student licence",
+  "provider": "Dlubal Software",
+  "category": "software",
+  "summary": "Free full-version structural analysis software for students enrolled at a university or college.",
+  "key": "Free student licence; a full version without any restrictions.",
+  "who": [
+    "Enrolled at a university or college, for non-commercial use."
+  ],
+  "how": [
+    "Submit the request form with proof of enrolment; the authorisation file is emailed after review."
+  ],
+  "tags": [
+    "structural",
+    "civil engineering",
+    "rfem",
+    "rstab",
+    "fea"
+  ],
+  "source": {
+    "url": "https://www.dlubal.com/en/education/free-structural-analysis-software-for-students/request-or-renew-free-student-license",
+    "label": "Dlubal: Request or renew free student license"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Full version",
+      "quote": "The student license is a full version without any restrictions.",
+      "url": "https://www.dlubal.com/en/education/free-structural-analysis-software-for-students/request-or-renew-free-student-license",
+      "page_date": null
+    }
+  ]
+}

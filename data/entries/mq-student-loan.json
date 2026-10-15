@@ -1,0 +1,51 @@
+{
+  "id": "mq-student-loan",
+  "name": "Macquarie University Interest-Free Student Loan",
+  "provider": "Macquarie University",
+  "category": "uni",
+  "summary": "Interest-free loan for onshore Macquarie students to cover textbooks, computers, software, fieldtrips and placement travel.",
+  "key": "Up to $2,000, or up to $500 for a computer, interest-free.",
+  "who": [
+    "Onshore Macquarie University student"
+  ],
+  "how": [
+    "Complete the online application, a budget spreadsheet and supporting documents"
+  ],
+  "catches": [
+    "Must be repaid",
+    "Does not cover tuition fees or debts owed to others"
+  ],
+  "tags": [
+    "mq",
+    "loan",
+    "interest-free"
+  ],
+  "source": {
+    "url": "https://students.mq.edu.au/finances/assistance/grants-loans",
+    "label": "Macquarie University: Student loans and grants"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Interest-free",
+      "quote": "Loans are interest-free, but are repaid.",
+      "url": "https://students.mq.edu.au/finances/assistance/grants-loans",
+      "page_date": null
+    }
+  ]
+}

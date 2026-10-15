@@ -1,0 +1,56 @@
+{
+  "id": "act-registration-concession",
+  "name": "ACT vehicle registration concession",
+  "provider": "Access Canberra",
+  "category": "transport",
+  "summary": "No registration fees on one light vehicle for Canberra holders of a Low Income Health Care Card or Pensioner Concession Card.",
+  "key": "Holders of a current Services Australia Pensioner Concession Card or Low Income Health Care Card pay zero registration fees.",
+  "who": [
+    "Holder of a current Services Australia Pensioner Concession Card or Low Income Health Care Card",
+    "One light vehicle or light trailer registered in the cardholder's name"
+  ],
+  "how": [
+    "Bring proof of identity and your concession card to an Access Canberra Service Centre.",
+    "First-time claims need a concession validation consent form."
+  ],
+  "catches": [
+    "You still pay full fees for other components, including the MAI insurance premium.",
+    "The page names the Low Income Health Care Card, not the Health Care Card issued with Youth Allowance or Austudy; check with Access Canberra."
+  ],
+  "tags": [
+    "ACT",
+    "Canberra",
+    "car registration",
+    "rego",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://www.accesscanberra.act.gov.au/driving-transport-and-parking/registration/concessions-for-registration-fees",
+    "label": "Access Canberra: Concessions for registration fees"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "act"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Zero registration fees",
+      "quote": "Holders of a current Services Australia Pensioner Concession Card or Low Income Health Care Card pay:",
+      "url": "https://www.accesscanberra.act.gov.au/driving-transport-and-parking/registration/concessions-for-registration-fees",
+      "page_date": null
+    },
+    {
+      "claim": "Proof of identity",
+      "quote": "Access Canberra needs to confirm your identity before it can recognise your concession.",
+      "url": "https://www.accesscanberra.act.gov.au/driving-transport-and-parking/registration/concessions-for-registration-fees",
+      "page_date": null
+    }
+  ]
+}

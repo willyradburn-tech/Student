@@ -1,0 +1,62 @@
+{
+  "id": "qtu-student-membership",
+  "name": "QTU student membership",
+  "provider": "Queensland Teachers' Union",
+  "category": "career",
+  "summary": "Free Queensland Teachers' Union student membership for education students, which can be held alongside IEU-QNT membership.",
+  "key": "FREE QTU and IEU-QNT STUDENT membership.",
+  "who": [
+    "Education students"
+  ],
+  "how": [
+    "Fill out the dual application form, or join the QTU only at qtu.asn.au/join."
+  ],
+  "catches": [
+    "No membership fees until you land your first job; you choose one union for full membership once you start paid work."
+  ],
+  "tags": [
+    "teaching",
+    "education",
+    "teacher",
+    "qld",
+    "queensland",
+    "union",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://qtu.asn.au/join-online-downloadforms/student-membership-brochure-and-application-form",
+    "label": "QTU: Student membership brochure and application form"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "FREE QTU and IEU-QNT STUDENT membership",
+      "url": "https://qtu.asn.au/join-online-downloadforms/student-membership-brochure-and-application-form",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Education students are eligible for simultaneous membership of both of Queensland teachers' unions",
+      "url": "https://qtu.asn.au/join-online-downloadforms/student-membership-brochure-and-application-form",
+      "page_date": null
+    },
+    {
+      "claim": "No fees",
+      "quote": "You will not have to pay a dollar in membership fees until you land your first job",
+      "url": "https://qtu.asn.au/join-online-downloadforms/student-membership-brochure-and-application-form",
+      "page_date": null
+    }
+  ]
+}

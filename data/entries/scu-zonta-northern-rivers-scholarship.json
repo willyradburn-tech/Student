@@ -1,0 +1,70 @@
+{
+  "id": "scu-zonta-northern-rivers-scholarship",
+  "name": "Zonta Northern Rivers Scholarship (SCU Social Work)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$1,000 for a female final-year SCU social work student studying at the Gold Coast or online.",
+  "key": "$1,000.",
+  "who": [
+    "In the final year of the Bachelor of Social Work, Bachelor of Social Work (Honours) or Master of Social Work (Professional Qualifying).",
+    "Australian citizen or permanent resident.",
+    "Identify as female.",
+    "Enrolled at the Gold Coast or online."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One scholarship available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "social work",
+    "women",
+    "zonta"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/zonta-northern-rivers-scholarship/",
+    "label": "Southern Cross University: Zonta Northern Rivers Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Course rule",
+      "quote": "Be in the final year of one the following courses.",
+      "url": "https://www.scu.edu.au/scholarships/zonta-northern-rivers-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/zonta-northern-rivers-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

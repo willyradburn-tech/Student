@@ -1,0 +1,69 @@
+{
+  "id": "usyd-sydney-access-scholarship",
+  "name": "Sydney Access Scholarship",
+  "provider": "University of Sydney",
+  "category": "uni",
+  "summary": "Yearly scholarship for domestic commencing undergraduates who are regional, low-SES or facing financial hardship.",
+  "key": "$8,500 p.a. (course duration).",
+  "who": [
+    "Domestic student who has applied for an undergraduate degree through UAC",
+    "Not eligible for a MySydney Entry and Scholarship",
+    "Regional or remote, recent regional school leaver, EAS financial hardship, or living in a bottom-25% ABS area"
+  ],
+  "how": [
+    "Apply through the domestic undergraduate scholarships page"
+  ],
+  "catches": [
+    "2026 round opened 10 April 2026 and closed 9 October 2026; expect a new round next April"
+  ],
+  "tags": [
+    "usyd",
+    "equity",
+    "scholarship",
+    "regional",
+    "low-ses",
+    "sydney"
+  ],
+  "source": {
+    "url": "https://www.sydney.edu.au/scholarships/f/sydney-access-scholarship.html",
+    "label": "University of Sydney: Sydney Access Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$8,500 a year for the course",
+      "quote": "$8,500 p.a. (course duration)",
+      "url": "https://www.sydney.edu.au/scholarships/f/sydney-access-scholarship.html",
+      "page_date": null
+    },
+    {
+      "claim": "Regional or hardship criterion",
+      "quote": "be facing financial hardship, as demonstrated through the UAC Educational Access Scheme (EAS)",
+      "url": "https://www.sydney.edu.au/scholarships/f/sydney-access-scholarship.html",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

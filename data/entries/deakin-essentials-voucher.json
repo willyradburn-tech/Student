@@ -1,0 +1,54 @@
+{
+  "id": "deakin-essentials-voucher",
+  "name": "Deakin essentials grocery voucher",
+  "provider": "Deakin University",
+  "category": "uni",
+  "summary": "A one-off Woolworths grocery voucher for Deakin students facing short-term financial hardship.",
+  "who": [
+    "Currently enrolled Deakin student facing short-term financial hardship."
+  ],
+  "how": [
+    "Use the single financial assistance application form."
+  ],
+  "catches": [
+    "The page doesn't state the voucher value."
+  ],
+  "tags": [
+    "deakin",
+    "deakin university",
+    "melbourne",
+    "vic",
+    "food",
+    "groceries",
+    "voucher",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://www.deakin.edu.au/students/enrolment-and-fees/financial-assistance/financial-support",
+    "label": "Deakin: Financial support"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "One-off voucher",
+      "quote": "A one-off Woolworths voucher is available to students facing short-term financial hardship.",
+      "url": "https://www.deakin.edu.au/students/enrolment-and-fees/financial-assistance/financial-support",
+      "page_date": null
+    }
+  ]
+}

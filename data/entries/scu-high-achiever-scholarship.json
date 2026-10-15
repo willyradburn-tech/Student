@@ -1,0 +1,68 @@
+{
+  "id": "scu-high-achiever-scholarship",
+  "name": "SCU High Achiever Scholarship",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$36,000 offered automatically to 2026 school leavers with an ATAR of 85 or more starting a full-time SCU bachelor degree.",
+  "key": "$36,000.",
+  "who": [
+    "ATAR of 85 or above.",
+    "Commonwealth supported place.",
+    "Starting a full-time bachelor degree at SCU in 2027."
+  ],
+  "how": [
+    "No application. Students do not have to apply for merit-based scholarships."
+  ],
+  "catches": [
+    "15 scholarships, with preference for students from Northern NSW to South East Queensland.",
+    "Can't be combined with another merit-based scholarship."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "merit",
+    "atar",
+    "school leaver"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/southern-cross-university-high-achiever-scholarship/",
+    "label": "Southern Cross University: High Achiever Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "ATAR rule",
+      "quote": "Have achieved an ATAR of 85 and above.",
+      "url": "https://www.scu.edu.au/scholarships/southern-cross-university-high-achiever-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "No application",
+      "quote": "Students do not have to apply for Merit-based Scholarships.",
+      "url": "https://www.scu.edu.au/scholarships/southern-cross-university-high-achiever-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

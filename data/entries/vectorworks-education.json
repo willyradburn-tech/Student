@@ -1,0 +1,37 @@
+{
+  "id": "vectorworks-education",
+  "name": "Vectorworks free educational licence",
+  "provider": "Vectorworks",
+  "category": "software",
+  "summary": "Free Vectorworks Design Suite educational licence for students in select markets.",
+  "how": [
+    "Use Get Started to go to the Vectorworks education customer portal."
+  ],
+  "catches": [
+    "Only in select markets; the page doesn't list whether Australia is one."
+  ],
+  "tags": [
+    "architecture",
+    "bim",
+    "landscape",
+    "cad",
+    "vectorworks"
+  ],
+  "source": {
+    "url": "https://www.vectorworks.net/en-US/education",
+    "label": "Vectorworks: Education"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Free licence in select markets",
+      "quote": "Students and educators in select global markets can download a free educational license",
+      "url": "https://www.vectorworks.net/en-US/education",
+      "page_date": null
+    }
+  ]
+}

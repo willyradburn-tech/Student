@@ -1,0 +1,51 @@
+{
+  "id": "health-care-card-students",
+  "name": "Health Care Card",
+  "provider": "Department of Social Services",
+  "category": "health",
+  "summary": "Cheaper medicines and possible bulk billing, issued automatically with Youth Allowance and Austudy.",
+  "tags": [
+    "concession card",
+    "pbs",
+    "bulk billing",
+    "medicine"
+  ],
+  "who": [
+    "People getting certain payments, including Youth Allowance and Austudy, who don't qualify for a Pensioner Concession Card."
+  ],
+  "numbers": [
+    [
+      "Medicines",
+      "Concession price for PBS medicines"
+    ],
+    [
+      "GP visits",
+      "Bulk billing, at the doctor's discretion"
+    ],
+    [
+      "Medical costs",
+      "Lower Extended Medicare Safety Net threshold for out-of-hospital costs"
+    ]
+  ],
+  "how": [
+    "It is issued automatically when you get a qualifying payment."
+  ],
+  "catches": [
+    "Residence requirements apply."
+  ],
+  "status": "verified",
+  "verified": "2026-10-13",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "payment": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://www.dss.gov.au/about-the-department/benefits-payments/concession-and-health-cards/health-care-card",
+    "label": "DSS: Health Care Card"
+  }
+}

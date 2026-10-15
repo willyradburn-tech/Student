@@ -1,0 +1,68 @@
+{
+  "id": "rmit-welcome-asylum-seeker-scholarship",
+  "name": "RMIT Welcome and Sam and Nina Narodowski Asylum Seeker Scholarship",
+  "provider": "RMIT University",
+  "category": "uni",
+  "summary": "A full tuition fee waiver plus SSAF for continuing RMIT students seeking asylum who are in financial hardship.",
+  "key": "Full program tuition fees and SSAF. 18 awarded in 2026.",
+  "who": [
+    "Continuing student enrolled or intending to enrol full-time.",
+    "Able to demonstrate financial hardship and living in Australia."
+  ],
+  "how": [
+    "Complete the online application by the close date."
+  ],
+  "catches": [
+    "Semester 1 2027 applications close 11:59pm Wednesday 9 December 2026."
+  ],
+  "tags": [
+    "rmit",
+    "rmit university",
+    "melbourne",
+    "vic",
+    "asylum seeker",
+    "refugee",
+    "fee waiver"
+  ],
+  "source": {
+    "url": "https://www.rmit.edu.au/scholarships/coursework/rmit-welcome",
+    "label": "RMIT: Welcome Asylum Seeker Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "The scholarships consist of full program tuition fees and Student Services and Amenities Fees (SSAF) paid per semester",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/rmit-welcome",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications for Semester 1 2027 close 11:59pm Wednesday 9 December 2026. No late applications will be accepted.",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/rmit-welcome",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-12-09"
+}

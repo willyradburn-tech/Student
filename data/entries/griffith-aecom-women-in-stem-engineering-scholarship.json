@@ -1,0 +1,67 @@
+{
+  "id": "griffith-aecom-women-in-stem-engineering-scholarship",
+  "name": "AECOM Women in STEM Bachelor of Engineering Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $8,500 for female penultimate-year Griffith engineering students with a GPA of 5 or above.",
+  "key": "Maximum value is $8,500, paid in instalments.",
+  "who": [
+    "Identify as female.",
+    "Full-time in the penultimate year of the Bachelor of Engineering (Honours), including double degrees.",
+    "GPA of 5.0 or above.",
+    "Not receiving any other Griffith scholarship."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Closed and awarded for 2026; listed as coming soon for 2027."
+  ],
+  "tags": [
+    "griffith",
+    "engineering",
+    "women in stem",
+    "female"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/aecom-women-in-stem-bachelor-of-engineering-scholarship",
+    "label": "Griffith University: AECOM Women in STEM Bachelor of Engineering Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value is $8,500, paid in instalments.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/aecom-women-in-stem-bachelor-of-engineering-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "be full-time enrolled in the penultimate year of the Bachelor of Engineering (Honours), including double degrees",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/aecom-women-in-stem-bachelor-of-engineering-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "wolframalpha-pro-students",
+  "name": "Wolfram|Alpha Pro for Students",
+  "provider": "Wolfram",
+  "category": "software",
+  "summary": "Discounted Wolfram|Alpha Pro and Pro Premium plans for students, with step-by-step maths solutions.",
+  "key": "Pro for students is billed $60.00 annually (save $59.88 per year); Pro Premium for students is billed $99.00 annually.",
+  "catches": [
+    "Currency not stated on the page."
+  ],
+  "tags": [
+    "maths",
+    "math",
+    "calculus",
+    "step-by-step",
+    "wolfram"
+  ],
+  "source": {
+    "url": "https://www.wolframalpha.com/pro/pricing/students",
+    "label": "Wolfram|Alpha: Pro student pricing"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Student Pro price",
+      "quote": "billed $60.00 annually",
+      "url": "https://www.wolframalpha.com/pro/pricing/students",
+      "page_date": null
+    },
+    {
+      "claim": "Savings",
+      "quote": "Save $59.88 per year",
+      "url": "https://www.wolframalpha.com/pro/pricing/students",
+      "page_date": null
+    },
+    {
+      "claim": "Pro Premium student price",
+      "quote": "billed $99.00 annually.",
+      "url": "https://www.wolframalpha.com/pro/pricing/students",
+      "page_date": null
+    }
+  ]
+}

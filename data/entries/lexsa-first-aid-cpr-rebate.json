@@ -1,0 +1,50 @@
+{
+  "id": "lexsa-first-aid-cpr-rebate",
+  "name": "LEXSA First Aid and CPR course rebate",
+  "provider": "LEXSA (Lismore and External Student Association)",
+  "category": "uni",
+  "summary": "LEXSA members get $50 back on a full First Aid course or $30 on a CPR-only course.",
+  "key": "$50 for a full First Aid course and $30 for a CPR-only course.",
+  "who": [
+    "Current 2026 LEXSA members.",
+    "Course paid in full."
+  ],
+  "how": [
+    "Email your receipt, completed certificate and bank details to LEXSA."
+  ],
+  "catches": [
+    "LEXSA membership costs $5 to join, then $1 a year to renew."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "lexsa",
+    "first aid",
+    "cpr",
+    "rebate",
+    "placement"
+  ],
+  "source": {
+    "url": "https://www.lexsa.com.au/support",
+    "label": "LEXSA: Support"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Membership cost",
+      "quote": "students can join for $5 then renew each year for $1",
+      "url": "https://www.lexsa.com.au/support",
+      "page_date": null
+    }
+  ]
+}

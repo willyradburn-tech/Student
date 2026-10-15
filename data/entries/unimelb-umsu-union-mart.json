@@ -1,0 +1,52 @@
+{
+  "id": "unimelb-umsu-union-mart",
+  "name": "UMSU Union Mart free food and groceries",
+  "provider": "University of Melbourne Student Union",
+  "category": "uni",
+  "summary": "Free food, drink and household products for all University of Melbourne students at Parkville and Southbank.",
+  "who": [
+    "All University of Melbourne students."
+  ],
+  "catches": [
+    "Parkville and Southbank locations. Free frozen meals are also collectable at other campuses."
+  ],
+  "tags": [
+    "unimelb",
+    "university of melbourne",
+    "melbourne",
+    "vic",
+    "food",
+    "pantry",
+    "free",
+    "student union",
+    "umsu"
+  ],
+  "source": {
+    "url": "https://umsu.unimelb.edu.au/support/help-advice/",
+    "label": "UMSU: Help and advice"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free to all students",
+      "quote": "provides a variety of food, drink and household products for free to all students",
+      "url": "https://umsu.unimelb.edu.au/support/help-advice/",
+      "page_date": null
+    }
+  ]
+}

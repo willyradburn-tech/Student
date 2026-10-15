@@ -1,0 +1,51 @@
+{
+  "id": "griffith-student-guild-placement-care-pack",
+  "name": "Student Guild Placement Care Pack",
+  "provider": "Griffith University Gold Coast Student Guild",
+  "category": "uni",
+  "summary": "A pack of everyday essentials for Gold Coast students who relocate or cut work hours for unpaid placement.",
+  "who": [
+    "Students who must relocate outside the Gold Coast and/or reduce paid work hours for an unpaid placement."
+  ],
+  "how": [
+    "Use the online application form on the Student Guild's essential support page."
+  ],
+  "catches": [
+    "One pack per student."
+  ],
+  "tags": [
+    "griffith",
+    "placement",
+    "prac",
+    "gold coast",
+    "student guild"
+  ],
+  "source": {
+    "url": "https://gugcstudentguild.com.au/emergency-support/",
+    "label": "Griffith University Gold Coast Student Guild: Essential support"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "prac": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "what it is",
+      "quote": "you can apply for a placement care package to help you with everyday essentials. One pack per student.",
+      "url": "https://gugcstudentguild.com.au/emergency-support/",
+      "page_date": null
+    }
+  ]
+}

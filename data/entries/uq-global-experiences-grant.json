@@ -1,0 +1,70 @@
+{
+  "id": "uq-global-experiences-grant",
+  "name": "UQ Global Experiences Grant",
+  "provider": "University of Queensland, Student Employability Centre",
+  "category": "uni",
+  "summary": "Automatic travel grant for UQ students accepted into a semester exchange or short-term global experience, prioritising under-represented groups.",
+  "key": "The maximum grant amount is AUD$2000 for semester exchange; the short-term (global in-person) maximum is AUD$1000.",
+  "who": [
+    "Accepted into a semester exchange or short-term global experience by the Global Experiences Team.",
+    "Priority goes to students from under-represented groups."
+  ],
+  "how": [
+    "No separate application. Accepted students are automatically considered."
+  ],
+  "catches": [
+    "Funding isn't guaranteed.",
+    "Virtual experiences aren't funded, and you can't hold certain other grants (NCP, Westpac, faculty, host) for the same experience.",
+    "You can still take an OS-HELP loan."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "exchange",
+    "study abroad",
+    "travel grant",
+    "global experience"
+  ],
+  "source": {
+    "url": "https://employability.uq.edu.au/exchange-funding",
+    "label": "UQ Employability: Exchange funding"
+  },
+  "extra_sources": [
+    {
+      "url": "https://employability.uq.edu.au/financial-support/costs-and-funding-short-term-experiences",
+      "label": "UQ Employability: Costs and funding for short-term experiences"
+    }
+  ],
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Semester exchange max $2,000",
+      "quote": "The maximum grant amount is AUD$2000",
+      "url": "https://employability.uq.edu.au/exchange-funding",
+      "page_date": null
+    },
+    {
+      "claim": "Short-term max $1,000",
+      "quote": "Short-term (global in-person): The maximum grant amount is AUD$1000.",
+      "url": "https://employability.uq.edu.au/financial-support/costs-and-funding-short-term-experiences",
+      "page_date": null
+    },
+    {
+      "claim": "Automatic consideration",
+      "quote": "All students who have been accepted into a program supported by the Global Experiences team will be automatically considered for a grant.",
+      "url": "https://employability.uq.edu.au/financial-support/costs-and-funding-short-term-experiences",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

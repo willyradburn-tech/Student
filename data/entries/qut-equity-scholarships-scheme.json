@@ -1,0 +1,54 @@
+{
+  "id": "qut-equity-scholarships-scheme",
+  "name": "QUT Equity Scholarships Scheme",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "Scholarships and bursaries for domestic QUT students from low-income households, all from one application.",
+  "tags": [
+    "qut",
+    "scholarship",
+    "low income",
+    "equity"
+  ],
+  "key": "Up to $4,200 (Equity Scholarships), $1,800 (Equity Bursaries), $7,500 (Learning Potential Fund) or $10,000 (Indigenous Commonwealth Scholarships).",
+  "who": [
+    "Domestic students in QUT undergraduate, postgraduate and research programs, QUT College diplomas and the University Preparation Program.",
+    "From a low-income household and in financial hardship."
+  ],
+  "need": [
+    "At least two months of bank statements, as PDFs.",
+    "Proof of income."
+  ],
+  "how": [
+    "One application covers every award in the scheme.",
+    "Semester 1 applications usually open in December.",
+    "Assessment takes about a month after all documents are in."
+  ],
+  "catches": [
+    "You can get one award a year: the highest one you qualify for.",
+    "The Learning Potential Fund is in the Semester 1 round only.",
+    "Not for international, single-unit or cross-institutional students."
+  ],
+  "status": "verified",
+  "verified": "2026-10-13",
+  "cadence": "medium",
+  "review": "pending",
+  "cap": "maybe",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/equity-scholarships-scheme",
+    "label": "QUT: Equity Scholarships Scheme"
+  }
+}

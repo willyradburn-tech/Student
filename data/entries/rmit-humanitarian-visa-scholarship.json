@@ -1,0 +1,62 @@
+{
+  "id": "rmit-humanitarian-visa-scholarship",
+  "name": "RMIT Humanitarian Visa Scholarship",
+  "provider": "RMIT University",
+  "category": "uni",
+  "summary": "$5,000 a year for refugee students at RMIT who hold a Permanent Humanitarian Visa.",
+  "key": "$5,000 a year full-time, or $2,500 part-time, for the standard program length. Five offered.",
+  "who": [
+    "Holds a current Australian Permanent Humanitarian Visa and not Australian citizenship.",
+    "A current refugee starting or continuing at RMIT Melbourne in Semester 1 2027."
+  ],
+  "how": [
+    "Apply direct to RMIT online (preferred) or through VTAC, with supporting documents."
+  ],
+  "catches": [
+    "Semester 1 2027 applications close 2pm Tuesday 20 October 2026."
+  ],
+  "tags": [
+    "rmit",
+    "rmit university",
+    "melbourne",
+    "vic",
+    "refugee",
+    "humanitarian visa"
+  ],
+  "source": {
+    "url": "https://www.rmit.edu.au/scholarships/coursework/rmit-humanitarian",
+    "label": "RMIT: Humanitarian Visa Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$5,000 per year ($2,500 per semester) for full-time enrolled",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/rmit-humanitarian",
+      "page_date": null
+    },
+    {
+      "claim": "Visa rule",
+      "quote": "hold a current Australian Permanent Humanitarian Visa (PHV) and not hold Australian citizenship",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/rmit-humanitarian",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-10-20"
+}

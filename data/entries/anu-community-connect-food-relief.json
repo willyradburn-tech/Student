@@ -1,0 +1,51 @@
+{
+  "id": "anu-community-connect-food-relief",
+  "name": "ANU Community Connect Food Relief",
+  "provider": "Australian National University",
+  "category": "uni",
+  "summary": "Ongoing food relief for ANU students identified with food insecurity, plus free period packs on campus.",
+  "who": [
+    "Students that are HEPPP-eligible can receive ongoing food relief support",
+    "Students who are not HEPPP-eligible may still qualify"
+  ],
+  "how": [
+    "Email student.life@anu.edu.au to ask about food relief or check eligibility"
+  ],
+  "tags": [
+    "anu",
+    "canberra",
+    "act",
+    "food",
+    "pantry",
+    "free"
+  ],
+  "source": {
+    "url": "https://www.anu.edu.au/students/student-life/student-communities/community-connect",
+    "label": "ANU: Community Connect"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Food relief",
+      "quote": "The Community Connect Food Relief service is for eligible students identified with food insecurity.",
+      "url": "https://www.anu.edu.au/students/student-life/student-communities/community-connect",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Students that are HEPPP-eligible can receive ongoing food relief support.",
+      "url": "https://www.anu.edu.au/students/student-life/student-communities/community-connect",
+      "page_date": null
+    }
+  ]
+}

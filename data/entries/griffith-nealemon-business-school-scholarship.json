@@ -1,0 +1,73 @@
+{
+  "id": "griffith-nealemon-business-school-scholarship",
+  "name": "Nealemon Business School Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $5,000 for first-year Griffith Business School undergraduates facing educational disadvantage.",
+  "key": "Maximum value of the scholarship is $5,000.",
+  "who": [
+    "Australian citizen, permanent resident or permanent humanitarian visa holder.",
+    "Griffith Business School undergraduate entering or in first year.",
+    "Demonstrate educational disadvantage.",
+    "Enrolled full-time."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Apply by 4pm, Monday 15 March 2027.",
+    "Currently enrolled students need a GPA of 4."
+  ],
+  "tags": [
+    "griffith",
+    "business",
+    "first year",
+    "equity"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/nealemon-business-school-scholarship",
+    "label": "Griffith University: Nealemon Business School Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "business"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value of the scholarship is $5,000.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/nealemon-business-school-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "be a Griffith Business School undergraduate student entering into or enrolled in their first year of study",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/nealemon-business-school-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

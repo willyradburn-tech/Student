@@ -1,0 +1,76 @@
+{
+  "id": "scu-neil-eric-cowd-memorial-scholarship",
+  "name": "Neil Eric Cowd Memorial Scholarship (SCU Education)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "Up to $20,000 over four years for a Bachelor of Education student at SCU who faces hardship or disadvantage.",
+  "key": "Paid as $5,000 a year for up to four years of full-time study.",
+  "who": [
+    "Australian citizen or permanent resident, including permanent humanitarian visa holders.",
+    "Enrolled in the Bachelor of Education, on campus or online. New and current students can apply.",
+    "Shows a form of hardship or disadvantage."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with a 100 to 200 word statement."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One scholarship available.",
+    "Part-time study may be considered at a reduced value."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "education",
+    "teaching",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/neil-eric-cowd-memorial-scholarship/",
+    "label": "Southern Cross University: Neil Eric Cowd Memorial Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "Paid as $5,000 a year for up to four years of full-time study",
+      "url": "https://www.scu.edu.au/scholarships/neil-eric-cowd-memorial-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Hardship rule",
+      "quote": "a demonstrable form of hardship and or disadvantage",
+      "url": "https://www.scu.edu.au/scholarships/neil-eric-cowd-memorial-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/neil-eric-cowd-memorial-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

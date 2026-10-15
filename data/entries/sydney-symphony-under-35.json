@@ -1,0 +1,58 @@
+{
+  "id": "sydney-symphony-under-35",
+  "name": "Sydney Symphony Orchestra Under 35s tickets",
+  "provider": "Sydney Symphony Orchestra",
+  "category": "streaming",
+  "summary": "Up to 15% off single tickets and $55 subscription tickets for people under 35 at Sydney Symphony Orchestra concerts.",
+  "key": "Up to 15% off full price tickets, and Series Pack subscriptions at $55 per ticket for under 35s.",
+  "who": [
+    "People under 35."
+  ],
+  "catches": [
+    "A–C Reserve and most concerts only."
+  ],
+  "tags": [
+    "sso",
+    "orchestra",
+    "sydney",
+    "under 35"
+  ],
+  "source": {
+    "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+    "label": "Sydney Symphony Orchestra: Special Pricing"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "age": {
+      "max": 34
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Under 35 eligibility",
+      "quote": "Under 35s Tickets are available for people under the age of 35.",
+      "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+      "page_date": null
+    },
+    {
+      "claim": "Up to 15% off",
+      "quote": "Available in A–C Reserve for most concerts, including a discount of up to 15% on full price tickets.",
+      "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+      "page_date": null
+    },
+    {
+      "claim": "$55 subscription",
+      "quote": "Special Under 35 subscription pricing is available in A–C Reserve for most of our Series Packs at just $55 per ticket.",
+      "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+      "page_date": null
+    }
+  ]
+}

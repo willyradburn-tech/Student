@@ -1,0 +1,64 @@
+{
+  "id": "queensland-rail-travel-student-fare",
+  "name": "Queensland Rail Travel student fares",
+  "provider": "Queensland Rail Travel",
+  "category": "transport",
+  "summary": "Discounted long-distance rail fares in Queensland for full-time secondary and tertiary students aged 16 and over.",
+  "key": "Save up to 40% off the full adult AChoice rail fare on Queensland Rail Travel network services.",
+  "who": [
+    "16 years and over enrolled full-time in accredited secondary or tertiary education with approved identification."
+  ],
+  "how": [
+    "Student bookings are available online."
+  ],
+  "catches": [
+    "Concession cards used to buy discounted tickets must be carried while travelling.",
+    "Upgrades to Sleeper or RailBed fares cost extra."
+  ],
+  "tags": [
+    "queensland rail",
+    "spirit of queensland",
+    "tilt train",
+    "long distance",
+    "train",
+    "qld"
+  ],
+  "source": {
+    "url": "https://www.queenslandrailtravel.com.au/PolicyCentre/Pages/FareTypes.aspx",
+    "label": "Queensland Rail Travel: Fare Types"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "age": {
+      "min": 16
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Up to 40% off",
+      "quote": "The 40% discount is off the full adult AChoice rail fare on Queensland Rail Travel network services.",
+      "url": "https://www.queenslandrailtravel.com.au/PolicyCentre/Pages/FareTypes.aspx",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "16 years and over enrolled full-time in accredited secondary or tertiary education with approved identification",
+      "url": "https://www.queenslandrailtravel.com.au/PolicyCentre/Pages/FareTypes.aspx",
+      "page_date": null
+    },
+    {
+      "claim": "International students also covered",
+      "quote": "Student discount fares are available to full-time Queensland secondary students or International students",
+      "url": "https://www.queenslandrailtravel.com.au/Planyourtrip/rail-fares/students",
+      "page_date": null
+    }
+  ]
+}

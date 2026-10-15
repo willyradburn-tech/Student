@@ -1,0 +1,61 @@
+{
+  "id": "belvoir-student-saver",
+  "name": "Belvoir St Theatre Student Saver tickets",
+  "provider": "Belvoir St Theatre",
+  "category": "streaming",
+  "summary": "Discounted Student Saver and 30-Down tickets, plus concession prices for full-time students, at Belvoir in Surry Hills, Sydney.",
+  "key": "Student Saver tickets are $37 Upstairs and $25 Downstairs.",
+  "who": [
+    "Students (concession needs a full-time Australian student card).",
+    "30-Down prices ($47 Upstairs, $32 Downstairs) are also offered."
+  ],
+  "how": [
+    "Choose the Student Saver price type when booking and bring proof."
+  ],
+  "catches": [
+    "Student Saver and 30-Down apply to previews and selected sessions only.",
+    "Prices may change; check with the Box Office."
+  ],
+  "tags": [
+    "belvoir",
+    "theatre",
+    "sydney",
+    "surry hills",
+    "under 30"
+  ],
+  "source": {
+    "url": "https://belvoir.com.au/visiting-belvoir/ticket-prices/",
+    "label": "Belvoir: Ticket Prices"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Student Saver price",
+      "quote": "Student Saver# $37 $25",
+      "url": "https://belvoir.com.au/visiting-belvoir/ticket-prices/",
+      "page_date": null
+    },
+    {
+      "claim": "Concession with student card",
+      "quote": "Concession prices are available with a full-time Australian student card",
+      "url": "https://belvoir.com.au/visiting-belvoir/ticket-prices/",
+      "page_date": null
+    },
+    {
+      "claim": "Performances",
+      "quote": "30-Down and Student Saver prices are available for Previews, Wednesday evening, Thursday evening,",
+      "url": "https://belvoir.com.au/visiting-belvoir/ticket-prices/",
+      "page_date": null
+    }
+  ]
+}

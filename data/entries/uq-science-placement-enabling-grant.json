@@ -1,0 +1,70 @@
+{
+  "id": "uq-science-placement-enabling-grant",
+  "name": "UQ Faculty of Science Placement Enabling Grant",
+  "provider": "University of Queensland, Faculty of Science",
+  "category": "uni",
+  "summary": "Grant for UQ science students in financial need to cover the extra costs of a required placement.",
+  "key": "Up to $2,000.",
+  "who": [
+    "Can show financial need (Centrelink statements, ATO statements, family income, etc.).",
+    "Can show financial impost from your placement.",
+    "Domestic or international, enrolled in at least a 50% load in an approved program.",
+    "Doing placements of at least 120 hours in total in the year of the award."
+  ],
+  "how": [
+    "Submit the online application form by 11.59pm AEST on a closing date."
+  ],
+  "catches": [
+    "Allocated four times a year. Closing dates are 31 January, 30 April, 31 July and 31 October.",
+    "Next closing date is 31 October 2026, for Semester 2 or Summer placements."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "placement",
+    "science",
+    "prac"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/faculty-science-placement-enabling-grant",
+    "label": "UQ Scholarships: Faculty of Science Placement Enabling Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "prac": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Up to $2,000",
+      "quote": "up to $2,000",
+      "url": "https://scholarships.uq.edu.au/scholarship/faculty-science-placement-enabling-grant",
+      "page_date": null
+    },
+    {
+      "claim": "Financial need required",
+      "quote": "can demonstrate financial need (Centrelink statements, ATO statements, family income, etc.)",
+      "url": "https://scholarships.uq.edu.au/scholarship/faculty-science-placement-enabling-grant",
+      "page_date": null
+    },
+    {
+      "claim": "Placement of 120+ hours",
+      "quote": "are undertaking placement/s of at least 120 hours total (combined) duration in the year of the award.",
+      "url": "https://scholarships.uq.edu.au/scholarship/faculty-science-placement-enabling-grant",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-10-31"
+}

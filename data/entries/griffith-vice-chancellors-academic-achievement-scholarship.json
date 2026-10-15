@@ -1,0 +1,55 @@
+{
+  "id": "griffith-vice-chancellors-academic-achievement-scholarship",
+  "name": "Vice Chancellor's Academic Achievement Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Cash scholarship for high-achieving school leavers starting their first Griffith undergraduate degree.",
+  "key": "Cash (from $15,000) + Student Academy of Excellence offer + access to a travel grant.",
+  "who": [
+    "Be a commencing undergraduate student in Trimester 1, 2027.",
+    "Receive an unadjusted ATAR of 95.45 or above."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process.",
+    "Include your QTAC or UAC reference number."
+  ],
+  "catches": [
+    "Apply by Monday 21 December 2026, 4pm for Trimester 1, 2027, Round 1."
+  ],
+  "tags": [
+    "griffith",
+    "merit",
+    "atar",
+    "school leaver"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/vice-chancellors-academic-achievement-scholarship/",
+    "label": "Griffith University: Vice Chancellor's Academic Achievement Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Cash (from $15,000) + Student Academy of Excellence offer + access to a travel grant",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/vice-chancellors-academic-achievement-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "receive an unadjusted ATAR (Australian Tertiary Admission Rank) of 95.45 or above",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/vice-chancellors-academic-achievement-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

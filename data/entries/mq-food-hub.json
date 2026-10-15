@@ -1,0 +1,47 @@
+{
+  "id": "mq-food-hub",
+  "name": "Macquarie University Food Hub",
+  "provider": "Macquarie University",
+  "category": "uni",
+  "summary": "Free or heavily discounted groceries, fresh produce and pantry staples for Macquarie students.",
+  "key": "Food provided for free or at heavily discounted prices.",
+  "who": [
+    "Macquarie University students"
+  ],
+  "how": [
+    "Register online to get a pick-up time"
+  ],
+  "tags": [
+    "mq",
+    "food",
+    "pantry"
+  ],
+  "source": {
+    "url": "https://students.mq.edu.au/uni-life/community/food-hub",
+    "label": "Macquarie University: Food Hub"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free or discounted food",
+      "quote": "for free or at heavily discounted prices",
+      "url": "https://students.mq.edu.au/uni-life/community/food-hub",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "deakin-student-support-scholarship",
+  "name": "Deakin Student Support Scholarship",
+  "provider": "Deakin University",
+  "category": "uni",
+  "summary": "Up to $10,000 a year for domestic Deakin students facing financial, regional, disability, refugee or other hardship.",
+  "key": "$2,500 to $10,000 a year, or a $1,000 one-off payment.",
+  "who": [
+    "Domestic student enrolling in a CSP associate, bachelor or honours degree, or a postgraduate coursework degree.",
+    "Full-time in Trimester/Semester 1 2027 unless circumstances prevent it.",
+    "Experiencing hardship such as financial hardship, regional location, disability, Indigenous background or refugee arrival."
+  ],
+  "how": [
+    "Apply through Deakin's Scholarship Application Portal and upload evidence."
+  ],
+  "catches": [
+    "Opened 14 September 2026. Bachelor round one closes 5pm Wednesday 16 December 2026, re-offer round 20 January 2027.",
+    "Associate, honours and postgraduate applications close 5pm Wednesday 3 February 2027."
+  ],
+  "tags": [
+    "deakin",
+    "deakin university",
+    "melbourne",
+    "vic",
+    "equity",
+    "hardship",
+    "regional",
+    "disability",
+    "refugee"
+  ],
+  "source": {
+    "url": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/deakin-student-support-scholarship",
+    "label": "Deakin: Student Support Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Top value",
+      "quote": "$10,000 per year ($1250 per credit point)",
+      "url": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/deakin-student-support-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Opening date",
+      "quote": "Applications open 14 September 2026.",
+      "url": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/deakin-student-support-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-12-16"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "mq-regional-remote-support-scholarship",
+  "name": "Macquarie Regional and Remote Support Scholarship",
+  "provider": "Macquarie University",
+  "category": "uni",
+  "summary": "Yearly payment for full-time Macquarie undergraduates from regional or remote areas in financial hardship.",
+  "key": "$10,000 per year, for up to 4 years.",
+  "who": [
+    "Australian citizen, permanent resident or permanent humanitarian visa holder",
+    "Full-time undergraduate",
+    "From a regional or remote area and in financial hardship",
+    "Receiving Youth Allowance or another means-tested Commonwealth payment"
+  ],
+  "how": [
+    "Apply via the UAC Equity Scholarship Application Portal"
+  ],
+  "catches": [
+    "The page still shows 2024 round dates; check UAC for the current round"
+  ],
+  "tags": [
+    "mq",
+    "equity",
+    "scholarship",
+    "regional"
+  ],
+  "source": {
+    "url": "https://mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-regional-and-remote-support-scholarship",
+    "label": "Macquarie University: Macquarie Regional and Remote Support Scholarship"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Regional and hardship criterion",
+      "quote": "Be from a regional and remote area; Able to demonstrate financial hardship",
+      "url": "https://mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-regional-and-remote-support-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "flinders-peter-torjul-interstate-student-scholarship",
+  "name": "Flinders Peter Torjul Interstate Student Scholarship",
+  "provider": "Flinders University",
+  "category": "uni",
+  "summary": "$10,000 a year for up to four years for interstate students (outside SA and NT) with financial need starting a Flinders degree.",
+  "key": "$10,000 per annum for up to four years.",
+  "who": [
+    "Australian or NZ citizen, permanent resident or permanent humanitarian visa holder",
+    "Apply through SATAC with an eligible Flinders course as first preference",
+    "Receive means-tested government payments or demonstrate financial hardship",
+    "Permanent residential address in any Australian state or territory other than South Australia or the Northern Territory"
+  ],
+  "how": [
+    "Apply online through the Flinders University Student System by the closing date"
+  ],
+  "catches": [
+    "The 2026 round opened 15-12-2025 and closed 06-02-2026; check for the next round",
+    "Cannot be held with other major University scholarships"
+  ],
+  "tags": [
+    "flinders",
+    "adelaide",
+    "sa",
+    "interstate",
+    "relocation",
+    "scholarship",
+    "nsw",
+    "qld",
+    "vic"
+  ],
+  "source": {
+    "url": "https://www.flinders.edu.au/scholarships/the-peter-torjul-interstate-student-scholarship",
+    "label": "Flinders University: The Peter Torjul Interstate Student Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$10,000 per annum",
+      "url": "https://www.flinders.edu.au/scholarships/the-peter-torjul-interstate-student-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Interstate",
+      "quote": "permanent residential address in any Australian state or territory",
+      "url": "https://www.flinders.edu.au/scholarships/the-peter-torjul-interstate-student-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

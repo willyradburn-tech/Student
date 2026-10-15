@@ -1,0 +1,69 @@
+{
+  "id": "scu-diploma-pathway-scholarship",
+  "name": "Diploma Pathway Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$2,500 offered automatically with an Early Offer to a full-time SCU Diploma pathway program starting in 2027.",
+  "key": "$2500 per scholarship.",
+  "who": [
+    "Starting a Diploma pathway program in 2027 with an Early Offer.",
+    "On track for an ATAR of 45 or better.",
+    "Studying full-time."
+  ],
+  "how": [
+    "No application needed. It comes with the course offer."
+  ],
+  "catches": [
+    "200 places, with a waiting list if places come free.",
+    "Paid in instalments of $250 per 12 credit points plus a $500 sign-on bonus."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "diploma",
+    "pathway",
+    "school leaver",
+    "early offer"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/diploma-pathway-scholarship/",
+    "label": "Southern Cross University: Diploma Pathway Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$2500 per scholarship.",
+      "url": "https://www.scu.edu.au/scholarships/diploma-pathway-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Be on track to receive an ATAR of 45 or better.",
+      "url": "https://www.scu.edu.au/scholarships/diploma-pathway-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "No application",
+      "quote": "No application required.",
+      "url": "https://www.scu.edu.au/scholarships/diploma-pathway-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

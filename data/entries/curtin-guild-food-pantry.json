@@ -1,0 +1,58 @@
+{
+  "id": "curtin-guild-food-pantry",
+  "name": "Curtin Guild Food Pantry",
+  "provider": "Curtin Student Guild",
+  "category": "uni",
+  "summary": "Free pantry staples for enrolled Curtin students in genuine financial hardship, by booking, up to twice a semester.",
+  "key": "The Guild Food Pantry stocks a range of non-perishable pantry staples.",
+  "who": [
+    "Available to currently enrolled Curtin University students facing genuine financial hardship"
+  ],
+  "how": [
+    "Book a time slot and bring your Curtin student card to Guild Building 106F (Tue, Wed, Fri)"
+  ],
+  "catches": [
+    "Up to two visits per semester",
+    "Closed on public holidays"
+  ],
+  "tags": [
+    "curtin",
+    "curtin guild",
+    "perth",
+    "wa",
+    "food",
+    "pantry",
+    "free",
+    "student union"
+  ],
+  "source": {
+    "url": "https://guild.curtin.edu.au/advice/guildstudentpantry/",
+    "label": "Curtin Student Guild: About the Pantry"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "What",
+      "quote": "The Guild Food Pantry stocks a range of non-perishable pantry staples.",
+      "url": "https://guild.curtin.edu.au/advice/guildstudentpantry/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "available to currently enrolled Curtin University students facing genuine financial hardship.",
+      "url": "https://guild.curtin.edu.au/advice/guildstudentpantry/",
+      "page_date": null
+    }
+  ],
+  "closes": "closed"
+}

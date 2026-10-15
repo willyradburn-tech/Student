@@ -1,0 +1,66 @@
+{
+  "id": "adelaide-uni-online-grant",
+  "name": "Adelaide University Online Grant",
+  "provider": "Adelaide University",
+  "category": "uni",
+  "summary": "One-off $1,500 for commencing AU Online students with financial disadvantage or who live outside major cities.",
+  "key": "One-off payment of $1,500.",
+  "who": [
+    "Commencing undergraduate or postgraduate coursework student studying online in an AU Online program of at least two years",
+    "Australian citizen, permanent resident or New Zealand citizen",
+    "Financial disadvantage and/or a regional, rural or remote home postcode"
+  ],
+  "how": [
+    "Apply via MyScholarships on the Student Portal"
+  ],
+  "catches": [
+    "The latest listed round opened Monday 27 July 2026 and closed Sunday 23 August 2026",
+    "Must be used in the year it is offered"
+  ],
+  "tags": [
+    "adelaide uni",
+    "adelaide university",
+    "au online",
+    "sa",
+    "online",
+    "regional",
+    "grant"
+  ],
+  "source": {
+    "url": "https://adelaide.edu.au/study/scholarships/dom/adelaide-university-online-grant/",
+    "label": "Adelaide University: Adelaide University Online Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "one-off payment of $1,500.",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/adelaide-university-online-grant/",
+      "page_date": null
+    },
+    {
+      "claim": "Dates",
+      "quote": "Sunday 23 August 2026",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/adelaide-university-online-grant/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

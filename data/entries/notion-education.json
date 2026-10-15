@@ -1,0 +1,33 @@
+{
+  "id": "notion-education",
+  "name": "Notion Education Plan",
+  "provider": "Notion",
+  "category": "software",
+  "summary": "Free Notion with unlimited uploads and 30-day page history for uni students.",
+  "tags": [
+    "notes",
+    "notion",
+    "study planner"
+  ],
+  "key": "Free for students at accredited colleges and universities.",
+  "need": [
+    "Your uni email set as the main email on your Notion account. Student IDs aren't accepted."
+  ],
+  "how": [
+    "Open Settings in the sidebar.",
+    "Select Upgrade plan, then Get free education plan.",
+    "Do it on desktop or web, not mobile. If you're on a paid plan, downgrade to Free first."
+  ],
+  "catches": [
+    "You must re-verify once a year with your uni email, or your workspace drops to the Free Plan."
+  ],
+  "status": "verified",
+  "verified": "2026-10-13",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "source": {
+    "url": "https://www.notion.com/help/notion-for-education",
+    "label": "Notion: Notion for education"
+  }
+}

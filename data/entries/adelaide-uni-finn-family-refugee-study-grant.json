@@ -1,0 +1,60 @@
+{
+  "id": "adelaide-uni-finn-family-refugee-study-grant",
+  "name": "Adelaide University Finn Family Refugee Study Grant",
+  "provider": "Adelaide University",
+  "category": "uni",
+  "summary": "$1,500 grant for students from a refugee or humanitarian background starting an undergraduate or pathway program.",
+  "key": "$1,500 in total, paid in two instalments of $750.",
+  "who": [
+    "Refugee or humanitarian background",
+    "Commencing study with Adelaide University for the first time in an undergraduate or pathway program",
+    "Financial and/or other educational barriers to study"
+  ],
+  "how": [
+    "Online via myScholarships with a written statement of up to 500 words"
+  ],
+  "catches": [
+    "2026 applications closed 15 March 2026; check for the next round",
+    "Full-time study preferred; part-time may be considered"
+  ],
+  "tags": [
+    "adelaide uni",
+    "adelaide university",
+    "adelaide",
+    "sa",
+    "refugee",
+    "humanitarian",
+    "grant"
+  ],
+  "source": {
+    "url": "https://adelaide.edu.au/study/scholarships/dom/finn-family-refugee-study-grant/",
+    "label": "Adelaide University: Finn Family Refugee Study Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$1,500",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/finn-family-refugee-study-grant/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "commencing study with Adelaide University for the first time.",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/finn-family-refugee-study-grant/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

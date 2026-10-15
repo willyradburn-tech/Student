@@ -1,0 +1,64 @@
+{
+  "id": "csu-pathways-to-practice-intensive-school-scholarship",
+  "name": "Charles Sturt Pathways to Practice Intensive School Scholarship",
+  "provider": "Charles Sturt University",
+  "category": "uni",
+  "summary": "Daily payment to help Charles Sturt students attend compulsory on-campus intensive schools.",
+  "key": "$80 per day, plus extra support based on distance travelled.",
+  "who": [
+    "Enrolled in a Commonwealth Supported Place",
+    "Doing a subject with a compulsory intensive school with confirmed dates"
+  ],
+  "how": [
+    "Complete an online application form"
+  ],
+  "catches": [
+    "Runs in rounds; the latest round closed 11:59pm 10 Aug 2026, so check the page for the next round",
+    "Meeting the criteria does not guarantee an offer due to limited funds"
+  ],
+  "tags": [
+    "csu",
+    "charles sturt",
+    "intensive school",
+    "residential school",
+    "travel",
+    "online study"
+  ],
+  "source": {
+    "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-intensive-school-scholarship",
+    "label": "Charles Sturt University: Pathways to Practice - Intensive School Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Daily amount",
+      "quote": "Value: $80 per day, plus extra support based on distance travelled",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-intensive-school-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Must be in a CSP",
+      "quote": "Enrolled in a Commonwealth Supported Place (CSP).",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-intensive-school-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Intensive school requirement",
+      "quote": "Undertaking a subject that includes a compulsory intensive school, with confirmed dates and details.",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-intensive-school-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

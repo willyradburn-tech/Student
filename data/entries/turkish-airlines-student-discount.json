@@ -1,0 +1,54 @@
+{
+  "id": "turkish-airlines-student-discount",
+  "name": "Turkish Airlines student fares",
+  "provider": "Turkish Airlines",
+  "category": "transport",
+  "summary": "Student fares with 40kg baggage and discounts on international flights for Miles&Smiles member students aged 12 to 34.",
+  "key": "A 15% student discount awaits you on flights between two destinations outside of Türkiye.",
+  "who": [
+    "Students aged 12 to 34 (who have not yet turned 35) for international flights.",
+    "Only Miles&Smiles member students are eligible."
+  ],
+  "how": [
+    "Create a Miles&Smiles membership, then upload documents proving your student status."
+  ],
+  "catches": [
+    "Student status expires after one year.",
+    "Tickets bought with the Student passenger type include a 40kg baggage allowance."
+  ],
+  "tags": [
+    "turkish airlines",
+    "airline",
+    "international flights",
+    "baggage",
+    "europe"
+  ],
+  "source": {
+    "url": "https://www.turkishairlines.com/en-int/student/",
+    "label": "Turkish Airlines: Student discount"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "age": {
+      "min": 12,
+      "max": 34
+    }
+  },
+  "evidence": [
+    {
+      "claim": "15% discount",
+      "quote": "A 15% student discount awaits you on flights between two destinations outside of Türkiye.",
+      "url": "https://www.turkishairlines.com/en-int/student/",
+      "page_date": null
+    },
+    {
+      "claim": "Age",
+      "quote": "Students aged 12–34 (who have not yet turned 35) are eligible for student airfare discounts on international flights.",
+      "url": "https://www.turkishairlines.com/en-int/student/",
+      "page_date": null
+    }
+  ]
+}

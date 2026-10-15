@@ -1,0 +1,73 @@
+{
+  "id": "griffith-adora-indigenous-nursing-midwifery-scholarship",
+  "name": "Adora Indigenous Nursing and Midwifery Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $15,000 for Aboriginal and Torres Strait Islander nursing and midwifery students in financial hardship.",
+  "key": "Maximum value is $15,000.",
+  "who": [
+    "Aboriginal and/or Torres Strait Islander.",
+    "Australian citizen.",
+    "In year one, two or three of the Bachelor of Nursing or Bachelor of Midwifery.",
+    "At least two trimesters of full-time study remaining.",
+    "Demonstrate financial hardship."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Apply by Monday 22 March 2027, 4pm, for Trimester 1 2027."
+  ],
+  "tags": [
+    "griffith",
+    "first nations",
+    "indigenous",
+    "nursing",
+    "midwifery"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/adora-indigenous-nursing-and-midwifery-scholarship",
+    "label": "Griffith University: Adora Indigenous Nursing and Midwifery Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value is $15,000.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/adora-indigenous-nursing-and-midwifery-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "be enrolled in the Bachelor of Nursing or Bachelor of Midwifery program at Griffith University in year one, two or three",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/adora-indigenous-nursing-and-midwifery-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

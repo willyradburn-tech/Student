@@ -1,0 +1,59 @@
+{
+  "id": "engineers-australia-student",
+  "name": "Engineers Australia student membership",
+  "provider": "Engineers Australia",
+  "category": "career",
+  "summary": "Free membership for engineering students, with a jobs board, events and internship resources.",
+  "tags": [
+    "engineering",
+    "internships",
+    "networking",
+    "jobs"
+  ],
+  "key": "Free.",
+  "who": [
+    "Anyone studying an accredited or recognised Australian engineering course, from advanced diplomas to conversion master's degrees."
+  ],
+  "numbers": [
+    [
+      "Jobs board",
+      "Member-only early-career roles"
+    ],
+    [
+      "Career centre",
+      "Videos and tips on landing internships"
+    ],
+    [
+      "Network",
+      "Events, quiz nights and webinars"
+    ]
+  ],
+  "how": [
+    "Create a free account in the Engineers Australia member portal and enter your course details.",
+    "Student applications are processed instantly."
+  ],
+  "catches": [
+    "Many technical societies are also free for students, including Transport Australia, Railway Technical, Australian Tunnelling and Sustainable Engineering. Others charge a small fee."
+  ],
+  "extra_sources": [
+    {
+      "url": "https://www.engineersaustralia.org.au/sites/default/files/2026-04/engineers-australia-membership-fees-technical-societies-2026-2027.pdf",
+      "label": "Engineers Australia: technical society fees 2026-27"
+    }
+  ],
+  "status": "verified",
+  "verified": "2026-10-13",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://www.engineersaustralia.org.au/membership/student",
+    "label": "Engineers Australia: student membership"
+  }
+}

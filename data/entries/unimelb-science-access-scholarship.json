@@ -1,0 +1,59 @@
+{
+  "id": "unimelb-science-access-scholarship",
+  "name": "University of Melbourne Science Access Scholarship",
+  "provider": "University of Melbourne",
+  "category": "uni",
+  "summary": "A $6,500 yearly living allowance for Access Melbourne students starting a Bachelor of Science.",
+  "key": "$6,500 a year for four years, up to $32,500, about 10 offered.",
+  "who": [
+    "Australian or NZ citizen or Australian permanent visa holder.",
+    "Completed Year 12 or IB in Australia and applied for the Bachelor of Science."
+  ],
+  "how": [
+    "Automatic consideration when you apply for admission and submit a VTAC Equity Schemes and scholarships application."
+  ],
+  "tags": [
+    "unimelb",
+    "university of melbourne",
+    "melbourne",
+    "vic",
+    "science",
+    "access melbourne",
+    "equity"
+  ],
+  "source": {
+    "url": "https://scholarships.unimelb.edu.au/awards/science-access-scholarship",
+    "label": "University of Melbourne: Science Access Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "a living allowance of $6,500 per year for four years.",
+      "url": "https://scholarships.unimelb.edu.au/awards/science-access-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

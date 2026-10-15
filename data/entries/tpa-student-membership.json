@@ -1,0 +1,46 @@
+{
+  "id": "tpa-student-membership",
+  "name": "Transport Professionals Association student membership",
+  "provider": "Transport Professionals Association (formerly AITPM)",
+  "category": "career",
+  "summary": "Free membership of the Transport Professionals Association for students in transport-related disciplines.",
+  "key": "Free membership for students studying transport-related disciplines.",
+  "who": [
+    "Studying a transport-related discipline"
+  ],
+  "how": [
+    "Choose your membership category and complete the online form."
+  ],
+  "tags": [
+    "transport planning",
+    "traffic engineering",
+    "aitpm",
+    "civil engineering",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://transportprofessionals.com.au/membership/become-a-tpa-member",
+    "label": "Transport Professionals Association: Become a TPA Member"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering",
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Free membership for students studying transport-related disciplines",
+      "url": "https://transportprofessionals.com.au/membership/become-a-tpa-member",
+      "page_date": null
+    }
+  ]
+}

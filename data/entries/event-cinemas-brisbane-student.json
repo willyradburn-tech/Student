@@ -1,0 +1,64 @@
+{
+  "id": "event-cinemas-brisbane-student",
+  "name": "Event Cinemas student tickets (Brisbane City, Indooroopilly, Australia Fair)",
+  "provider": "Event Cinemas",
+  "category": "streaming",
+  "summary": "$11.50 movie tickets for students at Event Cinemas Brisbane City, Indooroopilly and Australia Fair via a Cinebuzz promo code.",
+  "key": "Students can see films for just $11.50 (online booking fee applies).",
+  "who": [
+    "Students with a valid current student ID card and a free Cinebuzz account."
+  ],
+  "how": [
+    "Show your student ID at the cinema to get a promo code.",
+    "Add the promo code to your Cinebuzz account online; it can take up to 24 hours to load."
+  ],
+  "catches": [
+    "Limited time only offer.",
+    "Not valid in Gold Class, Boutique, IMAX, 4DX, ScreenX or premium seating, or for special events.",
+    "The page's summary also mentions an $8 Student Monday ticket, which conflicts with the $11.50 offer."
+  ],
+  "tags": [
+    "event cinemas",
+    "movies",
+    "brisbane",
+    "gold coast",
+    "indooroopilly",
+    "southport",
+    "cinebuzz"
+  ],
+  "source": {
+    "url": "https://www.eventcinemas.com.au/Promotions/CheapMovieTickets",
+    "label": "Event Cinemas: Cheap Movie Tickets"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Price",
+      "quote": "for just $11.50*.",
+      "url": "https://www.eventcinemas.com.au/Promotions/CheapMovieTickets",
+      "page_date": null
+    },
+    {
+      "claim": "Cinemas",
+      "quote": "Offer only valid at Event Cinemas Australia Fair, Brisbane City and Event Cinemas Indooroopilly.",
+      "url": "https://www.eventcinemas.com.au/Promotions/CheapMovieTickets",
+      "page_date": null
+    },
+    {
+      "claim": "Student ID and Cinebuzz",
+      "quote": "Only valid for single admission with a valid current student ID card and registered Cinebuzz card or barcode.",
+      "url": "https://www.eventcinemas.com.au/Promotions/CheapMovieTickets",
+      "page_date": null
+    }
+  ]
+}

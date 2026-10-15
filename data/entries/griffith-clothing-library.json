@@ -1,0 +1,44 @@
+{
+  "id": "griffith-clothing-library",
+  "name": "The Clothing Library",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Free business wear for Griffith students for interviews, internships and work placements.",
+  "how": [
+    "Visit the red shipping container outside the L04 student lounge at Logan, or email s.paterson@griffith.edu.au."
+  ],
+  "catches": [
+    "Opening depends on staff availability, usually market days at Logan."
+  ],
+  "tags": [
+    "griffith",
+    "clothing",
+    "interview",
+    "placement",
+    "logan",
+    "career"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/student-support/cost-of-living/clothing-library",
+    "label": "Griffith University: The Clothing Library"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "free business wear",
+      "quote": "quality business wear to students at no cost",
+      "url": "https://www.griffith.edu.au/student-support/cost-of-living/clothing-library",
+      "page_date": null
+    }
+  ]
+}

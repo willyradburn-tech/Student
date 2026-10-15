@@ -1,0 +1,70 @@
+{
+  "id": "griffith-geli-direct-entry-program-scholarship",
+  "name": "Griffith GELI Direct Entry Program (DEP) Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "$1,000 off first-trimester tuition for the top international student in a Griffith English Language Institute Direct Entry Program cohort.",
+  "key": "AU$1,000 will be deducted from undergraduate or postgraduate coursework tuition fees only.",
+  "who": [
+    "Citizen of a country other than Australia or New Zealand",
+    "Complete the Direct Entry Program at GELI and meet entry requirements",
+    "Start full-time at Griffith in Trimester 1, 2 or 3 of 2025 or 2026"
+  ],
+  "how": [
+    "No application: Griffith contacts the top performer in the cohort"
+  ],
+  "catches": [
+    "First trimester of first year only",
+    "Page lists 2025 or 2026 starts only; check for a 2027 round"
+  ],
+  "tags": [
+    "griffith",
+    "geli",
+    "english",
+    "direct entry",
+    "qld",
+    "international",
+    "intl",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/geli-direct-entry-program-scholarship",
+    "label": "Griffith University: GELI Direct Entry Program Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "AU$1,000 will be deducted from undergraduate or postgraduate coursework tuition fees only.",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/geli-direct-entry-program-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "No application",
+      "quote": "You don't need to apply for the scholarship.",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/geli-direct-entry-program-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

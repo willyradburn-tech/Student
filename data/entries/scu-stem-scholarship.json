@@ -1,0 +1,78 @@
+{
+  "id": "scu-stem-scholarship",
+  "name": "SCU STEM Scholarship",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$27,000 over three years for 2026 Year 12 graduates of listed regional high schools starting a full-time STEM degree at SCU.",
+  "key": "$27,000 ($9,000 a year for three years).",
+  "who": [
+    "Completed Year 12 in 2026 at one of the listed regional high schools on the Coffs Coast, Gold Coast or Northern Rivers.",
+    "Australian citizen or permanent resident in a Commonwealth supported place.",
+    "Starting full-time study in Term 1, 2027 in a listed STEM degree or approved pathway."
+  ],
+  "how": [
+    "No application. All eligible students who receive a STEM offer get it."
+  ],
+  "catches": [
+    "Unlimited number of awards.",
+    "Can't be held with another SCU-funded scholarship."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "stem",
+    "engineering",
+    "science",
+    "it",
+    "school leaver",
+    "regional"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/southern-cross-university-stem-scholarship/",
+    "label": "Southern Cross University: STEM Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering",
+        "it",
+        "other"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$27,000 ($9,000 a year for three years)",
+      "url": "https://www.scu.edu.au/scholarships/southern-cross-university-stem-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "School rule",
+      "quote": "Have completed Year 12 in 2026 at one of these identified regional High Schools.",
+      "url": "https://www.scu.edu.au/scholarships/southern-cross-university-stem-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

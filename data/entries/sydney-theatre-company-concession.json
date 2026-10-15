@@ -1,0 +1,60 @@
+{
+  "id": "sydney-theatre-company-concession",
+  "name": "Sydney Theatre Company student and under 30 concession tickets",
+  "provider": "Sydney Theatre Company",
+  "category": "streaming",
+  "summary": "Concession-priced Sydney Theatre Company tickets for full-time student card holders and people under 30.",
+  "who": [
+    "Holders of a current full-time student card.",
+    "People under 30 with proof of age."
+  ],
+  "how": [
+    "Show valid ID at the Box Office when picking up tickets."
+  ],
+  "catches": [
+    "The page does not list concession prices.",
+    "A $8.95 transaction fee applies."
+  ],
+  "tags": [
+    "stc",
+    "sydney theatre company",
+    "theatre",
+    "sydney",
+    "under 30"
+  ],
+  "source": {
+    "url": "https://www.sydneytheatre.com.au/ticket-info/ticketing-faqs",
+    "label": "Sydney Theatre Company: Ticketing FAQs"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Full-time student card",
+      "quote": "Current Full Time Student Card",
+      "url": "https://www.sydneytheatre.com.au/ticket-info/ticketing-faqs",
+      "page_date": null
+    },
+    {
+      "claim": "Under 30",
+      "quote": "Valid proof of age ID if you are under 30 years old.",
+      "url": "https://www.sydneytheatre.com.au/ticket-info/ticketing-faqs",
+      "page_date": null
+    },
+    {
+      "claim": "ID needed",
+      "quote": "Concession tickets will not be issued until valid ID has been presented to our Box Office when picking up tickets, or an upgrade fee may be payable.",
+      "url": "https://www.sydneytheatre.com.au/ticket-info/ticketing-faqs",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "study-melbourne-isealp-legal-advice",
+  "name": "Study Melbourne free employment and accommodation legal advice (ISEALP)",
+  "provider": "Study Melbourne (Victorian Government)",
+  "category": "health",
+  "summary": "Free, confidential legal advice for international students in Victoria on employment and accommodation problems, via referral from the Study Melbourne Hub.",
+  "key": "free, confidential and independent legal advice.",
+  "who": [
+    "International students with employment or accommodation issues (eligibility not spelled out on the page)"
+  ],
+  "how": [
+    "Contact the Study Melbourne Hub (1800 056 449, 17 Hardware Lane, Melbourne, or the online enquiry form) for a referral"
+  ],
+  "catches": [
+    "Covers employment matters (such as unpaid wages) and accommodation matters (such as bond returns and rent increases)",
+    "Category is the closest fit: free legal service"
+  ],
+  "tags": [
+    "international",
+    "intl",
+    "victoria",
+    "vic",
+    "melbourne",
+    "legal advice",
+    "free legal",
+    "unpaid wages",
+    "tenancy",
+    "bond",
+    "isealp",
+    "study melbourne"
+  ],
+  "source": {
+    "url": "https://studymelbourne.vic.gov.au/living-here/help-in-tough-times/get-legal-advice/free-employment-and-accommodation-legal-advice",
+    "label": "Study Melbourne: Free employment and accommodation legal advice"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free legal advice",
+      "quote": "free, confidential and independent legal advice.",
+      "url": "https://studymelbourne.vic.gov.au/living-here/help-in-tough-times/get-legal-advice/free-employment-and-accommodation-legal-advice",
+      "page_date": null
+    },
+    {
+      "claim": "Referral",
+      "quote": "can refer you to our International Student Employment and Accommodation Legal Program (ISEALP).",
+      "url": "https://studymelbourne.vic.gov.au/living-here/help-in-tough-times/get-legal-advice/free-employment-and-accommodation-legal-advice",
+      "page_date": null
+    }
+  ]
+}

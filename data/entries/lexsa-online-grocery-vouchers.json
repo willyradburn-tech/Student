@@ -1,0 +1,55 @@
+{
+  "id": "lexsa-online-grocery-vouchers",
+  "name": "LEXSA Coles online grocery vouchers",
+  "provider": "LEXSA (Lismore and External Student Association)",
+  "category": "uni",
+  "summary": "Limited Coles grocery vouchers for LEXSA members who can't get to the Lismore campus, such as online students.",
+  "who": [
+    "LEXSA members who can't get to the Lismore campus."
+  ],
+  "how": [
+    "Register with the weekly form during term. Vouchers are emailed to you."
+  ],
+  "catches": [
+    "Registrations fill up quickly once they open.",
+    "LEXSA membership costs $5 to join, then $1 a year to renew."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "lexsa",
+    "online students",
+    "grocery vouchers",
+    "coles",
+    "food"
+  ],
+  "source": {
+    "url": "https://www.lexsa.com.au/support",
+    "label": "LEXSA: Support"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Limited places",
+      "quote": "registrations fill up quickly once registration opens",
+      "url": "https://www.lexsa.com.au/support",
+      "page_date": null
+    },
+    {
+      "claim": "Membership cost",
+      "quote": "students can join for $5 then renew each year for $1",
+      "url": "https://www.lexsa.com.au/support",
+      "page_date": null
+    }
+  ]
+}

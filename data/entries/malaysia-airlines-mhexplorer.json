@@ -1,0 +1,53 @@
+{
+  "id": "malaysia-airlines-mhexplorer",
+  "name": "Malaysia Airlines MHexplorer student program",
+  "provider": "Malaysia Airlines",
+  "category": "transport",
+  "summary": "Student program giving discounts and extra baggage on Malaysia Airlines and Firefly flights for students aged 13 to 26.",
+  "key": "Fly more with savings up to 30% off Malaysia Airlines and Firefly flights.",
+  "who": [
+    "Students aged 13 to 26."
+  ],
+  "how": [
+    "Sign up at malaysiaairlines.com/MHexplorer and submit the required documents."
+  ],
+  "catches": [
+    "If documents are not provided, expired or invalid, the normal fare applies.",
+    "An additional 10kg baggage is provided, subject to terms and conditions."
+  ],
+  "tags": [
+    "malaysia airlines",
+    "firefly",
+    "airline",
+    "international flights",
+    "baggage"
+  ],
+  "source": {
+    "url": "https://www.malaysiaairlines.com/au/en/other-offerings/mhexplorer.html",
+    "label": "Malaysia Airlines Australia: MHexplorer"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "age": {
+      "min": 13,
+      "max": 26
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Up to 30% off",
+      "quote": "Fly more with savings up to 30% off Malaysia Airlines and Firefly flights.",
+      "url": "https://www.malaysiaairlines.com/au/en/other-offerings/mhexplorer.html",
+      "page_date": null
+    },
+    {
+      "claim": "Age",
+      "quote": "MHexplorer is open to all students aged 13-26 years old.",
+      "url": "https://www.malaysiaairlines.com/au/en/other-offerings/mhexplorer.html",
+      "page_date": null
+    }
+  ]
+}

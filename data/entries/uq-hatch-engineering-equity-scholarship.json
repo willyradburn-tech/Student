@@ -1,0 +1,73 @@
+{
+  "id": "uq-hatch-engineering-equity-scholarship",
+  "name": "Hatch Engineering Equity Scholarship (UQ)",
+  "provider": "University of Queensland and Hatch",
+  "category": "uni",
+  "summary": "One-year scholarship for full-time domestic UQ engineering students who can show financial hardship.",
+  "key": "$12,000 for 1 year (1 awarded).",
+  "who": [
+    "Can demonstrate financial hardship.",
+    "Domestic student enrolled full-time in the Bachelor of Engineering (Honours), BE(Hons)/Master of Engineering, or an engineering dual.",
+    "Has completed the required number of units (for BE(Hons), between 12 and 52).",
+    "No similar scholarship."
+  ],
+  "how": [
+    "Apply through the application portal with a cover letter, resume, studies report from mySI-net and evidence of financial hardship."
+  ],
+  "catches": [
+    "Opens January 2027 and closes March 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "engineering",
+    "equity",
+    "financial hardship"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/hatch-engineering-equity-scholarship",
+    "label": "UQ Scholarships: Hatch Engineering Equity Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$12,000",
+      "quote": "$12,000",
+      "url": "https://scholarships.uq.edu.au/scholarship/hatch-engineering-equity-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Financial hardship",
+      "quote": "can demonstrate financial hardship",
+      "url": "https://scholarships.uq.edu.au/scholarship/hatch-engineering-equity-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

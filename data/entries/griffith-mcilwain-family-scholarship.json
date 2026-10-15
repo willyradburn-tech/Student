@@ -1,0 +1,70 @@
+{
+  "id": "griffith-mcilwain-family-scholarship",
+  "name": "McIlwain Family Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $20,000 for commencing Griffith Sciences undergraduates facing educational disadvantage.",
+  "key": "Maximum value is $20,000, paid in instalments.",
+  "who": [
+    "Australian citizen or permanent resident.",
+    "Commencing full-time in Trimester 1.",
+    "GPA of 5 or above or an ATAR of 88.75 or above.",
+    "Demonstrate educational disadvantage.",
+    "Not receiving other scholarship funding."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Apply by 4pm, Friday 29 January 2027."
+  ],
+  "tags": [
+    "griffith",
+    "science",
+    "engineering",
+    "it",
+    "griffith sciences",
+    "equity"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/mcilwain-family-scholarship",
+    "label": "Griffith University: McIlwain Family Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value is $20,000, paid in instalments.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/mcilwain-family-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "demonstrate educational disadvantage based on a comprehensive assessment by the University",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/mcilwain-family-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

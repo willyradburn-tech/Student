@@ -1,0 +1,73 @@
+{
+  "id": "monash-mga-welfare-assistance-program",
+  "name": "MGA Welfare Assistance Program grants",
+  "provider": "Monash Graduate Association",
+  "category": "uni",
+  "summary": "One-off grants that don't need to be repaid, for Monash graduate students in financial hardship, covering food, study, medical and emergency costs.",
+  "key": "Hardship grants of up to $500 per semester, with other grants from $50 food vouchers to $500.",
+  "who": [
+    "Graduate students currently enrolled through a Monash Australian campus.",
+    "Experiencing financial hardship and meeting the criteria for the specific grant."
+  ],
+  "how": [
+    "Log in with your student email address and submit the online application form.",
+    "Attach proof of enrolment and evidence of hardship such as 30-day bank statements."
+  ],
+  "catches": [
+    "Doesn't cover tuition, debt repayment, leisure travel, immigration costs or costs more than 30 days old.",
+    "Hardship grant isn't open to international students in their first six months.",
+    "Paid by EFT into an Australian bank account only."
+  ],
+  "tags": [
+    "monash",
+    "monash university",
+    "melbourne",
+    "vic",
+    "postgraduate",
+    "graduate",
+    "hardship",
+    "food vouchers",
+    "student union"
+  ],
+  "source": {
+    "url": "https://mga.monash.edu/help/welfare-assistance-program/",
+    "label": "Monash Graduate Association: Welfare Assistance Program"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Grants don't need repaying",
+      "quote": "Unlike a loan, a grant does not need to be repaid.",
+      "url": "https://mga.monash.edu/help/welfare-assistance-program/",
+      "page_date": null
+    },
+    {
+      "claim": "Hardship grant amount",
+      "quote": "Up to $500 per semester",
+      "url": "https://mga.monash.edu/help/welfare-assistance-program/",
+      "page_date": null
+    },
+    {
+      "claim": "Emergency grant amount",
+      "quote": "Up to $500",
+      "url": "https://mga.monash.edu/help/welfare-assistance-program/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

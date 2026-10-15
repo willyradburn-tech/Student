@@ -1,0 +1,63 @@
+{
+  "id": "griffith-doctor-of-medicine-first-peoples-scholarship",
+  "name": "Doctor of Medicine First Peoples Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "$20,000 over the degree for Aboriginal and Torres Strait Islander students starting Griffith's Doctor of Medicine.",
+  "key": "$20,000 for the duration of the degree.",
+  "who": [
+    "Aboriginal and/or Torres Strait Islander.",
+    "Australian citizen or permanent resident.",
+    "Commencing the Doctor of Medicine as a First Peoples candidate."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process.",
+    "Include a personal statement and proof of Aboriginality or a community letter of support."
+  ],
+  "catches": [
+    "Listed as coming soon for 2027; the 2026 round closed 13 April 2026."
+  ],
+  "tags": [
+    "griffith",
+    "first nations",
+    "indigenous",
+    "medicine",
+    "md"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/doctor-of-medicine-first-peoples-scholarship",
+    "label": "Griffith University: Doctor of Medicine First Peoples Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "$20,000 for the duration of the degree",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/doctor-of-medicine-first-peoples-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "griffith-adam-scott-foundation-scholarship",
+  "name": "Adam Scott Foundation Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Pays all student contribution charges for Australian citizens starting a Griffith business degree.",
+  "key": "Payment of 100% of the student contribution charges (CSP/HECS).",
+  "who": [
+    "Australian citizen.",
+    "Accepted into a Griffith undergraduate business degree starting in Trimester 1 of the year of award.",
+    "Not previously completed a bachelor's degree or higher.",
+    "Full-time study (part-time may be approved)."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process.",
+    "Two referees, two personal statements and a CV; shortlisted applicants are interviewed."
+  ],
+  "catches": [
+    "Apply by Tuesday 26 January 2027."
+  ],
+  "tags": [
+    "griffith",
+    "business",
+    "hecs",
+    "fees"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/adam-scott-foundation-business-scholarship",
+    "label": "Griffith University: Adam Scott Foundation Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    },
+    "field": {
+      "yes": [
+        "business"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "This scholarship is for payment of 100% of the student contribution charges (CSP/HECS).",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/adam-scott-foundation-business-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

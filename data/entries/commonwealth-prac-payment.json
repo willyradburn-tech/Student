@@ -1,0 +1,56 @@
+{
+  "id": "commonwealth-prac-payment",
+  "name": "Commonwealth Prac Payment",
+  "provider": "Department of Education",
+  "category": "payments",
+  "summary": "A weekly payment while you are on a mandatory placement in teaching, nursing, midwifery or social work.",
+  "tags": [
+    "placement",
+    "prac",
+    "nursing",
+    "teaching",
+    "social work",
+    "midwifery"
+  ],
+  "who": [
+    "Entry-to-practice degrees in teaching, nursing, midwifery and social work, plus the VET Diploma of Nursing.",
+    "You need a Commonwealth supported place and a mandatory placement averaging 30 or more hours a week."
+  ],
+  "how": [
+    "Higher education students apply through their education provider."
+  ],
+  "catches": [
+    "It is taxable income, so declare it in your tax return.",
+    "Official pages currently disagree on the weekly amount for 2026, so none is shown. Ask your provider for the current rate.",
+    "Other conditions apply. Check the details with your provider."
+  ],
+  "status": "rechecking",
+  "verified": "2026-10-13",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "prac": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ],
+      "maybe": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://www.education.gov.au/commonwealth-prac-payment-cpp/students",
+    "label": "Department of Education: Commonwealth Prac Payment for students"
+  }
+}

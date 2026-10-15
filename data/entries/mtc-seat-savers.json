@@ -1,0 +1,62 @@
+{
+  "id": "mtc-seat-savers",
+  "name": "Melbourne Theatre Company Seat Savers",
+  "provider": "Melbourne Theatre Company",
+  "category": "streaming",
+  "summary": "Weekly $29 MTC tickets for the next seven days' shows, released on Tuesdays to concession holders including full-time students.",
+  "key": "$29 tickets to a week’s worth of performances, with a valid concession card.",
+  "who": [
+    "Holders of a full-time student ID, Health Care Card, Pensioner Concession Card or MEAA membership."
+  ],
+  "how": [
+    "Buy online on Tuesdays between 12pm and 4pm.",
+    "Collect 45 minutes before the show with one concession ID per ticket."
+  ],
+  "catches": [
+    "Maximum two tickets per date per production.",
+    "Excludes Opening Nights and Special Events; no exchanges.",
+    "Seniors Cards are not accepted."
+  ],
+  "tags": [
+    "mtc",
+    "theatre",
+    "melbourne",
+    "seat savers",
+    "cheap tickets"
+  ],
+  "source": {
+    "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/seat-savers/",
+    "label": "Melbourne Theatre Company: Seat Savers"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$29 tickets",
+      "quote": "Access $29 tickets to a week’s worth of performances, with a valid concession card.",
+      "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/seat-savers/",
+      "page_date": null
+    },
+    {
+      "claim": "Full-time student ID counts",
+      "quote": "(Government Health Care Card, Pensioner Concession Card, full time student ID or MEAA membership) can purchase these tickets by clicking the link below.",
+      "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/seat-savers/",
+      "page_date": null
+    },
+    {
+      "claim": "Tuesday release",
+      "quote": "On Tuesdays from 12pm – 4pm we release an allocation of $29 tickets",
+      "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/seat-savers/",
+      "page_date": null
+    }
+  ]
+}

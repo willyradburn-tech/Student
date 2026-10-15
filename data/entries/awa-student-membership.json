@@ -1,0 +1,52 @@
+{
+  "id": "awa-student-membership",
+  "name": "Australian Water Association student concession membership",
+  "provider": "Australian Water Association",
+  "category": "career",
+  "summary": "Discounted concession membership of the Australian Water Association for full-time students in the water sector.",
+  "who": [
+    "Full-time students"
+  ],
+  "how": [
+    "Join online and provide evidence such as a student ID or current enrolment notice."
+  ],
+  "catches": [
+    "The page doesn't state the concession price."
+  ],
+  "tags": [
+    "water",
+    "environmental engineering",
+    "civil engineering",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.awa.asn.au/membership/individual",
+    "label": "Australian Water Association: Membership for me"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering",
+        "other"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Concession",
+      "quote": "We offer a Concession level of membership for people who are full time students.",
+      "url": "https://www.awa.asn.au/membership/individual",
+      "page_date": null
+    }
+  ]
+}

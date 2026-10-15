@@ -1,0 +1,75 @@
+{
+  "id": "qut-forrester-family-placement-bursary",
+  "name": "Forrester Family Nursing and Teaching Practical Placement Bursary",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "A placement bursary for Aboriginal and Torres Strait Islander QUT students on a work integrated learning placement.",
+  "key": "$250, $500 or $750.",
+  "who": [
+    "Australian or NZ citizen or Australian permanent resident.",
+    "Aboriginal and/or Torres Strait Islander, confirmed by the Oodgeroo Unit or Carumba Institute.",
+    "Confirmed in a work integrated learning placement when awarded."
+  ],
+  "how": [
+    "Apply with the application form, with your transcript, a response to the selection criteria and proof of descent."
+  ],
+  "catches": [
+    "The terms found are the 2025 terms. Check the current round.",
+    "Not available if you already get a similar placement bursary."
+  ],
+  "tags": [
+    "qut",
+    "indigenous",
+    "first nations",
+    "placement",
+    "nursing",
+    "teaching",
+    "bursary"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/forrester-family-nursing-and-teaching-practical-placement-bursary",
+    "label": "QUT: Forrester Family Practical Placement Bursary"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "prac": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$250, $500 or $750",
+      "quote": "is a bursary valued at either $250, $500 or $750, offered to continuing domestic students.",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0010/1407619/2025-Forrester-Family-Nursing-and-Teaching-Practical-Placement-Bursary-Terms-and-Condition.pdf",
+      "page_date": null
+    },
+    {
+      "claim": "Must be on a WIL placement",
+      "quote": "Must be confirmed in a work integrated learning (WIL) placement at time of being awarded the Bursary.",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0010/1407619/2025-Forrester-Family-Nursing-and-Teaching-Practical-Placement-Bursary-Terms-and-Condition.pdf",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

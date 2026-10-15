@@ -1,0 +1,64 @@
+{
+  "id": "uts-housing-rental-subsidy",
+  "name": "UTS Housing Rental Subsidy",
+  "provider": "University of Technology Sydney",
+  "category": "uni",
+  "summary": "Rent subsidy for local UTS students on a UTS Housing lease at Yura Mudang.",
+  "key": "Awards usually range between $1,500 to $2,500 for a 26 week period.",
+  "who": [
+    "Local (domestic) students only",
+    "Current UTS Housing lease at Yura Mudang"
+  ],
+  "how": [
+    "Submit the online application with a copy of your current lease"
+  ],
+  "catches": [
+    "A maximum of 2 subsidy awards per year",
+    "May be reduced for shorter leases"
+  ],
+  "tags": [
+    "uts",
+    "rent",
+    "housing",
+    "accommodation"
+  ],
+  "source": {
+    "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+    "label": "UTS: Financial assistance programs"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$1,500 to $2,500 per 26 weeks",
+      "quote": "HRS awards usually range between $1,500 to $2,500 for a 26 week period",
+      "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+      "page_date": null
+    }
+  ]
+}

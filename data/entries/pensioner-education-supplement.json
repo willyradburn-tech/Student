@@ -1,0 +1,42 @@
+{
+  "id": "pensioner-education-supplement",
+  "name": "Pensioner Education Supplement",
+  "provider": "Services Australia",
+  "category": "payments",
+  "summary": "A fortnightly top-up for people on certain pensions and parenting payments who study at least a quarter of a full-time load.",
+  "tags": [
+    "carer",
+    "disability support pension",
+    "single parent",
+    "parenting payment"
+  ],
+  "who": [
+    "People getting Carer Payment, Disability Support Pension or Parenting Payment Single, plus some other payments in specific cases.",
+    "Studying at least 25% of a full-time load.",
+    "Australian residents aged 16 or over. There is no upper age limit."
+  ],
+  "how": [
+    "You need to lodge a claim with Services Australia before it can be paid."
+  ],
+  "catches": [
+    "Not paid with Youth Allowance or Austudy.",
+    "It is not taxable and has no income or assets test.",
+    "The guide gives a rate but was last reviewed in January 2022, so no amount is shown until we confirm it."
+  ],
+  "status": "verified",
+  "verified": "2026-10-13",
+  "cadence": "medium",
+  "review": "pending",
+  "cap": "maybe",
+  "match": {
+    "payment": {
+      "no": [
+        "yes"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://guides.dss.gov.au/social-security-guide/3/8/3/10",
+    "label": "DSS Social Security Guide: qualification for PES"
+  }
+}

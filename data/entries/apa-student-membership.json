@@ -1,0 +1,53 @@
+{
+  "id": "apa-student-membership",
+  "name": "APA student membership",
+  "provider": "Australian Physiotherapy Association",
+  "category": "career",
+  "summary": "Free Australian Physiotherapy Association membership for students in accredited physiotherapy degrees.",
+  "key": "Student membership is free for those studying an Australian Physiotherapy Council accredited physiotherapy degree.",
+  "who": [
+    "Active student in an accredited, entry-level Australian physiotherapy degree (separate first-year and later-year categories)"
+  ],
+  "how": [
+    "Join as M7 (second year or later) or M7a (first year) on the APA site."
+  ],
+  "catches": [
+    "Membership runs 1 January to 31 December.",
+    "Doesn't include professional indemnity insurance."
+  ],
+  "tags": [
+    "physiotherapy",
+    "physio",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://australian.physio/membership/categories-fees/student-membership",
+    "label": "APA: Student membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Student membership is free for those studying an Australian Physiotherapy Council accredited physiotherapy degree.",
+      "url": "https://australian.physio/membership/categories-fees/student-membership",
+      "page_date": null
+    },
+    {
+      "claim": "No PII",
+      "quote": "This category doesn't include professional indemnity insurance (PII).",
+      "url": "https://australian.physio/membership/categories-fees/student-membership",
+      "page_date": null
+    }
+  ]
+}

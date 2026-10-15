@@ -1,0 +1,33 @@
+{
+  "id": "hp-student-store",
+  "name": "HP Student Store",
+  "provider": "HP",
+  "category": "tech",
+  "summary": "Student pricing, cashback and bundle deals on HP laptops when you sign in with a uni email.",
+  "tags": [
+    "laptop",
+    "hp",
+    "computer",
+    "printer"
+  ],
+  "need": [
+    "A school email address, such as one ending in .edu.au."
+  ],
+  "how": [
+    "Sign in or create an account on the HP Student Store with your uni email."
+  ],
+  "catches": [
+    "HP doesn't publish a fixed discount. Compare with the regular store.",
+    "Orders are sold and shipped by Ingram Micro, with 14-day change-of-mind returns."
+  ],
+  "cadence": "high",
+  "cap": "maybe",
+  "match": {},
+  "verified": "2026-10-13",
+  "review": "approved",
+  "status": "verified",
+  "source": {
+    "url": "https://www.hp.com/au-en/shop/student/about-the-program",
+    "label": "HP: Student Store"
+  }
+}

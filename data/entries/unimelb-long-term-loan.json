@@ -1,0 +1,60 @@
+{
+  "id": "unimelb-long-term-loan",
+  "name": "University of Melbourne long-term student loan",
+  "provider": "University of Melbourne",
+  "category": "uni",
+  "summary": "An interest-free loan of up to $5,000, with a guarantor, for unexpected study-related costs.",
+  "key": "Up to $5,000 with a guarantor.",
+  "who": [
+    "Current enrolment at the University of Melbourne.",
+    "Not on leave, cross-institutional, living overseas or under 18."
+  ],
+  "how": [
+    "Apply online with your student ID and your guarantor's ID, address, residency and income proof."
+  ],
+  "catches": [
+    "Limited to $3,000 if your guarantor isn't an Australian citizen or PR or lives overseas.",
+    "Citizens and PRs can repay after finishing their course; others must repay before finishing.",
+    "Can't be used for tuition fees."
+  ],
+  "tags": [
+    "unimelb",
+    "university of melbourne",
+    "melbourne",
+    "vic",
+    "loan",
+    "interest-free",
+    "guarantor"
+  ],
+  "source": {
+    "url": "https://students.unimelb.edu.au/support-and-wellbeing/student-loans-and-grants/long-term-loans",
+    "label": "University of Melbourne: Long-term loans"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "age": {
+      "min": 18
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Loan limit",
+      "quote": "The maximum amount you can borrow is $5,000, depending on your guarantor.",
+      "url": "https://students.unimelb.edu.au/support-and-wellbeing/student-loans-and-grants/long-term-loans",
+      "page_date": null
+    }
+  ]
+}

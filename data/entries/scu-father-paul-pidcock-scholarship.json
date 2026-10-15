@@ -1,0 +1,64 @@
+{
+  "id": "scu-father-paul-pidcock-scholarship",
+  "name": "Father Paul Pidcock Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$2,500 for a student starting an undergraduate degree at SCU, with preference for St John's College Woodlawn graduates.",
+  "key": "$2,500 for one year.",
+  "who": [
+    "Starting an undergraduate degree at SCU.",
+    "Australian citizen, permanent resident or permanent humanitarian visa holder.",
+    "Preference for graduates of St John's College Woodlawn, Lismore."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with a 100 to 200 word statement."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One scholarship available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "lismore",
+    "woodlawn",
+    "first year"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/father-paul-pidcock-scholarship/",
+    "label": "Southern Cross University: Father Paul Pidcock Scholarship"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$2,500 for one year",
+      "url": "https://www.scu.edu.au/scholarships/father-paul-pidcock-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close on 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/father-paul-pidcock-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

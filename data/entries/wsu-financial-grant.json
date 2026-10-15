@@ -1,0 +1,55 @@
+{
+  "id": "wsu-financial-grant",
+  "name": "Western Sydney University Financial Grant",
+  "provider": "Western Sydney University",
+  "category": "uni",
+  "summary": "Non-repayable grant for enrolled WSU students in documented hardship, covering study and essential living costs.",
+  "key": "Grant applications are capped at $1,000, and laptop approvals at $750.",
+  "who": [
+    "Enrolled student with documented financial hardship",
+    "Domestic: at least one subject this session; international: full load unless approved"
+  ],
+  "how": [
+    "Submit the online Financial Assistance application with proof of income and an invoice or quote"
+  ],
+  "catches": [
+    "Excludes tuition, fees and visas",
+    "Incomplete applications are rejected"
+  ],
+  "tags": [
+    "wsu",
+    "grant",
+    "hardship",
+    "laptop",
+    "parramatta"
+  ],
+  "source": {
+    "url": "https://www.westernsydney.edu.au/students/services-and-facilities/student-welfare-services/financial-support",
+    "label": "Western Sydney University: Financial support"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Financial assistance not ongoing",
+      "quote": "Financial assistance will not be provided as a form of on-going income support.",
+      "url": "https://www.westernsydney.edu.au/students/services-and-facilities/student-welfare-services/financial-support",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

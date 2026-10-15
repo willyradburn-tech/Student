@@ -1,0 +1,82 @@
+{
+  "id": "csu-transgrid-engineering-scholarship",
+  "name": "Transgrid Engineering Scholarship at Charles Sturt",
+  "provider": "Charles Sturt University",
+  "category": "uni",
+  "summary": "Scholarship paid over four years for domestic students starting the Bachelor of Engineering (Honours) at Charles Sturt.",
+  "key": "MAX $20,000 paid in installments twice yearly.",
+  "who": [
+    "Australian or New Zealand citizen, permanent resident or permanent humanitarian visa holder",
+    "Commencing or first-year Bachelor of Engineering (Honours) student",
+    "Applied for or holding a Commonwealth Supported Place in the course"
+  ],
+  "how": [
+    "Complete an online application form through Charles Sturt; you can apply before receiving an offer"
+  ],
+  "catches": [
+    "Session 1 2027 applications close 11:59pm 20 Nov 2026",
+    "Part-time students are paid 50% pro rata",
+    "The page lists conflicting outcome dates, so confirm with scholarships@csu.edu.au"
+  ],
+  "tags": [
+    "csu",
+    "charles sturt",
+    "engineering",
+    "transgrid",
+    "bathurst"
+  ],
+  "source": {
+    "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/transgrid-scholarship",
+    "label": "Charles Sturt University: Transgrid Engineering Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "Value: MAX $20,000 paid in installments twice yearly",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/transgrid-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Course and CSP rule",
+      "quote": "Have applied for or successfully obtained a Commonwealth Supported Place (CSP) in the above course.",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/transgrid-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Session 1 Applications are OPEN and will close at 11:59pm 20 Nov 2026",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/transgrid-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Can apply before an offer",
+      "quote": "Please note: You are able to apply for this scholarship prior to receiving an offer to study.",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/transgrid-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-11-20"
+}

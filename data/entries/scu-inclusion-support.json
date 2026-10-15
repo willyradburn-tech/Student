@@ -1,0 +1,57 @@
+{
+  "id": "scu-inclusion-support",
+  "name": "SCU Inclusion Support (disability and carers)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "Free support for SCU students with a disability, medical condition or injury, or who care for someone, including equipment and assistive software.",
+  "key": "Free access to inclusive technology and software, specialised equipment and reasonable adjustments.",
+  "who": [
+    "SCU students with a physical, sensory, learning or mental health-related disability.",
+    "Students with a medical condition or short-term injury.",
+    "Students who care for a person with a disability."
+  ],
+  "how": [
+    "Send a signed permission to release information form and a practitioner's report or medical letter.",
+    "Book through CareerHub, call 1800 72 4357 (option 3) or email inclusion@scu.edu.au."
+  ],
+  "catches": [
+    "Register at least 2 weeks before the teaching period begins."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "disability",
+    "carers",
+    "assistive technology",
+    "adjustments"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/current-students/services-and-support/inclusion-support/",
+    "label": "Southern Cross University: Inclusion Support"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free service",
+      "quote": "SCU students can access our free and confidential Inclusion Support service if you:",
+      "url": "https://www.scu.edu.au/current-students/services-and-support/inclusion-support/",
+      "page_date": null
+    },
+    {
+      "claim": "What it covers",
+      "quote": "Access to inclusive technology and software",
+      "url": "https://www.scu.edu.au/current-students/services-and-support/inclusion-support/",
+      "page_date": null
+    }
+  ]
+}

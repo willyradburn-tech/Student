@@ -1,0 +1,63 @@
+{
+  "id": "unisq-residential-school-bursary",
+  "name": "UniSQ Residential School Bursary",
+  "provider": "University of Southern Queensland",
+  "category": "uni",
+  "summary": "Small bursary for lower-income domestic UniSQ students who must attend a mandatory residential school.",
+  "key": "Each bursary will have a maximum value of $250 to be paid in one instalment.",
+  "who": [
+    "Domestic student living in Australia",
+    "Enrolled in a course with a mandatory residential school",
+    "Low-to-middle annual household income"
+  ],
+  "how": [
+    "Apply through the UniSQ Scholarship Application Management System"
+  ],
+  "catches": [
+    "All 2026 rounds have closed (Trimester 3 closed 6 October 2026); check the page for 2027 rounds"
+  ],
+  "tags": [
+    "unisq",
+    "usq",
+    "residential school",
+    "online study",
+    "travel"
+  ],
+  "source": {
+    "url": "https://www.unisq.edu.au/scholarships/residential-school-bursary",
+    "label": "UniSQ: Residential School Bursary"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "Each bursary will have a maximum value of $250 to be paid in one instalment.",
+      "url": "https://www.unisq.edu.au/scholarships/residential-school-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "Residential school rule",
+      "quote": "be enrolled in a course with a mandatory residential school in the study period of application",
+      "url": "https://www.unisq.edu.au/scholarships/residential-school-bursary",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

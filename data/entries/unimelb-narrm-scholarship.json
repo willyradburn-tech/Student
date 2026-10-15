@@ -1,0 +1,71 @@
+{
+  "id": "unimelb-narrm-scholarship",
+  "name": "Narrm Scholarship (University of Melbourne)",
+  "provider": "University of Melbourne",
+  "category": "uni",
+  "summary": "A $6,500 yearly living allowance for Access Melbourne undergraduates, plus relocation and accommodation allowances for some.",
+  "key": "$6,500 a year for four years, up to $35,500, plus a $3,000 relocation allowance for regional or remote students.",
+  "who": [
+    "Australian or NZ citizen or Australian permanent visa holder.",
+    "Completed Year 12 or IB in Australia and meets Access Melbourne entry requirements."
+  ],
+  "how": [
+    "You're considered automatically if you apply for admission and submit a VTAC Equity Schemes and scholarships application."
+  ],
+  "catches": [
+    "Offers are made after Victorian ATARs are released in December.",
+    "A limited number of $20,000-a-year accommodation allowances are also offered."
+  ],
+  "tags": [
+    "unimelb",
+    "university of melbourne",
+    "melbourne",
+    "vic",
+    "access melbourne",
+    "equity",
+    "seas",
+    "regional",
+    "relocation"
+  ],
+  "source": {
+    "url": "https://scholarships.unimelb.edu.au/awards/narrm-scholarship",
+    "label": "University of Melbourne: Narrm Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Living allowance",
+      "quote": "A living allowance of $6500 per year for four years paid in half-yearly instalments of $3250 in April and September",
+      "url": "https://scholarships.unimelb.edu.au/awards/narrm-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Automatic consideration",
+      "quote": "You are automatically considered if you have applied for admission to the University",
+      "url": "https://scholarships.unimelb.edu.au/awards/narrm-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

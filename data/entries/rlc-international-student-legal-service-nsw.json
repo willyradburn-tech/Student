@@ -1,0 +1,65 @@
+{
+  "id": "rlc-international-student-legal-service-nsw",
+  "name": "International Student Legal Service NSW (free legal advice)",
+  "provider": "Redfern Legal Centre",
+  "category": "health",
+  "summary": "Free, confidential legal advice from solicitors for international students studying in NSW, on housing, employment, fines and more.",
+  "key": "This free service is available to international students enrolled to study anywhere in NSW.",
+  "who": [
+    "International students enrolled to study anywhere in NSW"
+  ],
+  "how": [
+    "Submit the legal enquiry form or call 02 9698 7645; a solicitor calls you back",
+    "Interpreter via TIS on 131 450"
+  ],
+  "catches": [
+    "Category is the closest fit: free legal service"
+  ],
+  "tags": [
+    "international",
+    "intl",
+    "nsw",
+    "sydney",
+    "legal advice",
+    "free legal",
+    "housing",
+    "employment",
+    "fines",
+    "redfern legal centre",
+    "isls"
+  ],
+  "source": {
+    "url": "https://rlc.org.au/what-we-do/our-services/international-student-legal-service-nsw",
+    "label": "Redfern Legal Centre: International Student Legal Service NSW"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free, for international students in NSW",
+      "quote": "This free service is available to international students enrolled to study anywhere in NSW.",
+      "url": "https://rlc.org.au/what-we-do/our-services/international-student-legal-service-nsw",
+      "page_date": null
+    },
+    {
+      "claim": "What it is",
+      "quote": "gives free, confidential legal advice to international students studying in New South Wales.",
+      "url": "https://rlc.org.au/what-we-do/our-services/international-student-legal-service-nsw",
+      "page_date": null
+    }
+  ]
+}

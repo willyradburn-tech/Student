@@ -1,0 +1,62 @@
+{
+  "id": "scu-cyril-callister-foundation-scholarship",
+  "name": "Cyril Callister Foundation Scholarship (SCU Science)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$1,000 for a Northern Rivers resident studying a Bachelor of Science at SCU Lismore, Coffs Harbour or online.",
+  "key": "$1,000.",
+  "who": [
+    "Enrolled in a Bachelor of Science at Lismore, Coffs Harbour (National Marine Science Centre) or online.",
+    "Live in the Northern Rivers (Northern NSW)."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One scholarship available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "science",
+    "northern rivers",
+    "lismore"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/cyril-callister-foundation-scholarship/",
+    "label": "Southern Cross University: Cyril Callister Foundation Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Residence rule",
+      "quote": "Be resident in the Northern Rivers (Northern NSW).",
+      "url": "https://www.scu.edu.au/scholarships/cyril-callister-foundation-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/cyril-callister-foundation-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

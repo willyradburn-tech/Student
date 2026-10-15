@@ -1,0 +1,68 @@
+{
+  "id": "apple-education-store",
+  "name": "Apple Education Store",
+  "provider": "Apple",
+  "category": "tech",
+  "summary": "Education pricing on Mac, iPad and more, plus up to 10% off AppleCare+.",
+  "tags": [
+    "macbook",
+    "ipad",
+    "laptop",
+    "apple"
+  ],
+  "key": "Education savings on Mac and iPad, and up to 10% off AppleCare+ for a new Mac or iPad.",
+  "who": [
+    "Full-time or part-time students aged 18 or over, studying at or accepted into an accredited Australian university or another Apple-approved institution.",
+    "Parents buying for a student at an eligible institution, and university lecturers and staff."
+  ],
+  "how": [
+    "Shop through the Apple Education Store and complete verification."
+  ],
+  "catches": [
+    "Limits apply across every channel, online and in store.",
+    "Purchases must be for your own personal, education or research use. Apple can ask for proof and cancel orders that don't qualify.",
+    "Online orders ship only within Australia.",
+    "Prices aren't shown here because they change often. Compare with the regular store before you buy."
+  ],
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "age": {
+      "min": 18
+    }
+  },
+  "source": {
+    "url": "https://www.apple.com/au-edu/shop/open/salespolicies",
+    "label": "Apple: Education sales policies (AU)"
+  },
+  "numbers": [
+    [
+      "Mac (desktop, MacBook or Mac mini)",
+      "1 a year at education pricing"
+    ],
+    [
+      "iPad",
+      "2 a year"
+    ],
+    [
+      "Apple Watch",
+      "1 a year"
+    ],
+    [
+      "Displays",
+      "1 a year"
+    ],
+    [
+      "Accessories",
+      "2 a year"
+    ]
+  ],
+  "extra_sources": [
+    {
+      "url": "https://www.apple.com/au-edu/store",
+      "label": "Apple: Education pricing (AU)"
+    }
+  ]
+}

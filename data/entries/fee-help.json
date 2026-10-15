@@ -1,0 +1,51 @@
+{
+  "id": "fee-help",
+  "name": "FEE-HELP",
+  "provider": "Study Assist",
+  "category": "loans",
+  "summary": "A government loan for tuition if you're in a full-fee place rather than a Commonwealth supported place.",
+  "tags": [
+    "full fee",
+    "postgraduate",
+    "help",
+    "loan fee"
+  ],
+  "key": "Borrowing limit for most students: $129,883.",
+  "who": [
+    "Australian citizens completing at least one unit in Australia.",
+    "Eligible non-citizens resident in Australia for the unit."
+  ],
+  "need": [
+    "A tax file number, or proof you've applied for one.",
+    "Your USI.",
+    "The FEE-HELP eCAF from your provider."
+  ],
+  "how": [
+    "Accept your course offer. Your provider then gives you the eCAF.",
+    "Submit the eCAF on or before the census date."
+  ],
+  "catches": [
+    "A 20% loan fee applies to some undergraduate study.",
+    "Getting FEE-HELP doesn't mean your fees are capped. Check the cost against your HELP limit.",
+    "The census date is also the last day to drop a unit without paying for it."
+  ],
+  "cadence": "low",
+  "cap": "maybe",
+  "match": {
+    "res": {
+      "yes": [
+        "citizen"
+      ],
+      "maybe": [
+        "pr"
+      ]
+    }
+  },
+  "verified": "2026-10-13",
+  "review": "pending",
+  "status": "verified",
+  "source": {
+    "url": "https://www.studyassist.gov.au/download/244/2026-fee-help-fact-sheet/212/document/pdf",
+    "label": "Study Assist: 2026 FEE-HELP fact sheet"
+  }
+}

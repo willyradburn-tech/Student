@@ -1,0 +1,52 @@
+{
+  "id": "usyd-src-foodhub",
+  "name": "Sydney Uni SRC FoodHub",
+  "provider": "University of Sydney Students' Representative Council",
+  "category": "uni",
+  "summary": "Free food hampers and basic necessities for University of Sydney students in need.",
+  "key": "Free food hampers for students in need.",
+  "who": [
+    "Students of the University of Sydney"
+  ],
+  "how": [
+    "Register in advance via the Humanitix link",
+    "Level 3, Wentworth Building, Monday to Friday 11am to 2pm"
+  ],
+  "tags": [
+    "usyd",
+    "food",
+    "pantry",
+    "free",
+    "src",
+    "student-union",
+    "sydney"
+  ],
+  "source": {
+    "url": "https://srcusyd.net.au/get-involved/foodhub/",
+    "label": "USyd SRC: FoodHub"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free food hampers",
+      "quote": "Free food hampers for students in need",
+      "url": "https://srcusyd.net.au/get-involved/foodhub/",
+      "page_date": null
+    }
+  ]
+}

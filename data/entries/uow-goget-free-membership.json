@@ -1,0 +1,45 @@
+{
+  "id": "uow-goget-free-membership",
+  "name": "UOW students: free 12-month GoGet membership",
+  "provider": "University of Wollongong",
+  "category": "transport",
+  "summary": "University of Wollongong students can get a free 12-month GoGet car share membership and special hire rates.",
+  "key": "UOW students can access a free 12 month membership and special hourly or daily hire rates through the GoGet website.",
+  "who": [
+    "University of Wollongong students."
+  ],
+  "how": [
+    "Sign up through GoGet's UOW student page.",
+    "GoGet posts you a smart membership card. Students in on-campus residences can collect it from their residence."
+  ],
+  "tags": [
+    "uow",
+    "wollongong",
+    "goget",
+    "car share",
+    "nsw"
+  ],
+  "source": {
+    "url": "https://www.uow.edu.au/about/locations/wollongong/getting-to-campus/car-share",
+    "label": "UOW: Car share"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free 12-month membership",
+      "quote": "UOW students can access a free 12 month membership and special hourly or daily hire rates through the GoGet website.",
+      "url": "https://www.uow.edu.au/about/locations/wollongong/getting-to-campus/car-share",
+      "page_date": null
+    }
+  ]
+}

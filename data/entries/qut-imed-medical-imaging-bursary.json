@@ -1,0 +1,68 @@
+{
+  "id": "qut-imed-medical-imaging-bursary",
+  "name": "I-MED Radiology Network Medical Imaging Bursary",
+  "provider": "QUT and I-MED Radiology Network",
+  "category": "uni",
+  "summary": "A bursary for QUT Medical Imaging students willing to do a third-year placement at a regional I-MED site.",
+  "key": "Valued at $5,000.",
+  "who": [
+    "Domestic or international students in CS48 Bachelor of Medical Imaging (Honours), in Year 2 when applying.",
+    "GPA of at least 5.0.",
+    "Willing to do a Year 3 placement at an eligible I-MED regional site."
+  ],
+  "how": [
+    "Apply with the application form, a CV and a response to the selection criteria."
+  ],
+  "catches": [
+    "The terms found cover the Semester 2, 2025 round. Check the current round with health.engage@qut.edu.au."
+  ],
+  "tags": [
+    "qut",
+    "medical imaging",
+    "radiography",
+    "regional",
+    "placement",
+    "bursary",
+    "health"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/i-med-radiology-network-medical-imaging-bursary",
+    "label": "QUT: I-MED Medical Imaging Bursary"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    },
+    "prac": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$5,000",
+      "quote": "is a bursary valued at $5,000",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0006/1255938/imed-radiology-network-medical-imaging-bursary-terms-and-conditions.pdf",
+      "page_date": null
+    },
+    {
+      "claim": "GPA 5.0",
+      "quote": "Must hold a minimum course (cumulative) grade point average (GPA) of 5.0 at the time of application",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0006/1255938/imed-radiology-network-medical-imaging-bursary-terms-and-conditions.pdf",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

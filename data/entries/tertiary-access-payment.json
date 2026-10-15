@@ -1,0 +1,59 @@
+{
+  "id": "tertiary-access-payment",
+  "name": "Tertiary Access Payment",
+  "provider": "Department of Education",
+  "category": "payments",
+  "summary": "A one-off payment for regional and remote school leavers who move away for full-time study.",
+  "tags": [
+    "regional",
+    "remote",
+    "moving away",
+    "school leaver"
+  ],
+  "key": "$3,000 for inner regional students. Up to $5,000 for outer regional and remote students, paid as $3,000 then $2,000.",
+  "numbers": [
+    [
+      "Inner regional",
+      "$3,000, paid once after enrolment is confirmed"
+    ],
+    [
+      "Outer regional and remote",
+      "Up to $5,000: $3,000 after the first census date, $2,000 after the second"
+    ]
+  ],
+  "who": [
+    "Study at Certificate IV level or above, at least 75% of a full-time load, lasting at least a year.",
+    "22 or under when you start, and moving to a provider at least 90 minutes by public transport from the family home.",
+    "Parents' or guardians' combined income of $250,000 or less, unless an exemption applies."
+  ],
+  "how": [
+    "Apply through Services Australia within your first year of tertiary study."
+  ],
+  "catches": [
+    "One official page says you must start the year after Year 12. Another says students who take a break may now qualify. We are checking which applies.",
+    "The page does not say whether the current round is open."
+  ],
+  "status": "rechecking",
+  "verified": "2026-10-13",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "age": {
+      "max": 22
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://education.gov.au/node/18300",
+    "label": "Department of Education: Tertiary Access Payment"
+  }
+}

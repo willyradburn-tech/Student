@@ -1,0 +1,69 @@
+{
+  "id": "griffith-lesley-chenoweth-scholarship",
+  "name": "Lesley Chenoweth Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $2,000 for full-time Griffith undergraduates in financial hardship, with preference for Logan students.",
+  "key": "Maximum value is $2,000, paid in two instalments.",
+  "who": [
+    "Completed 40 CP of a Griffith undergraduate degree with a passing grade.",
+    "Enrolled full-time.",
+    "Able to demonstrate financial hardship.",
+    "Australian citizen, permanent resident, humanitarian visa holder or New Zealand citizen."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process.",
+    "Upload a CV; applicants may be interviewed."
+  ],
+  "catches": [
+    "Apply by Monday 19 April 2027, 4pm, for Trimester 1 2027.",
+    "Logan campus students get preference."
+  ],
+  "tags": [
+    "griffith",
+    "hardship",
+    "logan",
+    "equity"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/lesley-chenoweth-scholarship",
+    "label": "Griffith University: Lesley Chenoweth Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value is $2,000, paid in two instalments.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/lesley-chenoweth-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "be able to demonstrate financial hardship.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/lesley-chenoweth-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

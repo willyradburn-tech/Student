@@ -1,0 +1,61 @@
+{
+  "id": "asi-student-membership",
+  "name": "Australian Steel Institute student membership",
+  "provider": "Australian Steel Institute",
+  "category": "career",
+  "summary": "Free Australian Steel Institute membership for full-time undergraduate students at Australian universities.",
+  "key": "$0 (Free) student membership while studying full time.",
+  "who": [
+    "Studying an undergraduate bachelor degree full time",
+    "Enrolled at a university in Australia"
+  ],
+  "how": [
+    "Apply online and upload proof of full-time study (transcript, workload screenshot or enrolment letter)."
+  ],
+  "catches": [
+    "Free only while studying full time.",
+    "Brief approval process before access is confirmed."
+  ],
+  "tags": [
+    "steel",
+    "structural engineering",
+    "civil engineering",
+    "construction",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.steel.org.au/become-a-member/individual-memberships",
+    "label": "Australian Steel Institute: Individual memberships"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "This $0 (Free)* student membership is limited to the period of studying full time only.",
+      "url": "https://www.steel.org.au/become-a-member/individual-memberships",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Student membership is only available to those studying undergraduate bachelor degrees full time",
+      "url": "https://www.steel.org.au/become-a-member/individual-memberships",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,2049 @@
+[
+  {
+    "id": "adelaide-metro-tertiary-concession",
+    "name": "Adelaide Metro tertiary student concession fare",
+    "provider": "Adelaide Metro (South Australian Government)",
+    "category": "transport",
+    "summary": "Concession fares on Adelaide buses, trains and trams for full-time, on-site tertiary and university students at approved SA institutions.",
+    "who": [
+      "Full-time, on-site tertiary or university students from approved South Australian institutions"
+    ],
+    "catches": [
+      "University and tertiary students are not eligible for the cheaper student fare, only the concession fare.",
+      "You must carry your concession card whenever you travel on a concession fare.",
+      "International student eligibility is not stated on the page."
+    ],
+    "tags": [
+      "SA",
+      "Adelaide",
+      "metroCARD",
+      "bus",
+      "train",
+      "tram",
+      "tertiary",
+      "concession"
+    ],
+    "source": {
+      "url": "https://www.adelaidemetro.com.au/tickets-and-fares/metrocard/concession",
+      "label": "Adelaide Metro: Concession"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "campus": {
+        "yes": [
+          "other"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Full-time on-site university students at approved SA institutions get concession fares",
+        "quote": "Concession fare for full time, on-site, university students from approved South Australian institutions.",
+        "url": "https://www.adelaidemetro.com.au/tickets-and-fares/metrocard/concession",
+        "page_date": null
+      },
+      {
+        "claim": "Must carry concession card",
+        "quote": "You must have your concession card with you whenever you are travelling on a concession fare.",
+        "url": "https://www.adelaidemetro.com.au/tickets-and-fares/metrocard/concession",
+        "page_date": null
+      },
+      {
+        "claim": "Uni students get concession, not student, fares",
+        "quote": "University and tertiary students are not eligible for a student fare but may be eligible for a concession fare.",
+        "url": "https://adelaidemetro.com.au/tickets-and-fares/metrocard/student",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "sa-public-transport-concession-health-care-card",
+    "name": "SA public transport concession for Health Care Card holders",
+    "provider": "Government of South Australia",
+    "category": "transport",
+    "summary": "Half-price concession travel on SA public transport for eligible Centrelink cardholders, including Health Care Card holders, and full-time students.",
+    "key": "Concession travel is a 50% discount.",
+    "who": [
+      "Eligible Centrelink or DVA cardholders, including Centrelink Health Care Card holders",
+      "Full-time students"
+    ],
+    "how": [
+      "Use the eligibility questionnaire on the page, or call Service SA on 13 23 24."
+    ],
+    "tags": [
+      "SA",
+      "Adelaide",
+      "Health Care Card",
+      "public transport",
+      "concession"
+    ],
+    "source": {
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/transport/transport-concessions",
+      "label": "SA.GOV.AU: Public transport concessions"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Concession travel available to cardholders and full-time students",
+        "quote": "eligible Centrelink or Department of Veterans' Affairs (DVA) cardholders and full-time students",
+        "url": "https://www.sa.gov.au/topics/care-and-support/concessions/transport/transport-concessions",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card listed as a qualifying card",
+        "quote": "Centrelink Health Care Card",
+        "url": "https://www.sa.gov.au/topics/care-and-support/concessions/transport/transport-concessions",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "sa-energy-bill-concession",
+    "name": "SA energy bill concession",
+    "provider": "ConcessionsSA (Government of South Australia)",
+    "category": "health",
+    "summary": "Yearly credit on your electricity bill for South Australians on Youth Allowance, Austudy, ABSTUDY or with a Low Income Health Care Card.",
+    "key": "Up to $291.27 a year.",
+    "who": [
+      "Live at the property",
+      "Have an energy account in your name, listed first on the bill",
+      "Hold an eligible card (such as a Low Income Health Care Card) or receive an eligible payment such as Youth Allowance, Austudy or ABSTUDY"
+    ],
+    "how": [
+      "Apply with the online household concessions form, a paper form, or by calling ConcessionsSA on 1800 307 758.",
+      "Have your Centrelink CRN, latest electricity and water bills and bank details ready."
+    ],
+    "catches": [
+      "The amount is indexed each financial year and paid as a daily rate, so each bill's credit varies."
+    ],
+    "tags": [
+      "SA",
+      "Adelaide",
+      "electricity",
+      "energy",
+      "Health Care Card",
+      "Youth Allowance",
+      "Austudy"
+    ],
+    "source": {
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/energy-bill-concessions",
+      "label": "SA.GOV.AU: Energy bill concessions"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "Up to $291.27 a year.",
+        "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/energy-bill-concessions",
+        "page_date": null
+      },
+      {
+        "claim": "Eligible payments include Youth Allowance and Austudy",
+        "quote": "Youth Allowance",
+        "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/energy-bill-concessions",
+        "page_date": null
+      },
+      {
+        "claim": "Eligible card",
+        "quote": "Low Income Health Care Card",
+        "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/energy-bill-concessions",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "sa-cost-of-living-concession",
+    "name": "SA Cost of Living Concession",
+    "provider": "ConcessionsSA (Government of South Australia)",
+    "category": "payments",
+    "summary": "Yearly cash payment for South Australian renters and homeowners on Youth Allowance, Austudy, ABSTUDY or with a Low Income Health Care Card.",
+    "key": "$270.60 for the 2026-27 financial year.",
+    "who": [
+      "Live at the property",
+      "Hold an eligible card (such as a Low Income Health Care Card), receive an eligible payment such as Youth Allowance, Austudy or ABSTUDY, or meet the low income provisions",
+      "Tenants must hold a written rental agreement"
+    ],
+    "how": [
+      "Apply with the online household concessions form, a paper form, or by calling ConcessionsSA on 1800 307 758.",
+      "If you received it before and nothing has changed, you don't need to reapply."
+    ],
+    "catches": [
+      "You must apply by 31 December to get the COLC for that financial year.",
+      "Payments are made between August and December by EFT."
+    ],
+    "tags": [
+      "SA",
+      "Adelaide",
+      "cost of living",
+      "COLC",
+      "renters",
+      "Health Care Card",
+      "Youth Allowance",
+      "Austudy"
+    ],
+    "source": {
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/cost-of-living-concessions",
+      "label": "SA.GOV.AU: Cost of living concessions"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "$270.60 for the 2026-27 financial year.",
+        "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/cost-of-living-concessions",
+        "page_date": null
+      },
+      {
+        "claim": "Deadline",
+        "quote": "You must apply by 31 December to get the COLC for that financial year.",
+        "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/cost-of-living-concessions",
+        "page_date": null
+      },
+      {
+        "claim": "Eligible card",
+        "quote": "Low Income Health Care Card",
+        "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/cost-of-living-concessions",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "sa-water-sewerage-concession",
+    "name": "SA water and sewerage rate concession",
+    "provider": "ConcessionsSA (Government of South Australia)",
+    "category": "health",
+    "summary": "Discount of up to 30% of your yearly water bill for low-income South Australians, including tenants who pay for water.",
+    "key": "The water concession is calculated as up to 30% of your total water bill for a financial year.",
+    "who": [
+      "Own or rent your principal place of residence and pay for water",
+      "Hold an eligible card such as a Low Income Health Care Card, receive an eligible payment such as Youth Allowance or Austudy, or meet low income provisions"
+    ],
+    "how": [
+      "Apply with the online household concessions form or call ConcessionsSA on 1800 307 758."
+    ],
+    "catches": [
+      "Tenants are not eligible for a concession on sewerage rates.",
+      "2026-27 water concession for tenants paying usage only is $197.20 to $377.90."
+    ],
+    "tags": [
+      "SA",
+      "Adelaide",
+      "water",
+      "SA Water",
+      "tenants",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/water-and-sewerage-rate-concession",
+      "label": "SA.GOV.AU: Water and sewerage rate concession"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "The water concession is calculated as up to 30% of your total water bill for a financial year",
+        "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/water-and-sewerage-rate-concession",
+        "page_date": null
+      },
+      {
+        "claim": "Tenants excluded from sewerage",
+        "quote": "Tenants are not eligible for a concession on sewerage rates.",
+        "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/water-and-sewerage-rate-concession",
+        "page_date": null
+      },
+      {
+        "claim": "Eligible card",
+        "quote": "Low Income Health Care Card",
+        "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/water-and-sewerage-rate-concession",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "sa-medical-heating-cooling-concession",
+    "name": "SA medical heating and cooling concession",
+    "provider": "Government of South Australia",
+    "category": "health",
+    "summary": "Yearly energy concession for South Australians with a medical condition severely worsened by hot or cold weather.",
+    "key": "The current concession amount is $291.27 a year.",
+    "who": [
+      "Have, or be the parent of a child with, a qualifying medical condition certified by a doctor",
+      "Use an air conditioner at the address for medical heating or cooling",
+      "Have an eligible concession card or Centrelink payment"
+    ],
+    "how": [
+      "Download the application form, complete it with your doctor, and email it to MHC@sa.gov.au."
+    ],
+    "catches": [
+      "The page does not name which concession cards are eligible; check before relying on a Health Care Card."
+    ],
+    "tags": [
+      "SA",
+      "medical",
+      "air conditioning",
+      "energy",
+      "concession"
+    ],
+    "source": {
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/health-concessions/medical-heating-and-cooling-concession",
+      "label": "SA.GOV.AU: Medical heating and cooling concession"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "The current concession amount is $291.27 a year.",
+        "url": "https://www.sa.gov.au/topics/care-and-support/concessions/health-concessions/medical-heating-and-cooling-concession",
+        "page_date": null
+      },
+      {
+        "claim": "Card requirement",
+        "quote": "have an eligible concession card or Centrelink payment",
+        "url": "https://www.sa.gov.au/topics/care-and-support/concessions/health-concessions/medical-heating-and-cooling-concession",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "sa-emergency-services-levy-remission",
+    "name": "SA Emergency Services Levy remission",
+    "provider": "Government of South Australia",
+    "category": "health",
+    "summary": "Reduction on the fixed-property Emergency Services Levy for low-income South Australian homeowners.",
+    "key": "A remission of up to $46 per year on the Emergency Services Levy (ESL) (fixed property).",
+    "who": [
+      "Live at and own the property on 1 July",
+      "Hold an eligible card such as a Low Income Health Care Card, or receive an eligible Centrelink payment"
+    ],
+    "catches": [
+      "Homeowners only.",
+      "Residential park residents are not eligible for an ESL (fixed property) remission."
+    ],
+    "tags": [
+      "SA",
+      "homeowners",
+      "ESL",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/emergency-services-levy-remission",
+      "label": "SA.GOV.AU: Emergency services levy remission"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "a remission of up to $46 per year on the Emergency Services Levy (ESL) (fixed property)",
+        "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/emergency-services-levy-remission",
+        "page_date": null
+      },
+      {
+        "claim": "Card or payment requirement",
+        "quote": "hold an eligible card or receive an eligible Centrelink payment between the levy notice issue and due dates",
+        "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/emergency-services-levy-remission",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tas-free-public-transport",
+    "name": "Free public transport in Tasmania",
+    "provider": "Tasmanian Government",
+    "category": "transport",
+    "summary": "Free travel for everyone on Tasmanian public buses, River Derwent ferries and Area Connect services until 30 June 2027.",
+    "key": "Public transport is free until Wednesday, 30 June 2027.",
+    "who": [
+      "Anyone; no concession card required"
+    ],
+    "catches": [
+      "Ends 30 June 2027 unless extended again.",
+      "Pre-purchased Greencard or Transportme top-ups and 10-trip tickets can be used after 30 June 2027."
+    ],
+    "tags": [
+      "Tasmania",
+      "Hobart",
+      "Launceston",
+      "UTAS",
+      "Metro Tasmania",
+      "bus",
+      "ferry",
+      "free"
+    ],
+    "source": {
+      "url": "https://transport.tas.gov.au/public_transport/fares",
+      "label": "Transport Tasmania: Fares"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "campus": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free until 30 June 2027",
+        "quote": "Public transport is free until Wednesday, 30 June 2027.",
+        "url": "https://transport.tas.gov.au/public_transport/fares",
+        "page_date": null
+      },
+      {
+        "claim": "Extended by 12 months",
+        "quote": "This was initially scheduled to end on 30 June 2026 but has been extended by 12 months to 30 June 2027.",
+        "url": "https://transport.tas.gov.au/public_transport/fares",
+        "page_date": null
+      },
+      {
+        "claim": "No card required; services covered",
+        "quote": "Free travel on public buses, River Derwent ferries, and Area Connect public transport services until 30 June 2027.",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/transport",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "metro-tas-tertiary-student-concession",
+    "name": "Metro Tasmania adult student concession fare",
+    "provider": "Metro Tasmania",
+    "category": "transport",
+    "summary": "Concession bus fares for full-time students aged 19 and over at any university, TasTAFE or the Tasmanian College of English.",
+    "who": [
+      "Full-time students aged 19 or older enrolled at any university, TasTAFE or the Tasmanian College of English"
+    ],
+    "how": [
+      "Full-time adult students may apply through Building Tasmania for a Special Circumstances Student Greencard."
+    ],
+    "catches": [
+      "Fares are currently free for everyone until 30 June 2027; this concession matters after that.",
+      "Adult concession applies from the start of the year in which the cardholder turns 19."
+    ],
+    "tags": [
+      "Tasmania",
+      "Hobart",
+      "Launceston",
+      "UTAS",
+      "Metro Tasmania",
+      "Greencard",
+      "bus",
+      "tertiary"
+    ],
+    "source": {
+      "url": "https://www.metrotas.com.au/fares/concessions/",
+      "label": "Metro Tasmania: Concessions"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "campus": {
+        "yes": [
+          "other"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Age rule",
+        "quote": "Adult concession applies from the start of the year in which the cardholder turns 19",
+        "url": "https://www.metrotas.com.au/fares/concessions/",
+        "page_date": null
+      },
+      {
+        "claim": "Greencard for full-time adult students",
+        "quote": "Full time adult students may be issued a Special Circumstances Student Greencard by Building Tasmania",
+        "url": "https://www.metrotas.com.au/fares/concessions/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tas-adult-travel-concession",
+    "name": "Tasmanian adult travel concession",
+    "provider": "Tasmanian Government",
+    "category": "transport",
+    "summary": "Half-price public transport fares in Tasmania for Health Care Card holders and eligible full-time university and TasTAFE students.",
+    "key": "A discount of 50% off the full fare.",
+    "who": [
+      "Holders of an eligible concession card, including the Services Australia Health Care Card",
+      "Eligible full-time adult students at university, TasTAFE or Tasmanian College of English carrying student ID"
+    ],
+    "catches": [
+      "A further 20% discount is applied when using a smartcard like Greencard, Transportme, or a 10-trip ticket, where available.",
+      "Fares are free for everyone until 30 June 2027."
+    ],
+    "tags": [
+      "Tasmania",
+      "Health Care Card",
+      "UTAS",
+      "bus",
+      "ferry",
+      "concession"
+    ],
+    "source": {
+      "url": "https://www.concessions.tas.gov.au/browse-categories/transport",
+      "label": "Tasmanian Concessions: Transport"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "A discount of 50% off the full fare.",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/transport",
+        "page_date": null
+      },
+      {
+        "claim": "Students eligible",
+        "quote": "Eligible adult students (full-time students attending secondary college, university, TasTAFE or Tasmanian College of English. Must carry relevant student identification).",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/transport",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card shown as an eligible card",
+        "quote": "Services Australia Health Care Card",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/transport",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tas-annual-electricity-concession",
+    "name": "Tasmanian annual electricity concession",
+    "provider": "Tasmanian Government",
+    "category": "health",
+    "summary": "Daily discount on electricity bills for Tasmanian concession cardholders, including Health Care Card holders.",
+    "key": "184.347 cents per day.",
+    "who": [
+      "Eligible concession card holders; the Services Australia Health Care Card is shown as an eligible card"
+    ],
+    "how": [
+      "To apply for the annual electricity concession, eligible customers should contact their electricity retailer."
+    ],
+    "tags": [
+      "Tasmania",
+      "electricity",
+      "Aurora",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://www.concessions.tas.gov.au/browse-categories/electricity",
+      "label": "Tasmanian Concessions: Electricity"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "184.347 cents per day",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/electricity",
+        "page_date": null
+      },
+      {
+        "claim": "How to apply",
+        "quote": "To apply for the annual electricity concession, eligible customers should contact their electricity retailer.",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/electricity",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card shown as eligible card",
+        "quote": "Services Australia Health Care Card",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/electricity",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tas-taswater-concession",
+    "name": "TasWater water and sewerage concession",
+    "provider": "Tasmanian Government",
+    "category": "health",
+    "summary": "Government-funded discount on TasWater bills for concession cardholders who are responsible for the account.",
+    "key": "Eligible TasWater customers can receive a Tasmanian Government funded discount of up to $249.43 ($124.72 for water charges and $124.72 for sewerage charges) for the 2026-27 financial year.",
+    "who": [
+      "Hold an eligible concession card; the Services Australia Health Care Card is shown as eligible",
+      "Must be legally responsible for the TasWater account",
+      "Live at the property as your principal place of residence"
+    ],
+    "catches": [
+      "Renters whose landlord holds the TasWater account won't qualify."
+    ],
+    "tags": [
+      "Tasmania",
+      "water",
+      "TasWater",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://www.concessions.tas.gov.au/browse-categories/property,-water-and-land-tax",
+      "label": "Tasmanian Concessions: Property, water and land tax"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "Eligible TasWater customers can receive a Tasmanian Government funded discount of up to $249.43",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/property,-water-and-land-tax",
+        "page_date": null
+      },
+      {
+        "claim": "Account responsibility",
+        "quote": "Must be legally responsible for the TasWater account.",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/property,-water-and-land-tax",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tas-motor-tax-rebate",
+    "name": "Tasmanian motor tax rebate (40 per cent)",
+    "provider": "Tasmanian Government",
+    "category": "transport",
+    "summary": "40% rebate on the motor tax part of Tasmanian vehicle registration for concession cardholders, including Health Care Card holders.",
+    "key": "The 40% rebate on motor tax (which is included in motor vehicle registration).",
+    "who": [
+      "Hold an eligible concession card; the Services Australia Health Care Card is shown as eligible"
+    ],
+    "tags": [
+      "Tasmania",
+      "car registration",
+      "rego",
+      "motor tax",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
+      "label": "Tasmanian Concessions: Vehicles"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "The 40% rebate on motor tax (which is included in motor vehicle registration) is available for:",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "Hold an eligible concession card.",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card shown as eligible card",
+        "quote": "Services Australia Health Care Card",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tas-maib-ctp-concession",
+    "name": "Tasmanian MAIB third party insurance concession",
+    "provider": "Tasmanian Government",
+    "category": "transport",
+    "summary": "Concession on the MAIB compulsory third party insurance premium in Tasmanian car registration for concession cardholders.",
+    "who": [
+      "Hold an eligible concession card; the Services Australia Health Care Card is shown as eligible"
+    ],
+    "catches": [
+      "Motorcycles are excluded.",
+      "The page does not state the discount amount."
+    ],
+    "tags": [
+      "Tasmania",
+      "car registration",
+      "rego",
+      "MAIB",
+      "CTP",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
+      "label": "Tasmanian Concessions: Vehicles"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Eligibility",
+        "quote": "Hold an eligible concession card.",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card shown as eligible card",
+        "quote": "Services Australia Health Care Card",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tas-vehicle-registration-fee-concession",
+    "name": "Tasmanian vehicle registration fee discount",
+    "provider": "Tasmanian Government",
+    "category": "transport",
+    "summary": "Discount on Tasmanian vehicle registration fees for concession cardholders, including Health Care Card holders.",
+    "who": [
+      "Hold an eligible concession card; the Services Australia Health Care Card is shown as eligible"
+    ],
+    "catches": [
+      "The page does not state the discount amount.",
+      "Separate from the 40% motor tax rebate and the MAIB concession."
+    ],
+    "tags": [
+      "Tasmania",
+      "car registration",
+      "rego",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
+      "label": "Tasmanian Concessions: Vehicles"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Discount exists",
+        "quote": "Discounts on vehicle registration fees are available for:",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card shown as eligible card",
+        "quote": "Services Australia Health Care Card",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tas-driver-licence-concession",
+    "name": "Tasmanian driver licence concession",
+    "provider": "Tasmanian Government",
+    "category": "transport",
+    "summary": "Cheaper full driver licence fees in Tasmania for concession cardholders under 65, including Health Care Card holders.",
+    "who": [
+      "Eligible applicants aged under 65 years with an eligible concession card; the Services Australia Health Care Card is shown as eligible"
+    ],
+    "catches": [
+      "Savings depend on the length of time the licence is issued; the page gives no figure."
+    ],
+    "tags": [
+      "Tasmania",
+      "driver licence",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://www.concessions.tas.gov.au/browse-categories/licences",
+      "label": "Tasmanian Concessions: Licences"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Savings by licence length",
+        "quote": "depending on the length of time the full driver licence is issued.",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/licences",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "An eligible concession card.",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/licences",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card shown as eligible card",
+        "quote": "Services Australia Health Care Card",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/licences",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tas-national-parks-pass-concession",
+    "name": "Tasmanian National Parks pass concession",
+    "provider": "Tasmanian Government",
+    "category": "health",
+    "summary": "20% off annual and 2-year Tasmanian National Parks passes for concession cardholders, including Health Care Card holders.",
+    "key": "A 20% discount on annual and 2-year National Parks passes is available to eligible concession card holders.",
+    "who": [
+      "Hold an eligible concession card; the Services Australia Health Care Card is shown as eligible"
+    ],
+    "catches": [
+      "Category is the closest fit: this is a parks discount unlocked by a concession card."
+    ],
+    "tags": [
+      "Tasmania",
+      "national parks",
+      "parks pass",
+      "hiking",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://www.concessions.tas.gov.au/browse-categories/parks-and-heritage",
+      "label": "Tasmanian Concessions: Parks and heritage"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "A 20% discount on annual and 2-year National Parks passes is available to eligible concession card holders.",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/parks-and-heritage",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card shown as eligible card",
+        "quote": "Services Australia Health Care Card",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/parks-and-heritage",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tas-overland-track-concession",
+    "name": "Overland Track and Three Capes Track booking discount",
+    "provider": "Tasmanian Government",
+    "category": "health",
+    "summary": "Discounted booking fees on the Overland Track and Three Capes Track for concession cardholders, including Health Care Card holders.",
+    "key": "A discount on booking fees is available to eligible concession card holders.",
+    "who": [
+      "Hold an eligible concession card; the Services Australia Health Care Card is shown as eligible"
+    ],
+    "catches": [
+      "The page does not state the discount amount.",
+      "Category is the closest fit: this is a parks discount unlocked by a concession card."
+    ],
+    "tags": [
+      "Tasmania",
+      "Overland Track",
+      "Three Capes",
+      "hiking",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://www.concessions.tas.gov.au/browse-categories/parks-and-heritage",
+      "label": "Tasmanian Concessions: Parks and heritage"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Discount",
+        "quote": "A discount on booking fees is available to eligible concession card holders.",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/parks-and-heritage",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card shown as eligible card",
+        "quote": "Services Australia Health Care Card",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/parks-and-heritage",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tas-port-arthur-concession",
+    "name": "Port Arthur Historic Site concession entry",
+    "provider": "Tasmanian Government",
+    "category": "health",
+    "summary": "Discounted entry to the Port Arthur Historic Site for concession cardholders, including Health Care Card holders.",
+    "key": "Discounted entry fees are available to eligible concession card holders.",
+    "who": [
+      "Hold an eligible concession card; the Services Australia Health Care Card is shown as eligible"
+    ],
+    "catches": [
+      "The page does not state the discount amount.",
+      "Category is the closest fit: this is a heritage-site discount unlocked by a concession card."
+    ],
+    "tags": [
+      "Tasmania",
+      "Port Arthur",
+      "heritage",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://www.concessions.tas.gov.au/browse-categories/parks-and-heritage",
+      "label": "Tasmanian Concessions: Parks and heritage"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Discount",
+        "quote": "Discounted entry fees are available to eligible concession card holders.",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/parks-and-heritage",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card shown as eligible card",
+        "quote": "Services Australia Health Care Card",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/parks-and-heritage",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tas-adult-dental-service",
+    "name": "Tasmanian adult public dental service",
+    "provider": "Tasmanian Government",
+    "category": "health",
+    "summary": "Public dental care for Tasmanian adults who hold an eligible concession card, including the Health Care Card.",
+    "who": [
+      "Eligible concession card holder; the Services Australia Health Care Card is shown as eligible"
+    ],
+    "catches": [
+      "The page does not state fees or waiting times."
+    ],
+    "tags": [
+      "Tasmania",
+      "dental",
+      "dentist",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://www.concessions.tas.gov.au/browse-categories/health",
+      "label": "Tasmanian Concessions: Health"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Eligibility",
+        "quote": "Eligible concession card holder.",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/health",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card shown as eligible card",
+        "quote": "Services Australia Health Care Card",
+        "url": "https://www.concessions.tas.gov.au/browse-categories/health",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nt-free-public-buses",
+    "name": "Free public buses in the Northern Territory",
+    "provider": "Northern Territory Government",
+    "category": "transport",
+    "summary": "All public bus services in Greater Darwin and Alice Springs are free, including for CDU students.",
+    "key": "Travelling on all public bus services is currently free.",
+    "who": [
+      "Anyone travelling on NT public buses in the Greater Darwin region or Alice Springs"
+    ],
+    "catches": [
+      "Free since 1 July 2025; the page gives no end date."
+    ],
+    "tags": [
+      "NT",
+      "Darwin",
+      "Palmerston",
+      "Alice Springs",
+      "CDU",
+      "bus",
+      "free"
+    ],
+    "source": {
+      "url": "https://nt.gov.au/driving/public-transport-cycling/public-buses/fares",
+      "label": "NT.GOV.AU: Bus tickets and fares"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "campus": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Buses are free",
+        "quote": "Travelling on all public bus services is currently free.",
+        "url": "https://nt.gov.au/driving/public-transport-cycling/public-buses/fares",
+        "page_date": null
+      },
+      {
+        "claim": "Since 1 July 2025",
+        "quote": "All public bus services will continue to be free from 1 July 2025.",
+        "url": "https://nt.gov.au/driving/public-transport-cycling/public-buses/fares",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nt-tertiary-fares-reimbursement-within-nt",
+    "name": "NT tertiary fares reimbursement (within the NT)",
+    "provider": "Northern Territory Government",
+    "category": "transport",
+    "summary": "Reimburses up to three return trips a year for NT students living away from home to study full-time at an NT tertiary institution.",
+    "key": "A maximum of three return trips per academic year may be reimbursed.",
+    "who": [
+      "Applicant and student must be NT residents",
+      "Student studies full-time at an NT tertiary institution",
+      "Student may only work a part-time, non-salaried job"
+    ],
+    "how": [
+      "Complete the Tertiary fares reimbursement application form in GrantsNT by 30 September.",
+      "Provide proof of full-time enrolment and your primary residential address."
+    ],
+    "catches": [
+      "Apply by 30 September each year; submit the claim form by 31 March of the following year.",
+      "Charter flights will not be reimbursed."
+    ],
+    "tags": [
+      "NT",
+      "CDU",
+      "Darwin",
+      "Alice Springs",
+      "travel",
+      "flights",
+      "regional",
+      "living away from home"
+    ],
+    "source": {
+      "url": "https://nt.gov.au/learning/student-financial-help-and-scholarships/financial-help-for-isolated-students/tertiary-fares-reimbursement-schemes/tertiary-fares-reimbursement-within-the-nt",
+      "label": "NT.GOV.AU: Tertiary fares reimbursement within the NT"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "other"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      },
+      "away": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Trips reimbursed",
+        "quote": "A maximum of three return trips per academic year may be reimbursed.",
+        "url": "https://nt.gov.au/learning/student-financial-help-and-scholarships/financial-help-for-isolated-students/tertiary-fares-reimbursement-schemes/tertiary-fares-reimbursement-within-the-nt",
+        "page_date": null
+      },
+      {
+        "claim": "Who it's for",
+        "quote": "living away from home and studying full-time in an NT or interstate tertiary institution",
+        "url": "https://nt.gov.au/learning/student-financial-help-and-scholarships/financial-help-for-isolated-students/tertiary-fares-reimbursement-schemes",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nt-tertiary-fares-reimbursement-interstate",
+    "name": "NT tertiary fares reimbursement (interstate)",
+    "provider": "Northern Territory Government",
+    "category": "transport",
+    "summary": "Reimburses up to two return trips a year for NT students who move interstate to study a priority course not offered in the NT.",
+    "key": "A maximum of 2 return trips per academic year may be reimbursed.",
+    "who": [
+      "The applicant and student must be NT residents",
+      "Student moved from home in the NT to study full-time interstate",
+      "The course must not be available at Charles Darwin University or any other registered training authority within the NT",
+      "The course must be a priority field on the NT skilled occupation priority list"
+    ],
+    "how": [
+      "Complete the Tertiary fares reimbursement application form in GrantsNT by 30 September.",
+      "Claim with academic results, flight invoice and boarding pass."
+    ],
+    "catches": [
+      "Apply by 30 September in the year you claim; submit the claim form by 31 March of the following year.",
+      "The cost of changing booked flights will not be reimbursed."
+    ],
+    "tags": [
+      "NT",
+      "interstate",
+      "travel",
+      "flights",
+      "living away from home"
+    ],
+    "source": {
+      "url": "https://nt.gov.au/learning/student-financial-help-and-scholarships/financial-help-for-isolated-students/tertiary-fares-reimbursement-schemes/tertiary-fares-reimbursement-interstate",
+      "label": "NT.GOV.AU: Tertiary fares reimbursement interstate"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "other"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      },
+      "away": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Trips reimbursed",
+        "quote": "A maximum of 2 return trips per academic year may be reimbursed.",
+        "url": "https://nt.gov.au/learning/student-financial-help-and-scholarships/financial-help-for-isolated-students/tertiary-fares-reimbursement-schemes/tertiary-fares-reimbursement-interstate",
+        "page_date": null
+      },
+      {
+        "claim": "Course not available in NT",
+        "quote": "the course must not be available at Charles Darwin University or any other registered training authority within the NT.",
+        "url": "https://nt.gov.au/learning/student-financial-help-and-scholarships/financial-help-for-isolated-students/tertiary-fares-reimbursement-schemes/tertiary-fares-reimbursement-interstate",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "vic-annual-electricity-concession",
+    "name": "Victorian annual electricity concession",
+    "provider": "Victorian Department of Families, Fairness and Housing",
+    "category": "health",
+    "summary": "17.5% off electricity usage and service costs for Victorian account holders with a Health Care Card.",
+    "key": "17.5 per cent of electricity usage and service costs.",
+    "who": [
+      "Electricity account holder with a Pensioner Concession Card, Health Care Card or Veterans' Affairs Gold Card"
+    ],
+    "how": [
+      "Phone your electricity retailer and give your concession card details over the phone."
+    ],
+    "tags": [
+      "Victoria",
+      "Melbourne",
+      "electricity",
+      "energy",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://services.dffh.vic.gov.au/node/151",
+      "label": "DFFH Victoria: Annual electricity concession"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "17.5 per cent of electricity usage and service costs.",
+        "url": "https://services.dffh.vic.gov.au/node/151",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "An electricity account holder who has one of the following eligible cards:",
+        "url": "https://services.dffh.vic.gov.au/node/151",
+        "page_date": null
+      },
+      {
+        "claim": "How to apply",
+        "quote": "Phone your electricity retailer and give your concession card details over the phone.",
+        "url": "https://services.dffh.vic.gov.au/node/151",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "vic-winter-gas-concession",
+    "name": "Victorian winter gas concession",
+    "provider": "Victorian Department of Families, Fairness and Housing",
+    "category": "health",
+    "summary": "17.5% off gas usage and service costs from May to October for Victorian account holders with a Health Care Card.",
+    "key": "17.5 per cent of gas usage and service costs.",
+    "who": [
+      "Gas account holder with a Pensioner Concession Card, Health Care Card or Veterans' Affairs Gold Card"
+    ],
+    "how": [
+      "Phone your gas retailer and give your concession card details over the phone."
+    ],
+    "catches": [
+      "The concession is available over the winter period of 1 May to 31 October each year."
+    ],
+    "tags": [
+      "Victoria",
+      "Melbourne",
+      "gas",
+      "energy",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://services.dffh.vic.gov.au/node/196",
+      "label": "DFFH Victoria: Winter gas concession"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "17.5 per cent of gas usage and service costs.",
+        "url": "https://services.dffh.vic.gov.au/node/196",
+        "page_date": null
+      },
+      {
+        "claim": "Period",
+        "quote": "The concession is available over the winter period of 1 May to 31 October each year.",
+        "url": "https://services.dffh.vic.gov.au/node/196",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "vic-water-sewerage-concession",
+    "name": "Victorian water and sewerage concession",
+    "provider": "Victorian Department of Families, Fairness and Housing",
+    "category": "health",
+    "summary": "50% off water and sewerage charges, up to a yearly cap, for Victorian water account holders with a Health Care Card.",
+    "key": "50% deduction on water and sewerage charges up to a yearly maximum of $372.10 for 2025-26.",
+    "who": [
+      "Water account holder with a Pensioner Concession Card, Health Care Card or Veterans' Affairs Gold Card"
+    ],
+    "how": [
+      "Phone your water corporation and give your concession card details over the phone."
+    ],
+    "catches": [
+      "The page shows the 2025-26 cap; the 2026-27 cap was not yet listed when checked."
+    ],
+    "tags": [
+      "Victoria",
+      "Melbourne",
+      "water",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://services.dffh.vic.gov.au/water-and-sewerage-concession",
+      "label": "DFFH Victoria: Water and sewerage concession"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "50% deduction on water and sewerage charges up to a yearly maximum of $372.10 for 2025-26.",
+        "url": "https://services.dffh.vic.gov.au/water-and-sewerage-concession",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "A water account holder who holds one of the following eligible cards:",
+        "url": "https://services.dffh.vic.gov.au/water-and-sewerage-concession",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "vic-utility-relief-grant",
+    "name": "Victorian Utility Relief Grant Scheme",
+    "provider": "Victorian Department of Families, Fairness and Housing",
+    "category": "payments",
+    "summary": "Grant to help Victorian Health Care Card holders and low-income households pay overdue electricity, gas or water bills.",
+    "key": "You can receive a maximum of $650 on each utility type in a two-year period.",
+    "who": [
+      "Account holders with a Pensioner Concession Card, Health Care Card or Veterans' Affairs Gold Card, or part of a low-income household",
+      "Must show you can't pay without help and are at risk of disconnection"
+    ],
+    "how": [
+      "Phone your electricity, gas or water retailer to request an application."
+    ],
+    "catches": [
+      "The grant is based on the amount you owe when you apply."
+    ],
+    "tags": [
+      "Victoria",
+      "URGS",
+      "bills",
+      "hardship",
+      "electricity",
+      "gas",
+      "water",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://services.dffh.vic.gov.au/node/226",
+      "label": "DFFH Victoria: Utility relief grant scheme"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "You can receive a maximum of $650 on each utility type in a two-year period",
+        "url": "https://services.dffh.vic.gov.au/node/226",
+        "page_date": null
+      },
+      {
+        "claim": "Low-income households without a card",
+        "quote": "If you don’t have one of these cards but are part of a low-income household, you may also be able to apply.",
+        "url": "https://services.dffh.vic.gov.au/node/226",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "vic-medical-cooling-concession",
+    "name": "Victorian medical cooling concession",
+    "provider": "Victorian Department of Families, Fairness and Housing",
+    "category": "health",
+    "summary": "17.5% off summer electricity costs for Victorian Health Care Card holders with a medical condition affecting temperature regulation.",
+    "key": "17.5% of electricity usage and service costs between 1 November and 30 April.",
+    "who": [
+      "Electricity account holder with a Pensioner Concession Card, Health Care Card or Veterans' Affairs Gold Card",
+      "You or a household member has a medical condition that affects the body's ability to self-regulate temperature"
+    ],
+    "how": [
+      "For an application form, phone your electricity retailer or the Concessions information line on 1800 658 521 (toll free).",
+      "Have your doctor complete and sign the form."
+    ],
+    "tags": [
+      "Victoria",
+      "medical",
+      "electricity",
+      "summer",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://services.dffh.vic.gov.au/medical-cooling-concession",
+      "label": "DFFH Victoria: Medical cooling concession"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "17.5% of electricity usage and service costs between 1 November and 30 April.",
+        "url": "https://services.dffh.vic.gov.au/medical-cooling-concession",
+        "page_date": null
+      },
+      {
+        "claim": "Eligible cards",
+        "quote": "(Pensioner Concession Card, Health Care Card, Veterans' Affairs Gold Card)",
+        "url": "https://services.dffh.vic.gov.au/medical-cooling-concession",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "vicroads-registration-concession",
+    "name": "VicRoads registration concession for Health Care Card holders",
+    "provider": "VicRoads",
+    "category": "transport",
+    "summary": "Half-price vehicle registration fee in Victoria for one private vehicle owned by a Health Care Card holder.",
+    "key": "50% discount on registration fee (Health Care Card; no discount on the TAC fee).",
+    "who": [
+      "Primary cardholder (or spouse/domestic partner) named on the renewal notice",
+      "One vehicle used privately for social, domestic or recreational purposes"
+    ],
+    "how": [
+      "Log in to myVicRoads, select Vehicles & Registration, then Apply for registration concession.",
+      "Apply at least 5 days before the due date and wait for confirmation before renewing."
+    ],
+    "catches": [
+      "No discount on the TAC fee for Health Care Card holders.",
+      "Concession card eligibility will be checked with the responsible authority before the concession is granted."
+    ],
+    "tags": [
+      "Victoria",
+      "VicRoads",
+      "car registration",
+      "rego",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://www.vicroads.vic.gov.au/registration/registration-fees/concessions-and-discounts/registration-concessions",
+      "label": "VicRoads: Registration concessions"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Health Care Card discount",
+        "quote": "50% discount on registration fee",
+        "url": "https://www.vicroads.vic.gov.au/registration/registration-fees/concessions-and-discounts/registration-concessions",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card accepted",
+        "quote": "Centrelink concession cards, such as Health Care card and Pensioner Concession Card",
+        "url": "https://www.vicroads.vic.gov.au/registration/registration-fees/concessions-and-discounts/registration-concessions",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "vic-ambulance-concession",
+    "name": "Free ambulance transport for Victorian Health Care Card holders",
+    "provider": "Victorian Department of Families, Fairness and Housing",
+    "category": "health",
+    "summary": "Health Care Card holders in Victoria get free clinically necessary ambulance transport, so they don't need ambulance membership.",
+    "who": [
+      "Health Care Card holders and their dependents, including spouses listed on the card"
+    ],
+    "how": [
+      "Where possible, please advise the ambulance paramedic of your concession card number."
+    ],
+    "catches": [
+      "Please note that concession benefits only apply to clinically necessary transports.",
+      "Your concession card must be valid on the date of travel.",
+      "Excludes Health Care Cards for Carer Allowance or Foster Care issued in the child's name."
+    ],
+    "tags": [
+      "Victoria",
+      "ambulance",
+      "Ambulance Victoria",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://services.dffh.vic.gov.au/node/236",
+      "label": "DFFH Victoria: Ambulance transport"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Health Care Card holders covered",
+        "quote": "Health Care Card holders",
+        "url": "https://services.dffh.vic.gov.au/node/236",
+        "page_date": null
+      },
+      {
+        "claim": "Clinically necessary only",
+        "quote": "Please note that concession benefits only apply to clinically necessary transports.",
+        "url": "https://services.dffh.vic.gov.au/node/236",
+        "page_date": null
+      },
+      {
+        "claim": "Free coverage",
+        "quote": "eligible Victorians holding certain concession cards receive free Clinically Necessary ambulance coverage",
+        "url": "https://www.ambulance.vic.gov.au/ambulance-victoria-membership-scheme-business-rules/40-eligibility-and-concession-cards",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "vic-myki-health-care-card-concession",
+    "name": "Victorian public transport concession for Health Care Card holders",
+    "provider": "Transport Victoria",
+    "category": "transport",
+    "summary": "Half-price myki fares on Victorian public transport for Health Care Card holders, separate from the student concession.",
+    "key": "Most concession fares are 50% of the full fare.",
+    "who": [
+      "Health Care Card holders"
+    ],
+    "catches": [
+      "You must carry your valid concession card and/or proof of age card when you travel.",
+      "For contactless payment you need to link your concession entitlement to your card or device."
+    ],
+    "tags": [
+      "Victoria",
+      "Melbourne",
+      "myki",
+      "PTV",
+      "Health Care Card",
+      "concession"
+    ],
+    "source": {
+      "url": "https://transport.vic.gov.au/tickets-and-payments/myki/myki-types/concession",
+      "label": "Transport Victoria: Concession myki"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "Most concession fares are 50% of the full fare.",
+        "url": "https://transport.vic.gov.au/tickets-and-payments/myki/myki-types/concession",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card holders included",
+        "quote": "carers and Health Care Card holders",
+        "url": "https://transport.vic.gov.au/tickets-and-payments/myki/myki-types/concession",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "wa-hardship-utility-grant-scheme",
+    "name": "WA Hardship Utility Grant Scheme (HUGS)",
+    "provider": "WA Department of Communities",
+    "category": "payments",
+    "summary": "Grant towards overdue utility bills for Western Australians in financial hardship who set up a payment arrangement.",
+    "key": "South of the 26th parallel, you may be eligible for up to $640 per financial year; north of the 26th parallel, up to $1,060 per financial year.",
+    "who": [
+      "Assessed by your utility provider as being in financial hardship",
+      "Enter into a payment arrangement for at least 90 days",
+      "Outstanding bill still over $300 after that arrangement"
+    ],
+    "how": [
+      "Start with your utility provider, which assesses you and sets up a payment arrangement.",
+      "The HUGS Service Centre then reviews your case and the Department of Communities decides."
+    ],
+    "catches": [
+      "The grant must not exceed 85% of the amount outstanding on your utility account.",
+      "A Health Care Card is not required."
+    ],
+    "tags": [
+      "WA",
+      "Perth",
+      "HUGS",
+      "bills",
+      "hardship",
+      "electricity",
+      "water"
+    ],
+    "source": {
+      "url": "https://www.wa.gov.au/service/community-services/grants-and-subsidies/hardship-utility-grant-scheme",
+      "label": "WA.gov.au: Hardship Utility Grant Scheme"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "wa"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount south of 26th parallel",
+        "quote": "you may be eligible for up to $640 per financial year.",
+        "url": "https://www.wa.gov.au/service/community-services/grants-and-subsidies/hardship-utility-grant-scheme",
+        "page_date": null
+      },
+      {
+        "claim": "Payment arrangement",
+        "quote": "enter into a payment arrangement for at least 90 days",
+        "url": "https://www.wa.gov.au/service/community-services/grants-and-subsidies/hardship-utility-grant-scheme",
+        "page_date": null
+      },
+      {
+        "claim": "Cap",
+        "quote": "must not exceed 85% of the amount outstanding on your utility account.",
+        "url": "https://www.wa.gov.au/service/community-services/grants-and-subsidies/hardship-utility-grant-scheme",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "act-utilities-concession",
+    "name": "ACT utilities concession",
+    "provider": "ACT Revenue Office",
+    "category": "health",
+    "summary": "Yearly rebate on energy bills for Canberra residents who are the primary holder of a Health Care Card.",
+    "key": "The annual rebate for 2026-27 is $800.",
+    "who": [
+      "Primary holder of an eligible card, including the Health Care Card and Low Income Health Care Card"
+    ],
+    "how": [
+      "Contact your energy provider.",
+      "Embedded network residents can call the ACT Revenue Office on (02) 6207 0028 or apply online."
+    ],
+    "catches": [
+      "Health Care Card holders must reapply each time a new card is issued.",
+      "The Commonwealth Seniors Health Card is not eligible."
+    ],
+    "tags": [
+      "ACT",
+      "Canberra",
+      "ANU",
+      "UC",
+      "electricity",
+      "gas",
+      "energy",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://www.revenue.act.gov.au/community-assistance/utilities-concession",
+      "label": "ACT Revenue Office: Utilities concession"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "act"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "The annual rebate for 2026-27 is $800.",
+        "url": "https://www.revenue.act.gov.au/community-assistance/utilities-concession",
+        "page_date": null
+      },
+      {
+        "claim": "Primary cardholder",
+        "quote": "Eligible applicants must be the primary holder of one of the following concession cards",
+        "url": "https://www.revenue.act.gov.au/community-assistance/utilities-concession",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "act-registration-concession",
+    "name": "ACT vehicle registration concession",
+    "provider": "Access Canberra",
+    "category": "transport",
+    "summary": "No registration fees on one light vehicle for Canberra holders of a Low Income Health Care Card or Pensioner Concession Card.",
+    "key": "Holders of a current Services Australia Pensioner Concession Card or Low Income Health Care Card pay zero registration fees.",
+    "who": [
+      "Holder of a current Services Australia Pensioner Concession Card or Low Income Health Care Card",
+      "One light vehicle or light trailer registered in the cardholder's name"
+    ],
+    "how": [
+      "Bring proof of identity and your concession card to an Access Canberra Service Centre.",
+      "First-time claims need a concession validation consent form."
+    ],
+    "catches": [
+      "You still pay full fees for other components, including the MAI insurance premium.",
+      "The page names the Low Income Health Care Card, not the Health Care Card issued with Youth Allowance or Austudy; check with Access Canberra."
+    ],
+    "tags": [
+      "ACT",
+      "Canberra",
+      "car registration",
+      "rego",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://www.accesscanberra.act.gov.au/driving-transport-and-parking/registration/concessions-for-registration-fees",
+      "label": "Access Canberra: Concessions for registration fees"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "act"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Zero registration fees",
+        "quote": "Holders of a current Services Australia Pensioner Concession Card or Low Income Health Care Card pay:",
+        "url": "https://www.accesscanberra.act.gov.au/driving-transport-and-parking/registration/concessions-for-registration-fees",
+        "page_date": null
+      },
+      {
+        "claim": "Proof of identity",
+        "quote": "Access Canberra needs to confirm your identity before it can recognise your concession.",
+        "url": "https://www.accesscanberra.act.gov.au/driving-transport-and-parking/registration/concessions-for-registration-fees",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "act-ambulance-fee-waiver",
+    "name": "ACT Ambulance fee waiver for concession cardholders",
+    "provider": "ACT Emergency Services Agency",
+    "category": "health",
+    "summary": "Most Health Care Card holders aren't charged for ACT Ambulance services, which otherwise cost over $1,000 for emergency transport.",
+    "key": "Most aged pension and health care concession card holders will be entitled to free of charge ambulances services.",
+    "who": [
+      "Most Health Care Card and pension concession card holders"
+    ],
+    "how": [
+      "If you receive an ambulance account, send copies of both sides of your card to the address on the account."
+    ],
+    "catches": [
+      "Emergency treatment and transport otherwise costs $1,180 plus $15 per km outside the ACT."
+    ],
+    "tags": [
+      "ACT",
+      "Canberra",
+      "ambulance",
+      "Health Care Card"
+    ],
+    "source": {
+      "url": "https://esa.act.gov.au/about-esa-emergency-services/ambulance/fees-and-charges",
+      "label": "ACT ESA: Ambulance fees and charges"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "act"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free for most concession cardholders",
+        "quote": "Most aged pension and health care concession card holders will be entitled to free of charge ambulances services",
+        "url": "https://esa.act.gov.au/about-esa-emergency-services/ambulance/fees-and-charges",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "act-transport-health-care-card-off-peak-free",
+    "name": "Free off-peak Canberra buses and light rail for Health Care Card holders",
+    "provider": "Transport Canberra",
+    "category": "transport",
+    "summary": "Health Care Card holders ride Canberra buses and light rail free off-peak and on weekends, and pay concession fares at other times.",
+    "key": "Health Care Card holders travel for free on weekdays from 9:00 am to 4:30 pm and after 6:00 pm, and all day on weekends and public holidays.",
+    "who": [
+      "Primary holder of an Australian Government Health Care Card or Pension Card"
+    ],
+    "how": [
+      "Register your concession in your MyWay+ account: Register concession, choose Concession under Fare Type, select your concession type and submit."
+    ],
+    "catches": [
+      "Most MyWay+ concessions automatically expired on 30 June 2026, so check yours is still active.",
+      "Concession fares apply to the primary card holder at all times."
+    ],
+    "tags": [
+      "ACT",
+      "Canberra",
+      "ANU",
+      "UC",
+      "MyWay+",
+      "bus",
+      "light rail",
+      "Health Care Card",
+      "free"
+    ],
+    "source": {
+      "url": "https://www.transport.act.gov.au/tickets-and-myway/concessions",
+      "label": "Transport Canberra: Concessions"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "act"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "act"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free off-peak",
+        "quote": "The following card holders travel for free on weekdays from 9:00 am to 4:30 pm and after 6:00 pm (off-peak).",
+        "url": "https://www.transport.act.gov.au/tickets-and-myway/concessions",
+        "page_date": null
+      },
+      {
+        "claim": "Health Care Card in free list",
+        "quote": "Health Care Card or Pension Card",
+        "url": "https://www.transport.act.gov.au/tickets-and-myway/concessions",
+        "page_date": null
+      },
+      {
+        "claim": "Weekends",
+        "quote": "Travel is free all day on weekends and public holidays.",
+        "url": "https://www.transport.act.gov.au/tickets-and-myway/concessions",
+        "page_date": null
+      }
+    ]
+  }
+]

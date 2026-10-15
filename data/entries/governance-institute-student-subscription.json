@@ -1,0 +1,44 @@
+{
+  "id": "governance-institute-student-subscription",
+  "name": "Governance Institute free student subscription",
+  "provider": "Governance Institute of Australia",
+  "category": "career",
+  "summary": "Free subscription to the Governance Institute of Australia for tertiary students interested in governance and risk.",
+  "key": "Tertiary students subscribe for free.",
+  "who": [
+    "Tertiary students"
+  ],
+  "tags": [
+    "governance",
+    "risk",
+    "company secretary",
+    "business",
+    "law",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.governanceinstitute.com.au/membership/",
+    "label": "Governance Institute of Australia: Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "business",
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Tertiary students subscribe for free here.",
+      "url": "https://www.governanceinstitute.com.au/membership/",
+      "page_date": null
+    }
+  ]
+}

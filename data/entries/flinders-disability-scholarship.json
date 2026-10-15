@@ -1,0 +1,77 @@
+{
+  "id": "flinders-disability-scholarship",
+  "name": "Flinders Disability Scholarship",
+  "provider": "Flinders University",
+  "category": "uni",
+  "summary": "$6,000 a year for up to four years for commencing undergraduates with an Access Plan and financial need.",
+  "key": "Valued at $6,000 per year for up to four years.",
+  "who": [
+    "Have an Access Plan registered with Health and Counselling services, or have requested one",
+    "Australian citizen, NZ citizen, permanent resident or permanent humanitarian visa holder",
+    "Commencing an undergraduate degree, enrolled full-time",
+    "Be in receipt of means-tested government payments or be able to demonstrate financial hardship"
+  ],
+  "how": [
+    "Apply online through the Flinders University Student System by the closing date"
+  ],
+  "catches": [
+    "The 2026 round opened 15-12-2025 and closed 13-03-2026; check for the next round"
+  ],
+  "tags": [
+    "flinders",
+    "adelaide",
+    "sa",
+    "disability",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.flinders.edu.au/scholarships/flinders_disability_scholarship",
+    "label": "Flinders University: Flinders Disability Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "will be valued at $6,000 per year for up to four years,",
+      "url": "https://www.flinders.edu.au/scholarships/flinders_disability_scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Financial need",
+      "quote": "be in receipt of means-tested government payments or be able to demonstrate financial hardship.",
+      "url": "https://www.flinders.edu.au/scholarships/flinders_disability_scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

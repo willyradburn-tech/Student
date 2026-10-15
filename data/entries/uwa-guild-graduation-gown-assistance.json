@@ -1,0 +1,45 @@
+{
+  "id": "uwa-guild-graduation-gown-assistance",
+  "name": "UWA graduation gown assistance",
+  "provider": "UWA Student Guild",
+  "category": "uni",
+  "summary": "Free graduation attire for UWA students in financial hardship who are eligible to graduate at the upcoming ceremony.",
+  "who": [
+    "UWA students eligible to graduate at the upcoming ceremony",
+    "Experiencing financial hardship"
+  ],
+  "how": [
+    "Download the application form and email it to Student Assist"
+  ],
+  "tags": [
+    "uwa",
+    "uwa guild",
+    "perth",
+    "wa",
+    "graduation",
+    "free"
+  ],
+  "source": {
+    "url": "https://www.uwastudentguild.com/support/topic/grants",
+    "label": "UWA Student Guild: Grants"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free attire",
+      "quote": "experiencing financial hardship can now apply for free graduation attire",
+      "url": "https://www.uwastudentguild.com/support/topic/grants",
+      "page_date": null
+    }
+  ]
+}

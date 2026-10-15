@@ -1,0 +1,2822 @@
+[
+  {
+    "id": "usyd-general-bursary",
+    "name": "University of Sydney General Bursary",
+    "provider": "University of Sydney",
+    "category": "uni",
+    "summary": "Non-repayable bursary for domestic University of Sydney students in genuine, immediate financial hardship.",
+    "key": "Worth up to $2000 per semester, depending on available funds.",
+    "who": [
+      "Domestic student currently enrolled at the University of Sydney",
+      "Currently residing in Australia",
+      "Evidence of genuine and immediate financial hardship",
+      "Satisfactory progress (generally a WAM of at least 50)"
+    ],
+    "how": [
+      "Submit a general bursary application through Sydney Student",
+      "Include supporting documents including a recent 30-day bank transaction history"
+    ],
+    "catches": [
+      "No more than two general bursaries in the same calendar year",
+      "Available all year; you may apply once per semester",
+      "Commencing students applying before census date may receive up to $1000"
+    ],
+    "tags": [
+      "usyd",
+      "bursary",
+      "hardship",
+      "sydney"
+    ],
+    "source": {
+      "url": "https://www.sydney.edu.au/students/financial-support/general-bursaries.html",
+      "label": "University of Sydney: General bursaries"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Up to $2000 per semester",
+        "quote": "worth up to $2000 per semester, depending on available funds.",
+        "url": "https://www.sydney.edu.au/students/financial-support/general-bursaries.html",
+        "page_date": null
+      },
+      {
+        "claim": "Domestic students only",
+        "quote": "are a domestic student currently enrolled at the University of Sydney",
+        "url": "https://www.sydney.edu.au/students/financial-support/general-bursaries.html",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "usyd-interest-free-loan",
+    "name": "University of Sydney Interest-Free Student Loan",
+    "provider": "University of Sydney",
+    "category": "uni",
+    "summary": "Interest-free loan for University of Sydney students needing help with essential living and study expenses.",
+    "key": "Student loans of up to $2000 are available throughout the year.",
+    "who": [
+      "Enrolled University of Sydney student in need of assistance with essential living and study expenses"
+    ],
+    "how": [
+      "Complete the online application and upload supporting documents in Sydney Student (My finance > Apply for financial support)"
+    ],
+    "catches": [
+      "Must be repaid; repayment terms are agreed when the loan is approved",
+      "You will not be able to graduate until your loan is repaid"
+    ],
+    "tags": [
+      "usyd",
+      "loan",
+      "interest-free",
+      "emergency",
+      "sydney"
+    ],
+    "source": {
+      "url": "https://www.sydney.edu.au/students/financial-support/interest-free-loans.html",
+      "label": "University of Sydney: Interest-free loans"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Loans up to $2000",
+        "quote": "Student loans of up to $2000 are available throughout the year.",
+        "url": "https://www.sydney.edu.au/students/financial-support/interest-free-loans.html",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "usyd-arthur-renee-george-loan",
+    "name": "Arthur and Renee George Foundation Loan",
+    "provider": "University of Sydney",
+    "category": "uni",
+    "summary": "Interest-free loan for Australian citizen or PR students in the final two years of a University of Sydney degree.",
+    "key": "These loans are available for up to $2000 each year.",
+    "who": [
+      "Australian citizen or permanent resident",
+      "Enrolled in the final two years of your degree"
+    ],
+    "how": [
+      "Apply in Sydney Student under Apply for financial support"
+    ],
+    "catches": [
+      "Must be repaid before you can graduate"
+    ],
+    "tags": [
+      "usyd",
+      "loan",
+      "interest-free",
+      "final-year",
+      "sydney"
+    ],
+    "source": {
+      "url": "https://www.sydney.edu.au/students/financial-support/interest-free-loans.html",
+      "label": "University of Sydney: Interest-free loans"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Up to $2000 each year",
+        "quote": "These loans are available for up to $2000 each year.",
+        "url": "https://www.sydney.edu.au/students/financial-support/interest-free-loans.html",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "usyd-financial-support-voucher",
+    "name": "University of Sydney Financial Support Voucher",
+    "provider": "University of Sydney",
+    "category": "uni",
+    "summary": "One-off $250 voucher for food or essential items for University of Sydney students facing immediate financial difficulty.",
+    "key": "A voucher worth $250 for food or essential items (e.g. medical items).",
+    "who": [
+      "Currently enrolled at the University of Sydney and residing in Australia",
+      "Satisfactory progress (generally a WAM above 50)",
+      "Evidence of genuine and immediate financial difficulty"
+    ],
+    "how": [
+      "Complete the online application and upload all supporting documents"
+    ],
+    "catches": [
+      "Dependent on available funding and reviewed on an ongoing basis",
+      "Incomplete applications are declined"
+    ],
+    "tags": [
+      "usyd",
+      "voucher",
+      "food",
+      "hardship",
+      "sydney"
+    ],
+    "source": {
+      "url": "https://www.sydney.edu.au/students/financial-support/financial-support-vouchers.html",
+      "label": "University of Sydney: Financial support vouchers"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$250 voucher",
+        "quote": "may be able to receive a voucher worth $250 for food or essential items (e.g. medical items).",
+        "url": "https://www.sydney.edu.au/students/financial-support/financial-support-vouchers.html",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "usyd-chancellors-committee-atsi-bursary",
+    "name": "Chancellor's Committee Aboriginal and Torres Strait Islander Students Bursary",
+    "provider": "University of Sydney",
+    "category": "uni",
+    "summary": "Once-off bursary for Aboriginal or Torres Strait Islander undergraduate students at the University of Sydney.",
+    "key": "Up to $3,000, paid once.",
+    "who": [
+      "Undergraduate or undergraduate diploma student who is Aboriginal or Torres Strait Islander",
+      "Must also meet the general advertised bursary criteria"
+    ],
+    "catches": [
+      "Advertised bursaries open in set rounds; the Semester 2 2026 round closed 13 September 2026, so watch for the next round",
+      "Meeting the criteria does not guarantee a bursary"
+    ],
+    "tags": [
+      "usyd",
+      "bursary",
+      "first-nations",
+      "indigenous",
+      "sydney"
+    ],
+    "source": {
+      "url": "https://www.sydney.edu.au/students/financial-support/advertised-bursaries.html",
+      "label": "University of Sydney: Advertised bursaries"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Up to $3,000 once",
+        "quote": "Chancellor's Committee Aboriginal and Torres Strait Islander Students Bursary",
+        "url": "https://www.sydney.edu.au/students/financial-support/advertised-bursaries.html",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "usyd-anthony-howson-disability-bursary",
+    "name": "Anthony Howson Disability Bursary",
+    "provider": "University of Sydney",
+    "category": "uni",
+    "summary": "Once-off bursary for University of Sydney students registered with Inclusion and Disability Services.",
+    "key": "Up to $3,000, paid once.",
+    "who": [
+      "Undergraduate or postgraduate student registered with Inclusion and Disability Services",
+      "Full or part time"
+    ],
+    "catches": [
+      "Advertised bursaries open in set rounds; the Semester 2 2026 round closed 13 September 2026, so watch for the next round"
+    ],
+    "tags": [
+      "usyd",
+      "bursary",
+      "disability",
+      "sydney"
+    ],
+    "source": {
+      "url": "https://www.sydney.edu.au/students/financial-support/advertised-bursaries.html",
+      "label": "University of Sydney: Advertised bursaries"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Up to $3,000 once",
+        "quote": "Anthony Howson Disability Bursary",
+        "url": "https://www.sydney.edu.au/students/financial-support/advertised-bursaries.html",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "usyd-sydney-access-scholarship",
+    "name": "Sydney Access Scholarship",
+    "provider": "University of Sydney",
+    "category": "uni",
+    "summary": "Yearly scholarship for domestic commencing undergraduates who are regional, low-SES or facing financial hardship.",
+    "key": "$8,500 p.a. (course duration).",
+    "who": [
+      "Domestic student who has applied for an undergraduate degree through UAC",
+      "Not eligible for a MySydney Entry and Scholarship",
+      "Regional or remote, recent regional school leaver, EAS financial hardship, or living in a bottom-25% ABS area"
+    ],
+    "how": [
+      "Apply through the domestic undergraduate scholarships page"
+    ],
+    "catches": [
+      "2026 round opened 10 April 2026 and closed 9 October 2026; expect a new round next April"
+    ],
+    "tags": [
+      "usyd",
+      "equity",
+      "scholarship",
+      "regional",
+      "low-ses",
+      "sydney"
+    ],
+    "source": {
+      "url": "https://www.sydney.edu.au/scholarships/f/sydney-access-scholarship.html",
+      "label": "University of Sydney: Sydney Access Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$8,500 a year for the course",
+        "quote": "$8,500 p.a. (course duration)",
+        "url": "https://www.sydney.edu.au/scholarships/f/sydney-access-scholarship.html",
+        "page_date": null
+      },
+      {
+        "claim": "Regional or hardship criterion",
+        "quote": "be facing financial hardship, as demonstrated through the UAC Educational Access Scheme (EAS)",
+        "url": "https://www.sydney.edu.au/scholarships/f/sydney-access-scholarship.html",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "usyd-mysydney-scholarship",
+    "name": "MySydney Scholarship",
+    "provider": "University of Sydney",
+    "category": "uni",
+    "summary": "Yearly cash scholarship for domestic UAC applicants living in a low socio-economic area, offered automatically.",
+    "key": "A cash payment of AUD$8,500 per year.",
+    "who": [
+      "Domestic student eligible for an undergraduate degree or diploma",
+      "Applied through UAC",
+      "Residing in a low socio-economic area"
+    ],
+    "how": [
+      "No additional application is required; offered with MySydney admission in UAC rounds"
+    ],
+    "tags": [
+      "usyd",
+      "equity",
+      "scholarship",
+      "low-ses",
+      "sydney"
+    ],
+    "source": {
+      "url": "https://www.sydney.edu.au/scholarships/e/mysydney-scholarship.html",
+      "label": "University of Sydney: MySydney Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$8,500 per year",
+        "quote": "The scholarship provides a cash payment of AUD$8,500 per year.",
+        "url": "https://www.sydney.edu.au/scholarships/e/mysydney-scholarship.html",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "usyd-bruton-educational-trust-scholarship",
+    "name": "Bruton Educational Trust Scholarship",
+    "provider": "University of Sydney",
+    "category": "uni",
+    "summary": "Yearly scholarship for financially disadvantaged commencing undergraduates who did the HSC at a rural or regional school.",
+    "key": "$10,000 p.a. (course duration), for up to five years of full-time study.",
+    "who": [
+      "Commencing the first semester of an undergraduate degree at the University of Sydney",
+      "Able to demonstrate financial disadvantage",
+      "Completed the HSC at a high school more than 100km from the University of Sydney or ANU"
+    ],
+    "catches": [
+      "Must maintain a Semester Average Mark of 65",
+      "2026 round opened 10 April 2026 and closed 9 October 2026"
+    ],
+    "tags": [
+      "usyd",
+      "equity",
+      "scholarship",
+      "regional",
+      "rural",
+      "sydney"
+    ],
+    "source": {
+      "url": "https://www.sydney.edu.au/scholarships/f/bruton-educational-trust.html",
+      "label": "University of Sydney: Bruton Educational Trust Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "away": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$10,000 a year",
+        "quote": "$10,000 p.a. (course duration)",
+        "url": "https://www.sydney.edu.au/scholarships/f/bruton-educational-trust.html",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "usyd-walter-eliza-hall-opportunity-scholarship",
+    "name": "Walter and Eliza Hall Trust Opportunity Scholarship",
+    "provider": "University of Sydney",
+    "category": "uni",
+    "summary": "Scholarship for Australian citizen students with a physical disability who demonstrate financial need.",
+    "key": "$10,000 (for up to 5 years).",
+    "who": [
+      "Australian citizen",
+      "Formally diagnosed physical disability",
+      "Demonstrate financial need",
+      "At least 12 credit points each semester"
+    ],
+    "how": [
+      "Apply via the online form linked on the page"
+    ],
+    "catches": [
+      "Open and close dates listed as TBC"
+    ],
+    "tags": [
+      "usyd",
+      "disability",
+      "scholarship",
+      "equity",
+      "sydney"
+    ],
+    "source": {
+      "url": "https://www.sydney.edu.au/scholarships/e/walter-eliza-hall-trust-opportunity-scholarship-student-physical.html",
+      "label": "University of Sydney: Walter and Eliza Hall Trust Opportunity Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$10,000 for up to 5 years",
+        "quote": "$10,000 (for up to 5 years)",
+        "url": "https://www.sydney.edu.au/scholarships/e/walter-eliza-hall-trust-opportunity-scholarship-student-physical.html",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "usyd-src-emergency-loan",
+    "name": "Sydney Uni SRC Emergency Loan",
+    "provider": "University of Sydney Students' Representative Council",
+    "category": "uni",
+    "summary": "Small emergency cash loan from the SRC for undergraduate University of Sydney students.",
+    "key": "Emergency loans of $50 are available to students in need of financial assistance.",
+    "who": [
+      "Currently enrolled undergraduate student at the University of Sydney"
+    ],
+    "how": [
+      "Apply online via the Emergency Loan Form"
+    ],
+    "catches": [
+      "30-day loan term; must be repaid"
+    ],
+    "tags": [
+      "usyd",
+      "loan",
+      "emergency",
+      "src",
+      "student-union",
+      "sydney"
+    ],
+    "source": {
+      "url": "https://srcusyd.net.au/src-help/src-loans/",
+      "label": "USyd SRC: SRC Loans"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$50 emergency loans",
+        "quote": "Emergency loans of $50 are available to students in need of financial assistance.",
+        "url": "https://srcusyd.net.au/src-help/src-loans/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "usyd-src-legal-service",
+    "name": "Sydney Uni SRC Legal Service",
+    "provider": "University of Sydney Students' Representative Council",
+    "category": "uni",
+    "summary": "Free legal advice, court representation where relevant, and referrals for University of Sydney undergraduates.",
+    "key": "Free legal advice, representation in court where relevant, and a referral service.",
+    "who": [
+      "University of Sydney undergraduate students (postgraduates are referred to SUPRA)"
+    ],
+    "how": [
+      "Call 02 9660 5222, Monday to Friday 9am to 5pm"
+    ],
+    "catches": [
+      "Family Law and Commercial Law matters are referred to outside solicitors who charge at a fair rate"
+    ],
+    "tags": [
+      "usyd",
+      "legal",
+      "free",
+      "src",
+      "student-union",
+      "sydney"
+    ],
+    "source": {
+      "url": "https://srcusyd.net.au/src-help/src-legal-service/",
+      "label": "USyd SRC: SRC Legal Service"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free legal advice for undergraduates",
+        "quote": "FREE Legal Service for University of Sydney undergraduate students",
+        "url": "https://srcusyd.net.au/src-help/src-legal-service/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "usyd-src-foodhub",
+    "name": "Sydney Uni SRC FoodHub",
+    "provider": "University of Sydney Students' Representative Council",
+    "category": "uni",
+    "summary": "Free food hampers and basic necessities for University of Sydney students in need.",
+    "key": "Free food hampers for students in need.",
+    "who": [
+      "Students of the University of Sydney"
+    ],
+    "how": [
+      "Register in advance via the Humanitix link",
+      "Level 3, Wentworth Building, Monday to Friday 11am to 2pm"
+    ],
+    "tags": [
+      "usyd",
+      "food",
+      "pantry",
+      "free",
+      "src",
+      "student-union",
+      "sydney"
+    ],
+    "source": {
+      "url": "https://srcusyd.net.au/get-involved/foodhub/",
+      "label": "USyd SRC: FoodHub"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free food hampers",
+        "quote": "Free food hampers for students in need",
+        "url": "https://srcusyd.net.au/get-involved/foodhub/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unsw-interest-free-student-loan",
+    "name": "UNSW Interest-Free Student Loan",
+    "provider": "UNSW Sydney",
+    "category": "uni",
+    "summary": "Interest-free repayable loan for enrolled UNSW students who have completed at least one term.",
+    "key": "UNSW student loans are typically offered up to a value of $1,500, with up to $4,000 in exceptional circumstances.",
+    "who": [
+      "Currently enrolled at UNSW",
+      "Completed at least one semester or term",
+      "Good academic standing and no outstanding debts to UNSW",
+      "Able to repay within the required timeframe"
+    ],
+    "how": [
+      "Book an appointment with a Student Support Advisor",
+      "Provide documentary evidence for loans over $200"
+    ],
+    "catches": [
+      "Loans up to $500 repaid within six months; up to $1,500 within twelve months",
+      "You can't graduate until the loan is repaid"
+    ],
+    "tags": [
+      "unsw",
+      "loan",
+      "interest-free",
+      "kensington"
+    ],
+    "source": {
+      "url": "https://www.unsw.edu.au/student/support/financial-support/loans",
+      "label": "UNSW: Student loans"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Typically up to $1,500",
+        "quote": "UNSW student loans are typically offered up to a value of $1,500.",
+        "url": "https://www.unsw.edu.au/student/support/financial-support/loans",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unsw-financial-hardship-grant",
+    "name": "UNSW Financial Hardship Grant",
+    "provider": "UNSW Sydney",
+    "category": "uni",
+    "summary": "Non-repayable grant for UNSW students facing unforeseen hardship, covering living costs, study costs, medical bills, laptops and bonds.",
+    "who": [
+      "Facing hardship due to circumstances outside your control",
+      "Currently enrolled at UNSW and living in Australia",
+      "Completed at least one term at UNSW",
+      "No other means of financial support"
+    ],
+    "how": [
+      "Meet with a Student Support Advisor, who emails an application link",
+      "Provide 90 days of bank transactions, proof of income, evidence of expenses and a budget summary"
+    ],
+    "catches": [
+      "No amount is published",
+      "Does not cover tuition fees"
+    ],
+    "tags": [
+      "unsw",
+      "grant",
+      "hardship",
+      "emergency"
+    ],
+    "source": {
+      "url": "https://www.unsw.edu.au/student/support/financial-support/grants",
+      "label": "UNSW: Financial hardship grants"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Eligibility",
+        "quote": "Are currently enrolled at UNSW",
+        "url": "https://www.unsw.edu.au/student/support/financial-support/grants",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unsw-arc-financial-counselling",
+    "name": "Arc UNSW Financial Counselling",
+    "provider": "Arc UNSW Student Life",
+    "category": "uni",
+    "summary": "Free financial counselling for Arc members on budgeting, debt and planning.",
+    "key": "Free for Arc members.",
+    "who": [
+      "Arc members (current UNSW students)"
+    ],
+    "how": [
+      "Book via the Arc financial counselling page (arcunswfinancialcounsellor.setmore.com)"
+    ],
+    "tags": [
+      "unsw",
+      "financial-counselling",
+      "free",
+      "arc",
+      "student-union"
+    ],
+    "source": {
+      "url": "https://www.unsw.edu.au/student/support/financial-support",
+      "label": "UNSW: Financial support"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free for Arc members",
+        "quote": "Arc@UNSW Financial Counselling is a free service for Arc members.",
+        "url": "https://www.unsw.edu.au/student/support/financial-support",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unsw-arc-legal-advocacy",
+    "name": "Arc UNSW Legal & Advocacy",
+    "provider": "Arc UNSW Student Life",
+    "category": "uni",
+    "summary": "Free, confidential legal advice for current UNSW students who are Arc members, including visa and academic appeal help.",
+    "key": "Legal advice is confidential and free for Arc members.",
+    "who": [
+      "Current UNSW student and Arc member"
+    ],
+    "how": [
+      "Book a virtual appointment online, email advice@arc.unsw.edu.au or call (02) 9065 0900"
+    ],
+    "catches": [
+      "No advice on tax returns, criminal charges, car accidents, personal injury, business law, wills, family law or conveyancing"
+    ],
+    "tags": [
+      "unsw",
+      "legal",
+      "free",
+      "arc",
+      "student-union",
+      "visa"
+    ],
+    "source": {
+      "url": "https://www.arc.unsw.edu.au/help",
+      "label": "Arc UNSW: Help"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free for Arc members",
+        "quote": "Legal advice is confidential and free for Arc members (you must be a current UNSW student).",
+        "url": "https://www.arc.unsw.edu.au/help",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unsw-arc-food-hub",
+    "name": "Arc UNSW Food Hub",
+    "provider": "Arc UNSW Student Life",
+    "category": "uni",
+    "summary": "Free food pantry with staples, fresh produce and hygiene products at Kensington and Paddington.",
+    "key": "A free food pantry with pantry staples, snacks, fruit and vegetables, and hygiene products.",
+    "who": [
+      "UNSW students (first 45 minutes of each session are UNSW students only)"
+    ],
+    "how": [
+      "Register via Humanitix and attend a session at Kensington (near Gate 2) or Paddington"
+    ],
+    "catches": [
+      "Session times are changing; check the event pages before visiting",
+      "Paddington runs in term time only"
+    ],
+    "tags": [
+      "unsw",
+      "food",
+      "pantry",
+      "free",
+      "arc",
+      "student-union",
+      "kensington",
+      "paddington"
+    ],
+    "source": {
+      "url": "https://www.arc.unsw.edu.au/food-hub",
+      "label": "Arc UNSW: Food Hub"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free food pantry",
+        "quote": "free food pantry and student support & sustainability program",
+        "url": "https://www.arc.unsw.edu.au/food-hub",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unsw-advantage-award",
+    "name": "UNSW Advantage Award",
+    "provider": "UNSW Sydney",
+    "category": "uni",
+    "summary": "One-year equity award for commencing UNSW undergraduates from low-SES backgrounds or on a refugee or humanitarian visa.",
+    "key": "$10,000 for one year.",
+    "who": [
+      "Commencing undergraduate",
+      "Low socio-economic background or eligible refugee or humanitarian visa"
+    ],
+    "how": [
+      "Apply through UAC for an Equity Scholarship (ES) or EAS; Gateway applicants are considered automatically"
+    ],
+    "catches": [
+      "2027 rounds: EAS via UAC by 19 Nov 2026, ES by 10 Dec 2026, with later January and February rounds; offers made through to March 2027",
+      "Competitive; meeting the criteria does not guarantee an award"
+    ],
+    "tags": [
+      "unsw",
+      "equity",
+      "scholarship",
+      "low-ses",
+      "refugee"
+    ],
+    "source": {
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+      "label": "UNSW Scholarships: UNSW Equity Scholarships for 2027"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$10,000 for one year",
+        "quote": "Supports commencing students from eligible low socioeconomic backgrounds or on an eligible refugee or humanitarian visa.",
+        "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unsw-access-scholarship",
+    "name": "UNSW Access Scholarship",
+    "provider": "UNSW Sydney",
+    "category": "uni",
+    "summary": "Yearly scholarship for commencing local UNSW undergraduates who have experienced educational disadvantage.",
+    "key": "$10,000 per annum for the minimum duration of program.",
+    "who": [
+      "Commencing a UNSW eligible undergraduate coursework degree",
+      "Experienced educational disadvantage",
+      "Australian citizen, permanent resident or NZ citizen"
+    ],
+    "how": [
+      "Apply through UAC for an Equity Scholarship (ES) or EAS; Gateway applicants are considered automatically"
+    ],
+    "catches": [
+      "2027 rounds: EAS via UAC by 19 Nov 2026, ES by 10 Dec 2026, with later January and February rounds; offers made through to March 2027",
+      "Competitive; meeting the criteria does not guarantee an award"
+    ],
+    "tags": [
+      "unsw",
+      "equity",
+      "scholarship"
+    ],
+    "source": {
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+      "label": "UNSW Scholarships: UNSW Equity Scholarships for 2027"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$10,000 per year",
+        "quote": "$10,000 per annum for the minimum duration of program",
+        "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+        "page_date": null
+      },
+      {
+        "claim": "Educational disadvantage",
+        "quote": "Supports and encourages local students who have experienced educational disadvantage",
+        "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unsw-equity-award",
+    "name": "UNSW Equity Award (current students)",
+    "provider": "UNSW Sydney",
+    "category": "uni",
+    "summary": "One-year award for current UNSW undergraduate or postgraduate coursework students in socioeconomic hardship.",
+    "key": "$5,000 for one year.",
+    "who": [
+      "Currently studying a UNSW eligible undergraduate or postgraduate coursework degree",
+      "Experiencing socioeconomic hardship",
+      "Australian citizen, permanent resident or NZ citizen"
+    ],
+    "how": [
+      "Current students submit an Equity Scholarships (ES) application through UAC"
+    ],
+    "catches": [
+      "February 2027 round for current, postgraduate and honours students: ES by 29 Jan 2027"
+    ],
+    "tags": [
+      "unsw",
+      "equity",
+      "scholarship",
+      "current-students",
+      "postgraduate"
+    ],
+    "source": {
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+      "label": "UNSW Scholarships: UNSW Equity Scholarships for 2027"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$5,000 for one year",
+        "quote": "Supports current students at UNSW who may be experiencing hardship due to their socioeconomic circumstances.",
+        "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unsw-harris-family-equity-scholarship",
+    "name": "Harris Family Equity Scholarship",
+    "provider": "UNSW Sydney",
+    "category": "uni",
+    "summary": "Yearly scholarship for commencing UNSW undergraduates from low-SES backgrounds or socio-educationally disadvantaged schools.",
+    "key": "$10,000 per annum for the minimum duration of program.",
+    "who": [
+      "Commencing undergraduate",
+      "Low-SES background and/or socio-educationally disadvantaged school"
+    ],
+    "how": [
+      "Apply through UAC for an Equity Scholarship (ES) or EAS; Gateway applicants are considered automatically"
+    ],
+    "catches": [
+      "2027 rounds: EAS via UAC by 19 Nov 2026, ES by 10 Dec 2026, with later January and February rounds; offers made through to March 2027",
+      "Competitive; meeting the criteria does not guarantee an award"
+    ],
+    "tags": [
+      "unsw",
+      "equity",
+      "scholarship",
+      "low-ses"
+    ],
+    "source": {
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+      "label": "UNSW Scholarships: UNSW Equity Scholarships for 2027"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$10,000 per year",
+        "quote": "$10,000 per annum for the minimum duration of program",
+        "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unsw-president-vice-chancellors-equity-scholarship",
+    "name": "UNSW President and Vice-Chancellor's Equity Scholarship",
+    "provider": "UNSW Sydney",
+    "category": "uni",
+    "summary": "Yearly equity scholarship for commencing UNSW undergraduate or postgraduate students in low-SES circumstances.",
+    "key": "$5,000 per annum for the minimum duration of program.",
+    "who": [
+      "Commencing undergraduate or postgraduate student",
+      "Low socio-economic circumstances"
+    ],
+    "how": [
+      "Apply through UAC for an Equity Scholarship (ES) or EAS; Gateway applicants are considered automatically"
+    ],
+    "catches": [
+      "2027 rounds: EAS via UAC by 19 Nov 2026, ES by 10 Dec 2026, with later January and February rounds; offers made through to March 2027",
+      "Competitive; meeting the criteria does not guarantee an award"
+    ],
+    "tags": [
+      "unsw",
+      "equity",
+      "scholarship",
+      "low-ses",
+      "postgraduate"
+    ],
+    "source": {
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+      "label": "UNSW Scholarships: UNSW Equity Scholarships for 2027"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$5,000 per year",
+        "quote": "$5,000 per annum for the minimum duration of program",
+        "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unsw-gateway-scholarship",
+    "name": "UNSW Gateway Scholarship",
+    "provider": "UNSW Sydney",
+    "category": "uni",
+    "summary": "Yearly scholarship for commencing students admitted through the Gateway Admission Pathway from a Gateway Partner School.",
+    "key": "$10,000 per annum for the minimum duration of program.",
+    "who": [
+      "Commencing undergraduate admitted via the Gateway Admission Pathway",
+      "Attended a Gateway Partner School"
+    ],
+    "how": [
+      "Considered automatically through your Gateway application"
+    ],
+    "catches": [
+      "2027 rounds: EAS via UAC by 19 Nov 2026, ES by 10 Dec 2026, with later January and February rounds; offers made through to March 2027",
+      "Competitive; meeting the criteria does not guarantee an award"
+    ],
+    "tags": [
+      "unsw",
+      "equity",
+      "scholarship",
+      "gateway"
+    ],
+    "source": {
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+      "label": "UNSW Scholarships: UNSW Equity Scholarships for 2027"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$10,000 per year",
+        "quote": "Supports commencing students enrolled through the Gateway Admission Pathway who attended a Gateway Partner School.",
+        "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unsw-community-plus-scholarship",
+    "name": "UNSW Community Plus Scholarship",
+    "provider": "UNSW Sydney",
+    "category": "uni",
+    "summary": "Accommodation scholarship paying residential college fees for commencing low-SES UNSW students living on campus.",
+    "key": "Up to $25,000 per annum towards residential fees for minimum program duration.",
+    "who": [
+      "Commencing undergraduate from a low socioeconomic background",
+      "Living in on-campus accommodation"
+    ],
+    "how": [
+      "Complete the separate Accommodation Scholarship Application Form; an approved UNSW Accommodation place is required"
+    ],
+    "catches": [
+      "Paid directly to the college as accommodation fees",
+      "2027 rounds: EAS via UAC by 19 Nov 2026, ES by 10 Dec 2026, with later January and February rounds; offers made through to March 2027",
+      "Competitive; meeting the criteria does not guarantee an award"
+    ],
+    "tags": [
+      "unsw",
+      "equity",
+      "scholarship",
+      "accommodation",
+      "low-ses"
+    ],
+    "source": {
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+      "label": "UNSW Scholarships: UNSW Equity Scholarships for 2027"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "away": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Up to $25,000 a year towards residential fees",
+        "quote": "Up to $25,000 per annum towards residential fees for minimum program duration",
+        "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unsw-deans-engineering-equity-scholarship",
+    "name": "UNSW Dean's Engineering Equity Scholarship",
+    "provider": "UNSW Sydney",
+    "category": "uni",
+    "summary": "Yearly scholarship for disadvantaged, under-represented, Indigenous and low-SES students starting a UNSW engineering degree.",
+    "key": "$15,000 per annum for minimum program duration (up to 5 years).",
+    "who": [
+      "Commencing an eligible UNSW undergraduate engineering degree",
+      "Disadvantaged, under-represented, Indigenous or low socio-economic background"
+    ],
+    "how": [
+      "Apply through UAC for an Equity Scholarship (ES) or EAS; Gateway applicants are considered automatically"
+    ],
+    "catches": [
+      "2027 rounds: EAS via UAC by 19 Nov 2026, ES by 10 Dec 2026, with later January and February rounds; offers made through to March 2027",
+      "Competitive; meeting the criteria does not guarantee an award"
+    ],
+    "tags": [
+      "unsw",
+      "equity",
+      "scholarship",
+      "engineering"
+    ],
+    "source": {
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+      "label": "UNSW Scholarships: UNSW Equity Scholarships for 2027"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "field": {
+        "yes": [
+          "engineering"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$15,000 per year up to 5 years",
+        "quote": "$15,000 per annum for minimum program duration(up to 5 years)",
+        "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unsw-law-disability-support-scholarship",
+    "name": "UNSW Law Disability Support Scholarship",
+    "provider": "UNSW Sydney",
+    "category": "uni",
+    "summary": "Yearly scholarship for UNSW Law and Justice students with a long-term medical condition or disability who are in financial need.",
+    "key": "$5,000 per annum for minimum program duration.",
+    "who": [
+      "Undergraduate or postgraduate student in the Faculty of Law and Justice",
+      "Long-term medical condition or disability",
+      "Financial need"
+    ],
+    "how": [
+      "Apply through UAC for an Equity Scholarship (ES)"
+    ],
+    "catches": [
+      "2027 rounds: EAS via UAC by 19 Nov 2026, ES by 10 Dec 2026, with later January and February rounds; offers made through to March 2027",
+      "Competitive; meeting the criteria does not guarantee an award"
+    ],
+    "tags": [
+      "unsw",
+      "disability",
+      "scholarship",
+      "law"
+    ],
+    "source": {
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+      "label": "UNSW Scholarships: UNSW Equity Scholarships for 2027"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$5,000 per year",
+        "quote": "Supports the Faculty of Law and Justice students with a long-term medical condition or disability",
+        "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "uts-interest-free-loan",
+    "name": "UTS Interest-Free Student Loan",
+    "provider": "University of Technology Sydney",
+    "category": "uni",
+    "summary": "Interest-free loan for enrolled UTS students facing short-term cash flow problems.",
+    "key": "Up to a $3,000 balance at any one time, with no interest charges.",
+    "who": [
+      "Currently enrolled, continuing UTS student (international students must be onshore)",
+      "90 days of transactions for each Australian bank account"
+    ],
+    "how": [
+      "Apply online in the student portal under Financial Assistance Application",
+      "For urgent needs call SSU reception on 02 9514 1177"
+    ],
+    "catches": [
+      "Must be fully repaid before you complete your course; repayments can be deferred 3 months then spread over 3, 6 or 12 months",
+      "Not open to UTS College, non-award, inbound exchange or leave-of-absence students",
+      "First-session students can apply only after census date"
+    ],
+    "tags": [
+      "uts",
+      "loan",
+      "interest-free",
+      "broadway"
+    ],
+    "source": {
+      "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+      "label": "UTS: Financial assistance programs"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "No interest",
+        "quote": "There are no interest charges.",
+        "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "uts-financial-support-grant",
+    "name": "UTS Financial Support Grant",
+    "provider": "University of Technology Sydney",
+    "category": "uni",
+    "summary": "Non-repayable grant for low-income UTS students to cover course costs or essential living costs such as rent or utility arrears.",
+    "key": "Grants are usually approved for amounts up to $500.",
+    "who": [
+      "Combined income under $1,200 per fortnight and inadequate savings",
+      "Evidence of course costs or essential living costs"
+    ],
+    "how": [
+      "Apply online in the student portal under Financial Assistance Application",
+      "For urgent needs call SSU reception on 02 9514 1177"
+    ],
+    "catches": [
+      "Paid to an Australian bank account, usually within about 10 days",
+      "Not open to UTS College, non-award, inbound exchange or leave-of-absence students",
+      "First-session students can apply only after census date"
+    ],
+    "tags": [
+      "uts",
+      "grant",
+      "hardship",
+      "placement"
+    ],
+    "source": {
+      "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+      "label": "UTS: Financial assistance programs"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Usually up to $500",
+        "quote": "Successful grant applications are usually approved for amounts up-to $500",
+        "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "uts-grocery-food-vouchers",
+    "name": "UTS Grocery and Food Vouchers",
+    "provider": "University of Technology Sydney",
+    "category": "uni",
+    "summary": "Grocery vouchers and Opal travel credit for UTS students in financial hardship.",
+    "who": [
+      "Financial hardship, or regular income under $1,200 per fortnight while living away from home, with inadequate savings"
+    ],
+    "how": [
+      "Call 02 9514 1177 to book an on-campus appointment"
+    ],
+    "catches": [
+      "No amount is published",
+      "Cards must be collected in person at Broadway"
+    ],
+    "tags": [
+      "uts",
+      "voucher",
+      "food",
+      "opal",
+      "hardship"
+    ],
+    "source": {
+      "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+      "label": "UTS: Financial assistance programs"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Collection in person",
+        "quote": "You must be able to collect the cards, in person, from our UTS Broadway Sydney campus.",
+        "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "uts-digital-access-grant",
+    "name": "UTS Digital Access Grant",
+    "provider": "University of Technology Sydney",
+    "category": "uni",
+    "summary": "Once-only grant toward course-related computer hardware, software or internet for low-income UTS students.",
+    "key": "A $1,000 grant may apply for course-related high-end technical specification equipment.",
+    "who": [
+      "Combined income under $1,200 per fortnight and inadequate savings",
+      "Not in the final year of a degree or a degree of 36 credit points or less"
+    ],
+    "how": [
+      "Provide quotes or receipts and call 02 9514 1177 for a telephone appointment"
+    ],
+    "catches": [
+      "Hardware support is once only during a degree",
+      "A loan may be available for extra funds"
+    ],
+    "tags": [
+      "uts",
+      "grant",
+      "laptop",
+      "digital",
+      "tech"
+    ],
+    "source": {
+      "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+      "label": "UTS: Financial assistance programs"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$1,000 grant",
+        "quote": "provision of a $1,000 grant may apply to assist students in course-related high-end technical specification equipment",
+        "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "uts-housing-rental-subsidy",
+    "name": "UTS Housing Rental Subsidy",
+    "provider": "University of Technology Sydney",
+    "category": "uni",
+    "summary": "Rent subsidy for local UTS students on a UTS Housing lease at Yura Mudang.",
+    "key": "Awards usually range between $1,500 to $2,500 for a 26 week period.",
+    "who": [
+      "Local (domestic) students only",
+      "Current UTS Housing lease at Yura Mudang"
+    ],
+    "how": [
+      "Submit the online application with a copy of your current lease"
+    ],
+    "catches": [
+      "A maximum of 2 subsidy awards per year",
+      "May be reduced for shorter leases"
+    ],
+    "tags": [
+      "uts",
+      "rent",
+      "housing",
+      "accommodation"
+    ],
+    "source": {
+      "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+      "label": "UTS: Financial assistance programs"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "away": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$1,500 to $2,500 per 26 weeks",
+        "quote": "HRS awards usually range between $1,500 to $2,500 for a 26 week period",
+        "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "uts-equal-access-scholarship",
+    "name": "UTS Equal Access Scholarship",
+    "provider": "University of Technology Sydney",
+    "category": "uni",
+    "summary": "Equity scholarship for domestic UTS students showing financial disadvantage, applied for through UAC.",
+    "key": "Various ($500 - $6000).",
+    "who": [
+      "Australian or New Zealand citizen or Australian permanent resident",
+      "Offered or admitted into a UTS coursework, UniReady or research degree",
+      "Financial disadvantage shown through the UAC Equity Scholarship application"
+    ],
+    "how": [
+      "Apply through UAC for an Equity Scholarship"
+    ],
+    "catches": [
+      "Applications open 8 April 2026 and close 5 February 2027"
+    ],
+    "tags": [
+      "uts",
+      "equity",
+      "scholarship"
+    ],
+    "source": {
+      "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/equal-access-scholarship-institution-equity-scholarship",
+      "label": "UTS: Equal Access Scholarship (Institution Equity Scholarship)"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Various ($500 - $6000)",
+        "quote": "Various ($500 - $6000)",
+        "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/equal-access-scholarship-institution-equity-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "uts-student-legal-service",
+    "name": "UTS Student Legal Service",
+    "provider": "University of Technology Sydney",
+    "category": "uni",
+    "summary": "Free legal advice for enrolled UTS students on tenancy, employment, traffic, consumer, debt and other matters.",
+    "key": "Free legal advice for all students currently enrolled at UTS.",
+    "who": [
+      "Currently enrolled UTS student"
+    ],
+    "how": [
+      "Email studentlegalservice@uts.edu.au, call 02 9514 2484 or drop in to Tower Building 1, level 5"
+    ],
+    "catches": [
+      "No advice on visa or migration matters or issues against UTS"
+    ],
+    "tags": [
+      "uts",
+      "legal",
+      "free"
+    ],
+    "source": {
+      "url": "https://www.uts.edu.au/for-students/current-students/support/when-things-go-wrong/student-legal-service",
+      "label": "UTS: Student Legal Service"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free for all enrolled students",
+        "quote": "All students currently enrolled at UTS have access to free legal advice.",
+        "url": "https://www.uts.edu.au/for-students/current-students/support/when-things-go-wrong/student-legal-service",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "mq-student-loan",
+    "name": "Macquarie University Interest-Free Student Loan",
+    "provider": "Macquarie University",
+    "category": "uni",
+    "summary": "Interest-free loan for onshore Macquarie students to cover textbooks, computers, software, fieldtrips and placement travel.",
+    "key": "Up to $2,000, or up to $500 for a computer, interest-free.",
+    "who": [
+      "Onshore Macquarie University student"
+    ],
+    "how": [
+      "Complete the online application, a budget spreadsheet and supporting documents"
+    ],
+    "catches": [
+      "Must be repaid",
+      "Does not cover tuition fees or debts owed to others"
+    ],
+    "tags": [
+      "mq",
+      "loan",
+      "interest-free"
+    ],
+    "source": {
+      "url": "https://students.mq.edu.au/finances/assistance/grants-loans",
+      "label": "Macquarie University: Student loans and grants"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Interest-free",
+        "quote": "Loans are interest-free, but are repaid.",
+        "url": "https://students.mq.edu.au/finances/assistance/grants-loans",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "mq-student-grant",
+    "name": "Macquarie University Student Grant",
+    "provider": "Macquarie University",
+    "category": "uni",
+    "summary": "Non-repayable grant for onshore Macquarie students toward study costs and, in some cases, living expenses.",
+    "key": "Up to $2,000, or up to $500 for a computer; grants do not need to be repaid.",
+    "who": [
+      "Onshore Macquarie University student; eligibility depends on circumstances"
+    ],
+    "how": [
+      "Complete the online application, a budget spreadsheet and supporting documents",
+      "Contact a Welfare Advisor if unsure"
+    ],
+    "catches": [
+      "Does not cover tuition fees",
+      "Rent or food considered only in some cases"
+    ],
+    "tags": [
+      "mq",
+      "grant",
+      "hardship"
+    ],
+    "source": {
+      "url": "https://students.mq.edu.au/finances/assistance/grants-loans",
+      "label": "Macquarie University: Student loans and grants"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Not repaid",
+        "quote": "Grants do not need to be repaid.",
+        "url": "https://students.mq.edu.au/finances/assistance/grants-loans",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "mq-computer-loan-scheme",
+    "name": "Macquarie University Computer Loan Scheme",
+    "provider": "Macquarie University",
+    "category": "uni",
+    "summary": "Free loan of a desktop computer for Macquarie students in real financial hardship.",
+    "key": "Free loan of Windows All-in-One Desktop computers.",
+    "who": [
+      "Enrolled in an award program and studying onshore",
+      "Real and exceptional financial hardship (domestic: means-tested Commonwealth allowance)",
+      "WAM of at least 50, or an explanation of progress",
+      "No money owed to the University"
+    ],
+    "how": [
+      "Fill out the online application form with supporting documents"
+    ],
+    "tags": [
+      "mq",
+      "computer",
+      "laptop",
+      "tech",
+      "free"
+    ],
+    "source": {
+      "url": "https://students.mq.edu.au/uni-life/community/diversity-inclusion/digital-inclusion/computer-loan-scheme",
+      "label": "Macquarie University: Computer loan scheme"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free desktop loan",
+        "quote": "Free loan of Windows All-in-One Desktop computers.",
+        "url": "https://students.mq.edu.au/uni-life/community/diversity-inclusion/digital-inclusion/computer-loan-scheme",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "mq-food-hub",
+    "name": "Macquarie University Food Hub",
+    "provider": "Macquarie University",
+    "category": "uni",
+    "summary": "Free or heavily discounted groceries, fresh produce and pantry staples for Macquarie students.",
+    "key": "Food provided for free or at heavily discounted prices.",
+    "who": [
+      "Macquarie University students"
+    ],
+    "how": [
+      "Register online to get a pick-up time"
+    ],
+    "tags": [
+      "mq",
+      "food",
+      "pantry"
+    ],
+    "source": {
+      "url": "https://students.mq.edu.au/uni-life/community/food-hub",
+      "label": "Macquarie University: Food Hub"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free or discounted food",
+        "quote": "for free or at heavily discounted prices",
+        "url": "https://students.mq.edu.au/uni-life/community/food-hub",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "mq-education-costs-scholarship",
+    "name": "Macquarie Education Costs Scholarship",
+    "provider": "Macquarie University",
+    "category": "uni",
+    "summary": "Yearly payment for full-time Macquarie undergraduates receiving Youth Allowance or another means-tested payment.",
+    "key": "$6,000 per year, for up to 4 years.",
+    "who": [
+      "Australian citizen, permanent resident or permanent humanitarian visa holder",
+      "Commencing or continuing full-time undergraduate",
+      "Receiving Youth Allowance or another means-tested Commonwealth payment"
+    ],
+    "how": [
+      "Apply via the UAC Equity Scholarship Application Portal"
+    ],
+    "catches": [
+      "The page still shows 2024 round dates; check UAC for the current round"
+    ],
+    "tags": [
+      "mq",
+      "equity",
+      "scholarship"
+    ],
+    "source": {
+      "url": "https://www.mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-education-costs-scholarship",
+      "label": "Macquarie University: Macquarie Education Costs Scholarship"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$6,000 per year",
+        "quote": "Applicants need to be in receipt of Youth Allowance or any other means tested Commonwealth support payment",
+        "url": "https://www.mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-education-costs-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "mq-regional-remote-support-scholarship",
+    "name": "Macquarie Regional and Remote Support Scholarship",
+    "provider": "Macquarie University",
+    "category": "uni",
+    "summary": "Yearly payment for full-time Macquarie undergraduates from regional or remote areas in financial hardship.",
+    "key": "$10,000 per year, for up to 4 years.",
+    "who": [
+      "Australian citizen, permanent resident or permanent humanitarian visa holder",
+      "Full-time undergraduate",
+      "From a regional or remote area and in financial hardship",
+      "Receiving Youth Allowance or another means-tested Commonwealth payment"
+    ],
+    "how": [
+      "Apply via the UAC Equity Scholarship Application Portal"
+    ],
+    "catches": [
+      "The page still shows 2024 round dates; check UAC for the current round"
+    ],
+    "tags": [
+      "mq",
+      "equity",
+      "scholarship",
+      "regional"
+    ],
+    "source": {
+      "url": "https://mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-regional-and-remote-support-scholarship",
+      "label": "Macquarie University: Macquarie Regional and Remote Support Scholarship"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "away": {
+        "yes": [
+          "yes"
+        ],
+        "maybe": [
+          "no"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Regional and hardship criterion",
+        "quote": "Be from a regional and remote area; Able to demonstrate financial hardship",
+        "url": "https://mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-regional-and-remote-support-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "mq-higher-study-scholarship",
+    "name": "Macquarie University Higher Study Scholarship",
+    "provider": "Macquarie University",
+    "category": "uni",
+    "summary": "Yearly payment for postgraduate coursework or Honours students in financial hardship with academic excellence.",
+    "key": "$12,000 per year (full-time rate).",
+    "who": [
+      "Australian citizen or permanent resident (including permanent humanitarian visa)",
+      "Postgraduate coursework or Honours degree (not Graduate Certificate or Diploma)",
+      "Financial hardship and academic excellence",
+      "Receiving a means-tested Commonwealth payment"
+    ],
+    "how": [
+      "Apply via the UAC Equity Scholarship Application Portal"
+    ],
+    "catches": [
+      "The page still shows 2024 round dates; check UAC for the current round"
+    ],
+    "tags": [
+      "mq",
+      "equity",
+      "scholarship",
+      "postgraduate",
+      "honours"
+    ],
+    "source": {
+      "url": "https://mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-university-higher-study-scholarship-full-time-rate",
+      "label": "Macquarie University: Higher Study Scholarship (full-time rate)"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Payment criterion",
+        "quote": "Applicants need to be in receipt of Youth Allowance or any other means tested Commonwealth support payment.",
+        "url": "https://mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-university-higher-study-scholarship-full-time-rate",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "wsu-financial-grant",
+    "name": "Western Sydney University Financial Grant",
+    "provider": "Western Sydney University",
+    "category": "uni",
+    "summary": "Non-repayable grant for enrolled WSU students in documented hardship, covering study and essential living costs.",
+    "key": "Grant applications are capped at $1,000, and laptop approvals at $750.",
+    "who": [
+      "Enrolled student with documented financial hardship",
+      "Domestic: at least one subject this session; international: full load unless approved"
+    ],
+    "how": [
+      "Submit the online Financial Assistance application with proof of income and an invoice or quote"
+    ],
+    "catches": [
+      "Excludes tuition, fees and visas",
+      "Incomplete applications are rejected"
+    ],
+    "tags": [
+      "wsu",
+      "grant",
+      "hardship",
+      "laptop",
+      "parramatta"
+    ],
+    "source": {
+      "url": "https://www.westernsydney.edu.au/students/services-and-facilities/student-welfare-services/financial-support",
+      "label": "Western Sydney University: Financial support"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Financial assistance not ongoing",
+        "quote": "Financial assistance will not be provided as a form of on-going income support.",
+        "url": "https://www.westernsydney.edu.au/students/services-and-facilities/student-welfare-services/financial-support",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "wsu-textbook-support",
+    "name": "Western Sydney University Textbook Support",
+    "provider": "Western Sydney University",
+    "category": "uni",
+    "summary": "Electronic textbook vouchers each session for WSU students in documented hardship.",
+    "key": "$600 once per enrolled session.",
+    "who": [
+      "Enrolled in the current session with prescribed textbooks",
+      "Income below $750 per individual or $1,400 per family per week"
+    ],
+    "how": [
+      "Submit the online form with a Centrelink statement or two recent payslips (or three months of bank statements if no income)"
+    ],
+    "catches": [
+      "Opens two weeks before session starts and closes on census date"
+    ],
+    "tags": [
+      "wsu",
+      "textbooks",
+      "voucher",
+      "hardship"
+    ],
+    "source": {
+      "url": "https://www.westernsydney.edu.au/students/services-and-facilities/student-welfare-services/financial-support",
+      "label": "Western Sydney University: Financial support"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$600 once per session",
+        "quote": "$600 once per enrolled session.",
+        "url": "https://www.westernsydney.edu.au/students/services-and-facilities/student-welfare-services/financial-support",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "wsu-child-care-subsidy-support",
+    "name": "Western Sydney University Child Care Subsidy Support",
+    "provider": "Western Sydney University",
+    "category": "uni",
+    "summary": "Financial help with childcare fees for WSU student parents and carers who meet the financial assistance criteria.",
+    "who": [
+      "Meets Financial Assistance criteria",
+      "Parent, guardian or primary carer of a child aged 13 or younger using an approved childcare service",
+      "Not received a Child Care Subsidy Grant earlier in the same calendar year"
+    ],
+    "how": [
+      "Submit the Financial Assistance application with proof of childcare enrolment and fees"
+    ],
+    "catches": [
+      "No amount is published",
+      "Once per calendar year"
+    ],
+    "tags": [
+      "wsu",
+      "childcare",
+      "parents",
+      "carers"
+    ],
+    "source": {
+      "url": "https://www.westernsydney.edu.au/students/services-and-facilities/student-welfare-services/financial-support",
+      "label": "Western Sydney University: Financial support"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Eligibility",
+        "quote": "Child Care Subsidy Support",
+        "url": "https://www.westernsydney.edu.au/students/services-and-facilities/student-welfare-services/financial-support",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "wsu-placement-financial-grant",
+    "name": "Western Sydney University Placement Financial Grant",
+    "provider": "Western Sydney University",
+    "category": "uni",
+    "summary": "Hardship grant for WSU students with an upcoming placement who aren't eligible for the Commonwealth Prac Payment.",
+    "who": [
+      "In financial hardship with a confirmed upcoming placement",
+      "Not eligible for the Commonwealth Prac Payment (or it was declined)"
+    ],
+    "how": [
+      "Use the same Financial Assistance form as the Financial Grant"
+    ],
+    "catches": [
+      "Capped at the standard Financial Grant limit"
+    ],
+    "tags": [
+      "wsu",
+      "placement",
+      "grant",
+      "hardship"
+    ],
+    "source": {
+      "url": "https://www.westernsydney.edu.au/students/services-and-facilities/student-welfare-services/financial-support",
+      "label": "Western Sydney University: Financial support"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Placement grant",
+        "quote": "Placement Financial Grant",
+        "url": "https://www.westernsydney.edu.au/students/services-and-facilities/student-welfare-services/financial-support",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "wsu-badanami-futures-fund",
+    "name": "Badanami Futures Fund",
+    "provider": "Western Sydney University",
+    "category": "uni",
+    "summary": "Emergency and futures grants for Aboriginal and Torres Strait Islander WSU students facing financial need or study barriers.",
+    "key": "Emergency Grants up to $500; Futures Grants up to $2,000, with an overall maximum of $2,000 per application.",
+    "who": [
+      "Identify as an Aboriginal and/or Torres Strait Islander person",
+      "Currently enrolled at Western Sydney University",
+      "Provide Confirmation of Identity documentation",
+      "Demonstrate financial need or a barrier to study"
+    ],
+    "how": [
+      "Apply via the Apply Now form; Emergency Grants need only a personal statement and COI"
+    ],
+    "catches": [
+      "Up to two instances within an 18-month period",
+      "Subject to available funding"
+    ],
+    "tags": [
+      "wsu",
+      "first-nations",
+      "indigenous",
+      "grant",
+      "emergency"
+    ],
+    "source": {
+      "url": "https://www.westernsydney.edu.au/scholarships/important-dates/badanami-futures-fund",
+      "label": "Western Sydney University: Badanami Futures Fund"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Overall maximum $2,000",
+        "quote": "an overall maximum of $2,000 per application.",
+        "url": "https://www.westernsydney.edu.au/scholarships/important-dates/badanami-futures-fund",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "wsu-western-pantry",
+    "name": "Western Pantry",
+    "provider": "Western Sydney University",
+    "category": "uni",
+    "summary": "Free weekly pantry staples and fresh produce for WSU students at Kingswood and Parramatta South.",
+    "key": "Pick 5 free items once per week.",
+    "who": [
+      "Western Sydney University students"
+    ],
+    "how": [
+      "Register on WesternLife and bring your own bags",
+      "Kingswood Wednesdays 9am-1pm; Parramatta South Thursdays 10am-1pm"
+    ],
+    "catches": [
+      "Closed during stuvac, exams, public holidays and intersession"
+    ],
+    "tags": [
+      "wsu",
+      "food",
+      "pantry",
+      "free",
+      "kingswood",
+      "parramatta"
+    ],
+    "source": {
+      "url": "https://www.westernsydney.edu.au/students/support/food-security-programs",
+      "label": "Western Sydney University: Food security programs"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free student service",
+        "quote": "free student service",
+        "url": "https://www.westernsydney.edu.au/students/support/food-security-programs",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "wsu-free-community-meals",
+    "name": "WSU Free Community Dinners and Breakfasts",
+    "provider": "Western Sydney University",
+    "category": "uni",
+    "summary": "Free weekly community dinners and breakfasts on WSU campuses during semester.",
+    "who": [
+      "All Western Sydney University students"
+    ],
+    "how": [
+      "Register through WesternLife"
+    ],
+    "catches": [
+      "Runs during semester only"
+    ],
+    "tags": [
+      "wsu",
+      "food",
+      "free",
+      "meals",
+      "campbelltown",
+      "bankstown",
+      "liverpool",
+      "hawkesbury"
+    ],
+    "source": {
+      "url": "https://www.westernsydney.edu.au/students/support/food-security-programs",
+      "label": "Western Sydney University: Food security programs"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Open to all students",
+        "quote": "All students are welcome.",
+        "url": "https://www.westernsydney.edu.au/students/support/food-security-programs",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "wsu-opportunity-scholarship",
+    "name": "Western Sydney University Opportunity Scholarship",
+    "provider": "Western Sydney University",
+    "category": "uni",
+    "summary": "Equity scholarship for Western Sydney undergraduates facing hardship who show academic potential.",
+    "key": "$7,500 per year up to three years (full-time, or part-time equivalent).",
+    "who": [
+      "Australian citizen, permanent resident or eligible NZ citizen",
+      "New or continuing undergraduate student",
+      "Financial or other hardship",
+      "Live in or did the HSC in Western Sydney",
+      "Minimum ATAR of 80 (current students GPA of 5)"
+    ],
+    "how": [
+      "Apply through UAC; shortlisted applicants may need to submit a written statement"
+    ],
+    "catches": [
+      "Must maintain a GPA of 4",
+      "No dates on the page; see the WSU Equity Scholarship page"
+    ],
+    "tags": [
+      "wsu",
+      "equity",
+      "scholarship",
+      "western-sydney"
+    ],
+    "source": {
+      "url": "https://www.westernsydney.edu.au/scholarships/all-scholarships/opprtunty",
+      "label": "Western Sydney University: Opportunity Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$7,500 per year up to three years",
+        "quote": "$7,500 per year up to three years",
+        "url": "https://www.westernsydney.edu.au/scholarships/all-scholarships/opprtunty",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "wsu-student-legal-service",
+    "name": "Western Sydney University Student Legal Service",
+    "provider": "Western Sydney University",
+    "category": "uni",
+    "summary": "Free legal advice and referral for current WSU and The College students, funded by SSAF.",
+    "key": "A free legal advice and referral service.",
+    "who": [
+      "Current domestic and international students of Western Sydney University or The College"
+    ],
+    "how": [
+      "Submit the online Request for Help form, call 02 9685 4788 or email studentlegalservices@westernsydney.edu.au",
+      "Drop-in at the Justice Clinic, Parramatta South, Tuesdays 10am-3pm in teaching weeks"
+    ],
+    "catches": [
+      "No advice on issues involving the University",
+      "Cannot represent students in court"
+    ],
+    "tags": [
+      "wsu",
+      "legal",
+      "free",
+      "parramatta"
+    ],
+    "source": {
+      "url": "https://www.westernsydney.edu.au/schools/sol/student-legal-service",
+      "label": "Western Sydney University: Student Legal Service"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free service",
+        "quote": "The Student Legal Service (SLS) is a free legal advice and referral service.",
+        "url": "https://www.westernsydney.edu.au/schools/sol/student-legal-service",
+        "page_date": null
+      }
+    ]
+  }
+]

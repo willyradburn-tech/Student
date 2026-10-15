@@ -1,0 +1,36 @@
+{
+  "id": "ptc-creo-education",
+  "name": "PTC Creo free for university students",
+  "provider": "PTC",
+  "category": "software",
+  "summary": "Free Creo CAD software for college and university students and educators.",
+  "key": "College and university students get Creo free of charge.",
+  "catches": [
+    "Mathcad Prime is not free for uni students; it's a discounted one-year student licence."
+  ],
+  "tags": [
+    "cad",
+    "3d",
+    "mechanical",
+    "engineering",
+    "creo",
+    "mathcad"
+  ],
+  "source": {
+    "url": "https://www.ptc.com/en/products/education/free-software",
+    "label": "PTC: Free education software"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Free for uni students",
+      "quote": "College and university students and educators get access to Creo—free of charge.",
+      "url": "https://www.ptc.com/en/products/education/free-software",
+      "page_date": null
+    }
+  ]
+}

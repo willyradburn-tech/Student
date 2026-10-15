@@ -1,0 +1,68 @@
+{
+  "id": "ausimm-student-membership",
+  "name": "AusIMM Student membership",
+  "provider": "Australasian Institute of Mining and Metallurgy",
+  "category": "career",
+  "summary": "Free annual student membership of AusIMM for full-time students heading into mining, metallurgy and the resources sector.",
+  "key": "Student Membership is a FREE annual membership, with a one-off $22 application fee.",
+  "who": [
+    "Full-time undergraduates completing their first degree, or full-time diploma students",
+    "No previous work experience in the resources sector"
+  ],
+  "how": [
+    "Complete the online application with photo ID, enrolment information and expected completion date."
+  ],
+  "catches": [
+    "One-off application fee of $22 when joining."
+  ],
+  "tags": [
+    "mining",
+    "metallurgy",
+    "geology",
+    "resources",
+    "engineering",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://ausimm.com/communities/membership/student-grade-membership",
+    "label": "AusIMM: Student membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering",
+        "other"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Student Membership is a FREE annual membership.",
+      "url": "https://ausimm.com/communities/membership/student-grade-membership",
+      "page_date": null
+    },
+    {
+      "claim": "Application fee",
+      "quote": "a one-off application fee of $22.00 charged when joining",
+      "url": "https://ausimm.com/communities/membership/student-grade-membership",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Full time undergraduates completing their first degree or full time students completing a diploma",
+      "url": "https://ausimm.com/communities/membership/student-grade-membership",
+      "page_date": null
+    }
+  ]
+}

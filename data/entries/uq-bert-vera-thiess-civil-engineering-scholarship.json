@@ -1,0 +1,78 @@
+{
+  "id": "uq-bert-vera-thiess-civil-engineering-scholarship",
+  "name": "Bert and Vera Thiess Scholarship in Civil Engineering (UQ)",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "One-year scholarship for full-time domestic UQ engineering students who can show financial need.",
+  "key": "$20,000 for 1 year.",
+  "who": [
+    "Domestic student enrolled full-time in the Bachelor of Engineering (Honours), BE(Hons)/Master of Engineering, or an engineering dual.",
+    "Can demonstrate financial need.",
+    "No similar scholarship."
+  ],
+  "how": [
+    "Apply using the online form with a cover letter, resume, Year 12 report and ATAR notice (if commencing) or SI-net studies report, and evidence of financial hardship."
+  ],
+  "catches": [
+    "Opens January 2027 and closes March 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "civil engineering",
+    "engineering",
+    "financial need"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/bert-and-vera-thiess-scholarship-civil-engineering",
+    "label": "UQ Scholarships: Bert and Vera Thiess Scholarship in Civil Engineering"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$20,000",
+      "quote": "$20,000",
+      "url": "https://scholarships.uq.edu.au/scholarship/bert-and-vera-thiess-scholarship-civil-engineering",
+      "page_date": null
+    },
+    {
+      "claim": "Financial need",
+      "quote": "can demonstrate financial need",
+      "url": "https://scholarships.uq.edu.au/scholarship/bert-and-vera-thiess-scholarship-civil-engineering",
+      "page_date": null
+    },
+    {
+      "claim": "Opens January 2027",
+      "quote": "This scholarship will open in January 2027.",
+      "url": "https://scholarships.uq.edu.au/scholarship/bert-and-vera-thiess-scholarship-civil-engineering",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "uq-hardship-grant",
+  "name": "UQ emergency hardship grant",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "A one-off grant for urgent, unexpected costs that are affecting your study at UQ.",
+  "tags": [
+    "uq",
+    "university of queensland",
+    "hardship",
+    "rent",
+    "laptop"
+  ],
+  "who": [
+    "Current UQ students who have finished a semester of full-time study, or are past the census date of their first semester.",
+    "Facing a temporary, unexpected financial need, and able to complete their program."
+  ],
+  "numbers": [
+    [
+      "Can cover",
+      "Rent or bond, bills, public transport, study equipment, medical costs, basic furniture, crisis relocation, and school or childcare costs"
+    ],
+    [
+      "Can't cover",
+      "Tuition, SSAF, fines, holidays, credit cards, visa fees or OSHC"
+    ]
+  ],
+  "need": [
+    "UQ student ID plus a driver's licence, Medicare card or passport.",
+    "At least 2 payslips or a current Centrelink income statement.",
+    "Official bank statements for the past 3 months. Screenshots aren't accepted.",
+    "A quote, invoice or bill for what you need help with."
+  ],
+  "how": [
+    "Submit the online application with your documents.",
+    "Meet an Accessibility and Welfare Adviser in person or on Zoom.",
+    "You'll usually hear within 5 business days of the meeting."
+  ],
+  "catches": [
+    "UQ doesn't publish grant amounts.",
+    "It isn't ongoing support. UQ also has a separate Laptop Grant for broken laptops."
+  ],
+  "cadence": "medium",
+  "cap": "maybe",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    }
+  },
+  "verified": "2026-10-13",
+  "review": "pending",
+  "status": "verified",
+  "source": {
+    "url": "https://my.uq.edu.au/information-and-services/student-support/financial-support/financial-support-overview/apply-financial-hardship-assistance",
+    "label": "UQ: apply for financial hardship assistance"
+  }
+}

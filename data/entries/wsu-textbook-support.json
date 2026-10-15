@@ -1,0 +1,52 @@
+{
+  "id": "wsu-textbook-support",
+  "name": "Western Sydney University Textbook Support",
+  "provider": "Western Sydney University",
+  "category": "uni",
+  "summary": "Electronic textbook vouchers each session for WSU students in documented hardship.",
+  "key": "$600 once per enrolled session.",
+  "who": [
+    "Enrolled in the current session with prescribed textbooks",
+    "Income below $750 per individual or $1,400 per family per week"
+  ],
+  "how": [
+    "Submit the online form with a Centrelink statement or two recent payslips (or three months of bank statements if no income)"
+  ],
+  "catches": [
+    "Opens two weeks before session starts and closes on census date"
+  ],
+  "tags": [
+    "wsu",
+    "textbooks",
+    "voucher",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://www.westernsydney.edu.au/students/services-and-facilities/student-welfare-services/financial-support",
+    "label": "Western Sydney University: Financial support"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$600 once per session",
+      "quote": "$600 once per enrolled session.",
+      "url": "https://www.westernsydney.edu.au/students/services-and-facilities/student-welfare-services/financial-support",
+      "page_date": null
+    }
+  ]
+}

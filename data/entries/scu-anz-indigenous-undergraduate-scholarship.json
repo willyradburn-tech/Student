@@ -1,0 +1,77 @@
+{
+  "id": "scu-anz-indigenous-undergraduate-scholarship",
+  "name": "ANZ Indigenous Undergraduate Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "A $15,000 scholarship for a full-time Aboriginal or Torres Strait Islander undergraduate student at Southern Cross University.",
+  "key": "$15,000.",
+  "who": [
+    "Identify as Aboriginal or Torres Strait Islander or both.",
+    "Australian citizen or permanent resident.",
+    "Enrolled full-time at SCU, on campus or online."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One scholarship available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "indigenous",
+    "first nations",
+    "anz",
+    "lismore",
+    "gold coast",
+    "coffs harbour"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/anz-indigenous-undergraduate-scholarship/",
+    "label": "Southern Cross University: ANZ Indigenous Undergraduate Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Be enrolled (full-time) with Southern Cross University either on campus or online.",
+      "url": "https://www.scu.edu.au/scholarships/anz-indigenous-undergraduate-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/anz-indigenous-undergraduate-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

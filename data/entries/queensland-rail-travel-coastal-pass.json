@@ -1,0 +1,53 @@
+{
+  "id": "queensland-rail-travel-coastal-pass",
+  "name": "Queensland Coastal Pass for international students",
+  "provider": "Queensland Rail Travel",
+  "category": "transport",
+  "summary": "One-month, one-direction rail pass between Brisbane and Cairns for overseas visitors, including student visa holders.",
+  "key": "$209.00 for Brisbane and Cairns (or vice versa), 1 month.",
+  "who": [
+    "Genuine overseas visitors to Australia, including international visitors on working holiday and student visas."
+  ],
+  "catches": [
+    "Travel in one direction only, with no backtracking.",
+    "A minimum of one 24-hour break of journey is compulsory.",
+    "Purchasers have twelve months from the date of purchase to commence travel."
+  ],
+  "tags": [
+    "queensland rail",
+    "rail pass",
+    "international students",
+    "brisbane",
+    "cairns",
+    "qld"
+  ],
+  "source": {
+    "url": "https://www.queenslandrailtravel.com.au/PolicyCentre/Pages/FareTypes.aspx",
+    "label": "Queensland Rail Travel: Fare Types"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Student visa holders eligible",
+      "quote": "including international visitors on working holiday and student visas.",
+      "url": "https://www.queenslandrailtravel.com.au/PolicyCentre/Pages/FareTypes.aspx",
+      "page_date": null
+    },
+    {
+      "claim": "One-month travel period",
+      "quote": "Travel can be taken over a one-month period.",
+      "url": "https://www.queenslandrailtravel.com.au/PolicyCentre/Pages/FareTypes.aspx",
+      "page_date": null
+    }
+  ]
+}

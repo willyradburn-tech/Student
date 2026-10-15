@@ -1,0 +1,76 @@
+{
+  "id": "uon-indigenous-accommodation-scholarship",
+  "name": "University of Newcastle Indigenous Accommodation Scholarship",
+  "provider": "University of Newcastle",
+  "category": "uni",
+  "summary": "Commonwealth-funded scholarship for Aboriginal and Torres Strait Islander students relocating from remote, rural or regional areas to study at UON.",
+  "key": "A total benefit of up to $5500, paid in two equal instalments of $2750.",
+  "who": [
+    "Enrolled or enrolling in an enabling, undergraduate or postgraduate program at UON",
+    "Of Australian Aboriginal and/or Torres Strait Islander descent",
+    "Relocating from a remote, rural or regional area to study",
+    "Able to show financial hardship"
+  ],
+  "how": [
+    "Apply through the online portal (PDF uploads only)"
+  ],
+  "catches": [
+    "Closes 3 March 2027",
+    "Part-time semesters are paid $1375"
+  ],
+  "tags": [
+    "uon",
+    "newcastle",
+    "first nations",
+    "indigenous",
+    "accommodation",
+    "relocation"
+  ],
+  "source": {
+    "url": "https://www.newcastle.edu.au/scholarships/GOV_ACCOM",
+    "label": "University of Newcastle: Indigenous Accommodation Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "Offers a total benefit of up to $5500, paid in two equal instalments of $2750 following the Semester 1 and 2 census dates.",
+      "url": "https://www.newcastle.edu.au/scholarships/GOV_ACCOM",
+      "page_date": null
+    },
+    {
+      "claim": "Relocation rule",
+      "quote": "Be relocating from a remote, rural, or regional area to study with UON.",
+      "url": "https://www.newcastle.edu.au/scholarships/GOV_ACCOM",
+      "page_date": null
+    },
+    {
+      "claim": "Open for 2027",
+      "quote": "Applications open for Semester 1 2027.",
+      "url": "https://www.newcastle.edu.au/scholarships/GOV_ACCOM",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-03-03"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "uq-hub24-regional-qld-technology-scholarship",
+  "name": "HUB24 Regional QLD Technology Scholarship (UQ)",
+  "provider": "University of Queensland and HUB24",
+  "category": "uni",
+  "summary": "Scholarship for first- or second-year UQ computer science and IT students from regional Queensland high schools facing financial hardship.",
+  "key": "$8,000 for 1 year.",
+  "who": [
+    "Domestic student who can demonstrate financial hardship (Centrelink statements, ATO notice, etc.).",
+    "In first or second year of the Bachelor of Computer Science, Bachelor of Information Technology, or a dual including one of these.",
+    "Completed Year 12 or secondary studies at a regional high school, or as a boarder with a permanent regional address, within the stated recent period.",
+    "No previous bachelor program completed."
+  ],
+  "how": [
+    "Apply using the online application portal with a cover letter, resume, Year 12 or studies report, and evidence of financial hardship."
+  ],
+  "catches": [
+    "Opens January 2027 and closes March 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "it",
+    "computer science",
+    "regional queensland",
+    "financial hardship"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/hub24-regional-qld-technology-scholarship",
+    "label": "UQ Scholarships: HUB24 Regional QLD Technology Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "field": {
+      "yes": [
+        "it"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$8,000",
+      "quote": "$8,000",
+      "url": "https://scholarships.uq.edu.au/scholarship/hub24-regional-qld-technology-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Financial hardship",
+      "quote": "can demonstrate financial hardship (i.e., Centrelink statements, ATO notice, etc.)",
+      "url": "https://scholarships.uq.edu.au/scholarship/hub24-regional-qld-technology-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "vic-annual-electricity-concession",
+  "name": "Victorian annual electricity concession",
+  "provider": "Victorian Department of Families, Fairness and Housing",
+  "category": "health",
+  "summary": "17.5% off electricity usage and service costs for Victorian account holders with a Health Care Card.",
+  "key": "17.5 per cent of electricity usage and service costs.",
+  "who": [
+    "Electricity account holder with a Pensioner Concession Card, Health Care Card or Veterans' Affairs Gold Card"
+  ],
+  "how": [
+    "Phone your electricity retailer and give your concession card details over the phone."
+  ],
+  "tags": [
+    "Victoria",
+    "Melbourne",
+    "electricity",
+    "energy",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://services.dffh.vic.gov.au/node/151",
+    "label": "DFFH Victoria: Annual electricity concession"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "17.5 per cent of electricity usage and service costs.",
+      "url": "https://services.dffh.vic.gov.au/node/151",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "An electricity account holder who has one of the following eligible cards:",
+      "url": "https://services.dffh.vic.gov.au/node/151",
+      "page_date": null
+    },
+    {
+      "claim": "How to apply",
+      "quote": "Phone your electricity retailer and give your concession card details over the phone.",
+      "url": "https://services.dffh.vic.gov.au/node/151",
+      "page_date": null
+    }
+  ]
+}

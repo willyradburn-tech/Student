@@ -1,0 +1,67 @@
+{
+  "id": "rmit-women-in-stem-undergrad-scholarship",
+  "name": "RMIT Women in STEM Undergraduate Scholarship",
+  "provider": "RMIT University",
+  "category": "uni",
+  "summary": "Up to $10,000 a year for women in RMIT STEM undergraduate degrees whose circumstances affect their study.",
+  "key": "Up to $10,000 a year for up to three years. One offered.",
+  "who": [
+    "Identifies as a woman.",
+    "Enrolling full-time in Semesters 1 and 2 2027.",
+    "Circumstances that affect your study, or from an RMIT priority group."
+  ],
+  "how": [
+    "Apply direct to RMIT online (preferred) or through VTAC."
+  ],
+  "catches": [
+    "Semester 1 2027 applications close 2pm Tuesday 20 October 2026."
+  ],
+  "tags": [
+    "rmit",
+    "rmit university",
+    "melbourne",
+    "vic",
+    "women",
+    "stem",
+    "engineering",
+    "science",
+    "it"
+  ],
+  "source": {
+    "url": "https://www.rmit.edu.au/scholarships/coursework/women-in-stem-undergrad-scholarship",
+    "label": "RMIT: Women in STEM Undergraduate Scholarship"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering",
+        "it",
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "This scholarship provides up to $10,000 per year for up to three years.",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/women-in-stem-undergrad-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-10-20"
+}

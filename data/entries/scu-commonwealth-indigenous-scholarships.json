@@ -1,0 +1,83 @@
+{
+  "id": "scu-commonwealth-indigenous-scholarships",
+  "name": "Commonwealth Indigenous Accommodation and Education Costs Scholarships (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "Accommodation and education-cost scholarships for Aboriginal and Torres Strait Islander SCU students in financial hardship.",
+  "key": "Accommodation: $8,000 per year for three years ($24,000). Education costs: $4,000 per year for three years ($12,000).",
+  "who": [
+    "Aboriginal or Torres Strait Islander.",
+    "Australian citizen.",
+    "Experiencing financial hardship.",
+    "Any course or degree at SCU."
+  ],
+  "how": [
+    "Complete the online application linked from the scholarship page."
+  ],
+  "catches": [
+    "Term 1, 2027 applications close 9 March 2027.",
+    "Can't be held alongside certain Centrelink or ISSP accommodation or education-cost payments.",
+    "Paid per term based on enrolled credit points."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "indigenous",
+    "accommodation",
+    "hardship",
+    "iass"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/commonwealth-indigenous-scholarships/",
+    "label": "Southern Cross University: Commonwealth Indigenous Scholarships"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Accommodation amount",
+      "quote": "Annual Full Time Value = $8,000 per year for three years or $24,000",
+      "url": "https://www.scu.edu.au/scholarships/commonwealth-indigenous-scholarships/",
+      "page_date": null
+    },
+    {
+      "claim": "Education costs amount",
+      "quote": "Annual Full Time Value = $4,000 per year for three years or $12,000",
+      "url": "https://www.scu.edu.au/scholarships/commonwealth-indigenous-scholarships/",
+      "page_date": null
+    },
+    {
+      "claim": "Hardship rule",
+      "quote": "Applicants must be experiencing financial hardship.",
+      "url": "https://www.scu.edu.au/scholarships/commonwealth-indigenous-scholarships/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Term 1, 2027 applications close March 9, 2027",
+      "url": "https://www.scu.edu.au/scholarships/commonwealth-indigenous-scholarships/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-03-09"
+}

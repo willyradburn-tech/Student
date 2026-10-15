@@ -1,0 +1,59 @@
+{
+  "id": "latrobe-su-safety-net",
+  "name": "La Trobe Student Union Safety Net voucher",
+  "provider": "La Trobe Student Union",
+  "category": "uni",
+  "summary": "A one-off $60 prepaid voucher for Bundoora students facing urgent or unexpected costs like food, bills or rent.",
+  "key": "A $60 voucher, once per semester.",
+  "who": [
+    "Currently enrolled at La Trobe's Melbourne Bundoora campus.",
+    "Facing urgent or unexpected financial difficulty."
+  ],
+  "how": [
+    "Complete the online form when it's open. Supporting documents are optional."
+  ],
+  "catches": [
+    "Closed for now because funding has run out. The Student Union hopes to reopen it next semester.",
+    "Not for La Trobe College, other campuses or online-only students."
+  ],
+  "tags": [
+    "latrobe",
+    "la trobe university",
+    "melbourne",
+    "vic",
+    "emergency",
+    "voucher",
+    "hardship",
+    "student union",
+    "bundoora"
+  ],
+  "source": {
+    "url": "https://www.latrobesu.org.au/support/safetynet/",
+    "label": "La Trobe Student Union: Safety Net"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Voucher amount",
+      "quote": "a voucher for $60",
+      "url": "https://www.latrobesu.org.au/support/safetynet/",
+      "page_date": null
+    }
+  ],
+  "closes": "closed"
+}

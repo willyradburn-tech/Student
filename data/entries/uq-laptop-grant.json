@@ -1,0 +1,55 @@
+{
+  "id": "uq-laptop-grant",
+  "name": "UQ Laptop Grant",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "Financial assistance for UQ students whose laptop is damaged, broken or needs repair, so they can keep studying.",
+  "who": [
+    "UQ students whose laptop is damaged, broken, or in need of repair."
+  ],
+  "how": [
+    "Complete the Financial Assistance Application and include details about your laptop issue."
+  ],
+  "catches": [
+    "UQ doesn't publish an amount.",
+    "UQ also runs a separate Student Laptop Loans program."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "laptop",
+    "computer",
+    "hardship",
+    "financial assistance"
+  ],
+  "source": {
+    "url": "https://my.uq.edu.au/information-and-services/student-support/financial-support/financial-support-overview/apply-financial-hardship-assistance",
+    "label": "UQ: apply for financial hardship assistance"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "cap": "maybe",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "For damaged or broken laptops",
+      "quote": "If your laptop is damaged, broken, or in need of repair, you may be eligible for a Laptop Grant",
+      "url": "https://my.uq.edu.au/information-and-services/student-support/financial-support/financial-support-overview/apply-financial-hardship-assistance",
+      "page_date": null
+    },
+    {
+      "claim": "How to apply",
+      "quote": "To apply, simply complete the Financial Assistance Application and include details about your laptop issue.",
+      "url": "https://my.uq.edu.au/information-and-services/student-support/financial-support/financial-support-overview/apply-financial-hardship-assistance",
+      "page_date": null
+    }
+  ]
+}

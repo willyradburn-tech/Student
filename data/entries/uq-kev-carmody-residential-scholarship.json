@@ -1,0 +1,75 @@
+{
+  "id": "uq-kev-carmody-residential-scholarship",
+  "name": "Kev Carmody Residential Scholarship (UQ)",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "Covers a standard room at Kev Carmody House for Aboriginal and Torres Strait Islander UQ students facing financial hardship.",
+  "key": "Cost of residency in a standard room at Kev Carmody House, for 1 year.",
+  "who": [
+    "Domestic student enrolled full-time in an approved program.",
+    "Resident at Kev Carmody House.",
+    "Can demonstrate financial hardship with documents.",
+    "Aboriginal and/or Torres Strait Islander person."
+  ],
+  "how": [
+    "Apply using the online form with your QTAC or UQ student number, evidence of financial hardship and proof of Aboriginal and Torres Strait Islander status."
+  ],
+  "catches": [
+    "The main round closed 9 October 2026. The second round runs 10 October to 4 December 2026."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "accommodation",
+    "residential",
+    "indigenous",
+    "first nations",
+    "st lucia"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/kev-carmody-residential-scholarship",
+    "label": "UQ Scholarships: Kev Carmody Residential Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Covers a standard room",
+      "quote": "Cost of residency in a standard room at Kev Carmody House",
+      "url": "https://scholarships.uq.edu.au/scholarship/kev-carmody-residential-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Second round closes 4 December 2026",
+      "quote": "4 December 2026",
+      "url": "https://scholarships.uq.edu.au/scholarship/kev-carmody-residential-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

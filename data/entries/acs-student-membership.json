@@ -1,0 +1,51 @@
+{
+  "id": "acs-student-membership",
+  "name": "ACS student membership",
+  "provider": "Australian Computer Society",
+  "category": "career",
+  "summary": "A discounted membership of Australia's main tech professional body for full-time students.",
+  "tags": [
+    "it",
+    "computing",
+    "tech",
+    "acs",
+    "careers"
+  ],
+  "key": "$72 a year for full-time students living in Australia.",
+  "numbers": [
+    [
+      "Full-time student concession",
+      "$72 a year in Australia, $65 overseas"
+    ],
+    [
+      "Member benefits",
+      "Networking events, a digital library, courses and certifications, and the ACS career platform"
+    ]
+  ],
+  "how": [
+    "Apply through Join or Get Certified on the ACS site."
+  ],
+  "catches": [
+    "ACS's page doesn't spell out who counts as a full-time student. Ask Member Services on +61 2 9299 3666."
+  ],
+  "cadence": "medium",
+  "match": {
+    "field": {
+      "yes": [
+        "it"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "verified": "2026-10-13",
+  "review": "approved",
+  "status": "verified",
+  "source": {
+    "url": "https://www.acs.org.au/join-acs.html",
+    "label": "ACS: join"
+  }
+}

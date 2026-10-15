@@ -1,0 +1,61 @@
+{
+  "id": "aisa-student-membership",
+  "name": "AISA student membership",
+  "provider": "Australian Information Security Association",
+  "category": "career",
+  "summary": "Complimentary cyber security student membership of AISA for students at listed universities and TAFEs; others pay a reduced rate.",
+  "key": "Complimentary for eligible students; regular student membership is $50.",
+  "who": [
+    "Studying a cyber security course at one of the listed universities or TAFEs",
+    "Must have a valid student ID card"
+  ],
+  "how": [
+    "Click your institution's name on the page to access the complimentary membership."
+  ],
+  "catches": [
+    "Only students at listed institutions get it free."
+  ],
+  "tags": [
+    "cyber security",
+    "cybersecurity",
+    "information security",
+    "it security",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.aisa.org.au/Public/Public/Members/Student-Membership.aspx",
+    "label": "AISA: Student Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "it"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free for eligible students",
+      "quote": "a complimentary AISA student membership",
+      "url": "https://www.aisa.org.au/Public/Public/Members/Student-Membership.aspx",
+      "page_date": null
+    },
+    {
+      "claim": "Other students",
+      "quote": "Regular student membership is $50.",
+      "url": "https://www.aisa.org.au/Public/Public/Members/Student-Membership.aspx",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Students currently studying a cyber security course at one of the following universities or TAFEs are eligible",
+      "url": "https://www.aisa.org.au/Public/Public/Members/Student-Membership.aspx",
+      "page_date": null
+    }
+  ]
+}

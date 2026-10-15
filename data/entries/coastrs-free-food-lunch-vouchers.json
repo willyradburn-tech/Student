@@ -1,0 +1,59 @@
+{
+  "id": "coastrs-free-food-lunch-vouchers",
+  "name": "CoastRs free snacks and weekly lunch vouchers (Gold Coast)",
+  "provider": "CoastRs (SCU Gold Coast student association)",
+  "category": "uni",
+  "summary": "Free weekly snacks and drinks in the student lounge and weekly lunch vouchers at SCU Gold Coast, with membership for $1 a year.",
+  "key": "A yearly membership is just $1.",
+  "who": [
+    "SCU Gold Coast students."
+  ],
+  "how": [
+    "Join CoastRs online, then check the student lounge and What's On page."
+  ],
+  "catches": [
+    "The Pantry: students can pre-register for a spot for $10 and choose 10 items."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "coastrs",
+    "gold coast",
+    "free food",
+    "lunch vouchers"
+  ],
+  "source": {
+    "url": "https://coastrs.com.au/",
+    "label": "CoastRs: Home"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "qld"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free food",
+      "quote": "We stock the kitchen in the student lounge every week with snacks and drinks and provide weekly lunch vouchers",
+      "url": "https://coastrs.com.au/",
+      "page_date": null
+    },
+    {
+      "claim": "Membership price",
+      "quote": "a yearly membership is just $1",
+      "url": "https://coastrs.com.au/",
+      "page_date": null
+    }
+  ]
+}

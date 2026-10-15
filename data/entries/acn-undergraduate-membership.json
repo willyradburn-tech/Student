@@ -1,0 +1,47 @@
+{
+  "id": "acn-undergraduate-membership",
+  "name": "ACN Undergraduate Membership",
+  "provider": "Australian College of Nursing",
+  "category": "career",
+  "summary": "Low-cost Australian College of Nursing membership for undergraduate RN and EN students.",
+  "key": "Monthly payments: $5.25.",
+  "who": [
+    "Undergraduate registered nurse (RN) and enrolled nurse (EN) students"
+  ],
+  "tags": [
+    "nursing",
+    "nurse",
+    "acn",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://members.acn.edu.au/Public/Join/Member_Benefits.aspx",
+    "label": "Australian College of Nursing: Member Benefits"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Price",
+      "quote": "Monthly payments: $5.25",
+      "url": "https://members.acn.edu.au/Public/Join/Member_Benefits.aspx",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Undergraduate Membership provides undergraduate RN and EN students with access to a comprehensive suite of member benefits.",
+      "url": "https://members.acn.edu.au/Public/Join/Member_Benefits.aspx",
+      "page_date": null
+    }
+  ]
+}

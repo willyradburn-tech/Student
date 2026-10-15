@@ -1,0 +1,46 @@
+{
+  "id": "griffith-student-guild-cereal-bar",
+  "name": "Student Guild Cereal Bar",
+  "provider": "Griffith University Gold Coast Student Guild",
+  "category": "uni",
+  "summary": "Free cereal, juice, tea and coffee most weekday mornings for Gold Coast students.",
+  "who": [
+    "Available to all Gold Coast students."
+  ],
+  "how": [
+    "Go to The Courtside (G32); no registration required."
+  ],
+  "catches": [
+    "Monday, Tuesday, Thursday and Friday mornings, 7am to 9am."
+  ],
+  "tags": [
+    "griffith",
+    "food",
+    "breakfast",
+    "gold coast",
+    "student guild"
+  ],
+  "source": {
+    "url": "https://gugcstudentguild.com.au/food-support/",
+    "label": "Griffith University Gold Coast Student Guild: Food support"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "free breakfast",
+      "quote": "free cereal, juice, tea and coffee every morning",
+      "url": "https://gugcstudentguild.com.au/food-support/",
+      "page_date": null
+    }
+  ]
+}

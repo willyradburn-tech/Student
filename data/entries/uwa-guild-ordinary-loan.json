@@ -1,0 +1,56 @@
+{
+  "id": "uwa-guild-ordinary-loan",
+  "name": "UWA Guild Ordinary Loan",
+  "provider": "UWA Student Guild",
+  "category": "uni",
+  "summary": "Interest-free loan of up to $1,000, repaid over up to 12 months, for UWA students who are Guild members.",
+  "key": "Borrow up to $1,000.",
+  "who": [
+    "Current UWA student and Guild member",
+    "Demonstrate your ability to repay the loan within the set timeframe"
+  ],
+  "how": [
+    "Complete the T&Cs and application form and email it with the required documents to the Guild"
+  ],
+  "catches": [
+    "Repayment period of up to 12 months"
+  ],
+  "tags": [
+    "uwa",
+    "uwa guild",
+    "perth",
+    "wa",
+    "loan",
+    "interest-free",
+    "student union"
+  ],
+  "source": {
+    "url": "https://www.uwastudentguild.com/support/topic/loans",
+    "label": "UWA Student Guild: Loans"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "borrow up to $1,000.",
+      "url": "https://www.uwastudentguild.com/support/topic/loans",
+      "page_date": null
+    },
+    {
+      "claim": "Repay",
+      "quote": "demonstrate your ability to repay the loan within the set timeframe.",
+      "url": "https://www.uwastudentguild.com/support/topic/loans",
+      "page_date": null
+    }
+  ]
+}

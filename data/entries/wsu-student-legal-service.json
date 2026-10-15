@@ -1,0 +1,53 @@
+{
+  "id": "wsu-student-legal-service",
+  "name": "Western Sydney University Student Legal Service",
+  "provider": "Western Sydney University",
+  "category": "uni",
+  "summary": "Free legal advice and referral for current WSU and The College students, funded by SSAF.",
+  "key": "A free legal advice and referral service.",
+  "who": [
+    "Current domestic and international students of Western Sydney University or The College"
+  ],
+  "how": [
+    "Submit the online Request for Help form, call 02 9685 4788 or email studentlegalservices@westernsydney.edu.au",
+    "Drop-in at the Justice Clinic, Parramatta South, Tuesdays 10am-3pm in teaching weeks"
+  ],
+  "catches": [
+    "No advice on issues involving the University",
+    "Cannot represent students in court"
+  ],
+  "tags": [
+    "wsu",
+    "legal",
+    "free",
+    "parramatta"
+  ],
+  "source": {
+    "url": "https://www.westernsydney.edu.au/schools/sol/student-legal-service",
+    "label": "Western Sydney University: Student Legal Service"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free service",
+      "quote": "The Student Legal Service (SLS) is a free legal advice and referral service.",
+      "url": "https://www.westernsydney.edu.au/schools/sol/student-legal-service",
+      "page_date": null
+    }
+  ]
+}

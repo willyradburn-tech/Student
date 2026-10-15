@@ -1,0 +1,35 @@
+{
+  "id": "relocation-scholarship",
+  "name": "Relocation Scholarship",
+  "provider": "Services Australia",
+  "category": "payments",
+  "summary": "A yearly payment for students on ABSTUDY or Youth Allowance who move to or from a regional or remote area to study.",
+  "tags": [
+    "regional",
+    "remote",
+    "moving away"
+  ],
+  "catches": [
+    "We found only one undated source for the amounts, so none are shown. Check the official page."
+  ],
+  "status": "unverified",
+  "verified": "2026-10-13",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "payment": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://www.education.gov.au/node/19825",
+    "label": "Department of Education: student support payments"
+  }
+}

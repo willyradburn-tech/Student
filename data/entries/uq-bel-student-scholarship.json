@@ -1,0 +1,74 @@
+{
+  "id": "uq-bel-student-scholarship",
+  "name": "UQ Business, Economics and Law Student Scholarship",
+  "provider": "University of Queensland, Faculty of Business, Economics and Law",
+  "category": "uni",
+  "summary": "Annual scholarship for full-time domestic undergraduates in UQ business, economics or law who can show financial hardship.",
+  "key": "$4,500 per year.",
+  "who": [
+    "Domestic student.",
+    "Can provide evidence of financial hardship.",
+    "Enrolled, or intending to enrol, full-time in any undergraduate program in the Faculty of Business, Economics and Law, including duals."
+  ],
+  "how": [
+    "Apply using the online application portal, answering three questions and giving evidence of your financial circumstances (Centrelink or ATO statements, payslips, or EAS confirmation)."
+  ],
+  "catches": [
+    "Opens November 2026 and closes February 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "business",
+    "economics",
+    "law",
+    "commerce",
+    "financial hardship"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/business-economics-and-law-student-scholarship",
+    "label": "UQ Scholarships: Business, Economics and Law Student Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "field": {
+      "yes": [
+        "business"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$4,500 per year",
+      "quote": "$4,500 per year",
+      "url": "https://scholarships.uq.edu.au/scholarship/business-economics-and-law-student-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Financial hardship",
+      "quote": "can provide evidence of financial hardship",
+      "url": "https://scholarships.uq.edu.au/scholarship/business-economics-and-law-student-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

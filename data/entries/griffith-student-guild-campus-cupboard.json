@@ -1,0 +1,47 @@
+{
+  "id": "griffith-student-guild-campus-cupboard",
+  "name": "Student Guild Campus Cupboard",
+  "provider": "Griffith University Gold Coast Student Guild",
+  "category": "uni",
+  "summary": "Free groceries, pantry staples and fresh fruit and veg for Gold Coast campus students twice a week.",
+  "who": [
+    "All Gold Coast campus students."
+  ],
+  "how": [
+    "Bring your own bag and student card, next to The Uni Store (G07)."
+  ],
+  "catches": [
+    "Every Monday and Thursday from 2pm, until it runs out."
+  ],
+  "tags": [
+    "griffith",
+    "food",
+    "pantry",
+    "groceries",
+    "gold coast",
+    "student guild"
+  ],
+  "source": {
+    "url": "https://gugcstudentguild.com.au/food-support/",
+    "label": "Griffith University Gold Coast Student Guild: Food support"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "free groceries",
+      "quote": "free groceries in Campus Cupboard, including pantry staples and fresh fruit and veggies",
+      "url": "https://gugcstudentguild.com.au/food-support/",
+      "page_date": null
+    }
+  ]
+}

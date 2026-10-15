@@ -1,0 +1,56 @@
+{
+  "id": "airah-student-membership",
+  "name": "AIRAH Student Membership",
+  "provider": "Australian Institute of Refrigeration, Air Conditioning and Heating",
+  "category": "career",
+  "summary": "Free AIRAH membership for full-time students, apprentices and trainees heading into HVAC&R careers.",
+  "key": "Student membership is free for students who provide proof of full-time enrolment.",
+  "who": [
+    "Current full-time students, apprentices and trainees in Australia preparing for a career in HVAC&R"
+  ],
+  "how": [
+    "Create an AIRAH account, then apply with proof of enrolment."
+  ],
+  "tags": [
+    "hvac",
+    "mechanical engineering",
+    "building services",
+    "refrigeration",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://airah.org.au/site/membership/types/student",
+    "label": "AIRAH: Student Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Student membership is free for students who provide proof of full-time enrolment.",
+      "url": "https://airah.org.au/site/membership/types/student",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Student Membership is open to current full-time students, apprentices, and trainees in Australia",
+      "url": "https://airah.org.au/site/membership/types/student",
+      "page_date": null
+    }
+  ]
+}

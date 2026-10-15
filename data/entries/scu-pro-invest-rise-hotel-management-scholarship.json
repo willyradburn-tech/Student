@@ -1,0 +1,74 @@
+{
+  "id": "scu-pro-invest-rise-hotel-management-scholarship",
+  "name": "Pro-invest Group RISE Hotel Management Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$5,000 for low-income SCU hotel, tourism or business students facing several disadvantages.",
+  "key": "$5,000.",
+  "who": [
+    "New or continuing student in a listed hotel, tourism or business degree, such as the Bachelor of Global Hotel and Tourism Management.",
+    "Australian citizen or permanent resident.",
+    "Low socio-economic status, such as getting a Centrelink means-tested income support payment."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with a 400 to 500 word statement."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "Two scholarships available.",
+    "Not for students who already hold a bachelor degree or get certain other scholarships."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "hotel",
+    "tourism",
+    "business",
+    "equity",
+    "low income"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/pro-invest-group-rise-hotel-management-scholarship/",
+    "label": "Southern Cross University: Pro-invest Group RISE Hotel Management Scholarship"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "field": {
+      "yes": [
+        "business"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Closing date",
+      "quote": "Applications close 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/pro-invest-group-rise-hotel-management-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

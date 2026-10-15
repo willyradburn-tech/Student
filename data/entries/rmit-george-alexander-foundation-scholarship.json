@@ -1,0 +1,74 @@
+{
+  "id": "rmit-george-alexander-foundation-scholarship",
+  "name": "George Alexander Foundation Scholarship (RMIT)",
+  "provider": "RMIT University",
+  "category": "uni",
+  "summary": "Up to $10,000 a year for high-achieving rural and regional students moving to Melbourne to start a bachelor degree at RMIT.",
+  "key": "Up to $10,000 a year for up to three years. Seven offered.",
+  "who": [
+    "Australian citizen.",
+    "From a rural, regional or remote area and moving to Melbourne for the first time.",
+    "ATAR of 80 or higher, plus community involvement and leadership."
+  ],
+  "how": [
+    "Complete the online application with supporting documents by the close date."
+  ],
+  "catches": [
+    "Semester 1 2027 applications close 11:59pm Sunday 31 January 2027."
+  ],
+  "tags": [
+    "rmit",
+    "rmit university",
+    "melbourne",
+    "vic",
+    "regional",
+    "rural",
+    "relocation"
+  ],
+  "source": {
+    "url": "https://www.rmit.edu.au/scholarships/coursework/gaf-scholarship",
+    "label": "RMIT: George Alexander Foundation Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "This scholarship provides up to $10,000 per year for up to three years.",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/gaf-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications for Semester 1 2027 close 11:59pm Sunday 31 January 2027.",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/gaf-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-01-31"
+}

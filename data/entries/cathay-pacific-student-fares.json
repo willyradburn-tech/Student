@@ -1,0 +1,50 @@
+{
+  "id": "cathay-pacific-student-fares",
+  "name": "Cathay Pacific student fares (AUSTUDENT)",
+  "provider": "Cathay Pacific",
+  "category": "transport",
+  "summary": "Up to 10% off Cathay Pacific fares from Australia plus extra checked baggage for students using promo code AUSTUDENT.",
+  "key": "Enjoy up to 10% off Economy, Premium Economy and Business class fares.",
+  "who": [
+    "Anyone with valid proof of student status. No age limit is stated."
+  ],
+  "how": [
+    "Apply the promotion code AUSTUDENT to your flight.",
+    "Show valid proof of student identity at check-in."
+  ],
+  "catches": [
+    "Offer ends 1 December 2026, for departures 31 March 2026 to 31 October 2027.",
+    "Applies to selected fare classes only.",
+    "Without proof of student status at check-in you must buy a new non-student fare."
+  ],
+  "tags": [
+    "cathay pacific",
+    "airline",
+    "international flights",
+    "baggage",
+    "hong kong"
+  ],
+  "source": {
+    "url": "https://flights.cathaypacific.com/en_AU/offers/student-flights.html",
+    "label": "Cathay Pacific Australia: Student fares"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Up to 10% off",
+      "quote": "Enjoy up to 10% off Economy, Premium Economy and Business class fares*.",
+      "url": "https://flights.cathaypacific.com/en_AU/offers/student-flights.html",
+      "page_date": null
+    },
+    {
+      "claim": "Offer end date",
+      "quote": "Offer ends: 01 Dec 2026",
+      "url": "https://flights.cathaypacific.com/en_AU/offers/student-flights.html",
+      "page_date": null
+    }
+  ]
+}

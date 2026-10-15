@@ -1,0 +1,52 @@
+{
+  "id": "australian-museum-student-concession",
+  "name": "Australian Museum free entry and student concession",
+  "provider": "Australian Museum",
+  "category": "streaming",
+  "summary": "Free general entry to the Australian Museum in Sydney, with reduced prices for Australian and international student card holders at major exhibitions.",
+  "key": "The Australian Museum has free general entry.",
+  "who": [
+    "Australian Student Card holders and International Student Card holders, for reduced exhibition prices."
+  ],
+  "how": [
+    "Show your concession card on admission."
+  ],
+  "catches": [
+    "Fees apply for major exhibitions; reduced prices are not stated."
+  ],
+  "tags": [
+    "australian museum",
+    "museum",
+    "sydney",
+    "free"
+  ],
+  "source": {
+    "url": "https://australian.museum/visit/admission/",
+    "label": "Australian Museum: Admission"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free entry",
+      "quote": "The Australian Museum has FREE general entry.",
+      "url": "https://australian.museum/visit/admission/",
+      "page_date": null
+    },
+    {
+      "claim": "Student cards",
+      "quote": "Concession cards must be shown upon admission to receive the reduced ticket prices:",
+      "url": "https://australian.museum/visit/admission/",
+      "page_date": null
+    }
+  ]
+}

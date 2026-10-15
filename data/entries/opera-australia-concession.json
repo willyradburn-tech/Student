@@ -1,0 +1,61 @@
+{
+  "id": "opera-australia-concession",
+  "name": "Opera Australia concession tickets",
+  "provider": "Opera Australia",
+  "category": "streaming",
+  "summary": "Concession-priced tickets to most Opera Australia performances in Sydney and Melbourne for full-time Australian students.",
+  "who": [
+    "Full-time Australian students (also full pensioners and children 16 and under)."
+  ],
+  "how": [
+    "Bring your ID to the box office; proof of eligibility is required for collection."
+  ],
+  "catches": [
+    "Excludes Saturday evenings.",
+    "The page does not state concession prices.",
+    "Opera Australia also has an under-35 sign-up with discounted tickets; no price stated."
+  ],
+  "tags": [
+    "opera",
+    "concession",
+    "sydney",
+    "melbourne",
+    "under 35"
+  ],
+  "source": {
+    "url": "https://opera.org.au/buy/special-offers",
+    "label": "Opera Australia: Special Offers"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw",
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Concession for full-time students",
+      "quote": "for full Australian pensioners, full-time Australian students and children aged 16 years and under",
+      "url": "https://opera.org.au/buy/special-offers",
+      "page_date": null
+    },
+    {
+      "claim": "Most performances, not Saturday evenings",
+      "quote": "Concession pricing is available for most performances (excluding Saturday evenings)",
+      "url": "https://opera.org.au/buy/special-offers",
+      "page_date": null
+    },
+    {
+      "claim": "Sydney and Melbourne",
+      "quote": "in both Sydney and Melbourne.",
+      "url": "https://opera.org.au/buy/special-offers",
+      "page_date": null
+    }
+  ]
+}

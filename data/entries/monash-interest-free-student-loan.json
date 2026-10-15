@@ -1,0 +1,60 @@
+{
+  "id": "monash-interest-free-student-loan",
+  "name": "Monash interest-free student loan",
+  "provider": "Monash University",
+  "category": "uni",
+  "summary": "Interest-free loans for domestic and international Monash students whose finances are affecting their ability to keep studying.",
+  "who": [
+    "You must be studying at an Australian campus.",
+    "Your financial situation must be affecting your ability to continue studying.",
+    "You're not eligible if you're on intermission (study leave)."
+  ],
+  "catches": [
+    "Can't be used for amenities fees, course fees or visa charges.",
+    "The page doesn't state a loan limit."
+  ],
+  "tags": [
+    "monash",
+    "monash university",
+    "melbourne",
+    "vic",
+    "loan",
+    "interest-free",
+    "hardship",
+    "international"
+  ],
+  "source": {
+    "url": "https://www.monash.edu/get-started/about-uni-life/loans-grants-scholarships",
+    "label": "Monash: Loans, grants and scholarships"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Domestic and international students can apply",
+      "quote": "Both domestic and international students can apply for an interest-free loan.",
+      "url": "https://www.monash.edu/get-started/about-uni-life/loans-grants-scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Financial situation rule",
+      "quote": "your financial situation must be affecting your ability to continue studying.",
+      "url": "https://www.monash.edu/get-started/about-uni-life/loans-grants-scholarships",
+      "page_date": null
+    }
+  ]
+}

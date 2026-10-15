@@ -1,0 +1,81 @@
+{
+  "id": "scu-student-loan-scheme",
+  "name": "SCU interest-free student loans",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "Small interest-free loans, from $100 emergency loans to $1,500, for SCU students whose study is at risk from financial hardship.",
+  "key": "Interest-free loans from $100 (emergency) up to $1,500, including a $1,000 placement loan.",
+  "who": [
+    "Australian students, permanent residents and full-fee onshore international students enrolled in a Commonwealth-funded course at SCU.",
+    "Must show genuine need and that study is at risk because of financial hardship.",
+    "Not available to exchange students."
+  ],
+  "how": [
+    "Submit the Student Loans eForm.",
+    "Book a student loan appointment through CareerHub."
+  ],
+  "numbers": [
+    [
+      "Level One (emergency)",
+      "$100, repaid within 1 month"
+    ],
+    [
+      "Level Two",
+      "$200, up to 4 months"
+    ],
+    [
+      "Level Three",
+      "$500, up to 8 months"
+    ],
+    [
+      "Level Four (placement of 2+ weeks)",
+      "$1,000, up to 8 months, repayments start 2 months after issue, guarantor needed"
+    ],
+    [
+      "Level Five",
+      "Up to $1,500, up to 10 months, guarantor needed"
+    ]
+  ],
+  "catches": [
+    "First-time borrowers can borrow up to $500.",
+    "Level Five is only for students who repaid a Level Three loan on time."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "loan",
+    "interest free",
+    "emergency",
+    "hardship",
+    "placement"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/current-students/services-and-support/financial-support/student-loans/",
+    "label": "Southern Cross University: Student loans"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Interest-free loans",
+      "quote": "The University operates a Student Loan Scheme designed to provide small interest-free loans to currently enrolled students.",
+      "url": "https://www.scu.edu.au/current-students/services-and-support/financial-support/student-loans/",
+      "page_date": null
+    },
+    {
+      "claim": "Exclusion",
+      "quote": "Student loans are not available to exchange students.",
+      "url": "https://www.scu.edu.au/current-students/services-and-support/financial-support/student-loans/",
+      "page_date": null
+    }
+  ]
+}

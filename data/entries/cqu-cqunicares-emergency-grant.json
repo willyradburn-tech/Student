@@ -1,0 +1,73 @@
+{
+  "id": "cqu-cqunicares-emergency-grant",
+  "name": "CQUniCares Emergency Grant",
+  "provider": "CQUniversity",
+  "category": "uni",
+  "summary": "Urgent financial help for CQUniversity students hit by unforeseen circumstances or an emergency.",
+  "key": "Considered on a case-by-case basis.",
+  "who": [
+    "In genuine need of urgent financial help because of unforeseen circumstances or an emergency",
+    "Enrolled and actively studying at CQUniversity",
+    "Completed at least one term of study at CQUniversity",
+    "Australian or New Zealand citizen, permanent resident or humanitarian visa holder",
+    "No Emergency Grant received in the last twelve months"
+  ],
+  "how": [
+    "Complete the CQU Cares Emergency Grant Application Form with a personal statement",
+    "Email the form and supporting documents to the Student Scholarships team"
+  ],
+  "catches": [
+    "One grant per twelve months",
+    "Cross-institutional students are not eligible"
+  ],
+  "tags": [
+    "cqu",
+    "cquniversity",
+    "rockhampton",
+    "hardship",
+    "emergency grant",
+    "qld"
+  ],
+  "source": {
+    "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/745954/cqunicares-emergency-grant",
+    "label": "CQUniversity: CQUniCares Emergency Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "Considered on a case-by-case basis",
+      "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/745954/cqunicares-emergency-grant",
+      "page_date": null
+    },
+    {
+      "claim": "Main rule",
+      "quote": "Be in genuine need of urgent financial assistance as a result of unforeseen circumstances or an emergency situation",
+      "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/745954/cqunicares-emergency-grant",
+      "page_date": null
+    },
+    {
+      "claim": "Study history",
+      "quote": "Have successfully completed at least one term of study at CQUniversity.",
+      "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/745954/cqunicares-emergency-grant",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

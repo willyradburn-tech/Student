@@ -1,0 +1,73 @@
+{
+  "id": "rmit-equity-notebook-grant",
+  "name": "RMIT Equity Notebook Grant",
+  "provider": "RMIT University",
+  "category": "uni",
+  "summary": "Up to $1,000 towards a laptop for new full-time RMIT students in financial hardship.",
+  "key": "Up to $1,000 for a laptop.",
+  "who": [
+    "Australian or NZ citizen, permanent resident or permanent humanitarian visa holder.",
+    "Starting full-time in a certificate III or IV, diploma or undergraduate degree in Semester 1 2027.",
+    "Demonstrated financial hardship, such as a low-income Centrelink payment or Health Care Card."
+  ],
+  "how": [
+    "Apply direct to RMIT online with supporting documents, or through VTAC."
+  ],
+  "catches": [
+    "Semester 1 2027 applications close 2pm Tuesday 20 October 2026.",
+    "Not for postgraduate coursework or anyone who's had an RMIT laptop or laptop funds before."
+  ],
+  "tags": [
+    "rmit",
+    "rmit university",
+    "melbourne",
+    "vic",
+    "laptop",
+    "computer",
+    "equity",
+    "tafe",
+    "vocational"
+  ],
+  "source": {
+    "url": "https://www.rmit.edu.au/scholarships/coursework/rmit-notebook",
+    "label": "RMIT: Equity Notebook Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "This grant provides up to $1,000 to purchase a notebook computer.",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/rmit-notebook",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications for Semester 1 2027 close 2:00pm Tuesday 20 October 2026.",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/rmit-notebook",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-10-20"
+}

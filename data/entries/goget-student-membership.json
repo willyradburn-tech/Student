@@ -1,0 +1,57 @@
+{
+  "id": "goget-student-membership",
+  "name": "GoGet car share student membership",
+  "provider": "GoGet",
+  "category": "transport",
+  "summary": "Discounted GoGet car share membership for full-time students, signing up with a student email address.",
+  "key": "$35 a year.",
+  "who": [
+    "Full-time students get the discounted membership.",
+    "You need a valid driver's licence and must meet GoGet's other criteria. Under-25s can join."
+  ],
+  "how": [
+    "Sign up online with your student e-mail address, then download the app."
+  ],
+  "catches": [
+    "Small hatchback from $7/hr + $0.40/km, or $80/day including 120km.",
+    "Only 1 driver allowed.",
+    "Drivers with less than 1 year's independent driving face some restrictions."
+  ],
+  "tags": [
+    "goget",
+    "car share",
+    "car hire",
+    "sydney",
+    "melbourne",
+    "brisbane"
+  ],
+  "source": {
+    "url": "https://www.goget.com.au/students/",
+    "label": "GoGet: Students"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Discount for full-time students",
+      "quote": "Discounted membership for full time students",
+      "url": "https://www.goget.com.au/students/",
+      "page_date": null
+    },
+    {
+      "claim": "Annual fee",
+      "quote": "$35 a year",
+      "url": "https://www.goget.com.au/students/",
+      "page_date": null
+    }
+  ]
+}

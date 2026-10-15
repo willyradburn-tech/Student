@@ -1,0 +1,62 @@
+{
+  "id": "sa-water-sewerage-concession",
+  "name": "SA water and sewerage rate concession",
+  "provider": "ConcessionsSA (Government of South Australia)",
+  "category": "health",
+  "summary": "Discount of up to 30% of your yearly water bill for low-income South Australians, including tenants who pay for water.",
+  "key": "The water concession is calculated as up to 30% of your total water bill for a financial year.",
+  "who": [
+    "Own or rent your principal place of residence and pay for water",
+    "Hold an eligible card such as a Low Income Health Care Card, receive an eligible payment such as Youth Allowance or Austudy, or meet low income provisions"
+  ],
+  "how": [
+    "Apply with the online household concessions form or call ConcessionsSA on 1800 307 758."
+  ],
+  "catches": [
+    "Tenants are not eligible for a concession on sewerage rates.",
+    "2026-27 water concession for tenants paying usage only is $197.20 to $377.90."
+  ],
+  "tags": [
+    "SA",
+    "Adelaide",
+    "water",
+    "SA Water",
+    "tenants",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/water-and-sewerage-rate-concession",
+    "label": "SA.GOV.AU: Water and sewerage rate concession"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "The water concession is calculated as up to 30% of your total water bill for a financial year",
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/water-and-sewerage-rate-concession",
+      "page_date": null
+    },
+    {
+      "claim": "Tenants excluded from sewerage",
+      "quote": "Tenants are not eligible for a concession on sewerage rates.",
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/water-and-sewerage-rate-concession",
+      "page_date": null
+    },
+    {
+      "claim": "Eligible card",
+      "quote": "Low Income Health Care Card",
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/water-and-sewerage-rate-concession",
+      "page_date": null
+    }
+  ]
+}

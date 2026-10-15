@@ -1,0 +1,55 @@
+{
+  "id": "australian-ballet-student-rush",
+  "name": "The Australian Ballet Student Rush tickets",
+  "provider": "The Australian Ballet",
+  "category": "streaming",
+  "summary": "$39–$42 Student Rush tickets at the venue box office an hour before Australian Ballet performances, for full-time tertiary students.",
+  "key": "Student Rush tickets are priced between $39-$42.",
+  "who": [
+    "Full-time tertiary students with a valid student ID."
+  ],
+  "how": [
+    "Buy at the venue box office one hour before the performance."
+  ],
+  "catches": [
+    "Subject to availability.",
+    "Not applicable for Storytime Ballet."
+  ],
+  "tags": [
+    "australian ballet",
+    "ballet",
+    "melbourne",
+    "sydney",
+    "student rush"
+  ],
+  "source": {
+    "url": "https://australianballet.com.au/ticketing/ballet-at-a-great-price",
+    "label": "The Australian Ballet: Ballet at a great price"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw",
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Price and eligibility",
+      "quote": "Full-time tertiary students with a valid student ID can access Student Rush Tickets priced between $39-$42.",
+      "url": "https://australianballet.com.au/ticketing/ballet-at-a-great-price",
+      "page_date": null
+    },
+    {
+      "claim": "Timing",
+      "quote": "Subject to availability, Student Rush tickets are available one hour prior to the performance",
+      "url": "https://australianballet.com.au/ticketing/ballet-at-a-great-price",
+      "page_date": null
+    }
+  ]
+}

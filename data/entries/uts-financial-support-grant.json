@@ -1,0 +1,56 @@
+{
+  "id": "uts-financial-support-grant",
+  "name": "UTS Financial Support Grant",
+  "provider": "University of Technology Sydney",
+  "category": "uni",
+  "summary": "Non-repayable grant for low-income UTS students to cover course costs or essential living costs such as rent or utility arrears.",
+  "key": "Grants are usually approved for amounts up to $500.",
+  "who": [
+    "Combined income under $1,200 per fortnight and inadequate savings",
+    "Evidence of course costs or essential living costs"
+  ],
+  "how": [
+    "Apply online in the student portal under Financial Assistance Application",
+    "For urgent needs call SSU reception on 02 9514 1177"
+  ],
+  "catches": [
+    "Paid to an Australian bank account, usually within about 10 days",
+    "Not open to UTS College, non-award, inbound exchange or leave-of-absence students",
+    "First-session students can apply only after census date"
+  ],
+  "tags": [
+    "uts",
+    "grant",
+    "hardship",
+    "placement"
+  ],
+  "source": {
+    "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+    "label": "UTS: Financial assistance programs"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Usually up to $500",
+      "quote": "Successful grant applications are usually approved for amounts up-to $500",
+      "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

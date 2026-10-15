@@ -1,0 +1,54 @@
+{
+  "id": "unsw-gateway-scholarship",
+  "name": "UNSW Gateway Scholarship",
+  "provider": "UNSW Sydney",
+  "category": "uni",
+  "summary": "Yearly scholarship for commencing students admitted through the Gateway Admission Pathway from a Gateway Partner School.",
+  "key": "$10,000 per annum for the minimum duration of program.",
+  "who": [
+    "Commencing undergraduate admitted via the Gateway Admission Pathway",
+    "Attended a Gateway Partner School"
+  ],
+  "how": [
+    "Considered automatically through your Gateway application"
+  ],
+  "catches": [
+    "2027 rounds: EAS via UAC by 19 Nov 2026, ES by 10 Dec 2026, with later January and February rounds; offers made through to March 2027",
+    "Competitive; meeting the criteria does not guarantee an award"
+  ],
+  "tags": [
+    "unsw",
+    "equity",
+    "scholarship",
+    "gateway"
+  ],
+  "source": {
+    "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+    "label": "UNSW Scholarships: UNSW Equity Scholarships for 2027"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$10,000 per year",
+      "quote": "Supports commencing students enrolled through the Gateway Admission Pathway who attended a Gateway Partner School.",
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

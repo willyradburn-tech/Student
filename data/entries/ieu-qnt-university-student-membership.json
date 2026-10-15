@@ -1,0 +1,44 @@
+{
+  "id": "ieu-qnt-university-student-membership",
+  "name": "IEU-QNT university student membership",
+  "provider": "Independent Education Union – Queensland and Northern Territory Branch",
+  "category": "career",
+  "summary": "Free IEU-QNT union membership for aspiring teachers studying education at university in Queensland and the NT.",
+  "key": "Free membership for aspiring teachers studying education at university.",
+  "who": [
+    "Aspiring teachers studying education at university"
+  ],
+  "tags": [
+    "teaching",
+    "education",
+    "teacher",
+    "qld",
+    "nt",
+    "union",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://ieuqnt.org.au/university/",
+    "label": "IEU-QNT: University student membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Our union offers free membership to aspiring teachers studying education at university.",
+      "url": "https://ieuqnt.org.au/university/",
+      "page_date": null
+    }
+  ]
+}

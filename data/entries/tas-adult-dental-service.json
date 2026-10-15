@@ -1,0 +1,48 @@
+{
+  "id": "tas-adult-dental-service",
+  "name": "Tasmanian adult public dental service",
+  "provider": "Tasmanian Government",
+  "category": "health",
+  "summary": "Public dental care for Tasmanian adults who hold an eligible concession card, including the Health Care Card.",
+  "who": [
+    "Eligible concession card holder; the Services Australia Health Care Card is shown as eligible"
+  ],
+  "catches": [
+    "The page does not state fees or waiting times."
+  ],
+  "tags": [
+    "Tasmania",
+    "dental",
+    "dentist",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://www.concessions.tas.gov.au/browse-categories/health",
+    "label": "Tasmanian Concessions: Health"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Eligible concession card holder.",
+      "url": "https://www.concessions.tas.gov.au/browse-categories/health",
+      "page_date": null
+    },
+    {
+      "claim": "Health Care Card shown as eligible card",
+      "quote": "Services Australia Health Care Card",
+      "url": "https://www.concessions.tas.gov.au/browse-categories/health",
+      "page_date": null
+    }
+  ]
+}

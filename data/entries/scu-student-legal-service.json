@@ -1,0 +1,49 @@
+{
+  "id": "scu-student-legal-service",
+  "name": "SCU Student Legal Service",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "Free, confidential legal advice for SCU students through community legal centres near each campus.",
+  "key": "A free, confidential service for all SCU students.",
+  "who": [
+    "SCU students."
+  ],
+  "how": [
+    "Lismore: Northern Rivers Community Legal Centre, 1800 689 889.",
+    "Gold Coast: Gold Coast Community Legal Centre, 07 5532 9611.",
+    "Coffs Harbour: Mid North Coast Legal Centre, 02 6580 2111."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "legal advice",
+    "free",
+    "tenancy",
+    "lismore",
+    "gold coast",
+    "coffs harbour"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/current-students/services-and-support/student-legal-service/",
+    "label": "Southern Cross University: Student Legal Service"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free legal advice",
+      "quote": "a free, confidential service for all SCU students",
+      "url": "https://www.scu.edu.au/current-students/services-and-support/student-legal-service/",
+      "page_date": null
+    }
+  ]
+}

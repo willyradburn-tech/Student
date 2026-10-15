@@ -1,0 +1,60 @@
+{
+  "id": "qantas-hong-kong-student-offer",
+  "name": "Qantas student offer from Hong Kong",
+  "provider": "Qantas",
+  "category": "transport",
+  "summary": "40kg baggage and a free date change on Qantas flights from Hong Kong for students enrolled full-time in Australia on a student visa.",
+  "key": "Enjoy 40kg checked baggage allowance.",
+  "who": [
+    "Hold a valid International Student Identity Card (ISIC).",
+    "Enrolled full-time at an accredited educational institution in Australia or New Zealand.",
+    "Travelling on a valid student visa."
+  ],
+  "catches": [
+    "Only Qantas-operated flights departing Hong Kong to Australia or New Zealand.",
+    "Booked through Qantas-appointed agents in Hong Kong.",
+    "Cannot be combined with other special fares."
+  ],
+  "tags": [
+    "qantas",
+    "airline",
+    "international students",
+    "hong kong",
+    "baggage",
+    "isic"
+  ],
+  "source": {
+    "url": "https://www.qantas.com/hk/en/promotions/student-offer.html",
+    "label": "Qantas Hong Kong: Student offer"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "40kg baggage",
+      "quote": "Enjoy 40kg checked baggage allowance",
+      "url": "https://www.qantas.com/hk/en/promotions/student-offer.html",
+      "page_date": null
+    },
+    {
+      "claim": "Route",
+      "quote": "This offer is only valid for Qantas-operated flights departing from Hong Kong to Australia or New Zealand.",
+      "url": "https://www.qantas.com/hk/en/promotions/student-offer.html",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "qut-qic-first-nations-tertiary-scholarship",
+  "name": "QIC First Nations Tertiary Scholarship",
+  "provider": "QUT and QIC",
+  "category": "uni",
+  "summary": "An industry scholarship for Aboriginal and Torres Strait Islander students in business, law, IT, data science or software engineering at QUT.",
+  "key": "Valued at $10,000, paid as $5,000 per teaching period.",
+  "who": [
+    "Australian citizen or permanent resident.",
+    "Aboriginal and/or Torres Strait Islander, confirmed through QUT's CATSID procedure.",
+    "Enrolled in an eligible course such as Business, Laws (Honours), Engineering (Honours) (Computer and Software Systems), IT or Data Science.",
+    "Current QUT students need a GPA of 4.0 or above."
+  ],
+  "how": [
+    "Apply with the application form, a transcript, a CV and a response to the selection criteria. You may be interviewed."
+  ],
+  "catches": [
+    "Offered from Semester 1, 2027. The terms don't give the closing date.",
+    "Not if you have already received the QIC Indigenous Tertiary Scholarship."
+  ],
+  "tags": [
+    "qut",
+    "indigenous",
+    "first nations",
+    "business",
+    "law",
+    "it",
+    "scholarship",
+    "qic"
+  ],
+  "source": {
+    "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0004/1531705/qic-first-nations-tertiary-scholarship-terms-conditions.pdf",
+    "label": "QUT: QIC First Nations Tertiary Scholarship terms"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "business",
+        "it"
+      ],
+      "maybe": [
+        "engineering",
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$10,000",
+      "quote": "valued at $10,000, offered to commencing and continuing Aboriginal and/or Torres Strait Islander students.",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0004/1531705/qic-first-nations-tertiary-scholarship-terms-conditions.pdf",
+      "page_date": null
+    },
+    {
+      "claim": "Citizen or PR",
+      "quote": "Must be an Australian citizen OR an Australian permanent resident.",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0004/1531705/qic-first-nations-tertiary-scholarship-terms-conditions.pdf",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

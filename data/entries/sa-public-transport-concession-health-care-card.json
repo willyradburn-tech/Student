@@ -1,0 +1,51 @@
+{
+  "id": "sa-public-transport-concession-health-care-card",
+  "name": "SA public transport concession for Health Care Card holders",
+  "provider": "Government of South Australia",
+  "category": "transport",
+  "summary": "Half-price concession travel on SA public transport for eligible Centrelink cardholders, including Health Care Card holders, and full-time students.",
+  "key": "Concession travel is a 50% discount.",
+  "who": [
+    "Eligible Centrelink or DVA cardholders, including Centrelink Health Care Card holders",
+    "Full-time students"
+  ],
+  "how": [
+    "Use the eligibility questionnaire on the page, or call Service SA on 13 23 24."
+  ],
+  "tags": [
+    "SA",
+    "Adelaide",
+    "Health Care Card",
+    "public transport",
+    "concession"
+  ],
+  "source": {
+    "url": "https://www.sa.gov.au/topics/care-and-support/concessions/transport/transport-concessions",
+    "label": "SA.GOV.AU: Public transport concessions"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Concession travel available to cardholders and full-time students",
+      "quote": "eligible Centrelink or Department of Veterans' Affairs (DVA) cardholders and full-time students",
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/transport/transport-concessions",
+      "page_date": null
+    },
+    {
+      "claim": "Health Care Card listed as a qualifying card",
+      "quote": "Centrelink Health Care Card",
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/transport/transport-concessions",
+      "page_date": null
+    }
+  ]
+}

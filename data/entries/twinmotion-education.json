@@ -1,0 +1,32 @@
+{
+  "id": "twinmotion-education",
+  "name": "Twinmotion free for students",
+  "provider": "Epic Games",
+  "category": "software",
+  "summary": "Twinmotion real-time visualisation software is free for students and educators.",
+  "key": "Twinmotion is free for students and educators.",
+  "tags": [
+    "rendering",
+    "architecture",
+    "visualisation",
+    "unreal",
+    "3d"
+  ],
+  "source": {
+    "url": "https://www.twinmotion.com/en-US/license",
+    "label": "Twinmotion: License"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Free for students",
+      "quote": "Twinmotion is free for students, educators, and companies earning under $1 million USD in annual gross revenue.",
+      "url": "https://www.twinmotion.com/en-US/license",
+      "page_date": null
+    }
+  ]
+}

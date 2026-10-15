@@ -1,0 +1,66 @@
+{
+  "id": "qld-medical-cooling-heating-concession",
+  "name": "Medical Cooling and Heating Electricity Concession Scheme (MCHECS)",
+  "provider": "Queensland Government",
+  "category": "payments",
+  "summary": "Yearly payment towards power costs for Queenslanders with a medical condition that needs air-conditioning or heating, who hold a concession card.",
+  "key": "It currently provides $522.09 (including GST) per year to eligible applicants.",
+  "who": [
+    "Queensland resident",
+    "Have a qualifying condition such as multiple sclerosis, autonomic system dysfunction, or loss of skin integrity or sweating capacity",
+    "Hold a Pensioner Concession Card or a current Services Australia Health Care Card",
+    "Live at your principal place of residence with an air-conditioning or heating unit and pay the electricity bill"
+  ],
+  "how": [
+    "Complete the MCHECS application form and post it to the address on the form",
+    "Call 13 QGOV (13 74 68) if you can't use the PDF"
+  ],
+  "catches": [
+    "Paid quarterly into your bank account; eligibility reviewed every two years."
+  ],
+  "tags": [
+    "electricity",
+    "medical",
+    "energy",
+    "health care card",
+    "qld",
+    "Queensland"
+  ],
+  "source": {
+    "url": "https://www.qld.gov.au/community/cost-of-living-support/concessions/medical-concessions/medical-cooling-heating-electricity-concession-scheme",
+    "label": "Queensland Government: Medical Cooling and Heating Electricity Concession Scheme"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "It currently provides $522.09 (including GST) per year to eligible applicants (eligibility is reviewed every two years).",
+      "url": "https://www.qld.gov.au/community/cost-of-living-support/concessions/medical-concessions/medical-cooling-heating-electricity-concession-scheme",
+      "page_date": null
+    },
+    {
+      "claim": "Health Care Card accepted",
+      "quote": "a current Services Australia Health Care Card",
+      "url": "https://www.qld.gov.au/community/cost-of-living-support/concessions/medical-concessions/medical-cooling-heating-electricity-concession-scheme",
+      "page_date": null
+    }
+  ]
+}

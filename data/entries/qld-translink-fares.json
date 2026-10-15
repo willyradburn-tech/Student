@@ -1,0 +1,38 @@
+{
+  "id": "qld-translink-fares",
+  "name": "Queensland 50 cent fares",
+  "provider": "TransLink",
+  "category": "transport",
+  "summary": "Every fare is 50 cents a journey, so there is no student concession to apply for.",
+  "tags": [
+    "go card",
+    "translink",
+    "brisbane",
+    "qld",
+    "bus",
+    "train"
+  ],
+  "key": "50 cents a journey, however far you go and however you pay.",
+  "who": [
+    "Everyone. Tertiary students no longer need to apply for concession fares."
+  ],
+  "catches": [
+    "The official page does not say how long the flat fare lasts, so we check it every two weeks.",
+    "School leavers can keep using a green concession go card and may need to update its expiry date."
+  ],
+  "status": "verified",
+  "verified": "2026-10-12",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "campus": {
+      "yes": [
+        "qld"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://translink.com.au/tickets-and-fares/concessions/tertiary",
+    "label": "TransLink: tertiary students"
+  }
+}

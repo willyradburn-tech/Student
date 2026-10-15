@@ -1,0 +1,54 @@
+{
+  "id": "uq-car-share-student-rates",
+  "name": "UQ students: GoGet and Flexicar special rates",
+  "provider": "The University of Queensland",
+  "category": "transport",
+  "summary": "UQ students get special car share rates with GoGet at St Lucia, Herston and Toowong, and Flexicar at Gatton.",
+  "who": [
+    "UQ students."
+  ],
+  "how": [
+    "Sign up on the GoGet website (St Lucia, Herston, Toowong) or the Flexicar website (Gatton)."
+  ],
+  "catches": [
+    "The page does not state the rates. Flexicar's fees are listed under its Flexi Student Plan."
+  ],
+  "tags": [
+    "uq",
+    "goget",
+    "flexicar",
+    "car share",
+    "st lucia",
+    "gatton",
+    "brisbane"
+  ],
+  "source": {
+    "url": "https://my.uq.edu.au/node/5824",
+    "label": "UQ: Car sharing"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "GoGet special rates",
+      "quote": "UQ students can access special rates through the GoGet website.",
+      "url": "https://my.uq.edu.au/node/5824",
+      "page_date": null
+    },
+    {
+      "claim": "Flexicar special rates",
+      "quote": "UQ students can access special rates through the Flexicar website.",
+      "url": "https://my.uq.edu.au/node/5824",
+      "page_date": null
+    }
+  ]
+}

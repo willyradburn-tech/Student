@@ -1,0 +1,52 @@
+{
+  "id": "qld-patient-travel-subsidy-scheme",
+  "name": "Patient Travel Subsidy Scheme (PTSS)",
+  "provider": "Queensland Health",
+  "category": "health",
+  "summary": "Help with travel and accommodation costs when specialist treatment isn't available within 50km of your nearest public hospital.",
+  "key": "Private car travel is subsidised at $0.45 per km, and commercial accommodation up to $70 per night.",
+  "who": [
+    "Specialist treatment not available within 50km of your closest public hospital or public health facility"
+  ],
+  "how": [
+    "Check eligibility with the online Eligibility Checking tool",
+    "Complete Form A (Patient Registration) and the banking details form; your doctor helps with Form B",
+    "Submit forms to a Queensland public hospital or public health service"
+  ],
+  "tags": [
+    "medical travel",
+    "regional",
+    "rural",
+    "qld",
+    "Queensland"
+  ],
+  "source": {
+    "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0025/1246282/ptss-brochure-generic.pdf",
+    "label": "Queensland Health: Patient Travel Subsidy Scheme brochure"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Distance rule",
+      "quote": "not available within 50km of the patient’s closest public hospital or public health facility.",
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0025/1246282/ptss-brochure-generic.pdf",
+      "page_date": null
+    },
+    {
+      "claim": "Private car rate",
+      "quote": "A rate of $0.45 per km, calculated using a predetermined toll-free route between facilities.",
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0025/1246282/ptss-brochure-generic.pdf",
+      "page_date": null
+    }
+  ]
+}

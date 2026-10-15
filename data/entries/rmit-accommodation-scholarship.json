@@ -1,0 +1,70 @@
+{
+  "id": "rmit-accommodation-scholarship",
+  "name": "RMIT Accommodation Scholarship",
+  "provider": "RMIT University",
+  "category": "uni",
+  "summary": "$6,000 for new RMIT students in financial hardship who have moved to Melbourne or Bendigo to study.",
+  "key": "$6,000 for one year full-time, half for part-time. Up to 20 offered.",
+  "who": [
+    "Australian or NZ citizen, permanent resident or permanent humanitarian visa holder.",
+    "Commencing in Semester 1 2027 after moving to Melbourne, or to Bendigo from more than 90 minutes away.",
+    "Financial hardship, such as a low-income Centrelink payment or Health Care Card."
+  ],
+  "how": [
+    "Apply direct to RMIT online (preferred) or through VTAC, with supporting documents."
+  ],
+  "catches": [
+    "Semester 1 2027 applications close 2pm Tuesday 20 October 2026."
+  ],
+  "tags": [
+    "rmit",
+    "rmit university",
+    "melbourne",
+    "vic",
+    "accommodation",
+    "relocation",
+    "regional",
+    "rent"
+  ],
+  "source": {
+    "url": "https://www.rmit.edu.au/scholarships/coursework/rmit-accommodation",
+    "label": "RMIT: Accommodation Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "This scholarship provides $6,000 for one year for full-time enrolled students",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/rmit-accommodation",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-10-20"
+}

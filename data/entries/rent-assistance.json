@@ -1,0 +1,48 @@
+{
+  "id": "rent-assistance",
+  "name": "Rent Assistance",
+  "provider": "Services Australia",
+  "category": "payments",
+  "summary": "An extra fortnightly amount for people who pay private rent and get an eligible payment.",
+  "tags": [
+    "rent",
+    "housing",
+    "centrelink"
+  ],
+  "key": "Up to $223.80 a fortnight for a single person with no children, reached once rent is $456.20 a fortnight or more. Rates from 20 September 2026.",
+  "numbers": [
+    [
+      "Maximum rate, single, no children",
+      "$223.80 a fortnight"
+    ],
+    [
+      "Rent needed for the maximum rate",
+      "$456.20 a fortnight"
+    ]
+  ],
+  "catches": [
+    "We have not confirmed the student-specific rules yet, such as which Youth Allowance recipients qualify, so they are not stated here.",
+    "Rates are indexed each March and September."
+  ],
+  "extra_sources": [
+    {
+      "url": "https://www.servicesaustralia.gov.au/rent-assistance",
+      "label": "Services Australia: Rent Assistance"
+    }
+  ],
+  "status": "rechecking",
+  "verified": "2026-10-13",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "payment": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://guides.dss.gov.au/social-security-guide/5/1/7/10",
+    "label": "DSS Social Security Guide: Rent Assistance current rates"
+  }
+}

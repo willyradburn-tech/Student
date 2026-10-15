@@ -1,0 +1,69 @@
+{
+  "id": "griffith-ict-access-scholarship",
+  "name": "School of ICT Access Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $5,000 for students facing educational disadvantage starting an IT degree at Griffith.",
+  "key": "Maximum value of $5,000, paid in two instalments.",
+  "who": [
+    "Australian citizen, permanent resident or permanent humanitarian visa holder.",
+    "Applying to commence university for the first time in Trimester 1 2027.",
+    "Demonstrated educational disadvantage.",
+    "Not receiving any other scholarship."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Apply by Monday 11 January 2027, 4pm, for Trimester 1 2027.",
+    "The ICT degree must be your first preference on QTAC or UAC."
+  ],
+  "tags": [
+    "griffith",
+    "it",
+    "computing",
+    "equity",
+    "school of ict"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/ict-access-scholarship",
+    "label": "Griffith University: School of ICT Access Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "it"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value of $5,000, paid in two instalments.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/ict-access-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "demonstrated educational disadvantage based on comprehensive assessment by the University",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/ict-access-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

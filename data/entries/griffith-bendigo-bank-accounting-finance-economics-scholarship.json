@@ -1,0 +1,64 @@
+{
+  "id": "griffith-bendigo-bank-accounting-finance-economics-scholarship",
+  "name": "Bendigo Bank Accounting, Finance, and Economics Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Scholarship for Griffith accounting, finance and economics undergraduates who have experienced educational disadvantage.",
+  "key": "Up to $15,000 (the scholarship section states a maximum value of $5,000, paid at $625 per 10 credit points).",
+  "who": [
+    "Australian citizen, New Zealand citizen, permanent resident or permanent humanitarian visa holder.",
+    "Current or commencing, full-time or part-time.",
+    "Minimum GPA of 4.0 if a current student.",
+    "Experienced educational disadvantage."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Apply by Monday 15 March 2027, 4pm.",
+    "The page states both 'up to $15,000' and a $5,000 maximum; confirm the value."
+  ],
+  "tags": [
+    "griffith",
+    "business",
+    "accounting",
+    "finance",
+    "economics",
+    "equity"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/bendigo-bank-accounting-finance-economics-scholarship",
+    "label": "Griffith University: Bendigo Bank Accounting, Finance, and Economics Scholarship"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "business"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "The maximum value is $5,000, payable in instalments of $625 per 10 Credit Points.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/bendigo-bank-accounting-finance-economics-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "uq-queensland-commitment-scholarship",
+  "name": "UQ Queensland Commitment Scholarship",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "Living-cost scholarship for new UQ undergraduates who get the maximum Financial Hardship adjustment through QTAC's Educational Access Scheme.",
+  "key": "The Queensland Commitment Scholarship provides $7,000 per year to help with living costs while you study full time.",
+  "who": [
+    "Australian citizen, permanent resident (including humanitarian visas) or New Zealand citizen.",
+    "Commencing a UQ undergraduate program, with no prior bachelor-level study.",
+    "Received the maximum 5 adjustment points in the Financial Hardship category of QTAC's Educational Access Scheme (EAS)."
+  ],
+  "how": [
+    "No separate scholarship application.",
+    "Apply for your program through QTAC, then apply for EAS and select the Financial Hardship category."
+  ],
+  "catches": [
+    "Formerly called the UQ Link Scholarship.",
+    "Recipients can also be considered for the Aspire Scholarship scheme."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "equity",
+    "financial hardship",
+    "eas",
+    "qtac",
+    "first year",
+    "brisbane"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/queensland-commitment-scholarship",
+    "label": "UQ Scholarships: The Queensland Commitment Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$7,000 per year",
+      "quote": "The Queensland Commitment Scholarship provides $7,000 per year to help with living costs while you study full time.",
+      "url": "https://scholarships.uq.edu.au/scholarship/queensland-commitment-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Needs maximum EAS financial hardship points",
+      "quote": "have demonstrated significant financial disadvantage by receiving the maximum 5 adjustment points",
+      "url": "https://scholarships.uq.edu.au/scholarship/queensland-commitment-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

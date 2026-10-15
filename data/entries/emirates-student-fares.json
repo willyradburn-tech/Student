@@ -1,0 +1,58 @@
+{
+  "id": "emirates-student-fares",
+  "name": "Emirates student fares",
+  "provider": "Emirates",
+  "category": "transport",
+  "summary": "Discounted Emirates flights from Australia plus extra baggage for full-time students aged 16 to 31 using code STUDENT.",
+  "key": "Save up to 10% on Economy Class flights and up to 5% on Premium Economy and Business Class flights.",
+  "who": [
+    "Full-time students aged between 16 and 31 years old at the time of the outbound travel date."
+  ],
+  "how": [
+    "Book with the promo code STUDENT.",
+    "Bring your student ID or school acceptance letter to check-in."
+  ],
+  "catches": [
+    "Extra 10kg or 1 extra piece of baggage.",
+    "Without valid student ID at the airport, the student ticket benefits are forfeited."
+  ],
+  "tags": [
+    "emirates",
+    "airline",
+    "international flights",
+    "baggage"
+  ],
+  "source": {
+    "url": "https://www.emirates.com/au/english/special-offers/student-special-fares/",
+    "label": "Emirates Australia: Student special fares"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "age": {
+      "min": 16,
+      "max": 31
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Discount",
+      "quote": "Save up to 10% on Economy Class flights and up to 5% on Premium Economy and Business Class flights",
+      "url": "https://www.emirates.com/au/english/special-offers/student-special-fares/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "full‑time students aged between 16 and 31 years old at the time of outbound travel date",
+      "url": "https://www.emirates.com/au/english/special-offers/student-special-fares/",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "education-entry-payment",
+  "name": "Education Entry Payment",
+  "provider": "Services Australia",
+  "category": "payments",
+  "summary": "A small yearly lump sum for people on some income support payments who start study.",
+  "tags": [
+    "lump sum",
+    "centrelink"
+  ],
+  "catches": [
+    "The official page is dated 2023 and doesn't say which payments qualify, so no amount is shown until we confirm it."
+  ],
+  "status": "unverified",
+  "verified": "2026-10-13",
+  "cadence": "medium",
+  "review": "pending",
+  "cap": "maybe",
+  "match": {},
+  "source": {
+    "url": "https://www.servicesaustralia.gov.au/how-much-education-entry-payment-you-can-get",
+    "label": "Services Australia: Education Entry Payment"
+  }
+}

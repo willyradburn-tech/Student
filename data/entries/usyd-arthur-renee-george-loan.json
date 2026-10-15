@@ -1,0 +1,59 @@
+{
+  "id": "usyd-arthur-renee-george-loan",
+  "name": "Arthur and Renee George Foundation Loan",
+  "provider": "University of Sydney",
+  "category": "uni",
+  "summary": "Interest-free loan for Australian citizen or PR students in the final two years of a University of Sydney degree.",
+  "key": "These loans are available for up to $2000 each year.",
+  "who": [
+    "Australian citizen or permanent resident",
+    "Enrolled in the final two years of your degree"
+  ],
+  "how": [
+    "Apply in Sydney Student under Apply for financial support"
+  ],
+  "catches": [
+    "Must be repaid before you can graduate"
+  ],
+  "tags": [
+    "usyd",
+    "loan",
+    "interest-free",
+    "final-year",
+    "sydney"
+  ],
+  "source": {
+    "url": "https://www.sydney.edu.au/students/financial-support/interest-free-loans.html",
+    "label": "University of Sydney: Interest-free loans"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Up to $2000 each year",
+      "quote": "These loans are available for up to $2000 each year.",
+      "url": "https://www.sydney.edu.au/students/financial-support/interest-free-loans.html",
+      "page_date": null
+    }
+  ]
+}

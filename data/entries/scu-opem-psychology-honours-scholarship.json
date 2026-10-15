@@ -1,0 +1,62 @@
+{
+  "id": "scu-opem-psychology-honours-scholarship",
+  "name": "OPEM Psychology Honours Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$1,000 for a full-time on-campus SCU psychology honours student, with preference for sustainability research.",
+  "key": "$1,000.",
+  "who": [
+    "Australian citizen, permanent resident or permanent humanitarian visa holder.",
+    "Enrolled full-time on campus in the honours year of the Bachelor of Psychological Science with Honours."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with a research proposal of up to two pages and a CV."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One scholarship available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "psychology",
+    "honours",
+    "sustainability"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/opem-psychology-honours-scholarship/",
+    "label": "Southern Cross University: OPEM Psychology Honours Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Closing date",
+      "quote": "Applications close 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/opem-psychology-honours-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

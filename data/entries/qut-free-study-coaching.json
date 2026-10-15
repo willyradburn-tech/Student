@@ -1,0 +1,41 @@
+{
+  "id": "qut-free-study-coaching",
+  "name": "QUT free one-on-one study coaching",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "Free one-on-one coaching for QUT students, alongside study support in writing, maths, science and IT.",
+  "who": [
+    "QUT students."
+  ],
+  "tags": [
+    "qut",
+    "study support",
+    "coaching",
+    "writing",
+    "maths",
+    "free"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/student-life/support/student-success-study-and-career-support",
+    "label": "QUT: Student Success study and career support"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "low",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free coaching",
+      "quote": "As a QUT student, you'll have access to free, one-on-one coaching in a flexible, low-pressure environment.",
+      "url": "https://www.qut.edu.au/study/student-life/support/student-success-study-and-career-support",
+      "page_date": null
+    }
+  ]
+}

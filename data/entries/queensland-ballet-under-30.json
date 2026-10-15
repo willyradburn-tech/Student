@@ -1,0 +1,59 @@
+{
+  "id": "queensland-ballet-under-30",
+  "name": "Queensland Ballet Under 30 tickets",
+  "provider": "Queensland Ballet",
+  "category": "streaming",
+  "summary": "Queensland Ballet offers an Under 30 single-ticket price, and concession prices for full-time students over 30.",
+  "who": [
+    "People aged 30 and under at the time of booking.",
+    "Full-time students over 30 qualify for concession."
+  ],
+  "how": [
+    "Book online, by phone on 07 3013 6666, or at the Thomas Dixon Centre, West End."
+  ],
+  "catches": [
+    "The page does not state the prices or discount."
+  ],
+  "tags": [
+    "queensland ballet",
+    "ballet",
+    "brisbane",
+    "west end",
+    "under 30"
+  ],
+  "source": {
+    "url": "https://www.queenslandballet.com.au/tickets",
+    "label": "Queensland Ballet: How to book tickets"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Under 30",
+      "quote": "Available to those aged 30 years and under at time of booking.",
+      "url": "https://www.queenslandballet.com.au/tickets",
+      "page_date": null
+    },
+    {
+      "claim": "Students over 30 get concession",
+      "quote": "full-time students over 30 years, and the unemployed (healthcare card holders).",
+      "url": "https://www.queenslandballet.com.au/tickets",
+      "page_date": null
+    },
+    {
+      "claim": "Single ticket types",
+      "quote": "Single tickets available with Adult, Concession, Under 30, Child and Group price types.",
+      "url": "https://www.queenslandballet.com.au/tickets",
+      "page_date": null
+    }
+  ]
+}

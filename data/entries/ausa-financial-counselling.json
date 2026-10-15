@@ -1,0 +1,54 @@
+{
+  "id": "ausa-financial-counselling",
+  "name": "AUSA Student Care financial counselling",
+  "provider": "Adelaide University Student Association (AUSA)",
+  "category": "uni",
+  "summary": "Free, confidential financial counselling for Adelaide University students dealing with debt, rent, bills or budgeting.",
+  "who": [
+    "All Adelaide University students"
+  ],
+  "how": [
+    "Email ausa.financialcounselling@adelaide.edu.au to book in person, online or by phone"
+  ],
+  "catches": [
+    "The financial counsellor can also help you access AUSA loans and grants for financial hardship"
+  ],
+  "tags": [
+    "adelaide uni",
+    "adelaide university",
+    "ausa",
+    "sa",
+    "financial counselling",
+    "free",
+    "student union"
+  ],
+  "source": {
+    "url": "https://www.ausaadelaide.com.au/support/studentcare/financial",
+    "label": "AUSA: Student Care financial support"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free for all students",
+      "quote": "free, confidential, and non-judgmental program that is available to all Adelaide University students.",
+      "url": "https://www.ausaadelaide.com.au/support/studentcare/financial",
+      "page_date": null
+    },
+    {
+      "claim": "Loans and grants",
+      "quote": "Student Care administers a range of loans and grants to assist students in financial hardship.",
+      "url": "https://www.ausaadelaide.com.au/support/studentcare/financial",
+      "page_date": null
+    }
+  ]
+}

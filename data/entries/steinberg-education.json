@@ -1,0 +1,35 @@
+{
+  "id": "steinberg-education",
+  "name": "Steinberg education pricing",
+  "provider": "Steinberg",
+  "category": "software",
+  "summary": "Educational prices on most Steinberg music software for students with proof of eligibility.",
+  "catches": [
+    "Proof of eligibility is required.",
+    "The page doesn't give the discount amount."
+  ],
+  "tags": [
+    "music",
+    "cubase",
+    "dorico",
+    "audio",
+    "daw"
+  ],
+  "source": {
+    "url": "https://www.steinberg.net/education/",
+    "label": "Steinberg: Education"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Educational prices",
+      "quote": "Students and teachers can buy Steinberg software at educational prices.",
+      "url": "https://www.steinberg.net/education/",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "qut-garawa-nursing-scholarship",
+  "name": "Garawa Nursing Scholarship",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "Covers the costs of a rural or remote Northern Territory nursing placement for Aboriginal and Torres Strait Islander QUT students.",
+  "key": "Awarded to the value of $5,000, spent first on placement travel and accommodation.",
+  "who": [
+    "Identify as Aboriginal and/or Torres Strait Islander.",
+    "Starting third year of the Bachelor of Nursing (NS42) or final year of the Master of Nursing Entry to Practice (NS89).",
+    "Willing to do a primary health care placement in a rural or remote Aboriginal and/or Torres Strait Islander community in the NT."
+  ],
+  "how": [
+    "Contact health.engage@qut.edu.au."
+  ],
+  "catches": [
+    "The terms found were updated in June 2023. Check the current round."
+  ],
+  "tags": [
+    "qut",
+    "indigenous",
+    "first nations",
+    "nursing",
+    "placement",
+    "northern territory",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/garawa-nursing-scholarship",
+    "label": "QUT: Garawa Nursing Scholarship"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    },
+    "prac": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$5,000",
+      "quote": "awarded to the value of $5,000.",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0019/1250155/ns42-ns89-nursing-garawanursingscholarship-terms-conditions.pdf",
+      "page_date": null
+    },
+    {
+      "claim": "ATSI",
+      "quote": "identify as Aboriginal and/or Torres Strait Islander.",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0019/1250155/ns42-ns89-nursing-garawanursingscholarship-terms-conditions.pdf",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

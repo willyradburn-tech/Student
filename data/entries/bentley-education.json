@@ -1,0 +1,39 @@
+{
+  "id": "bentley-education",
+  "name": "Bentley Education (free civil engineering software)",
+  "provider": "Bentley Systems",
+  "category": "software",
+  "summary": "Free access to Bentley's civil engineering, CAD and infrastructure software for students and educators.",
+  "key": "Free access to Bentley civil engineering software for students and educators.",
+  "how": [
+    "Sign up for a Bentley Education User Account, then download software from your profile."
+  ],
+  "catches": [
+    "Access expires and must be renewed; check your Bentley Education profile for the date."
+  ],
+  "tags": [
+    "civil engineering",
+    "openroads",
+    "microstation",
+    "staad",
+    "infrastructure",
+    "bentley"
+  ],
+  "source": {
+    "url": "https://education.bentley.com/",
+    "label": "Bentley Education"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Free access for students",
+      "quote": "Bentley Education gives students and educators free access to industry-leading civil engineering",
+      "url": "https://education.bentley.com/",
+      "page_date": null
+    }
+  ]
+}

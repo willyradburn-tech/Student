@@ -1,0 +1,74 @@
+{
+  "id": "uq-lendlease-women-civil-engineering-scholarship",
+  "name": "Lendlease Women in Civil Engineering Scholarship (UQ)",
+  "provider": "University of Queensland and Lendlease",
+  "category": "uni",
+  "summary": "One-year scholarship for domestic UQ civil engineering students partway through their degree.",
+  "key": "$15,000 for 1 year (1 awarded).",
+  "who": [
+    "Domestic student enrolled full-time in the BE(Hons), BE(Hons)/Master of Engineering, or an engineering dual.",
+    "Enrolled in any civil engineering discipline.",
+    "Has completed between 28 and 40 units.",
+    "No similar scholarship."
+  ],
+  "how": [
+    "Apply using the UQ application portal with a cover letter, resume and mySI-net studies report."
+  ],
+  "catches": [
+    "Opens January 2027 and closes March 2027.",
+    "The name says it's for women, but the fetched eligibility list didn't state a gender rule. Check the page."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "civil engineering",
+    "women in engineering",
+    "engineering"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/lendlease-women-civil-engineering-scholarship",
+    "label": "UQ Scholarships: Lendlease Women in Civil Engineering Scholarship"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$15,000",
+      "quote": "$15,000",
+      "url": "https://scholarships.uq.edu.au/scholarship/lendlease-women-civil-engineering-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Civil engineering students",
+      "quote": "are enrolled in any civil engineering discipline",
+      "url": "https://scholarships.uq.edu.au/scholarship/lendlease-women-civil-engineering-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "une-commonwealth-accommodation-scholarship",
+  "name": "UNE Commonwealth Accommodation Scholarship",
+  "provider": "University of New England",
+  "category": "uni",
+  "summary": "Accommodation support for Aboriginal and Torres Strait Islander students in financial need who relocate to study at UNE.",
+  "key": "Up to $10,800 (paid pro-rata for part-time and fast-track study).",
+  "who": [
+    "Identifies as an Australian Aboriginal and/or Torres Strait Islander person",
+    "Able to show financial need",
+    "Able to show a planned relocation for the upcoming teaching period"
+  ],
+  "how": [
+    "Complete the application form, including the Financial Need Details section; one application covers multiple scholarships"
+  ],
+  "catches": [
+    "Open until Commonwealth funds are exhausted, and may be first-come, first-served",
+    "Lifetime value capped at $36,000"
+  ],
+  "tags": [
+    "une",
+    "new england",
+    "armidale",
+    "first nations",
+    "indigenous",
+    "accommodation",
+    "relocation"
+  ],
+  "source": {
+    "url": "https://www.une.edu.au/scholarships/new-student-scholarships/commonwealth-accommodation-scholarship",
+    "label": "University of New England: Commonwealth Accommodation Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "Up to $10,800 (paid pro-rata for part-time and fast-track study)",
+      "url": "https://www.une.edu.au/scholarships/new-student-scholarships/commonwealth-accommodation-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "First Nations rule",
+      "quote": "The applicant must identify as an Australian Aboriginal and/or Torres Strait Islander person",
+      "url": "https://www.une.edu.au/scholarships/new-student-scholarships/commonwealth-accommodation-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Relocation rule",
+      "quote": "Be able to demonstrate a planned relocation for the upcoming teaching period",
+      "url": "https://www.une.edu.au/scholarships/new-student-scholarships/commonwealth-accommodation-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Open until funds run out",
+      "quote": "Open until Commonwealth funds are exhausted",
+      "url": "https://www.une.edu.au/scholarships/new-student-scholarships/commonwealth-accommodation-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

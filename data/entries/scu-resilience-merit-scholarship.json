@@ -1,0 +1,71 @@
+{
+  "id": "scu-resilience-merit-scholarship",
+  "name": "SCU Resilience Merit Scholarship",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$36,000 for school leavers with an ATAR of 80 or more who faced financial or educational barriers, starting full-time at SCU.",
+  "key": "$36,000.",
+  "who": [
+    "Starting any full-time bachelor degree at SCU in Term 1.",
+    "ATAR of 80 or above.",
+    "Commonwealth supported place.",
+    "Faced financial and/or educational barriers, shown through an SCU Equity Scholarship application, Inclusion Support registration or hardship questions."
+  ],
+  "how": [
+    "Selection uses your ATAR and your equity, inclusion or scholarship application answers."
+  ],
+  "catches": [
+    "15 scholarships available.",
+    "Not for students who already get another SCU-funded scholarship."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "merit",
+    "equity",
+    "hardship",
+    "atar",
+    "school leaver"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/southern-cross-university-resilience-merit-scholarship/",
+    "label": "Southern Cross University: Resilience Merit Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "ATAR rule",
+      "quote": "Have achieved a minimum ATAR (IB Diploma score equivalent) of 80 and above.",
+      "url": "https://www.scu.edu.au/scholarships/southern-cross-university-resilience-merit-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Enrolment rule",
+      "quote": "Be commencing any full-time Bachelor's degree at Southern Cross University in Term 1.",
+      "url": "https://www.scu.edu.au/scholarships/southern-cross-university-resilience-merit-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

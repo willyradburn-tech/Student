@@ -1,0 +1,44 @@
+{
+  "id": "fusa-free-tax-returns",
+  "name": "FUSA free tax returns",
+  "provider": "Flinders University Student Association (FUSA)",
+  "category": "uni",
+  "summary": "Free tax return help for Flinders students who meet ATO eligibility criteria, booked from August to October.",
+  "who": [
+    "Students who meet Australian Tax Office eligibility criteria"
+  ],
+  "how": [
+    "Call FUSA on 8201 2371 from August to October to book"
+  ],
+  "tags": [
+    "flinders",
+    "fusa",
+    "adelaide",
+    "sa",
+    "tax",
+    "free"
+  ],
+  "source": {
+    "url": "https://students.flinders.edu.au/finances-and-admin/support/help-loans-and-grants",
+    "label": "Flinders University: Help, loans and grants"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free tax returns",
+      "quote": "Free tax returns",
+      "url": "https://students.flinders.edu.au/finances-and-admin/support/help-loans-and-grants",
+      "page_date": null
+    }
+  ]
+}

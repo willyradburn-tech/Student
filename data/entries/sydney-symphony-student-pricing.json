@@ -1,0 +1,52 @@
+{
+  "id": "sydney-symphony-student-pricing",
+  "name": "Sydney Symphony Orchestra student pricing",
+  "provider": "Sydney Symphony Orchestra",
+  "category": "streaming",
+  "summary": "Up to 30% off full-price Sydney Symphony tickets in A–C Reserve for full-time Australian student card holders.",
+  "key": "Student pricing includes a discount of up to 30% on full price tickets.",
+  "who": [
+    "Holders of a full-time Australian student card."
+  ],
+  "how": [
+    "Choose the student price type when booking."
+  ],
+  "catches": [
+    "A–C Reserve and most concerts only."
+  ],
+  "tags": [
+    "sso",
+    "orchestra",
+    "sydney",
+    "classical music"
+  ],
+  "source": {
+    "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+    "label": "Sydney Symphony Orchestra: Special Pricing"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Full-time student card, A–C Reserve",
+      "quote": "Student Pricing is available if you hold a full-time Australian Student card in A–C Reserve for most concerts.",
+      "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+      "page_date": null
+    },
+    {
+      "claim": "Up to 30% off",
+      "quote": "This includes a discount of up to 30% on full price tickets.",
+      "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "tas-free-public-transport",
+  "name": "Free public transport in Tasmania",
+  "provider": "Tasmanian Government",
+  "category": "transport",
+  "summary": "Free travel for everyone on Tasmanian public buses, River Derwent ferries and Area Connect services until 30 June 2027.",
+  "key": "Public transport is free until Wednesday, 30 June 2027.",
+  "who": [
+    "Anyone; no concession card required"
+  ],
+  "catches": [
+    "Ends 30 June 2027 unless extended again.",
+    "Pre-purchased Greencard or Transportme top-ups and 10-trip tickets can be used after 30 June 2027."
+  ],
+  "tags": [
+    "Tasmania",
+    "Hobart",
+    "Launceston",
+    "UTAS",
+    "Metro Tasmania",
+    "bus",
+    "ferry",
+    "free"
+  ],
+  "source": {
+    "url": "https://transport.tas.gov.au/public_transport/fares",
+    "label": "Transport Tasmania: Fares"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "campus": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free until 30 June 2027",
+      "quote": "Public transport is free until Wednesday, 30 June 2027.",
+      "url": "https://transport.tas.gov.au/public_transport/fares",
+      "page_date": null
+    },
+    {
+      "claim": "Extended by 12 months",
+      "quote": "This was initially scheduled to end on 30 June 2026 but has been extended by 12 months to 30 June 2027.",
+      "url": "https://transport.tas.gov.au/public_transport/fares",
+      "page_date": null
+    },
+    {
+      "claim": "No card required; services covered",
+      "quote": "Free travel on public buses, River Derwent ferries, and Area Connect public transport services until 30 June 2027.",
+      "url": "https://www.concessions.tas.gov.au/browse-categories/transport",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "rmit-indigenous-resource-grant",
+  "name": "RMIT Indigenous Resource Grant",
+  "provider": "RMIT University",
+  "category": "uni",
+  "summary": "One-off help for Aboriginal and Torres Strait Islander RMIT students with placement, technology, material fees and professional development costs.",
+  "key": "Up to $3,000 for unpaid placements, plus smaller amounts for fees, technology and conferences.",
+  "who": [
+    "Identifies as Aboriginal and/or Torres Strait Islander and is an Australian citizen.",
+    "Enrolled at RMIT in Semester 2 2026.",
+    "Has discussed their situation with a Ngarara Willim Centre advisor."
+  ],
+  "how": [
+    "Complete the online application with supporting evidence."
+  ],
+  "catches": [
+    "Applications may close at any time.",
+    "Can't be received for the same item twice in a year."
+  ],
+  "tags": [
+    "rmit",
+    "rmit university",
+    "melbourne",
+    "vic",
+    "indigenous",
+    "first nations",
+    "placement",
+    "technology"
+  ],
+  "source": {
+    "url": "https://rmit.edu.au/students/careers-opportunities/scholarships/coursework/indigenous-resource-grant",
+    "label": "RMIT: Indigenous Resource Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Placement amount",
+      "quote": "Unpaid WIL placement assistance of up to $3,000",
+      "url": "https://rmit.edu.au/students/careers-opportunities/scholarships/coursework/indigenous-resource-grant",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

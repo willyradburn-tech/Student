@@ -1,0 +1,73 @@
+{
+  "id": "griffith-george-alexander-foundation-scholarship",
+  "name": "George Alexander Foundation Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $30,000 over three years for recent school leavers relocating to study a Griffith undergraduate degree.",
+  "key": "From 2027 the maximum value is $30,000, paid in instalments over a maximum of three years.",
+  "who": [
+    "Australian citizen.",
+    "Completed secondary school within the last two years and not started at another university.",
+    "Relocating, or needing to move away from home, to study an undergraduate degree.",
+    "ATAR of 80 or more."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Apply by Monday 18 January 2027, 4pm.",
+    "For commencing full-time students."
+  ],
+  "tags": [
+    "griffith",
+    "relocation",
+    "regional",
+    "school leaver",
+    "move away"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-george-alexander-foundation-scholarship",
+    "label": "Griffith University: George Alexander Foundation Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "From 2027 the maximum value is $30,000, paid in instalments over a maximum of three years.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-george-alexander-foundation-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "be relocating, or need to move away from home, in order to study an undergraduate degree",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-george-alexander-foundation-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

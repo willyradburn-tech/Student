@@ -1,0 +1,77 @@
+{
+  "id": "griffith-mario-bortolanza-regional-scholarship",
+  "name": "Mario Bortolanza Regional Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $20,000 for students relocating from regional Queensland to start a music degree at the Queensland Conservatorium.",
+  "key": "Up to $5,000 per year, up to $20,000 in total including honours.",
+  "who": [
+    "Commencing full-time in an undergraduate music degree at the Queensland Conservatorium in 2027.",
+    "Relocating from a rural, regional or remote location in Queensland.",
+    "Australian citizen, permanent resident or permanent humanitarian visa holder."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Offered again in 2027; no closing date published yet."
+  ],
+  "tags": [
+    "griffith",
+    "music",
+    "conservatorium",
+    "regional",
+    "relocation"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-mario-bortolanza-regional-scholarship",
+    "label": "Griffith University: Mario Bortolanza Regional Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "The scholarship is valued at up to $5,000 per year",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-mario-bortolanza-regional-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "relocating from a rural, regional or remote location in Queensland.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-mario-bortolanza-regional-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

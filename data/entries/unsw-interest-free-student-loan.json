@@ -1,0 +1,56 @@
+{
+  "id": "unsw-interest-free-student-loan",
+  "name": "UNSW Interest-Free Student Loan",
+  "provider": "UNSW Sydney",
+  "category": "uni",
+  "summary": "Interest-free repayable loan for enrolled UNSW students who have completed at least one term.",
+  "key": "UNSW student loans are typically offered up to a value of $1,500, with up to $4,000 in exceptional circumstances.",
+  "who": [
+    "Currently enrolled at UNSW",
+    "Completed at least one semester or term",
+    "Good academic standing and no outstanding debts to UNSW",
+    "Able to repay within the required timeframe"
+  ],
+  "how": [
+    "Book an appointment with a Student Support Advisor",
+    "Provide documentary evidence for loans over $200"
+  ],
+  "catches": [
+    "Loans up to $500 repaid within six months; up to $1,500 within twelve months",
+    "You can't graduate until the loan is repaid"
+  ],
+  "tags": [
+    "unsw",
+    "loan",
+    "interest-free",
+    "kensington"
+  ],
+  "source": {
+    "url": "https://www.unsw.edu.au/student/support/financial-support/loans",
+    "label": "UNSW: Student loans"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Typically up to $1,500",
+      "quote": "UNSW student loans are typically offered up to a value of $1,500.",
+      "url": "https://www.unsw.edu.au/student/support/financial-support/loans",
+      "page_date": null
+    }
+  ]
+}

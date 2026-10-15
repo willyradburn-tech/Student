@@ -1,0 +1,57 @@
+{
+  "id": "google-ai-plus-students",
+  "name": "Google AI Plus student plan",
+  "provider": "Google",
+  "category": "software",
+  "summary": "A free year of Google AI Plus (Gemini, 400 GB storage) for eligible university students aged 18+.",
+  "key": "One year of Google AI Plus free for eligible university students.",
+  "who": [
+    "University students aged 18+."
+  ],
+  "catches": [
+    "Redeem until 31 December 2026.",
+    "Charges $7.99/month after the free year unless cancelled.",
+    "Eligibility must be verified each year.",
+    "The Australian page doesn't explicitly confirm Australian eligibility; check the offer terms."
+  ],
+  "tags": [
+    "ai",
+    "gemini",
+    "google",
+    "storage",
+    "chatbot"
+  ],
+  "source": {
+    "url": "https://gemini.google/au/students/",
+    "label": "Google Gemini: Students (Australia)"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "age": {
+      "min": 18
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free year",
+      "quote": "Claim your one-year Google AI Plus student plan today on us.",
+      "url": "https://gemini.google/au/students/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "The free-of-charge Google AI Plus student offer is available to eligible university students aged 18+.",
+      "url": "https://gemini.google/au/students/",
+      "page_date": null
+    },
+    {
+      "claim": "Deadline",
+      "quote": "Redeem until 31 December 2026.",
+      "url": "https://gemini.google/au/students/",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "qld-spectacle-supply-scheme",
+  "name": "Spectacle Supply Scheme (free glasses)",
+  "provider": "Queensland Health",
+  "category": "health",
+  "summary": "Free basic prescription glasses every two years for Queenslanders who have held a Health Care Card or other concession card for six months.",
+  "key": "Free basic spectacles, once every two years.",
+  "who": [
+    "Permanent resident in Queensland",
+    "Hold a Pensioner Concession Card, Health Care Card or Queensland Seniors Card in your own name for at least six months",
+    "Clinical need for spectacles as determined by your optometrist or ophthalmologist"
+  ],
+  "how": [
+    "Book an eye examination with an optometrist registered with SSS",
+    "Your optometrist helps complete the MASS 30 application form and submits it"
+  ],
+  "catches": [
+    "The card must be held continuously for six months first."
+  ],
+  "tags": [
+    "glasses",
+    "eye",
+    "optometrist",
+    "health care card",
+    "qld",
+    "Queensland"
+  ],
+  "source": {
+    "url": "https://www.qld.gov.au/health/condition/eye-health/vision-problems-and-impairments/spectacles-supply-scheme-eligibility",
+    "label": "Queensland Government: Spectacles supply scheme - eligibility"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free spectacles",
+      "quote": "providing a comprehensive range of free basic spectacles",
+      "url": "https://www.qld.gov.au/health/condition/eye-health/vision-problems-and-impairments/spectacles-supply-scheme-eligibility",
+      "page_date": null
+    },
+    {
+      "claim": "Health Care Card held six months",
+      "quote": "Hold, in your own name, one of the following concession cards continuously for a minimum period of six months",
+      "url": "https://www.qld.gov.au/health/condition/eye-health/vision-problems-and-impairments/spectacles-supply-scheme-eligibility",
+      "page_date": null
+    },
+    {
+      "claim": "How often",
+      "quote": "You are eligible to apply for new spectacles through SSS every two (2) years.",
+      "url": "https://www.qld.gov.au/health/condition/eye-health/vision-problems-and-impairments/spectacles-supply-scheme-eligibility",
+      "page_date": null
+    }
+  ]
+}

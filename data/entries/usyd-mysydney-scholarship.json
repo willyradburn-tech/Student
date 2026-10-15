@@ -1,0 +1,58 @@
+{
+  "id": "usyd-mysydney-scholarship",
+  "name": "MySydney Scholarship",
+  "provider": "University of Sydney",
+  "category": "uni",
+  "summary": "Yearly cash scholarship for domestic UAC applicants living in a low socio-economic area, offered automatically.",
+  "key": "A cash payment of AUD$8,500 per year.",
+  "who": [
+    "Domestic student eligible for an undergraduate degree or diploma",
+    "Applied through UAC",
+    "Residing in a low socio-economic area"
+  ],
+  "how": [
+    "No additional application is required; offered with MySydney admission in UAC rounds"
+  ],
+  "tags": [
+    "usyd",
+    "equity",
+    "scholarship",
+    "low-ses",
+    "sydney"
+  ],
+  "source": {
+    "url": "https://www.sydney.edu.au/scholarships/e/mysydney-scholarship.html",
+    "label": "University of Sydney: MySydney Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$8,500 per year",
+      "quote": "The scholarship provides a cash payment of AUD$8,500 per year.",
+      "url": "https://www.sydney.edu.au/scholarships/e/mysydney-scholarship.html",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

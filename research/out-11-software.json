@@ -1,0 +1,1507 @@
+[
+  {
+    "id": "ansys-student",
+    "name": "Ansys Student (free simulation software)",
+    "provider": "Ansys (Synopsys)",
+    "category": "software",
+    "summary": "Free student versions of Ansys simulation tools including Mechanical, CFD, Discovery, LS-DYNA and Electronics Desktop.",
+    "key": "Free simulation engineering software licences for students at all levels.",
+    "how": [
+      "Use the Free Download Now button for each product on the Ansys student page."
+    ],
+    "catches": [
+      "Installs on supported MS Windows 64-bit machines only."
+    ],
+    "tags": [
+      "engineering",
+      "simulation",
+      "cfd",
+      "fea",
+      "mechanical",
+      "ansys"
+    ],
+    "source": {
+      "url": "https://ansys.synopsys.com/academic/students",
+      "label": "Ansys: Free Student Software Downloads"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free licences for students",
+        "quote": "providing free simulation engineering software licenses to students at all levels",
+        "url": "https://ansys.synopsys.com/academic/students",
+        "page_date": null
+      },
+      {
+        "claim": "Free download worldwide",
+        "quote": "can be downloaded at no cost by students across the globe",
+        "url": "https://ansys.synopsys.com/academic/students",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "bentley-education",
+    "name": "Bentley Education (free civil engineering software)",
+    "provider": "Bentley Systems",
+    "category": "software",
+    "summary": "Free access to Bentley's civil engineering, CAD and infrastructure software for students and educators.",
+    "key": "Free access to Bentley civil engineering software for students and educators.",
+    "how": [
+      "Sign up for a Bentley Education User Account, then download software from your profile."
+    ],
+    "catches": [
+      "Access expires and must be renewed; check your Bentley Education profile for the date."
+    ],
+    "tags": [
+      "civil engineering",
+      "openroads",
+      "microstation",
+      "staad",
+      "infrastructure",
+      "bentley"
+    ],
+    "source": {
+      "url": "https://education.bentley.com/",
+      "label": "Bentley Education"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free access for students",
+        "quote": "Bentley Education gives students and educators free access to industry-leading civil engineering",
+        "url": "https://education.bentley.com/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "esri-arcgis-student-use",
+    "name": "ArcGIS for Student Use",
+    "provider": "Esri",
+    "category": "software",
+    "summary": "A low-cost yearly ArcGIS Pro Advanced licence for individual students building GIS skills.",
+    "catches": [
+      "Yearly subscription.",
+      "The page doesn't show a price; check the pricing options or ask Esri Australia."
+    ],
+    "tags": [
+      "gis",
+      "mapping",
+      "arcgis",
+      "esri",
+      "spatial",
+      "civil engineering"
+    ],
+    "source": {
+      "url": "https://www.esri.com/en-us/arcgis/products/arcgis-for-student-use/buy",
+      "label": "Esri: ArcGIS for Student Use"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Low-cost individual academic licence",
+        "quote": "an easy and low-cost option for individual academic use",
+        "url": "https://www.esri.com/en-us/arcgis/products/arcgis-for-student-use/buy",
+        "page_date": null
+      },
+      {
+        "claim": "Advanced licence level",
+        "quote": "With ArcGIS for Student Use, you get the latest versions of our software at the advanced license level.",
+        "url": "https://www.esri.com/en-us/arcgis/products/arcgis-for-student-use/buy",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "solidworks-students",
+    "name": "SOLIDWORKS for Students",
+    "provider": "Dassault Systemes SOLIDWORKS",
+    "category": "software",
+    "summary": "Free SOLIDWORKS Design Standard CAD for every student, with Premium and xDesign plans at a student price.",
+    "key": "SOLIDWORKS Design Standard is free for every student; Design Premium and xDesign are $60 USD/year.",
+    "catches": [
+      "Design Standard runs on Windows PC only.",
+      "USD price; local pricing is shown in the cart."
+    ],
+    "tags": [
+      "cad",
+      "3d",
+      "mechanical",
+      "engineering",
+      "solidworks",
+      "design"
+    ],
+    "source": {
+      "url": "https://www.solidworks.com/product/students",
+      "label": "SOLIDWORKS: Students"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free for every student",
+        "quote": "The world's most widely used 3D CAD software is now free for every student, everywhere.",
+        "url": "https://www.solidworks.com/product/students",
+        "page_date": null
+      },
+      {
+        "claim": "Premium price",
+        "quote": "$60 USD/year",
+        "url": "https://www.solidworks.com/product/students",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "wolframalpha-pro-students",
+    "name": "Wolfram|Alpha Pro for Students",
+    "provider": "Wolfram",
+    "category": "software",
+    "summary": "Discounted Wolfram|Alpha Pro and Pro Premium plans for students, with step-by-step maths solutions.",
+    "key": "Pro for students is billed $60.00 annually (save $59.88 per year); Pro Premium for students is billed $99.00 annually.",
+    "catches": [
+      "Currency not stated on the page."
+    ],
+    "tags": [
+      "maths",
+      "math",
+      "calculus",
+      "step-by-step",
+      "wolfram"
+    ],
+    "source": {
+      "url": "https://www.wolframalpha.com/pro/pricing/students",
+      "label": "Wolfram|Alpha: Pro student pricing"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Student Pro price",
+        "quote": "billed $60.00 annually",
+        "url": "https://www.wolframalpha.com/pro/pricing/students",
+        "page_date": null
+      },
+      {
+        "claim": "Savings",
+        "quote": "Save $59.88 per year",
+        "url": "https://www.wolframalpha.com/pro/pricing/students",
+        "page_date": null
+      },
+      {
+        "claim": "Pro Premium student price",
+        "quote": "billed $99.00 annually.",
+        "url": "https://www.wolframalpha.com/pro/pricing/students",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "wolfram-mathematica-student",
+    "name": "Mathematica Student",
+    "provider": "Wolfram",
+    "category": "software",
+    "summary": "Student subscriptions to Mathematica for degree students, with proof of enrolment.",
+    "who": [
+      "Part-time or full-time students working toward a degree.",
+      "Part-time non-degree students if required for a class."
+    ],
+    "catches": [
+      "Proof of enrollment is required.",
+      "Installed only on the student's own personal computer.",
+      "The fetched page didn't show prices."
+    ],
+    "tags": [
+      "maths",
+      "mathematica",
+      "wolfram",
+      "symbolic",
+      "engineering"
+    ],
+    "source": {
+      "url": "https://www.wolfram.com/mathematica/pricing/students/",
+      "label": "Wolfram: Mathematica student pricing"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Degree students eligible",
+        "quote": "students working toward an associate's, bachelor's, master's, doctoral or equivalent degree",
+        "url": "https://www.wolfram.com/mathematica/pricing/students/",
+        "page_date": null
+      },
+      {
+        "claim": "Proof required",
+        "quote": "Proof of enrollment is required.",
+        "url": "https://www.wolfram.com/mathematica/pricing/students/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unity-student",
+    "name": "Unity Student plan",
+    "provider": "Unity",
+    "category": "software",
+    "summary": "Free Unity Pro Editor and extras for students at accredited institutions.",
+    "key": "The Unity Student plan is free, including the latest Unity Pro Editor.",
+    "who": [
+      "Students enrolled at accredited degree-granting institutions."
+    ],
+    "how": [
+      "Apply on the Unity Student page and choose Post-Secondary.",
+      "Log in with a Unity ID.",
+      "Complete the SheerID verification form."
+    ],
+    "tags": [
+      "game development",
+      "coding",
+      "3d",
+      "unity",
+      "games"
+    ],
+    "source": {
+      "url": "https://unity.com/products/unity-student",
+      "label": "Unity: Unity Student"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free plan",
+        "quote": "The Unity Student plan is free and allows individual students to learn and create with Unity",
+        "url": "https://unity.com/products/unity-student",
+        "page_date": null
+      },
+      {
+        "claim": "Post-secondary eligibility",
+        "quote": "Students enrolled at accredited degree-granting institutions.",
+        "url": "https://unity.com/products/unity-student",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "google-ai-plus-students",
+    "name": "Google AI Plus student plan",
+    "provider": "Google",
+    "category": "software",
+    "summary": "A free year of Google AI Plus (Gemini, 400 GB storage) for eligible university students aged 18+.",
+    "key": "One year of Google AI Plus free for eligible university students.",
+    "who": [
+      "University students aged 18+."
+    ],
+    "catches": [
+      "Redeem until 31 December 2026.",
+      "Charges $7.99/month after the free year unless cancelled.",
+      "Eligibility must be verified each year.",
+      "The Australian page doesn't explicitly confirm Australian eligibility; check the offer terms."
+    ],
+    "tags": [
+      "ai",
+      "gemini",
+      "google",
+      "storage",
+      "chatbot"
+    ],
+    "source": {
+      "url": "https://gemini.google/au/students/",
+      "label": "Google Gemini: Students (Australia)"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "age": {
+        "min": 18
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free year",
+        "quote": "Claim your one-year Google AI Plus student plan today on us.",
+        "url": "https://gemini.google/au/students/",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "The free-of-charge Google AI Plus student offer is available to eligible university students aged 18+.",
+        "url": "https://gemini.google/au/students/",
+        "page_date": null
+      },
+      {
+        "claim": "Deadline",
+        "quote": "Redeem until 31 December 2026.",
+        "url": "https://gemini.google/au/students/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "overleaf-student",
+    "name": "Overleaf Student plan",
+    "provider": "Overleaf",
+    "category": "software",
+    "summary": "Free and discounted Overleaf LaTeX plans for students at degree-granting institutions.",
+    "catches": [
+      "The paid Student plan appeared as US$8.25/month billed yearly; confirm on the page."
+    ],
+    "tags": [
+      "latex",
+      "thesis",
+      "writing",
+      "research",
+      "overleaf"
+    ],
+    "source": {
+      "url": "https://www.overleaf.com/user/subscription/plans",
+      "label": "Overleaf: Plans and pricing"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Student eligibility",
+        "quote": "Available to students currently enrolled at a degree-granting institution.",
+        "url": "https://www.overleaf.com/user/subscription/plans",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "onshape-education",
+    "name": "Onshape Education Plan",
+    "provider": "Onshape (PTC)",
+    "category": "software",
+    "summary": "Free cloud-based CAD for students and educators through Onshape's Education Plan.",
+    "key": "Onshape's Education Plan is free.",
+    "how": [
+      "Select Sign Up Now and fill out the form."
+    ],
+    "tags": [
+      "cad",
+      "3d",
+      "cloud",
+      "engineering",
+      "onshape"
+    ],
+    "source": {
+      "url": "https://www.onshape.com/en/education/",
+      "label": "Onshape: Education"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free plan",
+        "quote": "Sign up for Onshape’s free Education Plan.",
+        "url": "https://www.onshape.com/en/education/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "lucidchart-education",
+    "name": "Lucidchart Education account",
+    "provider": "Lucid Software",
+    "category": "software",
+    "summary": "Free Lucidchart Education accounts for students and educators.",
+    "key": "Students and educators are eligible for a free Education account.",
+    "how": [
+      "Sign up for a free account and follow the prompts."
+    ],
+    "catches": [
+      "Automatic upgrade applies to K-12 users with a school email; uni students may need to follow the higher education steps."
+    ],
+    "tags": [
+      "diagrams",
+      "flowcharts",
+      "lucidchart",
+      "productivity"
+    ],
+    "source": {
+      "url": "https://lucid.co/lucidchart/use-cases/education",
+      "label": "Lucid: Lucidchart for education"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free education account",
+        "quote": "Students and educators are eligible for a free Education account!",
+        "url": "https://lucid.co/lucidchart/use-cases/education",
+        "page_date": null
+      },
+      {
+        "claim": "Higher ed",
+        "quote": "Higher education student or professor? We've got you covered.",
+        "url": "https://lucid.co/lucidchart/use-cases/education",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "graphisoft-archicad-education",
+    "name": "Archicad free education licence",
+    "provider": "Graphisoft",
+    "category": "software",
+    "summary": "Free full Archicad licence for students at accredited universities, renewable until you finish your studies.",
+    "key": "Free Archicad licence valid for one year and extendable till the end of your studies free of charge.",
+    "who": [
+      "Students with a valid student ID at public or officially accredited universities, colleges or technical institutions."
+    ],
+    "how": [
+      "Apply through the MyArchicad portal."
+    ],
+    "tags": [
+      "architecture",
+      "bim",
+      "archicad",
+      "cad",
+      "design"
+    ],
+    "source": {
+      "url": "https://www.graphisoft.com/education/",
+      "label": "Graphisoft: Education"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Valid one year and extendable free",
+        "quote": "Valid for one year and can be extended till the end of your studies free of charge.",
+        "url": "https://www.graphisoft.com/education/",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "Available only for Students and Teachers with a valid student or teacher ID",
+        "url": "https://www.graphisoft.com/education/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "vectorworks-education",
+    "name": "Vectorworks free educational licence",
+    "provider": "Vectorworks",
+    "category": "software",
+    "summary": "Free Vectorworks Design Suite educational licence for students in select markets.",
+    "how": [
+      "Use Get Started to go to the Vectorworks education customer portal."
+    ],
+    "catches": [
+      "Only in select markets; the page doesn't list whether Australia is one."
+    ],
+    "tags": [
+      "architecture",
+      "bim",
+      "landscape",
+      "cad",
+      "vectorworks"
+    ],
+    "source": {
+      "url": "https://www.vectorworks.net/en-US/education",
+      "label": "Vectorworks: Education"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free licence in select markets",
+        "quote": "Students and educators in select global markets can download a free educational license",
+        "url": "https://www.vectorworks.net/en-US/education",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "lumion-student",
+    "name": "Lumion Student",
+    "provider": "Lumion",
+    "category": "software",
+    "summary": "Free one-year Lumion Pro-level rendering licence for students, renewable while you study.",
+    "key": "Free Lumion Student licence for 1 year, renewable while you're a student.",
+    "catches": [
+      "Renders contain a small watermark.",
+      "Not for commercial use."
+    ],
+    "tags": [
+      "rendering",
+      "architecture",
+      "visualisation",
+      "lumion",
+      "3d"
+    ],
+    "source": {
+      "url": "https://lumion.com/product/educational-licenses",
+      "label": "Lumion: Educational licenses"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "One year",
+        "quote": "Lumion Student is available for 1 year",
+        "url": "https://lumion.com/product/educational-licenses",
+        "page_date": null
+      },
+      {
+        "claim": "Renewable free",
+        "quote": "Easily renew your free license as long as you're still a student",
+        "url": "https://lumion.com/product/educational-licenses",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "ableton-education",
+    "name": "Ableton Live education discount",
+    "provider": "Ableton",
+    "category": "software",
+    "summary": "50% off new Ableton Live licences for full-time students aged 18 or over.",
+    "key": "Save 50% on a new Ableton Live Intro, Standard or Suite licence.",
+    "who": [
+      "Students 18 or over enrolled in full-time education."
+    ],
+    "how": [
+      "Choose the educational discount at purchase.",
+      "Provide institution details and upload a student ID; verification takes about one business day."
+    ],
+    "catches": [
+      "New licences only; not upgrades."
+    ],
+    "tags": [
+      "music",
+      "audio",
+      "daw",
+      "production",
+      "ableton"
+    ],
+    "source": {
+      "url": "https://www.ableton.com/en/shop/education/",
+      "label": "Ableton: Education"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "load": {
+        "yes": [
+          "full"
+        ]
+      },
+      "age": {
+        "min": 18
+      }
+    },
+    "evidence": [
+      {
+        "claim": "50% off",
+        "quote": "you can save 50% on a new Ableton Live Intro, Standard or Suite license.",
+        "url": "https://www.ableton.com/en/shop/education/",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "a student who is 18 or over and enrolled in full-time education, up to advanced degree programs.",
+        "url": "https://www.ableton.com/en/shop/education/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "endnote-student",
+    "name": "EndNote student price",
+    "provider": "Clarivate",
+    "category": "software",
+    "summary": "Discounted EndNote reference manager for verified students.",
+    "catches": [
+      "Shown as $150 one-time purchase; currency not stated. Many unis supply EndNote free, so check your library first."
+    ],
+    "tags": [
+      "referencing",
+      "citations",
+      "endnote",
+      "research",
+      "thesis"
+    ],
+    "source": {
+      "url": "https://endnote.com/buy/",
+      "label": "EndNote: Buy"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Student discount",
+        "quote": "Verify your EndNote student discount eligibility to receive EndNote at this discounted price.",
+        "url": "https://endnote.com/buy/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "dlubal-student-licence",
+    "name": "Dlubal RFEM/RSTAB free student licence",
+    "provider": "Dlubal Software",
+    "category": "software",
+    "summary": "Free full-version structural analysis software for students enrolled at a university or college.",
+    "key": "Free student licence; a full version without any restrictions.",
+    "who": [
+      "Enrolled at a university or college, for non-commercial use."
+    ],
+    "how": [
+      "Submit the request form with proof of enrolment; the authorisation file is emailed after review."
+    ],
+    "tags": [
+      "structural",
+      "civil engineering",
+      "rfem",
+      "rstab",
+      "fea"
+    ],
+    "source": {
+      "url": "https://www.dlubal.com/en/education/free-structural-analysis-software-for-students/request-or-renew-free-student-license",
+      "label": "Dlubal: Request or renew free student license"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "field": {
+        "yes": [
+          "engineering"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Full version",
+        "quote": "The student license is a full version without any restrictions.",
+        "url": "https://www.dlubal.com/en/education/free-structural-analysis-software-for-students/request-or-renew-free-student-license",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "idea-statica-education",
+    "name": "IDEA StatiCa free educational licence",
+    "provider": "IDEA StatiCa",
+    "category": "software",
+    "summary": "Free 12-month educational licence of IDEA StatiCa for students' coursework and thesis projects.",
+    "key": "Free 12-month educational licence.",
+    "catches": [
+      "Non-commercial, includes watermarks and limited reporting."
+    ],
+    "tags": [
+      "structural",
+      "steel connections",
+      "concrete",
+      "civil engineering"
+    ],
+    "source": {
+      "url": "https://www.ideastatica.com/pricing/students-universities",
+      "label": "IDEA StatiCa: Students and universities"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "field": {
+        "yes": [
+          "engineering"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free 12 months",
+        "quote": "Students and teachers can apply for a free 12-month educational license of IDEA StatiCa.",
+        "url": "https://www.ideastatica.com/pricing/students-universities",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "fine-geo5-student",
+    "name": "GEO5 and FIN EC free student licence",
+    "provider": "Fine Software",
+    "category": "software",
+    "summary": "Free 12-month renewable licence to GEO5 geotechnical and FIN EC structural programs for engineering students.",
+    "key": "Free student licence valid for 12 months (renewable).",
+    "who": [
+      "Enrolled engineering students."
+    ],
+    "how": [
+      "Find your university in the partner directory and authenticate through its portal, then activate in the Fine Software shop."
+    ],
+    "tags": [
+      "geotechnical",
+      "civil engineering",
+      "geo5",
+      "structural"
+    ],
+    "source": {
+      "url": "https://www.finesoftware.eu/geotechnical-software/student-license/",
+      "label": "Fine Software: Free Student License"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "field": {
+        "yes": [
+          "engineering"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free",
+        "quote": "Get your free student license in just a few simple steps",
+        "url": "https://www.finesoftware.eu/geotechnical-software/student-license/",
+        "page_date": null
+      },
+      {
+        "claim": "12 months",
+        "quote": "Valid for 12 months (renewable)",
+        "url": "https://www.finesoftware.eu/geotechnical-software/student-license/",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "Available to all enrolled engineering students.",
+        "url": "https://www.finesoftware.eu/geotechnical-software/student-license/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "miro-education",
+    "name": "Miro for Education",
+    "provider": "Miro",
+    "category": "software",
+    "summary": "A free Miro education plan for students and educators, running for two years.",
+    "key": "Free Miro education plan for 2 years.",
+    "how": [
+      "Use Apply as student to open the education form."
+    ],
+    "tags": [
+      "whiteboard",
+      "collaboration",
+      "group work",
+      "miro",
+      "productivity"
+    ],
+    "source": {
+      "url": "https://miro.com/education-whiteboard/",
+      "label": "Miro: Education"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Eligibility",
+        "quote": "If you're a student, an educator, or a school, you can apply for a Miro account.",
+        "url": "https://miro.com/education-whiteboard/",
+        "page_date": null
+      },
+      {
+        "claim": "Duration",
+        "quote": "2 years",
+        "url": "https://miro.com/education-whiteboard/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "twinmotion-education",
+    "name": "Twinmotion free for students",
+    "provider": "Epic Games",
+    "category": "software",
+    "summary": "Twinmotion real-time visualisation software is free for students and educators.",
+    "key": "Twinmotion is free for students and educators.",
+    "tags": [
+      "rendering",
+      "architecture",
+      "visualisation",
+      "unreal",
+      "3d"
+    ],
+    "source": {
+      "url": "https://www.twinmotion.com/en-US/license",
+      "label": "Twinmotion: License"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free for students",
+        "quote": "Twinmotion is free for students, educators, and companies earning under $1 million USD in annual gross revenue.",
+        "url": "https://www.twinmotion.com/en-US/license",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "craft-education",
+    "name": "Craft for Education",
+    "provider": "Craft",
+    "category": "software",
+    "summary": "Free Craft education plan for verified students, with unlimited documents and up to 250 GB storage.",
+    "who": [
+      "Currently enrolled students at an academic institution."
+    ],
+    "how": [
+      "Register with your school email and click the activation link Craft emails you."
+    ],
+    "catches": [
+      "Re-verify every 12 months.",
+      "Confirm the plan's price on the page."
+    ],
+    "tags": [
+      "notes",
+      "writing",
+      "docs",
+      "productivity",
+      "craft"
+    ],
+    "source": {
+      "url": "https://www.craft.do/education",
+      "label": "Craft: Education"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Eligibility",
+        "quote": "currently enrolled student, faculty or staff member of an academic institution",
+        "url": "https://www.craft.do/education",
+        "page_date": null
+      },
+      {
+        "claim": "12 months",
+        "quote": "Your verification will be valid for 12 months, after which you’ll need to re-verify your status.",
+        "url": "https://www.craft.do/education",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "sketch-education",
+    "name": "Sketch for Education",
+    "provider": "Sketch",
+    "category": "software",
+    "summary": "One year of free Sketch design access for students aged 16+.",
+    "key": "One year of free Sketch access with 50 GB storage.",
+    "who": [
+      "16 or older and enrolled at a college or university."
+    ],
+    "how": [
+      "Download Sketch, set up a Workspace and complete the education application."
+    ],
+    "catches": [
+      "Mac, web and iPhone apps only."
+    ],
+    "tags": [
+      "design",
+      "ui",
+      "ux",
+      "mac",
+      "sketch"
+    ],
+    "source": {
+      "url": "https://www.sketch.com/education/",
+      "label": "Sketch: Education"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free workspace",
+        "quote": "includes a free Workspace with 50 GB of storage and Editor seats",
+        "url": "https://www.sketch.com/education/",
+        "page_date": null
+      },
+      {
+        "claim": "One year",
+        "quote": "get one year of access to our design platform",
+        "url": "https://www.sketch.com/education/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "jmp-student-edition",
+    "name": "JMP Student Edition",
+    "provider": "JMP Statistical Discovery",
+    "category": "software",
+    "summary": "Free JMP statistics software for students at degree-granting institutions, renewable each year.",
+    "key": "Free for academic use, renewable at no cost every 12 months.",
+    "who": [
+      "Currently enrolled at a degree granting institution."
+    ],
+    "tags": [
+      "statistics",
+      "data analysis",
+      "jmp",
+      "research"
+    ],
+    "source": {
+      "url": "https://www.jmp.com/en/academic/jmp-student-edition",
+      "label": "JMP: Student Edition"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free",
+        "quote": "Free for qualified students, instructors, and academic researchers",
+        "url": "https://www.jmp.com/en/academic/jmp-student-edition",
+        "page_date": null
+      },
+      {
+        "claim": "Renewal",
+        "quote": "Renew – at no cost – every 12 months for as long as you are eligible.",
+        "url": "https://www.jmp.com/en/academic/jmp-student-edition",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "codecademy-student",
+    "name": "Codecademy Pro student discount",
+    "provider": "Codecademy",
+    "category": "software",
+    "summary": "Discounted Codecademy Pro for eligible students.",
+    "key": "Eligible students get over 35% off the regular Pro price.",
+    "catches": [
+      "The page doesn't define eligibility; verification happens after login."
+    ],
+    "tags": [
+      "coding",
+      "programming",
+      "python",
+      "javascript",
+      "codecademy"
+    ],
+    "source": {
+      "url": "https://www.codecademy.com/student-center",
+      "label": "Codecademy: Student Center"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "35% off",
+        "quote": "eligible students get complete access to our interactive curriculum for over 35% off the regular price",
+        "url": "https://www.codecademy.com/student-center",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "sidefx-houdini-education",
+    "name": "Houdini Education and Apprentice",
+    "provider": "SideFX",
+    "category": "software",
+    "summary": "Houdini Education licences for students at accredited schools, plus the free Apprentice version.",
+    "catches": [
+      "The fetched page didn't show the Education price.",
+      "Apprentice renders carry a watermark."
+    ],
+    "tags": [
+      "3d",
+      "vfx",
+      "animation",
+      "houdini",
+      "design"
+    ],
+    "source": {
+      "url": "https://www.sidefx.com/buy/",
+      "label": "SideFX: Buy"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Student eligibility",
+        "quote": "Students of accredited schools and training centers are eligible to use Houdini Education licenses",
+        "url": "https://www.sidefx.com/buy/",
+        "page_date": null
+      },
+      {
+        "claim": "Free Apprentice",
+        "quote": "Houdini Apprentice is a free version of Houdini FX",
+        "url": "https://www.sidefx.com/buy/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "maple-student-edition",
+    "name": "Maple Student Edition",
+    "provider": "Maplesoft",
+    "category": "software",
+    "summary": "Student edition of Maple maths software at a reduced price.",
+    "key": "Maple Student Edition starts at just $75.",
+    "catches": [
+      "Currency and eligibility rules aren't stated on the page."
+    ],
+    "tags": [
+      "maths",
+      "engineering",
+      "maple",
+      "symbolic"
+    ],
+    "source": {
+      "url": "https://www.maplesoft.com/products/maple/students/",
+      "label": "Maplesoft: Maple for students"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Price",
+        "quote": "Maple Student Edition starts at just $75",
+        "url": "https://www.maplesoft.com/products/maple/students/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "steinberg-education",
+    "name": "Steinberg education pricing",
+    "provider": "Steinberg",
+    "category": "software",
+    "summary": "Educational prices on most Steinberg music software for students with proof of eligibility.",
+    "catches": [
+      "Proof of eligibility is required.",
+      "The page doesn't give the discount amount."
+    ],
+    "tags": [
+      "music",
+      "cubase",
+      "dorico",
+      "audio",
+      "daw"
+    ],
+    "source": {
+      "url": "https://www.steinberg.net/education/",
+      "label": "Steinberg: Education"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Educational prices",
+        "quote": "Students and teachers can buy Steinberg software at educational prices.",
+        "url": "https://www.steinberg.net/education/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "framer-student",
+    "name": "Framer student plan",
+    "provider": "Framer",
+    "category": "software",
+    "summary": "A one-year Framer student discount with hosting for a personal portfolio site.",
+    "how": [
+      "Apply with your name, school, school email, expected graduation date and a photo of your student ID."
+    ],
+    "catches": [
+      "Personal student website only.",
+      "Only new customers can redeem coupon codes.",
+      "Page says hosting is worth $120 per year but doesn't state the discount amount."
+    ],
+    "tags": [
+      "website",
+      "portfolio",
+      "design",
+      "framer",
+      "no-code"
+    ],
+    "source": {
+      "url": "https://www.framer.com/education/",
+      "label": "Framer: Education"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Re-apply each year",
+        "quote": "You can re-apply for a new Student discount every 11 months for as long as you are a student.",
+        "url": "https://www.framer.com/education/",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "Students must be enrolled in a certified in-person or online program, like a high school, college, or university.",
+        "url": "https://www.framer.com/education/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "ptc-creo-education",
+    "name": "PTC Creo free for university students",
+    "provider": "PTC",
+    "category": "software",
+    "summary": "Free Creo CAD software for college and university students and educators.",
+    "key": "College and university students get Creo free of charge.",
+    "catches": [
+      "Mathcad Prime is not free for uni students; it's a discounted one-year student licence."
+    ],
+    "tags": [
+      "cad",
+      "3d",
+      "mechanical",
+      "engineering",
+      "creo",
+      "mathcad"
+    ],
+    "source": {
+      "url": "https://www.ptc.com/en/products/education/free-software",
+      "label": "PTC: Free education software"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free for uni students",
+        "quote": "College and university students and educators get access to Creo—free of charge.",
+        "url": "https://www.ptc.com/en/products/education/free-software",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "xmind-education",
+    "name": "Xmind education discount",
+    "provider": "Xmind",
+    "category": "software",
+    "summary": "30% off any Xmind mind-mapping plan for verified students.",
+    "key": "All verified education users get 30% off any plan.",
+    "catches": [
+      "Valid for one year; reapply annually with updated proof of enrolment."
+    ],
+    "tags": [
+      "mind map",
+      "study",
+      "notes",
+      "xmind",
+      "productivity"
+    ],
+    "source": {
+      "url": "https://xmind.com/education",
+      "label": "Xmind: Education"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "30% off",
+        "quote": "All verified education users get 30% off any plan.",
+        "url": "https://xmind.com/education",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "Students, educators, and academic staff at accredited institutions (universities, colleges, and K–12 schools) are eligible.",
+        "url": "https://xmind.com/education",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "minitab-student",
+    "name": "Minitab student rental",
+    "provider": "Minitab",
+    "category": "software",
+    "summary": "Six- and twelve-month Minitab statistics licences at student prices.",
+    "key": "12-month student rental $79.99 USD; 6-month $49.99 USD.",
+    "how": [
+      "Buy through OnTheHub.com."
+    ],
+    "tags": [
+      "statistics",
+      "minitab",
+      "data analysis",
+      "six sigma"
+    ],
+    "source": {
+      "url": "https://www.minitab.com/en-us/academic/",
+      "label": "Minitab: Academic"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Student rental",
+        "quote": "Single-User Student & Faculty Rentals for Degree Courses",
+        "url": "https://www.minitab.com/en-us/academic/",
+        "page_date": null
+      },
+      {
+        "claim": "Price",
+        "quote": "$79.99 USD",
+        "url": "https://www.minitab.com/en-us/academic/",
+        "page_date": null
+      },
+      {
+        "claim": "6-month price",
+        "quote": "$49.99 USD",
+        "url": "https://www.minitab.com/en-us/academic/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "stata-student",
+    "name": "Stata student pricing",
+    "provider": "StataCorp",
+    "category": "software",
+    "summary": "Discounted single-user Stata licences for students at degree-granting institutions.",
+    "key": "Stata/BE student licence from $48 USD for 6 months.",
+    "catches": [
+      "USD prices; Australian buyers may be directed to an international reseller.",
+      "Proof of student status required."
+    ],
+    "tags": [
+      "statistics",
+      "econometrics",
+      "stata",
+      "research"
+    ],
+    "source": {
+      "url": "https://www.stata.com/order/new/edu/profplus/student-pricing/",
+      "label": "Stata: Student pricing"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Eligibility",
+        "quote": "Students currently enrolled at degree-granting institutions may purchase a single-user Stata license",
+        "url": "https://www.stata.com/order/new/edu/profplus/student-pricing/",
+        "page_date": null
+      },
+      {
+        "claim": "Price",
+        "quote": "$48 USD",
+        "url": "https://www.stata.com/order/new/edu/profplus/student-pricing/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "google-cloud-skills-students",
+    "name": "Google Cloud free student training credits",
+    "provider": "Google Cloud",
+    "category": "software",
+    "summary": "Free Google Skills credits and hands-on cloud labs for students.",
+    "key": "200 free Google Skills credits.",
+    "how": [
+      "Request credits via the application form on the Google Cloud students page."
+    ],
+    "catches": [
+      "Credits expire one year after they are issued."
+    ],
+    "tags": [
+      "cloud",
+      "google cloud",
+      "coding",
+      "certification",
+      "it"
+    ],
+    "source": {
+      "url": "https://cloud.google.com/edu/students",
+      "label": "Google Cloud: Students"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Credits",
+        "quote": "200 free Google Skills credits",
+        "url": "https://cloud.google.com/edu/students",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "mathworks-matlab-student",
+    "name": "MATLAB and Simulink Student Suite",
+    "provider": "MathWorks",
+    "category": "software",
+    "summary": "Student suite of MATLAB, Simulink and popular add-ons; many unis also give free campus-wide access.",
+    "catches": [
+      "The page doesn't show the student price.",
+      "Check whether your uni has Campus-Wide access first."
+    ],
+    "tags": [
+      "matlab",
+      "simulink",
+      "engineering",
+      "maths",
+      "coding"
+    ],
+    "source": {
+      "url": "https://au.mathworks.com/products/matlab/student.html",
+      "label": "MathWorks Australia: MATLAB for students"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Campus-wide access",
+        "quote": "If your university has Campus-Wide access and you create a MathWorks Account using your student email address,",
+        "url": "https://au.mathworks.com/products/matlab/student.html",
+        "page_date": null
+      },
+      {
+        "claim": "Suite contents",
+        "quote": "Includes MATLAB, Simulink, Online Training, and some of the most widely used add-on products.",
+        "url": "https://au.mathworks.com/products/matlab/student.html",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "ulysses-student",
+    "name": "Ulysses student pricing",
+    "provider": "Ulysses",
+    "category": "software",
+    "summary": "Reduced Ulysses writing app pricing for students.",
+    "catches": [
+      "Student price isn't stated; check the App Store for local pricing.",
+      "Apple devices only."
+    ],
+    "tags": [
+      "writing",
+      "mac",
+      "ipad",
+      "essays",
+      "ulysses"
+    ],
+    "source": {
+      "url": "https://ulysses.app/pricing",
+      "label": "Ulysses: Pricing"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Student pricing",
+        "quote": "Reduced pricing for students",
+        "url": "https://ulysses.app/pricing",
+        "page_date": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "id": "uon-greater-charitable-foundation-equity-scholarship",
+  "name": "Greater Charitable Foundation Equity Scholarship",
+  "provider": "University of Newcastle",
+  "category": "uni",
+  "summary": "Multi-year scholarship for UON undergraduates whose study is affected by financial hardship or regional or remote disadvantage.",
+  "key": "A total benefit of up to $31,818, paid as $5,303 each semester.",
+  "who": [
+    "Enrolled in an eligible UON undergraduate degree",
+    "Study affected by financial hardship and/or regional or remote disadvantage",
+    "Australian citizen or permanent resident"
+  ],
+  "how": [
+    "Apply through the online portal (PDF uploads only)"
+  ],
+  "catches": [
+    "Closes 3 March 2027",
+    "Only 2 scholarships available",
+    "Paid for up to 3 years subject to ongoing eligibility"
+  ],
+  "tags": [
+    "uon",
+    "newcastle",
+    "greater charitable foundation",
+    "regional",
+    "rural",
+    "equity"
+  ],
+  "source": {
+    "url": "https://www.newcastle.edu.au/scholarships/EXT_332",
+    "label": "University of Newcastle: Greater Charitable Foundation Equity Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "This scholarship provides a total benefit of up to $31,818, paid as $5,303 each semester",
+      "url": "https://www.newcastle.edu.au/scholarships/EXT_332",
+      "page_date": null
+    },
+    {
+      "claim": "Main rule",
+      "quote": "Demonstrate that your ability to study is affected by financial hardship and/or regional or remote disadvantage.",
+      "url": "https://www.newcastle.edu.au/scholarships/EXT_332",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-03-03"
+}

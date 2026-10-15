@@ -1,0 +1,52 @@
+{
+  "id": "curtin-2027-future-student-scholarships",
+  "name": "Curtin 2027 future student scholarships round",
+  "provider": "Curtin University",
+  "category": "uni",
+  "summary": "Curtin's round for 2027 commencing students, including needs-based scholarships for course or relocation costs, closes 23 November 2026.",
+  "who": [
+    "Students starting at Curtin in 2027"
+  ],
+  "how": [
+    "Search the open 2027 future student scholarships in Curtin's scholarship finder and apply online"
+  ],
+  "catches": [
+    "Opened 22 July 2026; closes 23 November 2026",
+    "All dates are indicative and subject to change"
+  ],
+  "tags": [
+    "curtin",
+    "perth",
+    "wa",
+    "equity",
+    "needs-based",
+    "relocation",
+    "scholarship",
+    "2027"
+  ],
+  "source": {
+    "url": "https://www.curtin.edu.au/study/scholarships/applying-for-a-scholarship/",
+    "label": "Curtin University: Applying for a scholarship"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Round opening",
+      "quote": "Opening for all 2027 future student scholarships",
+      "url": "https://www.curtin.edu.au/study/scholarships/applying-for-a-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-11-23"
+}

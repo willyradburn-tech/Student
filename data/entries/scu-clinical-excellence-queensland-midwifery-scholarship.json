@@ -1,0 +1,74 @@
+{
+  "id": "scu-clinical-excellence-queensland-midwifery-scholarship",
+  "name": "Clinical Excellence Queensland Midwifery Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$5,000 for full-time SCU Bachelor of Midwifery students who are experiencing financial hardship.",
+  "key": "$5,000 for one year per student.",
+  "who": [
+    "Enrolled full-time in the Bachelor of Midwifery.",
+    "Australian citizen or permanent resident.",
+    "Experiencing financial hardship."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with a written personal statement."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "Six scholarships available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "midwifery",
+    "hardship",
+    "queensland health"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/clinical-excellence-queensland-midwifery-scholarship/",
+    "label": "Southern Cross University: Clinical Excellence Queensland Midwifery Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$5,000 for one year per student.",
+      "url": "https://www.scu.edu.au/scholarships/clinical-excellence-queensland-midwifery-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close on 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/clinical-excellence-queensland-midwifery-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

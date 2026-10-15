@@ -1,0 +1,63 @@
+{
+  "id": "opera-australia-student-rush",
+  "name": "Opera Australia Student Rush tickets",
+  "provider": "Opera Australia",
+  "category": "streaming",
+  "summary": "Same-day $35 Student Rush opera tickets for full-time students at Australian institutions, on selected performances.",
+  "key": "With appropriate ID, you can buy a $35 ticket from 9am on the day of selected performances.",
+  "who": [
+    "Full-time students at an Australian institution, with student ID."
+  ],
+  "how": [
+    "Visit the production's web page from 9am on the day and select the 'Student Rush' ticket.",
+    "Bring your student ID to the box office to collect your tickets."
+  ],
+  "catches": [
+    "Selected performances only.",
+    "Seat can be anything from B Reserve to restricted view.",
+    "Booking window is 9am to noon or until sold out; a $9.80 transaction fee applies."
+  ],
+  "tags": [
+    "opera",
+    "student rush",
+    "sydney",
+    "melbourne",
+    "theatre"
+  ],
+  "source": {
+    "url": "https://opera.org.au/buy/opera-for-students",
+    "label": "Opera Australia: Opera for Students"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw",
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$35 same-day ticket with ID",
+      "quote": "With appropriate ID, you can buy a $35 ticket from 9am on the day of selected performances.",
+      "url": "https://opera.org.au/buy/opera-for-students",
+      "page_date": null
+    },
+    {
+      "claim": "Full-time students",
+      "quote": "Are you a full-time student at an Australian institution?",
+      "url": "https://opera.org.au/buy/opera-for-students",
+      "page_date": null
+    },
+    {
+      "claim": "Seat and fee limits",
+      "quote": "You may be offered any seat from B Reserve to restricted view — depending on availability.",
+      "url": "https://opera.org.au/buy/opera-for-students",
+      "page_date": null
+    }
+  ]
+}

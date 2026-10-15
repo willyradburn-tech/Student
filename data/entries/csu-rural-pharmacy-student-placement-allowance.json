@@ -1,0 +1,82 @@
+{
+  "id": "csu-rural-pharmacy-student-placement-allowance",
+  "name": "Charles Sturt Rural Pharmacy Student Placement Allowance",
+  "provider": "Charles Sturt University",
+  "category": "uni",
+  "summary": "Help with travel and accommodation for Charles Sturt pharmacy students on rural placements.",
+  "key": "Up to $3,000 per eligible student placement.",
+  "who": [
+    "Full-time Bachelor of Pharmacy student",
+    "Australian citizen or permanent visa holder",
+    "Doing an eligible placement in a Modified Monash Category 3 to 7 location in 2026"
+  ],
+  "how": [
+    "Complete an online application form and attach placement forms signed by your workplace learning officer"
+  ],
+  "catches": [
+    "Closes 11:59pm 4 Dec 2026, or earlier if funds run out",
+    "The page's year labels are inconsistent, so confirm dates with the Scholarships Office"
+  ],
+  "tags": [
+    "csu",
+    "charles sturt",
+    "pharmacy",
+    "rural placement",
+    "wagga wagga",
+    "orange"
+  ],
+  "source": {
+    "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/rural-pharmacy-student-placement-allowance",
+    "label": "Charles Sturt University: Rural Pharmacy Student Placement Allowance"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "The RPSPA provides financial support of up to $3,000 per eligible student placement",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/rural-pharmacy-student-placement-allowance",
+      "page_date": null
+    },
+    {
+      "claim": "Course rule",
+      "quote": "Enrolled in the Bachelor of Pharmacy;",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/rural-pharmacy-student-placement-allowance",
+      "page_date": null
+    },
+    {
+      "claim": "Location rule",
+      "quote": "Undertake a placement in a Modified Monash (MM) Category 3 to 7 location",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/rural-pharmacy-student-placement-allowance",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications are OPEN for 2025 and will close at 11:59pm 4 Dec 2026",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/rural-pharmacy-student-placement-allowance",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-12-04"
+}

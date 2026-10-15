@@ -1,0 +1,62 @@
+{
+  "id": "unisq-student-financial-loans",
+  "name": "UniSQ Student Financial Loans",
+  "provider": "University of Southern Queensland",
+  "category": "uni",
+  "summary": "Short-term interest-free loans for enrolled UniSQ students who have no other way to borrow.",
+  "key": "Interest-free loans up to $1000 for continuing students, repayable within 12 months.",
+  "who": [
+    "Enrolled in a current teaching period",
+    "Has exhausted all other ways to get a loan"
+  ],
+  "how": [
+    "Fill out the Student Financial Loan Application Form and book an appointment with a Student Advisor (Wellbeing)"
+  ],
+  "catches": [
+    "First-trimester students can borrow up to $500, repayable within 6 months",
+    "All loans are immediately repayable if you stop being enrolled"
+  ],
+  "tags": [
+    "unisq",
+    "usq",
+    "loan",
+    "interest-free",
+    "hardship",
+    "emergency"
+  ],
+  "source": {
+    "url": "https://www.unisq.edu.au/current-students/services-and-support/financial-support/student-financial-loans",
+    "label": "UniSQ: Student Financial Loans"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Continuing student amount",
+      "quote": "Continuing students (with satisfactory academic progress): Interest-free loans up to $1000, repayable within 12 months.",
+      "url": "https://www.unisq.edu.au/current-students/services-and-support/financial-support/student-financial-loans",
+      "page_date": null
+    },
+    {
+      "claim": "First-year amount",
+      "quote": "First-year, first-trimester students: Interest-free loans up to $500, repayable within 6 months.",
+      "url": "https://www.unisq.edu.au/current-students/services-and-support/financial-support/student-financial-loans",
+      "page_date": null
+    },
+    {
+      "claim": "Last-resort rule",
+      "quote": "The student must have exhausted all other avenues to obtain a loan and a student loan is the only option.",
+      "url": "https://www.unisq.edu.au/current-students/services-and-support/financial-support/student-financial-loans",
+      "page_date": null
+    }
+  ]
+}

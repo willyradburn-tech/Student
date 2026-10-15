@@ -1,0 +1,56 @@
+{
+  "id": "uq-thomas-plein-scholarship",
+  "name": "Thomas A. Plein Foundation Undergraduate Scholarship",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "A $4,500 scholarship for a domestic UQ undergraduate in financial hardship.",
+  "tags": [
+    "uq",
+    "scholarship",
+    "hardship"
+  ],
+  "key": "$4,500, depending on the fund's distribution that year. One award.",
+  "who": [
+    "Domestic UQ students enrolled full-time in an undergraduate program.",
+    "Able to show financial hardship with documents."
+  ],
+  "need": [
+    "Evidence of hardship, such as Centrelink statements, ATO statements or family income."
+  ],
+  "how": [
+    "Apply with the Apply now form on the scholarship page."
+  ],
+  "catches": [
+    "Only one scholarship is awarded.",
+    "The amount can be more or less in some years.",
+    "Applications close 24 January 2027."
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/thomas-plein-foundation-undergraduate-scholarship",
+    "label": "UQ Scholarships: Thomas A. Plein Foundation Undergraduate Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "cap": "maybe",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "closes": "2027-01-24"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "cpa-student-network",
+  "name": "CPA Australia Student Network",
+  "provider": "CPA Australia",
+  "category": "career",
+  "summary": "Free courses, events, an interview simulator and career content for accounting and business students.",
+  "tags": [
+    "accounting",
+    "business",
+    "finance",
+    "cpa",
+    "careers"
+  ],
+  "key": "Free.",
+  "numbers": [
+    [
+      "Includes",
+      "Online courses, events and webinars, an interview simulator, INTHEBLACK articles and podcasts"
+    ],
+    [
+      "Congress",
+      "Discounted student tickets"
+    ]
+  ],
+  "how": [
+    "Select Join now on the Student Network page and fill in the form."
+  ],
+  "catches": [
+    "CPA Australia's page doesn't list eligibility rules for the network."
+  ],
+  "cadence": "medium",
+  "match": {
+    "field": {
+      "yes": [
+        "business"
+      ],
+      "maybe": [
+        "other"
+      ]
+    }
+  },
+  "verified": "2026-10-13",
+  "review": "approved",
+  "status": "verified",
+  "source": {
+    "url": "https://www.cpaaustralia.com.au/become-a-cpa/student-network",
+    "label": "CPA Australia: student network"
+  }
+}

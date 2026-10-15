@@ -1,0 +1,62 @@
+{
+  "id": "nsw-low-income-household-rebate",
+  "name": "NSW Low Income Household Rebate",
+  "provider": "NSW Government",
+  "category": "payments",
+  "summary": "Daily credit on your electricity bill for NSW households holding a Health Care Card or other eligible concession card.",
+  "who": [
+    "Live in NSW",
+    "Hold a Pensioner Concession Card, Health Care Card, Low Income Health Care Card or DVA Veteran Gold Card"
+  ],
+  "how": [
+    "Contact your electricity retailer and ask for the rebate to be applied",
+    "Give your concession card details and confirm it has been applied"
+  ],
+  "catches": [
+    "The page does not state the dollar amount. Embedded network (on-supply) customers apply through Service NSW instead."
+  ],
+  "tags": [
+    "electricity",
+    "energy",
+    "health care card",
+    "nsw",
+    "New South Wales"
+  ],
+  "source": {
+    "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-retail-customers",
+    "label": "Service NSW: Apply for the Low Income Household Rebate (retail customers)"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Health Care Card accepted",
+      "quote": "Health Care Card issued by Services Australia",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-retail-customers",
+      "page_date": null
+    },
+    {
+      "claim": "Paid as bill credit",
+      "quote": "Retail customers receive the rebate as a daily credit on each electricity bill.",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-retail-customers",
+      "page_date": null
+    }
+  ]
+}

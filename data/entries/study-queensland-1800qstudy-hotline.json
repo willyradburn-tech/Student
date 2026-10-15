@@ -1,0 +1,78 @@
+{
+  "id": "study-queensland-1800qstudy-hotline",
+  "name": "1800 QSTUDY international student hotline",
+  "provider": "Study Queensland (Queensland Government)",
+  "category": "health",
+  "summary": "Free 24/7 phone line for international students in Queensland, giving support, information and referrals, including legal referrals.",
+  "key": "The hotline is available 24 hours a day, seven days a week.",
+  "who": [
+    "All international students can use the service"
+  ],
+  "how": [
+    "Call 1800 778 839 (from overseas +61 1800 778 839)"
+  ],
+  "catches": [
+    "Free from an Australian landline or mobile provider",
+    "Gives legal referrals, not legal advice itself",
+    "Category is the closest fit: support service"
+  ],
+  "tags": [
+    "international",
+    "intl",
+    "queensland",
+    "qld",
+    "brisbane",
+    "hotline",
+    "support",
+    "legal referral",
+    "qut",
+    "griffith",
+    "study queensland"
+  ],
+  "source": {
+    "url": "https://qldstudenthub.qld.gov.au/live/safety-and-support/1800qstudy",
+    "label": "Queensland International Student Hub: 1800 QSTUDY"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "qld"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "What it is",
+      "quote": "1800 QSTUDY (1800 778 839) is Queensland's international student hotline, providing phone support and information related to studying in Queensland.",
+      "url": "https://qldstudenthub.qld.gov.au/live/safety-and-support/1800qstudy",
+      "page_date": null
+    },
+    {
+      "claim": "Hours",
+      "quote": "The hotline is available 24 hours a day, seven days a week.",
+      "url": "https://qldstudenthub.qld.gov.au/live/safety-and-support/1800qstudy",
+      "page_date": null
+    },
+    {
+      "claim": "Free",
+      "quote": "It's free when you call from an Australian landline or mobile provider.",
+      "url": "https://qldstudenthub.qld.gov.au/live/safety-and-support/1800qstudy",
+      "page_date": null
+    },
+    {
+      "claim": "Who",
+      "quote": "All international students can use the 1800 QSTUDY support service.",
+      "url": "https://qldstudenthub.qld.gov.au/live/safety-and-support/1800qstudy",
+      "page_date": null
+    }
+  ]
+}

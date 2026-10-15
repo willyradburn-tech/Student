@@ -1,0 +1,61 @@
+{
+  "id": "griffith-rachel-hunter-refugee-scholarship",
+  "name": "Rachel Hunter Refugee Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $20,000 for permanent humanitarian visa holders starting their first Griffith undergraduate degree.",
+  "key": "Maximum value of $20,000, payable in trimester instalments.",
+  "who": [
+    "Permanent humanitarian visa holder.",
+    "Commencing a Griffith undergraduate degree for the first time.",
+    "Demonstrate financial hardship and/or educational disadvantage."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Apply by Wednesday 27 January 2027, 4pm, for Trimester 1 2027.",
+    "Not available if you receive a Centrelink Relocation Grant or a Commonwealth Scholarship."
+  ],
+  "tags": [
+    "griffith",
+    "refugee",
+    "humanitarian visa",
+    "equity"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/rachel-hunter-refugee-scholarship",
+    "label": "Griffith University: Rachel Hunter Refugee Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "The Rachel Hunter Refugee Scholarship has a maximum value of $20,000, payable in trimester instalments.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/rachel-hunter-refugee-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "be a permanent humanitarian visa holder",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/rachel-hunter-refugee-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "museums-victoria-melbourne-museum-free-student-entry",
+  "name": "Melbourne Museum free entry with a Student Card",
+  "provider": "Museums Victoria",
+  "category": "streaming",
+  "summary": "Student Card holders get free concession entry to Melbourne Museum in Melbourne; adults otherwise pay $15.",
+  "key": "Concession entry is free (adult entry $15).",
+  "who": [
+    "Student Card holders (also Health Care Card, Pension and Carer Card holders)."
+  ],
+  "catches": [
+    "Special exhibitions may be charged separately."
+  ],
+  "tags": [
+    "museums victoria",
+    "melbourne museum",
+    "museum",
+    "melbourne",
+    "free"
+  ],
+  "source": {
+    "url": "https://museumsvictoria.com.au/melbournemuseum/visiting/admission-prices",
+    "label": "Museums Victoria: Melbourne Museum admission prices"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Concession is free",
+      "quote": "Concession2 Free",
+      "url": "https://museumsvictoria.com.au/melbournemuseum/visiting/admission-prices",
+      "page_date": null
+    },
+    {
+      "claim": "Student Card qualifies",
+      "quote": "These cards entitle you to concession entry: Carer Card, Health Care Card, Pension Card, Student Card, Veterans Affairs Card.",
+      "url": "https://museumsvictoria.com.au/melbournemuseum/visiting/admission-prices",
+      "page_date": null
+    }
+  ]
+}

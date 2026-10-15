@@ -1,0 +1,48 @@
+{
+  "id": "actuaries-institute-university-subscriber",
+  "name": "Actuaries Institute university subscriber",
+  "provider": "Actuaries Institute",
+  "category": "career",
+  "summary": "Free university subscriber membership of the Actuaries Institute, with free events, career content and the Actuarial Sprint app.",
+  "key": "Become a uni subscriber for free.",
+  "how": [
+    "Sign up as a University Subscriber on the Actuaries Institute site."
+  ],
+  "tags": [
+    "actuarial",
+    "actuary",
+    "statistics",
+    "finance",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.actuaries.asn.au/become-a-university-subscriber",
+    "label": "Actuaries Institute: Become a university subscriber"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "field": {
+      "yes": [
+        "business"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Become a uni subscriber and start connecting with your community for free.",
+      "url": "https://www.actuaries.asn.au/become-a-university-subscriber",
+      "page_date": null
+    },
+    {
+      "claim": "Benefits",
+      "quote": "Free Insight events, networking and Young Actuary Program events. Plus discount pricing on major events.",
+      "url": "https://www.actuaries.asn.au/become-a-university-subscriber",
+      "page_date": null
+    }
+  ]
+}

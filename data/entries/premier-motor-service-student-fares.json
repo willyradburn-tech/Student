@@ -1,0 +1,45 @@
+{
+  "id": "premier-motor-service-student-fares",
+  "name": "Premier Motor Service student fares",
+  "provider": "Premier Motor Service",
+  "category": "transport",
+  "summary": "Discounted coach fares on Premier's east-coast express services for concession card holders, including students.",
+  "who": [
+    "Concession card holders, including students, pensioners and seniors."
+  ],
+  "catches": [
+    "The page does not state the discount or which student ID is accepted. Call 13 34 10 to confirm.",
+    "A $2.50 Regional Excursion Daily (RED) fare may apply between Nowra and Eden or Lismore and Tweed Heads, booked by phone."
+  ],
+  "tags": [
+    "premier",
+    "coach",
+    "bus",
+    "east coast",
+    "nsw",
+    "qld"
+  ],
+  "source": {
+    "url": "https://premierms.com.au/tickets/",
+    "label": "Premier Motor Service: Tickets"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Discounts for students",
+      "quote": "including students, pensioners and seniors.",
+      "url": "https://premierms.com.au/tickets/",
+      "page_date": null
+    },
+    {
+      "claim": "Discounted fares exist",
+      "quote": "We have a range of discounted fares available for children as well as concession card holders",
+      "url": "https://premierms.com.au/tickets/",
+      "page_date": null
+    }
+  ]
+}

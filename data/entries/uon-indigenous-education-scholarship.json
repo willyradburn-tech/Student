@@ -1,0 +1,69 @@
+{
+  "id": "uon-indigenous-education-scholarship",
+  "name": "University of Newcastle Indigenous Education Scholarship",
+  "provider": "University of Newcastle",
+  "category": "uni",
+  "summary": "Commonwealth-funded education costs scholarship for Aboriginal and Torres Strait Islander UON students in financial hardship.",
+  "key": "A total benefit of up to $3000, paid in two equal instalments of $1500.",
+  "who": [
+    "Enrolled or enrolling in an enabling, undergraduate or postgraduate program",
+    "Of Australian Aboriginal and/or Torres Strait Islander descent",
+    "Able to show financial hardship, for example through a means-tested Commonwealth income support payment"
+  ],
+  "how": [
+    "Apply through the online portal (PDF uploads only)"
+  ],
+  "catches": [
+    "Closes 3 March 2027",
+    "Part-time semesters are paid $750"
+  ],
+  "tags": [
+    "uon",
+    "newcastle",
+    "first nations",
+    "indigenous",
+    "education costs"
+  ],
+  "source": {
+    "url": "https://www.newcastle.edu.au/scholarships/GOV_EDU",
+    "label": "University of Newcastle: Indigenous Education Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "Offers a total benefit of up to $3000 paid in two equal instalments of $1500 following the Semester 1 and 2 census dates.",
+      "url": "https://www.newcastle.edu.au/scholarships/GOV_EDU",
+      "page_date": null
+    },
+    {
+      "claim": "First Nations rule",
+      "quote": "Be of Australian Aboriginal and/or Torres Strait Islander descent",
+      "url": "https://www.newcastle.edu.au/scholarships/GOV_EDU",
+      "page_date": null
+    },
+    {
+      "claim": "Hardship rule",
+      "quote": "Demonstrate financial hardship by either being in receipt of a means-tested Commonwealth income support payment",
+      "url": "https://www.newcastle.edu.au/scholarships/GOV_EDU",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-03-03"
+}

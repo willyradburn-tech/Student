@@ -1,0 +1,49 @@
+{
+  "id": "uqu-kampus-kitchen",
+  "name": "UQ Union Kampus Kitchen free dinner",
+  "provider": "UQ Union",
+  "category": "uni",
+  "summary": "Free dinners for UQ students at St Lucia, Gatton, Herston and Dutton Park.",
+  "who": [
+    "UQ students. St Lucia scans your student ID."
+  ],
+  "how": [
+    "St Lucia: Union Complex ground floor from 5pm until meals run out.",
+    "Gatton: Wednesdays 4:30 to 5:30pm, Morrison Hall (frozen takeaway meals).",
+    "Herston: Thursdays 4:30 to 5:30pm, Oral Health Centre, Level 5 Student Hub.",
+    "Dutton Park: Thursdays 3:30 to 5:30pm, Level 5, Susan Tett Building."
+  ],
+  "tags": [
+    "uq",
+    "uq union",
+    "uqu",
+    "free food",
+    "dinner",
+    "gatton",
+    "herston",
+    "st lucia"
+  ],
+  "source": {
+    "url": "https://uqu.com.au/food-co-op",
+    "label": "UQ Union: Food Co-Op, Morning Marmalade and Kampus Kitchen"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free dinners",
+      "quote": "Morning Marmalade & Kampus Kitchen serve up free breakfasts and dinners.",
+      "url": "https://uqu.com.au/student-advocacy-and-support",
+      "page_date": null
+    }
+  ]
+}

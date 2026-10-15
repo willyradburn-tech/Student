@@ -1,0 +1,53 @@
+{
+  "id": "study-melbourne-work-ready-program",
+  "name": "Study Melbourne Work Ready Program (employment consultations)",
+  "provider": "Study Melbourne (Victorian Government)",
+  "category": "career",
+  "summary": "Free drop-in employment consultations at the Study Melbourne Hub to help international students with job readiness and applications.",
+  "key": "Employment consultations to help with job readiness and applications",
+  "who": [
+    "International students in Victoria"
+  ],
+  "how": [
+    "Drop in Monday to Friday, 1-4:15 pm at 17 Hardware Lane, Melbourne; no booking needed"
+  ],
+  "tags": [
+    "international",
+    "intl",
+    "victoria",
+    "vic",
+    "melbourne",
+    "jobs",
+    "resume",
+    "career",
+    "work ready"
+  ],
+  "source": {
+    "url": "https://studymelbourne.vic.gov.au/our-hub/study-melbourne-hub-victoria",
+    "label": "Study Melbourne: Study Melbourne Hub"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Employment consultations",
+      "quote": "Employment consultations to help with job readiness and applications",
+      "url": "https://studymelbourne.vic.gov.au/our-hub/study-melbourne-hub-victoria",
+      "page_date": null
+    }
+  ]
+}

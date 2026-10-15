@@ -1,0 +1,46 @@
+{
+  "id": "self-education-deductions",
+  "name": "Self-education tax deductions",
+  "provider": "Australian Taxation Office",
+  "category": "tax",
+  "summary": "Claim study costs at tax time, but only if the study is tied to the job you already have.",
+  "tags": [
+    "tax return",
+    "deductions",
+    "laptop",
+    "textbooks",
+    "ato"
+  ],
+  "who": [
+    "People whose study keeps or improves skills for their current job, or is likely to raise their income from it."
+  ],
+  "numbers": [
+    [
+      "You can claim",
+      "Fees you pay yourself, textbooks and stationery, internet and data, decline in value of computers, interest on loans for deductible costs"
+    ],
+    [
+      "You can't claim",
+      "HECS-HELP fees for a supported place, HELP or Start-up Loan repayments, costs someone else paid"
+    ]
+  ],
+  "need": [
+    "Written evidence of what you spent.",
+    "An explanation of how the course relates to your work."
+  ],
+  "catches": [
+    "Study that only loosely relates to your job, or that helps you change careers or find a new job, doesn't count.",
+    "If your only income is a government payment such as Youth Allowance, you can't claim.",
+    "Most full-time students without a related job won't qualify."
+  ],
+  "status": "verified",
+  "verified": "2026-10-13",
+  "cadence": "low",
+  "review": "pending",
+  "cap": "maybe",
+  "match": {},
+  "source": {
+    "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/deductions-you-can-claim/education-training-and-seminars/self-education-expenses",
+    "label": "ATO: self-education expenses"
+  }
+}

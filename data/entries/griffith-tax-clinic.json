@@ -1,0 +1,46 @@
+{
+  "id": "griffith-tax-clinic",
+  "name": "Griffith Tax Clinic",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Free tax help from supervised Griffith student advisers, including tax returns and ATO notices.",
+  "who": [
+    "Unrepresented taxpayers."
+  ],
+  "how": [
+    "Apply through the online form, email taxclinic@griffith.edu.au or call +61 7 338 21177."
+  ],
+  "catches": [
+    "Runs at Logan campus (L08, Room 1.11) on Tuesdays, plus Wednesdays in Trimester 2, 9am to 4pm."
+  ],
+  "tags": [
+    "griffith",
+    "tax",
+    "tax return",
+    "ato",
+    "logan"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/griffith-business-school/department-accounting-finance-economics/griffith-tax-clinic",
+    "label": "Griffith University: Griffith Tax Clinic"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "free tax help",
+      "quote": "Providing free tax assistance to help you navigate Australia's complex tax system.",
+      "url": "https://www.griffith.edu.au/griffith-business-school/department-accounting-finance-economics/griffith-tax-clinic",
+      "page_date": null
+    }
+  ]
+}

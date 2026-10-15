@@ -1,0 +1,53 @@
+{
+  "id": "qatar-airways-student-club",
+  "name": "Qatar Airways Student Club",
+  "provider": "Qatar Airways",
+  "category": "transport",
+  "summary": "Free Qatar Airways club for university students aged 18 to 30 with rising flight discounts, extra baggage and free date changes.",
+  "key": "Save 10% on your first flight, 15% on your second flight and 20% on your third and fourth flights.",
+  "who": [
+    "Aged between 18 and 30.",
+    "Enrolled at an accredited college or university for a duration of up to 4 years."
+  ],
+  "how": [
+    "Complete the SheerID verification process to join Student Club."
+  ],
+  "catches": [
+    "Extra 10kg or one more piece of baggage, depending on route.",
+    "Terms and conditions apply."
+  ],
+  "tags": [
+    "qatar airways",
+    "airline",
+    "international flights",
+    "baggage"
+  ],
+  "source": {
+    "url": "https://www.qatarairways.com/en-au/student-club.html",
+    "label": "Qatar Airways Australia: Student Club"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "age": {
+      "min": 18,
+      "max": 30
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Discounts",
+      "quote": "Save 10% on your first flight, 15% on your second flight and 20% on your third and fourth flights.",
+      "url": "https://www.qatarairways.com/en-au/student-club.html",
+      "page_date": null
+    },
+    {
+      "claim": "Age",
+      "quote": "You need to be between the ages of 18 and 30 years old.",
+      "url": "https://www.qatarairways.com/en-au/student-club.html",
+      "page_date": null
+    }
+  ]
+}

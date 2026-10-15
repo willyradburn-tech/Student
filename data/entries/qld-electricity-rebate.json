@@ -1,0 +1,62 @@
+{
+  "id": "qld-electricity-rebate",
+  "name": "Queensland Electricity Rebate",
+  "provider": "Queensland Government",
+  "category": "payments",
+  "summary": "Yearly rebate on your home electricity bill for Queenslanders holding an eligible concession card, including the Health Care Card.",
+  "key": "Eligible households can receive $386.34 per year (2025–26 rate).",
+  "who": [
+    "Queensland resident holding an eligible card, including a Health Care Card issued by Services Australia"
+  ],
+  "how": [
+    "Contact your electricity retailer – their number is on your electricity bill."
+  ],
+  "catches": [
+    "The factsheet states amounts for the 2025–26 financial year; the 2026–27 figure may differ."
+  ],
+  "tags": [
+    "electricity",
+    "energy",
+    "concession",
+    "health care card",
+    "qld",
+    "Queensland"
+  ],
+  "source": {
+    "url": "https://www.qld.gov.au/__data/assets/pdf_file/0031/168943/energy-rebates-factsheet-general.pdf",
+    "label": "Queensland Government: Energy rebates factsheet"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Rebate amount",
+      "quote": "can receive $386.34* per year.",
+      "url": "https://www.qld.gov.au/__data/assets/pdf_file/0031/168943/energy-rebates-factsheet-general.pdf",
+      "page_date": null
+    },
+    {
+      "claim": "Health Care Card is an eligible card",
+      "quote": "Health Care Card issued by Services Australia.",
+      "url": "https://www.qld.gov.au/__data/assets/pdf_file/0031/168943/energy-rebates-factsheet-general.pdf",
+      "page_date": null
+    }
+  ]
+}

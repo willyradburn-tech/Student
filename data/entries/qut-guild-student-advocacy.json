@@ -1,0 +1,50 @@
+{
+  "id": "qut-guild-student-advocacy",
+  "name": "QUT Guild Student Advocacy",
+  "provider": "QUT Guild",
+  "category": "uni",
+  "summary": "Free, independent help with academic issues, university policies and misconduct matters for QUT students.",
+  "who": [
+    "All QUT students with academic or university-related issues."
+  ],
+  "how": [
+    "Book an appointment with an Advocacy Officer on the Guild website, ideally before any misconduct meeting."
+  ],
+  "tags": [
+    "qut",
+    "guild",
+    "advocacy",
+    "appeal",
+    "misconduct",
+    "free"
+  ],
+  "source": {
+    "url": "https://qutguild.com/advocacy/",
+    "label": "QUT Guild: Student Advocacy"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Student Advocacy is a free student support service.",
+      "url": "https://qutguild.com/advocacy/",
+      "page_date": null
+    },
+    {
+      "claim": "Who",
+      "quote": "available to all QUT students experiencing academic or university-related issues.",
+      "url": "https://qutguild.com/advocacy/",
+      "page_date": null
+    }
+  ]
+}

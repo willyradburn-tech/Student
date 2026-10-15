@@ -1,0 +1,68 @@
+{
+  "id": "griffith-queensland-regional-electronic-engineering-bursary",
+  "name": "Queensland Regional Electronic Engineering Bursary",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $2,500 for regional Queensland school leavers starting electronic engineering at Griffith's Nathan campus.",
+  "key": "Maximum value is $2,500, paid in instalments.",
+  "who": [
+    "Australian citizen, permanent resident or humanitarian visa holder.",
+    "Completed Year 12 at a Queensland high school outside the South East and Metropolitan regions.",
+    "Starting full-time in a listed engineering program at Nathan and choosing an Electronic Engineering major."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process.",
+    "Include a personal statement, an academic referee report and your results."
+  ],
+  "catches": [
+    "Apply by 4pm, Friday 29 January 2027.",
+    "The page's eligibility wording still refers to 2025 Year 12 and Trimester 1 2026, so check the year with the Scholarships Office."
+  ],
+  "tags": [
+    "griffith",
+    "engineering",
+    "regional",
+    "electronics",
+    "nathan"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-school-of-engineering-queensland-regional-electronic-engineering-bursary",
+    "label": "Griffith University: Queensland Regional Electronic Engineering Bursary"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value is $2,500, paid in instalments.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-school-of-engineering-queensland-regional-electronic-engineering-bursary",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

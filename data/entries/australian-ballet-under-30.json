@@ -1,0 +1,54 @@
+{
+  "id": "australian-ballet-under-30",
+  "name": "The Australian Ballet Under 30 and student prices",
+  "provider": "The Australian Ballet",
+  "category": "streaming",
+  "summary": "Under 30 and full-time student price types on Australian Ballet tickets and subscriptions.",
+  "who": [
+    "Full-time students with a valid student card.",
+    "People 30 or under at the time of purchase, with proof of age."
+  ],
+  "how": [
+    "Select the Student or Under 30 price type when buying tickets or a subscription."
+  ],
+  "catches": [
+    "The page does not state the discount amount."
+  ],
+  "tags": [
+    "australian ballet",
+    "ballet",
+    "under 30",
+    "melbourne",
+    "sydney"
+  ],
+  "source": {
+    "url": "https://australianballet.com.au/ticketing/ballet-at-a-great-price",
+    "label": "The Australian Ballet: Ballet at a great price"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw",
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Students",
+      "quote": "Available to full-time students with a valid student card.",
+      "url": "https://australianballet.com.au/ticketing/ballet-at-a-great-price",
+      "page_date": null
+    },
+    {
+      "claim": "Under 30",
+      "quote": "Available to individuals 30 years or under at time of purchase",
+      "url": "https://australianballet.com.au/ticketing/ballet-at-a-great-price",
+      "page_date": null
+    }
+  ]
+}

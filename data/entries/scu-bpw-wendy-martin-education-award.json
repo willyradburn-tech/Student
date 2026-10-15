@@ -1,0 +1,65 @@
+{
+  "id": "scu-bpw-wendy-martin-education-award",
+  "name": "BPW Wendy Martin Education Encouragement Award (SCU Coffs Harbour)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$1,000 for a female Coffs Harbour campus student, second year or later, who is facing hardship or another challenge.",
+  "key": "$1,000.",
+  "who": [
+    "Identify as female.",
+    "Enrolled in the second year or later of on-campus studies in Coffs Harbour.",
+    "Live between Grafton and Nambucca and west to Dorrigo.",
+    "Facing a challenge such as financial hardship, family trauma, medical concerns, single parenthood or disability."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with a 150 to 250 word personal statement."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One award available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "coffs harbour",
+    "women",
+    "hardship",
+    "bpw"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/business-and-professional-women-wendy-martin-education-encouragement-award/",
+    "label": "Southern Cross University: BPW Wendy Martin Education Encouragement Award"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Be enrolled in the second year or later of on-campus studies in Coffs Harbour",
+      "url": "https://www.scu.edu.au/scholarships/business-and-professional-women-wendy-martin-education-encouragement-award/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/business-and-professional-women-wendy-martin-education-encouragement-award/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

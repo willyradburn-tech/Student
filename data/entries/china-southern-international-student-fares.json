@@ -1,0 +1,49 @@
+{
+  "id": "china-southern-international-student-fares",
+  "name": "China Southern international student fares",
+  "provider": "China Southern Airlines",
+  "category": "transport",
+  "summary": "Student fares and extra checked bags between Australia and mainland China for students aged 12 to 29 studying outside their home country.",
+  "who": [
+    "Students aged 12 to 29 who attend a regular school in a country or region other than their country of nationality."
+  ],
+  "catches": [
+    "Only for travel between Australia/New Zealand and mainland China.",
+    "All trips must be completed before your 30th birthday.",
+    "The discount rate is set after verification. The page is from 2021, so check it is still current."
+  ],
+  "tags": [
+    "china southern",
+    "airline",
+    "international students",
+    "china",
+    "baggage"
+  ],
+  "source": {
+    "url": "https://www.csair.com/au/en/czadscale/2021/20210824/index-en.html",
+    "label": "China Southern Airlines Australia: International student exclusives"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "age": {
+      "min": 12,
+      "max": 29
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "students aged12-29 who attend a regular school in a country/region other than the country of nationality",
+      "url": "https://www.csair.com/au/en/czadscale/2021/20210824/index-en.html",
+      "page_date": null
+    }
+  ]
+}

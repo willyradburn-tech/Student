@@ -1,0 +1,56 @@
+{
+  "id": "unsw-arc-food-hub",
+  "name": "Arc UNSW Food Hub",
+  "provider": "Arc UNSW Student Life",
+  "category": "uni",
+  "summary": "Free food pantry with staples, fresh produce and hygiene products at Kensington and Paddington.",
+  "key": "A free food pantry with pantry staples, snacks, fruit and vegetables, and hygiene products.",
+  "who": [
+    "UNSW students (first 45 minutes of each session are UNSW students only)"
+  ],
+  "how": [
+    "Register via Humanitix and attend a session at Kensington (near Gate 2) or Paddington"
+  ],
+  "catches": [
+    "Session times are changing; check the event pages before visiting",
+    "Paddington runs in term time only"
+  ],
+  "tags": [
+    "unsw",
+    "food",
+    "pantry",
+    "free",
+    "arc",
+    "student-union",
+    "kensington",
+    "paddington"
+  ],
+  "source": {
+    "url": "https://www.arc.unsw.edu.au/food-hub",
+    "label": "Arc UNSW: Food Hub"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free food pantry",
+      "quote": "free food pantry and student support & sustainability program",
+      "url": "https://www.arc.unsw.edu.au/food-hub",
+      "page_date": null
+    }
+  ]
+}

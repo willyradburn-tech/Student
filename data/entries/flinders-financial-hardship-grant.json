@@ -1,0 +1,59 @@
+{
+  "id": "flinders-financial-hardship-grant",
+  "name": "Flinders Financial Hardship Grant",
+  "provider": "Flinders University Student Association (FUSA)",
+  "category": "uni",
+  "summary": "$500 second-half-of-year grant for domestic or international Flinders students with 36 units done who face financial hardship.",
+  "key": "The value of the grant awarded will be $500.",
+  "who": [
+    "Domestic or international student",
+    "Have successfully completed at least 36 units of study at Flinders University recently",
+    "Must show the grant will help you continue studying"
+  ],
+  "how": [
+    "Submit the online Student Support Grant form with supporting documents"
+  ],
+  "catches": [
+    "Available during the second half of the year",
+    "Applications received by the Semester 2 census date are assessed together; later ones monthly while funds last"
+  ],
+  "tags": [
+    "flinders",
+    "fusa",
+    "adelaide",
+    "sa",
+    "hardship",
+    "grant",
+    "international"
+  ],
+  "source": {
+    "url": "https://fusa.edu.au/?p=60149",
+    "label": "FUSA: What are the Flinders Student Support Grants?"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "The value of the grant awarded will be $500.",
+      "url": "https://fusa.edu.au/?p=60149",
+      "page_date": null
+    },
+    {
+      "claim": "Units",
+      "quote": "Have successfully completed at least 36 units of study at Flinders University recently",
+      "url": "https://fusa.edu.au/?p=60149",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

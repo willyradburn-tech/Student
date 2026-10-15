@@ -1,0 +1,31 @@
+{
+  "id": "lenovo-education",
+  "name": "Lenovo Education Store",
+  "provider": "Lenovo",
+  "category": "tech",
+  "summary": "Education pricing and 3% rewards on Lenovo laptops for verified students.",
+  "tags": [
+    "laptop",
+    "lenovo",
+    "thinkpad",
+    "legion"
+  ],
+  "key": "Exclusive pricing, plus 3% back in Lenovo rewards.",
+  "how": [
+    "Register for free on the Lenovo Education Store and verify as a student."
+  ],
+  "catches": [
+    "Bonus rewards on select ThinkPad and Legion models change often.",
+    "Lenovo's page doesn't spell out its eligibility rules."
+  ],
+  "cadence": "high",
+  "cap": "maybe",
+  "match": {},
+  "verified": "2026-10-13",
+  "review": "approved",
+  "status": "verified",
+  "source": {
+    "url": "https://www.lenovo.com/au/en/lenovo-edu/student/benefits/",
+    "label": "Lenovo: education store benefits"
+  }
+}

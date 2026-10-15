@@ -1,0 +1,1605 @@
+[
+  {
+    "id": "opera-australia-student-rush",
+    "name": "Opera Australia Student Rush tickets",
+    "provider": "Opera Australia",
+    "category": "streaming",
+    "summary": "Same-day $35 Student Rush opera tickets for full-time students at Australian institutions, on selected performances.",
+    "key": "With appropriate ID, you can buy a $35 ticket from 9am on the day of selected performances.",
+    "who": [
+      "Full-time students at an Australian institution, with student ID."
+    ],
+    "how": [
+      "Visit the production's web page from 9am on the day and select the 'Student Rush' ticket.",
+      "Bring your student ID to the box office to collect your tickets."
+    ],
+    "catches": [
+      "Selected performances only.",
+      "Seat can be anything from B Reserve to restricted view.",
+      "Booking window is 9am to noon or until sold out; a $9.80 transaction fee applies."
+    ],
+    "tags": [
+      "opera",
+      "student rush",
+      "sydney",
+      "melbourne",
+      "theatre"
+    ],
+    "source": {
+      "url": "https://opera.org.au/buy/opera-for-students",
+      "label": "Opera Australia: Opera for Students"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw",
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$35 same-day ticket with ID",
+        "quote": "With appropriate ID, you can buy a $35 ticket from 9am on the day of selected performances.",
+        "url": "https://opera.org.au/buy/opera-for-students",
+        "page_date": null
+      },
+      {
+        "claim": "Full-time students",
+        "quote": "Are you a full-time student at an Australian institution?",
+        "url": "https://opera.org.au/buy/opera-for-students",
+        "page_date": null
+      },
+      {
+        "claim": "Seat and fee limits",
+        "quote": "You may be offered any seat from B Reserve to restricted view — depending on availability.",
+        "url": "https://opera.org.au/buy/opera-for-students",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "opera-australia-concession",
+    "name": "Opera Australia concession tickets",
+    "provider": "Opera Australia",
+    "category": "streaming",
+    "summary": "Concession-priced tickets to most Opera Australia performances in Sydney and Melbourne for full-time Australian students.",
+    "who": [
+      "Full-time Australian students (also full pensioners and children 16 and under)."
+    ],
+    "how": [
+      "Bring your ID to the box office; proof of eligibility is required for collection."
+    ],
+    "catches": [
+      "Excludes Saturday evenings.",
+      "The page does not state concession prices.",
+      "Opera Australia also has an under-35 sign-up with discounted tickets; no price stated."
+    ],
+    "tags": [
+      "opera",
+      "concession",
+      "sydney",
+      "melbourne",
+      "under 35"
+    ],
+    "source": {
+      "url": "https://opera.org.au/buy/special-offers",
+      "label": "Opera Australia: Special Offers"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw",
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Concession for full-time students",
+        "quote": "for full Australian pensioners, full-time Australian students and children aged 16 years and under",
+        "url": "https://opera.org.au/buy/special-offers",
+        "page_date": null
+      },
+      {
+        "claim": "Most performances, not Saturday evenings",
+        "quote": "Concession pricing is available for most performances (excluding Saturday evenings)",
+        "url": "https://opera.org.au/buy/special-offers",
+        "page_date": null
+      },
+      {
+        "claim": "Sydney and Melbourne",
+        "quote": "in both Sydney and Melbourne.",
+        "url": "https://opera.org.au/buy/special-offers",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qso-student-tickets",
+    "name": "Queensland Symphony Orchestra $35 student tickets",
+    "provider": "Queensland Symphony Orchestra",
+    "category": "streaming",
+    "summary": "$35 tickets to QSO concerts at QPAC Concert Hall and QSO Studio for full-time tertiary students who join the student list.",
+    "key": "$35 tickets are available for full-time, tertiary students.",
+    "who": [
+      "Full-time tertiary students.",
+      "Student card must show a clear expiry date."
+    ],
+    "how": [
+      "Sign up to the QSO student list using the form on the page.",
+      "Book by phone to avoid the $7.20 online booking fee."
+    ],
+    "catches": [
+      "B and C Reserve only, two tickets per transaction, until allocation is exhausted.",
+      "Not available at live movie events or featured events.",
+      "The page sits under a 2025 web address; confirm it still applies for the current season."
+    ],
+    "tags": [
+      "qso",
+      "orchestra",
+      "brisbane",
+      "qpac",
+      "classical music"
+    ],
+    "source": {
+      "url": "https://qso.com.au/events/2025/for-students",
+      "label": "Queensland Symphony Orchestra: For Students"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$35 for full-time tertiary students",
+        "quote": "$35 tickets are available for full-time, tertiary students.",
+        "url": "https://qso.com.au/events/2025/for-students",
+        "page_date": null
+      },
+      {
+        "claim": "Where it applies",
+        "quote": "Available at all QSO performances in the QPAC Concert Hall and the QSO Studio.",
+        "url": "https://qso.com.au/events/2025/for-students",
+        "page_date": null
+      },
+      {
+        "claim": "Reserves",
+        "quote": "Available in B & C Reserve only",
+        "url": "https://qso.com.au/events/2025/for-students",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "belvoir-student-saver",
+    "name": "Belvoir St Theatre Student Saver tickets",
+    "provider": "Belvoir St Theatre",
+    "category": "streaming",
+    "summary": "Discounted Student Saver and 30-Down tickets, plus concession prices for full-time students, at Belvoir in Surry Hills, Sydney.",
+    "key": "Student Saver tickets are $37 Upstairs and $25 Downstairs.",
+    "who": [
+      "Students (concession needs a full-time Australian student card).",
+      "30-Down prices ($47 Upstairs, $32 Downstairs) are also offered."
+    ],
+    "how": [
+      "Choose the Student Saver price type when booking and bring proof."
+    ],
+    "catches": [
+      "Student Saver and 30-Down apply to previews and selected sessions only.",
+      "Prices may change; check with the Box Office."
+    ],
+    "tags": [
+      "belvoir",
+      "theatre",
+      "sydney",
+      "surry hills",
+      "under 30"
+    ],
+    "source": {
+      "url": "https://belvoir.com.au/visiting-belvoir/ticket-prices/",
+      "label": "Belvoir: Ticket Prices"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Student Saver price",
+        "quote": "Student Saver# $37 $25",
+        "url": "https://belvoir.com.au/visiting-belvoir/ticket-prices/",
+        "page_date": null
+      },
+      {
+        "claim": "Concession with student card",
+        "quote": "Concession prices are available with a full-time Australian student card",
+        "url": "https://belvoir.com.au/visiting-belvoir/ticket-prices/",
+        "page_date": null
+      },
+      {
+        "claim": "Performances",
+        "quote": "30-Down and Student Saver prices are available for Previews, Wednesday evening, Thursday evening,",
+        "url": "https://belvoir.com.au/visiting-belvoir/ticket-prices/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "sydney-symphony-student-rush",
+    "name": "Sydney Symphony Orchestra Student Rush",
+    "provider": "Sydney Symphony Orchestra",
+    "category": "streaming",
+    "summary": "Student Rush tickets to Sydney Symphony Orchestra concerts starting from $20.",
+    "key": "Our Student Rush Tickets start from just $20.",
+    "catches": [
+      "The page does not state Student Rush eligibility or booking steps; these are on a separate Student Rush page that could not be fetched."
+    ],
+    "tags": [
+      "sso",
+      "orchestra",
+      "sydney",
+      "opera house",
+      "student rush"
+    ],
+    "source": {
+      "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+      "label": "Sydney Symphony Orchestra: Special Pricing"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "From $20",
+        "quote": "Our Student Rush Tickets start from just $20.",
+        "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "sydney-symphony-student-pricing",
+    "name": "Sydney Symphony Orchestra student pricing",
+    "provider": "Sydney Symphony Orchestra",
+    "category": "streaming",
+    "summary": "Up to 30% off full-price Sydney Symphony tickets in A–C Reserve for full-time Australian student card holders.",
+    "key": "Student pricing includes a discount of up to 30% on full price tickets.",
+    "who": [
+      "Holders of a full-time Australian student card."
+    ],
+    "how": [
+      "Choose the student price type when booking."
+    ],
+    "catches": [
+      "A–C Reserve and most concerts only."
+    ],
+    "tags": [
+      "sso",
+      "orchestra",
+      "sydney",
+      "classical music"
+    ],
+    "source": {
+      "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+      "label": "Sydney Symphony Orchestra: Special Pricing"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Full-time student card, A–C Reserve",
+        "quote": "Student Pricing is available if you hold a full-time Australian Student card in A–C Reserve for most concerts.",
+        "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+        "page_date": null
+      },
+      {
+        "claim": "Up to 30% off",
+        "quote": "This includes a discount of up to 30% on full price tickets.",
+        "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "sydney-symphony-under-35",
+    "name": "Sydney Symphony Orchestra Under 35s tickets",
+    "provider": "Sydney Symphony Orchestra",
+    "category": "streaming",
+    "summary": "Up to 15% off single tickets and $55 subscription tickets for people under 35 at Sydney Symphony Orchestra concerts.",
+    "key": "Up to 15% off full price tickets, and Series Pack subscriptions at $55 per ticket for under 35s.",
+    "who": [
+      "People under 35."
+    ],
+    "catches": [
+      "A–C Reserve and most concerts only."
+    ],
+    "tags": [
+      "sso",
+      "orchestra",
+      "sydney",
+      "under 35"
+    ],
+    "source": {
+      "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+      "label": "Sydney Symphony Orchestra: Special Pricing"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "age": {
+        "max": 34
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Under 35 eligibility",
+        "quote": "Under 35s Tickets are available for people under the age of 35.",
+        "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+        "page_date": null
+      },
+      {
+        "claim": "Up to 15% off",
+        "quote": "Available in A–C Reserve for most concerts, including a discount of up to 15% on full price tickets.",
+        "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+        "page_date": null
+      },
+      {
+        "claim": "$55 subscription",
+        "quote": "Special Under 35 subscription pricing is available in A–C Reserve for most of our Series Packs at just $55 per ticket.",
+        "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "seymour-centre-usyd-student-rush",
+    "name": "Seymour Centre Student Rush for University of Sydney students",
+    "provider": "Seymour Centre",
+    "category": "streaming",
+    "summary": "Heavily discounted last-minute theatre tickets emailed to University of Sydney students who sign up to the Seymour Student Rush.",
+    "who": [
+      "Current University of Sydney students registered with their University email address."
+    ],
+    "how": [
+      "Sign up through the Student Rush form; offers are emailed as they become available."
+    ],
+    "catches": [
+      "No price is stated.",
+      "Offers can be on the day of the performance or a few days before."
+    ],
+    "tags": [
+      "seymour centre",
+      "usyd",
+      "university of sydney",
+      "theatre",
+      "sydney"
+    ],
+    "source": {
+      "url": "https://seymourcentre.com/more/university-of-sydney-students",
+      "label": "Seymour Centre: University of Sydney Students"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Discounted tickets for USYD students",
+        "quote": "Our Student Rush Program aims to provide heavily discounted tickets for University of Sydney students.",
+        "url": "https://seymourcentre.com/more/university-of-sydney-students",
+        "page_date": null
+      },
+      {
+        "claim": "USYD email required",
+        "quote": "The Seymour Student Rush is only available for University of Sydney students with a valid University of Sydney email address.",
+        "url": "https://seymourcentre.com/more/university-of-sydney-students",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "sydney-theatre-company-concession",
+    "name": "Sydney Theatre Company student and under 30 concession tickets",
+    "provider": "Sydney Theatre Company",
+    "category": "streaming",
+    "summary": "Concession-priced Sydney Theatre Company tickets for full-time student card holders and people under 30.",
+    "who": [
+      "Holders of a current full-time student card.",
+      "People under 30 with proof of age."
+    ],
+    "how": [
+      "Show valid ID at the Box Office when picking up tickets."
+    ],
+    "catches": [
+      "The page does not list concession prices.",
+      "A $8.95 transaction fee applies."
+    ],
+    "tags": [
+      "stc",
+      "sydney theatre company",
+      "theatre",
+      "sydney",
+      "under 30"
+    ],
+    "source": {
+      "url": "https://www.sydneytheatre.com.au/ticket-info/ticketing-faqs",
+      "label": "Sydney Theatre Company: Ticketing FAQs"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Full-time student card",
+        "quote": "Current Full Time Student Card",
+        "url": "https://www.sydneytheatre.com.au/ticket-info/ticketing-faqs",
+        "page_date": null
+      },
+      {
+        "claim": "Under 30",
+        "quote": "Valid proof of age ID if you are under 30 years old.",
+        "url": "https://www.sydneytheatre.com.au/ticket-info/ticketing-faqs",
+        "page_date": null
+      },
+      {
+        "claim": "ID needed",
+        "quote": "Concession tickets will not be issued until valid ID has been presented to our Box Office when picking up tickets, or an upgrade fee may be payable.",
+        "url": "https://www.sydneytheatre.com.au/ticket-info/ticketing-faqs",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "pinchgut-opera-under-35",
+    "name": "Pinchgut Opera under 35s and concession tickets",
+    "provider": "Pinchgut Opera",
+    "category": "streaming",
+    "summary": "Pinchgut Opera in Sydney offers concession prices to people under 35 and to Health Care Card holders.",
+    "who": [
+      "People under 35 with proof of age.",
+      "Centrelink Health Care Card holders."
+    ],
+    "how": [
+      "Email proof of eligibility to ticketing@pinchgutopera.com.au."
+    ],
+    "catches": [
+      "The page does not list prices or a student rush scheme.",
+      "A $7.80 transaction fee applies."
+    ],
+    "tags": [
+      "pinchgut",
+      "opera",
+      "sydney",
+      "under 35",
+      "baroque"
+    ],
+    "source": {
+      "url": "https://www.pinchgutopera.com.au/frequently-asked-questions",
+      "label": "Pinchgut Opera: Frequently Asked Questions"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Under 35 proof",
+        "quote": "Valid proof of age ID if you are under 35 years old.",
+        "url": "https://www.pinchgutopera.com.au/frequently-asked-questions",
+        "page_date": null
+      },
+      {
+        "claim": "Proof before issue",
+        "quote": "Proof of eligibility for Pensioner Concessions and Under 35s will need to be provided to Pinchgut Opera Ticketing on request, before tickets are issued.",
+        "url": "https://www.pinchgutopera.com.au/frequently-asked-questions",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "mtc-under-30",
+    "name": "Melbourne Theatre Company Under 30 tickets",
+    "provider": "Melbourne Theatre Company",
+    "category": "streaming",
+    "summary": "Half-price A- and B-Reserve tickets to MTC mainstage plays for anyone aged 29 and under.",
+    "key": "Anyone aged 29 and under gets 50% off the adult price for A- or B-Reserve mainstage tickets.",
+    "who": [
+      "Anyone aged 29 and under with valid photo ID."
+    ],
+    "catches": [
+      "Not available for Premium seats or Opening Nights.",
+      "Prices may vary according to production."
+    ],
+    "tags": [
+      "mtc",
+      "theatre",
+      "melbourne",
+      "southbank",
+      "under 30"
+    ],
+    "source": {
+      "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
+      "label": "Melbourne Theatre Company: Ticket Prices and Discounts"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      },
+      "age": {
+        "max": 29
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Age 29 and under, photo ID",
+        "quote": "Upon presentation of a valid photo ID, anyone aged 29 and under can purchase A-Reserve or B-Reserve tickets",
+        "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
+        "page_date": null
+      },
+      {
+        "claim": "50% off",
+        "quote": "to mainstage productions at a discount of 50% compared to the adult ticket price.",
+        "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
+        "page_date": null
+      },
+      {
+        "claim": "Subscriptions",
+        "quote": "Under 30s also save 50% on subscription packages.",
+        "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "mtc-concession-rush",
+    "name": "Melbourne Theatre Company concession rush and day seats",
+    "provider": "Melbourne Theatre Company",
+    "category": "streaming",
+    "summary": "Concession prices, day seats and a concession rush at MTC for full-time students with valid ID.",
+    "key": "Day seats for full-time student ID holders are from only $20.",
+    "who": [
+      "Full-time students with valid ID (also pensioners, the unemployed and MEAA members)."
+    ],
+    "how": [
+      "Day seats: buy between 9am and 12pm on the day from the theatre box office.",
+      "Concession rush: buy from the box office two hours before the performance."
+    ],
+    "catches": [
+      "Some Premium productions have no concession rush; phone 8688 0800 to check.",
+      "Parts of this page refer to 2019, so confirm day seats still run."
+    ],
+    "tags": [
+      "mtc",
+      "theatre",
+      "melbourne",
+      "rush tickets",
+      "concession"
+    ],
+    "source": {
+      "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
+      "label": "Melbourne Theatre Company: Ticket Prices and Discounts"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Concession for full-time students",
+        "quote": "Concession prices are available for Pensioners, Full-Time Students and the unemployed with a valid ID, for most MTC shows.",
+        "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
+        "page_date": null
+      },
+      {
+        "claim": "Day seats",
+        "quote": "Pensioner Concession Card, full time student ID or MEAA membership, from only $20.",
+        "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
+        "page_date": null
+      },
+      {
+        "claim": "Rush timing",
+        "quote": "When available they can be purchased from the relevant theatre box office two hours prior to each performance.",
+        "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "mtc-seat-savers",
+    "name": "Melbourne Theatre Company Seat Savers",
+    "provider": "Melbourne Theatre Company",
+    "category": "streaming",
+    "summary": "Weekly $29 MTC tickets for the next seven days' shows, released on Tuesdays to concession holders including full-time students.",
+    "key": "$29 tickets to a week’s worth of performances, with a valid concession card.",
+    "who": [
+      "Holders of a full-time student ID, Health Care Card, Pensioner Concession Card or MEAA membership."
+    ],
+    "how": [
+      "Buy online on Tuesdays between 12pm and 4pm.",
+      "Collect 45 minutes before the show with one concession ID per ticket."
+    ],
+    "catches": [
+      "Maximum two tickets per date per production.",
+      "Excludes Opening Nights and Special Events; no exchanges.",
+      "Seniors Cards are not accepted."
+    ],
+    "tags": [
+      "mtc",
+      "theatre",
+      "melbourne",
+      "seat savers",
+      "cheap tickets"
+    ],
+    "source": {
+      "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/seat-savers/",
+      "label": "Melbourne Theatre Company: Seat Savers"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$29 tickets",
+        "quote": "Access $29 tickets to a week’s worth of performances, with a valid concession card.",
+        "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/seat-savers/",
+        "page_date": null
+      },
+      {
+        "claim": "Full-time student ID counts",
+        "quote": "(Government Health Care Card, Pensioner Concession Card, full time student ID or MEAA membership) can purchase these tickets by clicking the link below.",
+        "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/seat-savers/",
+        "page_date": null
+      },
+      {
+        "claim": "Tuesday release",
+        "quote": "On Tuesdays from 12pm – 4pm we release an allocation of $29 tickets",
+        "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/seat-savers/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "australian-ballet-student-rush",
+    "name": "The Australian Ballet Student Rush tickets",
+    "provider": "The Australian Ballet",
+    "category": "streaming",
+    "summary": "$39–$42 Student Rush tickets at the venue box office an hour before Australian Ballet performances, for full-time tertiary students.",
+    "key": "Student Rush tickets are priced between $39-$42.",
+    "who": [
+      "Full-time tertiary students with a valid student ID."
+    ],
+    "how": [
+      "Buy at the venue box office one hour before the performance."
+    ],
+    "catches": [
+      "Subject to availability.",
+      "Not applicable for Storytime Ballet."
+    ],
+    "tags": [
+      "australian ballet",
+      "ballet",
+      "melbourne",
+      "sydney",
+      "student rush"
+    ],
+    "source": {
+      "url": "https://australianballet.com.au/ticketing/ballet-at-a-great-price",
+      "label": "The Australian Ballet: Ballet at a great price"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw",
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Price and eligibility",
+        "quote": "Full-time tertiary students with a valid student ID can access Student Rush Tickets priced between $39-$42.",
+        "url": "https://australianballet.com.au/ticketing/ballet-at-a-great-price",
+        "page_date": null
+      },
+      {
+        "claim": "Timing",
+        "quote": "Subject to availability, Student Rush tickets are available one hour prior to the performance",
+        "url": "https://australianballet.com.au/ticketing/ballet-at-a-great-price",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "australian-ballet-under-30",
+    "name": "The Australian Ballet Under 30 and student prices",
+    "provider": "The Australian Ballet",
+    "category": "streaming",
+    "summary": "Under 30 and full-time student price types on Australian Ballet tickets and subscriptions.",
+    "who": [
+      "Full-time students with a valid student card.",
+      "People 30 or under at the time of purchase, with proof of age."
+    ],
+    "how": [
+      "Select the Student or Under 30 price type when buying tickets or a subscription."
+    ],
+    "catches": [
+      "The page does not state the discount amount."
+    ],
+    "tags": [
+      "australian ballet",
+      "ballet",
+      "under 30",
+      "melbourne",
+      "sydney"
+    ],
+    "source": {
+      "url": "https://australianballet.com.au/ticketing/ballet-at-a-great-price",
+      "label": "The Australian Ballet: Ballet at a great price"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw",
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Students",
+        "quote": "Available to full-time students with a valid student card.",
+        "url": "https://australianballet.com.au/ticketing/ballet-at-a-great-price",
+        "page_date": null
+      },
+      {
+        "claim": "Under 30",
+        "quote": "Available to individuals 30 years or under at time of purchase",
+        "url": "https://australianballet.com.au/ticketing/ballet-at-a-great-price",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "melbourne-recital-centre-student-rush",
+    "name": "Melbourne Recital Centre $15 Student Rush",
+    "provider": "Melbourne Recital Centre",
+    "category": "streaming",
+    "summary": "$15 Student Rush tickets to Melbourne Recital Centre presentations for free Student Members, from 48 hours before the event.",
+    "key": "Student Members can access $15 Student Rush tickets for all events presented by Melbourne Recital Centre.",
+    "who": [
+      "Holders of a valid Melbourne Recital Centre Student Membership."
+    ],
+    "how": [
+      "Book at the MRC Box Office or by phone during business hours; not online."
+    ],
+    "catches": [
+      "Subject to availability; only for events presented by Melbourne Recital Centre."
+    ],
+    "tags": [
+      "melbourne recital centre",
+      "classical music",
+      "melbourne",
+      "southbank",
+      "student rush"
+    ],
+    "source": {
+      "url": "https://www.melbournerecital.com.au/ticketing-information/ticket-prices-fees",
+      "label": "Melbourne Recital Centre: Ticket Prices and Fees"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$15 Student Rush",
+        "quote": "Student Members can access $15 Student Rush tickets for all events presented by Melbourne Recital Centre,",
+        "url": "https://www.melbournerecital.com.au/ticketing-information/ticket-prices-fees",
+        "page_date": null
+      },
+      {
+        "claim": "Membership needed",
+        "quote": "Student Rush tickets are subject to availability and can only be purchased if you have a valid Student Membership.",
+        "url": "https://www.melbournerecital.com.au/ticketing-information/ticket-prices-fees",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "melbourne-recital-centre-under-30",
+    "name": "Melbourne Recital Centre student and under 30 prices",
+    "provider": "Melbourne Recital Centre",
+    "category": "streaming",
+    "summary": "Full-time student prices and, on selected performances, Under 30 tickets at Melbourne Recital Centre.",
+    "who": [
+      "Full-time students (16 and over need a Student Card or proof of enrolment).",
+      "Under 30 tickets on selected performances for anyone 29 and under."
+    ],
+    "catches": [
+      "The page does not state the prices.",
+      "Under 30 tickets are for selected performances only."
+    ],
+    "tags": [
+      "melbourne recital centre",
+      "under 30",
+      "melbourne",
+      "concerts"
+    ],
+    "source": {
+      "url": "https://www.melbournerecital.com.au/ticketing-information/ticket-prices-fees",
+      "label": "Melbourne Recital Centre: Ticket Prices and Fees"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Full-time students",
+        "quote": "This price is available to all full-time students, including all children aged under 16.",
+        "url": "https://www.melbournerecital.com.au/ticketing-information/ticket-prices-fees",
+        "page_date": null
+      },
+      {
+        "claim": "Photo ID for under 30",
+        "quote": "A valid photo ID must be presented at the time of purchase or collection of the ticket.",
+        "url": "https://www.melbournerecital.com.au/ticketing-information/ticket-prices-fees",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "queensland-ballet-under-30",
+    "name": "Queensland Ballet Under 30 tickets",
+    "provider": "Queensland Ballet",
+    "category": "streaming",
+    "summary": "Queensland Ballet offers an Under 30 single-ticket price, and concession prices for full-time students over 30.",
+    "who": [
+      "People aged 30 and under at the time of booking.",
+      "Full-time students over 30 qualify for concession."
+    ],
+    "how": [
+      "Book online, by phone on 07 3013 6666, or at the Thomas Dixon Centre, West End."
+    ],
+    "catches": [
+      "The page does not state the prices or discount."
+    ],
+    "tags": [
+      "queensland ballet",
+      "ballet",
+      "brisbane",
+      "west end",
+      "under 30"
+    ],
+    "source": {
+      "url": "https://www.queenslandballet.com.au/tickets",
+      "label": "Queensland Ballet: How to book tickets"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Under 30",
+        "quote": "Available to those aged 30 years and under at time of booking.",
+        "url": "https://www.queenslandballet.com.au/tickets",
+        "page_date": null
+      },
+      {
+        "claim": "Students over 30 get concession",
+        "quote": "full-time students over 30 years, and the unemployed (healthcare card holders).",
+        "url": "https://www.queenslandballet.com.au/tickets",
+        "page_date": null
+      },
+      {
+        "claim": "Single ticket types",
+        "quote": "Single tickets available with Adult, Concession, Under 30, Child and Group price types.",
+        "url": "https://www.queenslandballet.com.au/tickets",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "queensland-theatre-35-and-under",
+    "name": "Queensland Theatre 35 & Under and student concession",
+    "provider": "Queensland Theatre",
+    "category": "streaming",
+    "summary": "Queensland Theatre gives season ticket discounts to people 35 and under and concession to full-time students.",
+    "who": [
+      "People aged 35 or younger, with photo ID showing birth year.",
+      "Full-time students with a copy of their student ID."
+    ],
+    "how": [
+      "Email proof of age or student status to sales@queenslandtheatre.com.au."
+    ],
+    "catches": [
+      "The page does not list prices; it refers to a price table PDF."
+    ],
+    "tags": [
+      "queensland theatre",
+      "theatre",
+      "brisbane",
+      "under 35",
+      "season tickets"
+    ],
+    "source": {
+      "url": "https://queenslandtheatre.com.au/season-tickets-1",
+      "label": "Queensland Theatre: Season Tickets"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "35 & Under",
+        "quote": "35 & Under - discount is available to those aged 35 or younger at time of booking, who can provide a photo",
+        "url": "https://queenslandtheatre.com.au/season-tickets-1",
+        "page_date": null
+      },
+      {
+        "claim": "Concession for full-time students",
+        "quote": "numbers or can provide a copy of their Full Time Student ID*.",
+        "url": "https://queenslandtheatre.com.au/season-tickets-1",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "brisbane-festival-concession",
+    "name": "Brisbane Festival concession tickets",
+    "provider": "Brisbane Festival",
+    "category": "streaming",
+    "summary": "Brisbane Festival offers concession tickets to full-time students on many productions.",
+    "who": [
+      "Full-time students."
+    ],
+    "catches": [
+      "Discounts vary by production; check each event page.",
+      "The festival runs each September, so offers apply to the next festival."
+    ],
+    "tags": [
+      "brisbane festival",
+      "festival",
+      "brisbane",
+      "concession"
+    ],
+    "source": {
+      "url": "https://www.brisbanefestival.com.au/info/ticketing-info",
+      "label": "Brisbane Festival: Ticketing Info"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Full-time students",
+        "quote": "Concession – For full-time students, pension card holders, healthcare card holders, or seniors card holders.",
+        "url": "https://www.brisbanefestival.com.au/info/ticketing-info",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "event-cinemas-brisbane-student",
+    "name": "Event Cinemas student tickets (Brisbane City, Indooroopilly, Australia Fair)",
+    "provider": "Event Cinemas",
+    "category": "streaming",
+    "summary": "$11.50 movie tickets for students at Event Cinemas Brisbane City, Indooroopilly and Australia Fair via a Cinebuzz promo code.",
+    "key": "Students can see films for just $11.50 (online booking fee applies).",
+    "who": [
+      "Students with a valid current student ID card and a free Cinebuzz account."
+    ],
+    "how": [
+      "Show your student ID at the cinema to get a promo code.",
+      "Add the promo code to your Cinebuzz account online; it can take up to 24 hours to load."
+    ],
+    "catches": [
+      "Limited time only offer.",
+      "Not valid in Gold Class, Boutique, IMAX, 4DX, ScreenX or premium seating, or for special events.",
+      "The page's summary also mentions an $8 Student Monday ticket, which conflicts with the $11.50 offer."
+    ],
+    "tags": [
+      "event cinemas",
+      "movies",
+      "brisbane",
+      "gold coast",
+      "indooroopilly",
+      "southport",
+      "cinebuzz"
+    ],
+    "source": {
+      "url": "https://www.eventcinemas.com.au/Promotions/CheapMovieTickets",
+      "label": "Event Cinemas: Cheap Movie Tickets"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Price",
+        "quote": "for just $11.50*.",
+        "url": "https://www.eventcinemas.com.au/Promotions/CheapMovieTickets",
+        "page_date": null
+      },
+      {
+        "claim": "Cinemas",
+        "quote": "Offer only valid at Event Cinemas Australia Fair, Brisbane City and Event Cinemas Indooroopilly.",
+        "url": "https://www.eventcinemas.com.au/Promotions/CheapMovieTickets",
+        "page_date": null
+      },
+      {
+        "claim": "Student ID and Cinebuzz",
+        "quote": "Only valid for single admission with a valid current student ID card and registered Cinebuzz card or barcode.",
+        "url": "https://www.eventcinemas.com.au/Promotions/CheapMovieTickets",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "cineplex-student-tickets",
+    "name": "Cineplex full-time student movie tickets",
+    "provider": "Cineplex",
+    "category": "streaming",
+    "summary": "$9 standard 2D tickets, and $8 off-peak discount tickets, for full-time students at Cineplex cinemas.",
+    "key": "Full-time students pay $9.00 for standard 2D films.",
+    "who": [
+      "Full-time students aged 13 and over with a valid, unexpired student ID card."
+    ],
+    "catches": [
+      "$10 on public holidays and $11 for 3D.",
+      "No student price for Deluxe sessions.",
+      "Off-peak $8 discount tickets are at the cinema's discretion."
+    ],
+    "tags": [
+      "cineplex",
+      "movies",
+      "brisbane",
+      "gold coast",
+      "cinema"
+    ],
+    "source": {
+      "url": "https://www.cineplex.com.au/Pricing",
+      "label": "Cineplex: Pricing"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Price line",
+        "quote": "Full Time Student ID, Senior Card, Health Care ID",
+        "url": "https://www.cineplex.com.au/Pricing",
+        "page_date": null
+      },
+      {
+        "claim": "Full-time and 13+",
+        "quote": "A Student is 13+ and must be full time (they must have a valid (i.e. current and not expired) student ID card",
+        "url": "https://www.cineplex.com.au/Pricing",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qagoma-student-concession",
+    "name": "QAGOMA free entry and student concession for exhibitions",
+    "provider": "Queensland Art Gallery | Gallery of Modern Art",
+    "category": "streaming",
+    "summary": "Free entry to QAGOMA in Brisbane, with concession prices for full-time tertiary and TAFE students at ticketed exhibitions.",
+    "key": "Entry to the Gallery is free; some exhibitions, cinema screenings and events need a paid ticket.",
+    "who": [
+      "Full-time Australian tertiary and TAFE students.",
+      "Full-time international students with an ISIC card and their institution card."
+    ],
+    "how": [
+      "Show your concession card at the exhibition entry."
+    ],
+    "catches": [
+      "Concession prices are listed on each exhibition page, not here."
+    ],
+    "tags": [
+      "qagoma",
+      "goma",
+      "art gallery",
+      "brisbane",
+      "south bank"
+    ],
+    "source": {
+      "url": "https://www.qagoma.qld.gov.au/visit/ticket-faqs/",
+      "label": "QAGOMA: General ticket information"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free entry",
+        "quote": "Entry to the Gallery is free, some exhibitions, cinema screenings and events may require a paid or booked ticket.",
+        "url": "https://www.qagoma.qld.gov.au/visit/ticket-faqs/",
+        "page_date": null
+      },
+      {
+        "claim": "Tertiary students",
+        "quote": "Full Time Australian Tertiary and TAFE Students",
+        "url": "https://www.qagoma.qld.gov.au/visit/ticket-faqs/",
+        "page_date": null
+      },
+      {
+        "claim": "Show card",
+        "quote": "Individual patrons must show concession cards at the exhibition entry to receive concession ticket price.",
+        "url": "https://www.qagoma.qld.gov.au/visit/ticket-faqs/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "museums-victoria-melbourne-museum-free-student-entry",
+    "name": "Melbourne Museum free entry with a Student Card",
+    "provider": "Museums Victoria",
+    "category": "streaming",
+    "summary": "Student Card holders get free concession entry to Melbourne Museum in Melbourne; adults otherwise pay $15.",
+    "key": "Concession entry is free (adult entry $15).",
+    "who": [
+      "Student Card holders (also Health Care Card, Pension and Carer Card holders)."
+    ],
+    "catches": [
+      "Special exhibitions may be charged separately."
+    ],
+    "tags": [
+      "museums victoria",
+      "melbourne museum",
+      "museum",
+      "melbourne",
+      "free"
+    ],
+    "source": {
+      "url": "https://museumsvictoria.com.au/melbournemuseum/visiting/admission-prices",
+      "label": "Museums Victoria: Melbourne Museum admission prices"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Concession is free",
+        "quote": "Concession2 Free",
+        "url": "https://museumsvictoria.com.au/melbournemuseum/visiting/admission-prices",
+        "page_date": null
+      },
+      {
+        "claim": "Student Card qualifies",
+        "quote": "These cards entitle you to concession entry: Carer Card, Health Care Card, Pension Card, Student Card, Veterans Affairs Card.",
+        "url": "https://museumsvictoria.com.au/melbournemuseum/visiting/admission-prices",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "museums-victoria-scienceworks-free-student-entry",
+    "name": "Scienceworks free entry with a Student Card",
+    "provider": "Museums Victoria",
+    "category": "streaming",
+    "summary": "Student Card holders get free concession entry to Scienceworks in Melbourne; adults otherwise pay $15.",
+    "key": "Concession entry is free (adult entry $15).",
+    "who": [
+      "Student Card holders (also Health Care Card, Pension and Carer Card holders)."
+    ],
+    "catches": [
+      "Special exhibitions may be charged separately."
+    ],
+    "tags": [
+      "museums victoria",
+      "scienceworks",
+      "museum",
+      "melbourne",
+      "free"
+    ],
+    "source": {
+      "url": "https://museumsvictoria.com.au/scienceworks/visiting/admission-prices",
+      "label": "Museums Victoria: Scienceworks admission prices"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Concession is free",
+        "quote": "Concession2 Free",
+        "url": "https://museumsvictoria.com.au/scienceworks/visiting/admission-prices",
+        "page_date": null
+      },
+      {
+        "claim": "Student Card qualifies",
+        "quote": "These cards entitle you to concession entry: Carer Card, Health Care Card, Pension Card, Student Card, Veterans Affairs Card.",
+        "url": "https://museumsvictoria.com.au/scienceworks/visiting/admission-prices",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "museums-victoria-immigration-museum-free-student-entry",
+    "name": "Immigration Museum free entry with a Student Card",
+    "provider": "Museums Victoria",
+    "category": "streaming",
+    "summary": "Student Card holders get free concession entry to Immigration Museum in Melbourne; adults otherwise pay $15.",
+    "key": "Concession entry is free (adult entry $15).",
+    "who": [
+      "Student Card holders (also Health Care Card, Pension and Carer Card holders)."
+    ],
+    "catches": [
+      "Special exhibitions may be charged separately."
+    ],
+    "tags": [
+      "museums victoria",
+      "immigration museum",
+      "museum",
+      "melbourne",
+      "free"
+    ],
+    "source": {
+      "url": "https://museumsvictoria.com.au/immigrationmuseum/visiting/admission-prices",
+      "label": "Museums Victoria: Immigration Museum admission prices"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Concession is free",
+        "quote": "Concession2 | Free |",
+        "url": "https://museumsvictoria.com.au/immigrationmuseum/visiting/admission-prices",
+        "page_date": null
+      },
+      {
+        "claim": "Student Card qualifies",
+        "quote": "These cards entitle you to concession entry: Carer Card, Health Care Card, Pension Card, Student Card, Veterans Affairs Card.",
+        "url": "https://museumsvictoria.com.au/immigrationmuseum/visiting/admission-prices",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "australian-national-maritime-museum-concession",
+    "name": "Australian National Maritime Museum concession tickets and membership",
+    "provider": "Australian National Maritime Museum",
+    "category": "streaming",
+    "summary": "Concession See it all tickets and a cheaper concession annual membership for full-time students at the Maritime Museum, Darling Harbour.",
+    "key": "Concession annual membership is $85 for full-time students; See it all concession tickets are $30 (adult $35).",
+    "who": [
+      "Full-time students (also adults over 60, pensioners and the unemployed)."
+    ],
+    "catches": [
+      "The page does not spell out who qualifies for the $30 See it all concession ticket."
+    ],
+    "tags": [
+      "maritime museum",
+      "darling harbour",
+      "museum",
+      "sydney",
+      "membership"
+    ],
+    "source": {
+      "url": "https://www.sea.museum/visit/tickets",
+      "label": "Australian National Maritime Museum: Tickets"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Concession ticket",
+        "quote": "Concession: $30.00",
+        "url": "https://www.sea.museum/visit/tickets",
+        "page_date": null
+      },
+      {
+        "claim": "Membership for full-time students",
+        "quote": "Concession (full time student or adult over 60 or pensioner or unemployed): $85.00",
+        "url": "https://www.sea.museum/visit/tickets",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "art-gallery-nsw-student-concession",
+    "name": "Art Gallery of NSW free entry and student concession",
+    "provider": "Art Gallery of New South Wales",
+    "category": "streaming",
+    "summary": "Free general entry to the Art Gallery of NSW, with concession tickets for full-time student card holders at ticketed exhibitions.",
+    "key": "Entry to the Art Gallery is free and does not require a ticket.",
+    "who": [
+      "Full-time student card holders, for concession tickets to ticketed exhibitions."
+    ],
+    "how": [
+      "Bring your card to show at the exhibition entry."
+    ],
+    "catches": [
+      "Concession prices are not stated on this page.",
+      "The gallery's Inspire membership also has concession pricing for full-time student card holders."
+    ],
+    "tags": [
+      "agnsw",
+      "art gallery",
+      "sydney",
+      "free",
+      "exhibitions"
+    ],
+    "source": {
+      "url": "https://www.artgallery.nsw.gov.au/visit/plan-your-visit/visit-faqs",
+      "label": "Art Gallery of NSW: Visit FAQs"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free entry",
+        "quote": "Entry to the Art Gallery is free and does not require a ticket.",
+        "url": "https://www.artgallery.nsw.gov.au/visit/plan-your-visit/visit-faqs",
+        "page_date": null
+      },
+      {
+        "claim": "Student concession",
+        "quote": "...or Full Time Student Card, you are eligible for a concession ticket.",
+        "url": "https://www.artgallery.nsw.gov.au/visit/plan-your-visit/visit-faqs",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "australian-museum-student-concession",
+    "name": "Australian Museum free entry and student concession",
+    "provider": "Australian Museum",
+    "category": "streaming",
+    "summary": "Free general entry to the Australian Museum in Sydney, with reduced prices for Australian and international student card holders at major exhibitions.",
+    "key": "The Australian Museum has free general entry.",
+    "who": [
+      "Australian Student Card holders and International Student Card holders, for reduced exhibition prices."
+    ],
+    "how": [
+      "Show your concession card on admission."
+    ],
+    "catches": [
+      "Fees apply for major exhibitions; reduced prices are not stated."
+    ],
+    "tags": [
+      "australian museum",
+      "museum",
+      "sydney",
+      "free"
+    ],
+    "source": {
+      "url": "https://australian.museum/visit/admission/",
+      "label": "Australian Museum: Admission"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free entry",
+        "quote": "The Australian Museum has FREE general entry.",
+        "url": "https://australian.museum/visit/admission/",
+        "page_date": null
+      },
+      {
+        "claim": "Student cards",
+        "quote": "Concession cards must be shown upon admission to receive the reduced ticket prices:",
+        "url": "https://australian.museum/visit/admission/",
+        "page_date": null
+      }
+    ]
+  }
+]

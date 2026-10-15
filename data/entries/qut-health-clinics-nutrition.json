@@ -1,0 +1,40 @@
+{
+  "id": "qut-health-clinics-nutrition",
+  "name": "QUT Health Clinics nutrition and dietetics",
+  "provider": "QUT",
+  "category": "health",
+  "summary": "Free or low-cost nutrition and dietetics appointments at QUT Health Clinics.",
+  "catches": [
+    "The page doesn't say which appointments are free and which are low cost."
+  ],
+  "tags": [
+    "qut",
+    "health clinic",
+    "nutrition",
+    "dietitian",
+    "low cost"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/student-life/support",
+    "label": "QUT: Student support"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free or low-cost",
+      "quote": "QUT Health Clinics also offers free or low-cost appointments in nutrition and dietetics",
+      "url": "https://www.qut.edu.au/study/student-life/support",
+      "page_date": null
+    }
+  ]
+}

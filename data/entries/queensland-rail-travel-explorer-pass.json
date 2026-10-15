@@ -1,0 +1,50 @@
+{
+  "id": "queensland-rail-travel-explorer-pass",
+  "name": "Queensland Explorer Pass for international students",
+  "provider": "Queensland Rail Travel",
+  "category": "transport",
+  "summary": "Unlimited Queensland long-distance rail travel for one or two months for overseas visitors, including student visa holders.",
+  "key": "$299.00 for 1 month; $389.00 for 2 months.",
+  "who": [
+    "Genuine overseas visitors to Australia, including international visitors on working holiday and student visas."
+  ],
+  "catches": [
+    "Passes must not be used to travel between two stations more than twice.",
+    "Purchasers have twelve months from the date of purchase to commence travel."
+  ],
+  "tags": [
+    "queensland rail",
+    "rail pass",
+    "international students",
+    "qld"
+  ],
+  "source": {
+    "url": "https://www.queenslandrailtravel.com.au/PolicyCentre/Pages/FareTypes.aspx",
+    "label": "Queensland Rail Travel: Fare Types"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Student visa holders eligible",
+      "quote": "including international visitors on working holiday and student visas.",
+      "url": "https://www.queenslandrailtravel.com.au/PolicyCentre/Pages/FareTypes.aspx",
+      "page_date": null
+    },
+    {
+      "claim": "Unlimited travel",
+      "quote": "Queensland Explorer Passes must not be used to travel between two stations more than twice.",
+      "url": "https://www.queenslandrailtravel.com.au/PolicyCentre/Pages/FareTypes.aspx",
+      "page_date": null
+    }
+  ]
+}

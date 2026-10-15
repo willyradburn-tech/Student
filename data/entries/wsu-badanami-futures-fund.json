@@ -1,0 +1,62 @@
+{
+  "id": "wsu-badanami-futures-fund",
+  "name": "Badanami Futures Fund",
+  "provider": "Western Sydney University",
+  "category": "uni",
+  "summary": "Emergency and futures grants for Aboriginal and Torres Strait Islander WSU students facing financial need or study barriers.",
+  "key": "Emergency Grants up to $500; Futures Grants up to $2,000, with an overall maximum of $2,000 per application.",
+  "who": [
+    "Identify as an Aboriginal and/or Torres Strait Islander person",
+    "Currently enrolled at Western Sydney University",
+    "Provide Confirmation of Identity documentation",
+    "Demonstrate financial need or a barrier to study"
+  ],
+  "how": [
+    "Apply via the Apply Now form; Emergency Grants need only a personal statement and COI"
+  ],
+  "catches": [
+    "Up to two instances within an 18-month period",
+    "Subject to available funding"
+  ],
+  "tags": [
+    "wsu",
+    "first-nations",
+    "indigenous",
+    "grant",
+    "emergency"
+  ],
+  "source": {
+    "url": "https://www.westernsydney.edu.au/scholarships/important-dates/badanami-futures-fund",
+    "label": "Western Sydney University: Badanami Futures Fund"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Overall maximum $2,000",
+      "quote": "an overall maximum of $2,000 per application.",
+      "url": "https://www.westernsydney.edu.au/scholarships/important-dates/badanami-futures-fund",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

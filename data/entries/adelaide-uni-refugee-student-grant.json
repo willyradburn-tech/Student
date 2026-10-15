@@ -1,0 +1,71 @@
+{
+  "id": "adelaide-uni-refugee-student-grant",
+  "name": "Adelaide University Refugee Student Grant",
+  "provider": "Adelaide University",
+  "category": "uni",
+  "summary": "$2,500 grant for commencing full-time undergraduate or pathway students from a refugee or humanitarian background with financial disadvantage.",
+  "key": "Total value $2,500, paid in two instalments of $1,250.",
+  "who": [
+    "Refugee or Humanitarian background",
+    "Commencing student enrolled in an undergraduate or Pathways and Participation program",
+    "Demonstrated financial disadvantage",
+    "Full-time study load"
+  ],
+  "how": [
+    "Online application via myScholarships with a written statement of up to 500 words"
+  ],
+  "catches": [
+    "2026 applications opened 19 January 2026 and closed 15 March 2026; check for the next round"
+  ],
+  "tags": [
+    "adelaide uni",
+    "adelaide university",
+    "adelaide",
+    "sa",
+    "refugee",
+    "humanitarian",
+    "grant"
+  ],
+  "source": {
+    "url": "https://adelaideuni.edu.au/study/scholarships/refugee-student-grant",
+    "label": "Adelaide University: Refugee Student Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Total value $2,500",
+      "url": "https://adelaideuni.edu.au/study/scholarships/refugee-student-grant",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Refugee or Humanitarian background.",
+      "url": "https://adelaideuni.edu.au/study/scholarships/refugee-student-grant",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close Sunday 15 March 2026",
+      "url": "https://adelaideuni.edu.au/study/scholarships/refugee-student-grant",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

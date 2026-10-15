@@ -1,0 +1,64 @@
+{
+  "id": "monash-commonwealth-indigenous-relocation-scholarship",
+  "name": "Monash Commonwealth Indigenous Relocation Scholarship",
+  "provider": "Monash University",
+  "category": "uni",
+  "summary": "A one-off payment of up to $6,000 for Indigenous students relocating from regional or remote areas to study at Monash.",
+  "key": "Up to $6,000, paid once.",
+  "who": [
+    "Indigenous Australian commencing full-time undergraduate study at a Monash campus in Australia.",
+    "Relocating from a regional or remote area and experiencing financial hardship."
+  ],
+  "how": [
+    "Apply through VTAC SEAS or directly to Monash."
+  ],
+  "tags": [
+    "monash",
+    "monash university",
+    "melbourne",
+    "vic",
+    "indigenous",
+    "first nations",
+    "relocation",
+    "regional"
+  ],
+  "source": {
+    "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/commonwealth-indigenous-relocation-scholarship-6097",
+    "label": "Monash: Commonwealth Indigenous Relocation Scholarship"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Up to $6000",
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/commonwealth-indigenous-relocation-scholarship-6097",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

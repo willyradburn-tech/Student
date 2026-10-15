@@ -1,0 +1,58 @@
+{
+  "id": "usyd-chancellors-committee-atsi-bursary",
+  "name": "Chancellor's Committee Aboriginal and Torres Strait Islander Students Bursary",
+  "provider": "University of Sydney",
+  "category": "uni",
+  "summary": "Once-off bursary for Aboriginal or Torres Strait Islander undergraduate students at the University of Sydney.",
+  "key": "Up to $3,000, paid once.",
+  "who": [
+    "Undergraduate or undergraduate diploma student who is Aboriginal or Torres Strait Islander",
+    "Must also meet the general advertised bursary criteria"
+  ],
+  "catches": [
+    "Advertised bursaries open in set rounds; the Semester 2 2026 round closed 13 September 2026, so watch for the next round",
+    "Meeting the criteria does not guarantee a bursary"
+  ],
+  "tags": [
+    "usyd",
+    "bursary",
+    "first-nations",
+    "indigenous",
+    "sydney"
+  ],
+  "source": {
+    "url": "https://www.sydney.edu.au/students/financial-support/advertised-bursaries.html",
+    "label": "University of Sydney: Advertised bursaries"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Up to $3,000 once",
+      "quote": "Chancellor's Committee Aboriginal and Torres Strait Islander Students Bursary",
+      "url": "https://www.sydney.edu.au/students/financial-support/advertised-bursaries.html",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

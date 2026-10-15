@@ -1,0 +1,76 @@
+{
+  "id": "griffith-rotary-southport-cyril-richarde-international-scholarship",
+  "name": "Rotary Club of Southport Cyril Richarde AM International Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "$5,000 scholarship for a continuing Griffith international student committed to community service and to supporting their home community.",
+  "key": "$5,000 (paid in two instalments of $2,500)",
+  "who": [
+    "Citizen of a country other than Australia or New Zealand, with preference for listed countries",
+    "Minimum GPA of 4.0 in current Griffith program",
+    "Full-time continuing student in Trimester 1 2027 with at least two trimesters remaining"
+  ],
+  "how": [
+    "Apply online with a statement of up to 300 words on your community involvement"
+  ],
+  "catches": [
+    "Apply by 13 March 2027",
+    "Outcome by 26 March 2027"
+  ],
+  "tags": [
+    "griffith",
+    "gold coast",
+    "rotary",
+    "community service",
+    "qld",
+    "international",
+    "intl",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/rotary-club-of-southport-cyril-richarde-am-international-scholarship",
+    "label": "Griffith University: Rotary Club of Southport Cyril Richarde AM International Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$5,000 (paid in two instalments of $2,500)",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/rotary-club-of-southport-cyril-richarde-am-international-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Citizenship",
+      "quote": "Be a citizen of a country other than Australia or New Zealand, with preference given to the following countries",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/rotary-club-of-southport-cyril-richarde-am-international-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Apply by: 13 March 2027",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/rotary-club-of-southport-cyril-richarde-am-international-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

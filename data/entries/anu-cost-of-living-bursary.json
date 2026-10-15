@@ -1,0 +1,60 @@
+{
+  "id": "anu-cost-of-living-bursary",
+  "name": "ANU Cost of Living Bursary",
+  "provider": "Australian National University",
+  "category": "uni",
+  "summary": "Basic Needs Supports bursary for domestic ANU undergraduates who are First Nations or from a low-SES postcode.",
+  "key": "Cost of Living bursary: $300 per semester",
+  "who": [
+    "Undergraduate, domestic",
+    "First Nations, or low-SES by postcode"
+  ],
+  "how": [
+    "Apply through the Basic Needs Supports online form"
+  ],
+  "tags": [
+    "anu",
+    "canberra",
+    "act",
+    "basic needs",
+    "low ses",
+    "first nations",
+    "bursary"
+  ],
+  "source": {
+    "url": "https://www.anu.edu.au/students/health-safety-wellbeing/spending-well/financial-advice-and-assistance",
+    "label": "ANU: Financial advice and assistance"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "Cost of Living bursary: $300 per semester",
+      "url": "https://www.anu.edu.au/students/health-safety-wellbeing/spending-well/financial-advice-and-assistance",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Eligible students must be: Undergraduate, Domestic, and either First Nations, or Low-SES by postcode*",
+      "url": "https://www.anu.edu.au/students/health-safety-wellbeing/spending-well/financial-advice-and-assistance",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

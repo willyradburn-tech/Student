@@ -1,0 +1,66 @@
+{
+  "id": "uq-leo-howard-memorial-bursary",
+  "name": "Leo Howard Memorial Bursary (UQ)",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "Bursary for early-stage full-time UQ engineering students who can show financial hardship.",
+  "who": [
+    "Enrolled full-time in the BE(Hons), BE(Hons)/Master of Engineering, or an engineering dual.",
+    "Has completed between 12 and 18 units.",
+    "Can demonstrate financial hardship."
+  ],
+  "how": [
+    "Apply using the online application portal with a cover letter, resume, mySI-net studies report and evidence of financial hardship."
+  ],
+  "catches": [
+    "The value is set each year by the Associate Dean (Academic).",
+    "Opens January 2027 and closes March 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "engineering",
+    "bursary",
+    "financial hardship"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/leo-howard-memorial-bursary",
+    "label": "UQ Scholarships: Leo Howard Memorial Bursary"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value set each year",
+      "quote": "The Associate Dean (Academic) will determine the value of the scholarships each year.",
+      "url": "https://scholarships.uq.edu.au/scholarship/leo-howard-memorial-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "Financial hardship",
+      "quote": "can demonstrate financial hardship.",
+      "url": "https://scholarships.uq.edu.au/scholarship/leo-howard-memorial-bursary",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

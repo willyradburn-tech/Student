@@ -1,0 +1,80 @@
+{
+  "id": "qut-rotary-feros-health-student-grants",
+  "name": "Rotary Feros Health Student Grants",
+  "provider": "QUT and Rotary",
+  "category": "uni",
+  "summary": "Grants towards rural, regional or remote clinical placements for full-time QUT health students.",
+  "key": "$1,650 each, paid when the approved clinical placement starts.",
+  "who": [
+    "Australian or NZ citizen, permanent resident or permanent humanitarian visa holder.",
+    "Full-time at QUT.",
+    "Enrolled or on track to enrol in an eligible clinical unit, such as Paramedic Science, Radiation Therapy, Nutrition and Dietetics, Exercise Physiology, Podiatry, Optometry or Medical Imaging."
+  ],
+  "how": [
+    "Apply with the application form, a CV and a written response of up to 1,000 words on yourself and your intended learning outcomes."
+  ],
+  "catches": [
+    "One grant per student over your time at QUT.",
+    "The terms don't give the closing date. Ask health.engage@qut.edu.au."
+  ],
+  "tags": [
+    "qut",
+    "health",
+    "placement",
+    "rural",
+    "regional",
+    "paramedic",
+    "grant"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/rotary-feros-health-grants",
+    "label": "QUT: Rotary Feros Health Student Grants"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    },
+    "prac": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$1,650 each",
+      "quote": "The Rotary Feros Health Student Grants are valued at $1,650 each",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0011/1253756/rotary-feros-health-grant-terms-conditions.pdf",
+      "page_date": null
+    },
+    {
+      "claim": "Full-time",
+      "quote": "Must be studying at QUT full-time,",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0011/1253756/rotary-feros-health-grant-terms-conditions.pdf",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

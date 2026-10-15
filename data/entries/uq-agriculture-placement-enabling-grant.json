@@ -1,0 +1,63 @@
+{
+  "id": "uq-agriculture-placement-enabling-grant",
+  "name": "UQ School of Agriculture and Food Sustainability Placement Enabling Grant",
+  "provider": "University of Queensland, School of Agriculture and Food Sustainability",
+  "category": "uni",
+  "summary": "Grant towards the travel and accommodation costs of placements for UQ agriculture and food sustainability students.",
+  "key": "Up to $2,500.",
+  "who": [
+    "Can show financial impost from your placement.",
+    "Domestic or international, enrolled in at least a 50% load in an approved program.",
+    "Doing placements of at least 120 hours in total in the year of the award."
+  ],
+  "how": [
+    "Submit the online application form with placement dates, location, accommodation and travel costs."
+  ],
+  "catches": [
+    "Allocated four times a year. Closing dates are 31 January, 30 April, 31 July and 31 October, at 11.59pm AEST."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "placement",
+    "agriculture",
+    "gatton",
+    "prac"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/school-agriculture-and-food-sustainability-placement-enabling-grant",
+    "label": "UQ Scholarships: School of Agriculture and Food Sustainability Placement Enabling Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "prac": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Up to $2,500",
+      "quote": "up to $2,500",
+      "url": "https://scholarships.uq.edu.au/scholarship/school-agriculture-and-food-sustainability-placement-enabling-grant",
+      "page_date": null
+    },
+    {
+      "claim": "Placement cost impost",
+      "quote": "can demonstrate financial impost associated with your placement",
+      "url": "https://scholarships.uq.edu.au/scholarship/school-agriculture-and-food-sustainability-placement-enabling-grant",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-10-31"
+}

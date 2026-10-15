@@ -1,0 +1,57 @@
+{
+  "id": "city-of-melbourne-fareshare-library-feeds",
+  "name": "Kathleen Syme Library FareShare free meals",
+  "provider": "City of Melbourne libraries with FareShare",
+  "category": "health",
+  "summary": "Free pre-prepared meals for international students, collected from the FareShare freezer at Kathleen Syme Library in Carlton.",
+  "key": "free nutritious pre-prepared meals",
+  "who": [
+    "International students (as listed by Study Melbourne)"
+  ],
+  "how": [
+    "Collect from the FareShare freezer during library hours"
+  ],
+  "catches": [
+    "2 meals per person, per visit",
+    "Category is the closest fit: food relief"
+  ],
+  "tags": [
+    "international",
+    "intl",
+    "melbourne",
+    "vic",
+    "carlton",
+    "food",
+    "free meals",
+    "fareshare",
+    "food relief"
+  ],
+  "source": {
+    "url": "https://studymelbourne.vic.gov.au/living-here/help-in-tough-times/food-and-financial-help",
+    "label": "Study Melbourne: Food and financial help for international students"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free meals",
+      "quote": "free nutritious pre-prepared meals",
+      "url": "https://studymelbourne.vic.gov.au/living-here/help-in-tough-times/food-and-financial-help",
+      "page_date": null
+    }
+  ]
+}

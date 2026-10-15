@@ -1,0 +1,44 @@
+{
+  "id": "scu-pals-peer-learning",
+  "name": "SCU Peer Assisted Learning Support (PALS)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "Free 30-minute online study sessions with experienced fellow students for anyone enrolled at SCU.",
+  "key": "A free 30-minute online appointment with a PALS Mentor.",
+  "who": [
+    "Any student enrolled at Southern Cross University."
+  ],
+  "how": [
+    "Book an online appointment with a PALS Mentor."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "tutoring",
+    "study help",
+    "peer mentor"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/current-students/learning-zone/pals/",
+    "label": "Southern Cross University: PALS"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free sessions",
+      "quote": "Any student enrolled at Southern Cross University can book a free 30-minute online appointment",
+      "url": "https://www.scu.edu.au/current-students/learning-zone/pals/",
+      "page_date": null
+    }
+  ]
+}

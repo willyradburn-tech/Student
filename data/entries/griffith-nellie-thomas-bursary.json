@@ -1,0 +1,69 @@
+{
+  "id": "griffith-nellie-thomas-bursary",
+  "name": "Nellie Thomas Bursary",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $2,000 for Aboriginal and Torres Strait Islander medicine and health students facing financial disadvantage.",
+  "key": "Maximum value is $2,000, payable in a single instalment.",
+  "who": [
+    "Australian citizen or permanent resident.",
+    "Aboriginal and/or Torres Strait Islander.",
+    "Accepted into or enrolled in a program in medicine or health.",
+    "Can demonstrate financial disadvantage."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Apply by Monday 19 April 2027, 4pm, for Trimester 1 2027.",
+    "Priority goes to School of Medicine and Dentistry students."
+  ],
+  "tags": [
+    "griffith",
+    "first nations",
+    "indigenous",
+    "medicine",
+    "health"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-nellie-thomas-bursary",
+    "label": "Griffith University: Nellie Thomas Bursary"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value is $2,000, payable in a single instalment.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-nellie-thomas-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "Aboriginal and/or Torres Strait Islander",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-nellie-thomas-bursary",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

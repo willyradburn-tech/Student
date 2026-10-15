@@ -1,0 +1,45 @@
+{
+  "id": "framer-student",
+  "name": "Framer student plan",
+  "provider": "Framer",
+  "category": "software",
+  "summary": "A one-year Framer student discount with hosting for a personal portfolio site.",
+  "how": [
+    "Apply with your name, school, school email, expected graduation date and a photo of your student ID."
+  ],
+  "catches": [
+    "Personal student website only.",
+    "Only new customers can redeem coupon codes.",
+    "Page says hosting is worth $120 per year but doesn't state the discount amount."
+  ],
+  "tags": [
+    "website",
+    "portfolio",
+    "design",
+    "framer",
+    "no-code"
+  ],
+  "source": {
+    "url": "https://www.framer.com/education/",
+    "label": "Framer: Education"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Re-apply each year",
+      "quote": "You can re-apply for a new Student discount every 11 months for as long as you are a student.",
+      "url": "https://www.framer.com/education/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Students must be enrolled in a certified in-person or online program, like a high school, college, or university.",
+      "url": "https://www.framer.com/education/",
+      "page_date": null
+    }
+  ]
+}

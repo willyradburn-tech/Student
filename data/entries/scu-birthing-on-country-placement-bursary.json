@@ -1,0 +1,68 @@
+{
+  "id": "scu-birthing-on-country-placement-bursary",
+  "name": "Birthing on Country Placement Bursary (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "A $2,500 bursary for Aboriginal and Torres Strait Islander SCU midwifery students on a placement at an Aboriginal Health Service.",
+  "key": "$2,500 for one year.",
+  "who": [
+    "Identify as an Aboriginal and/or Torres Strait Islander person.",
+    "Enrolled or intending to enrol in a Midwifery Professional Experience unit.",
+    "Available to attend the Birthing on Country placement and present to peers about it."
+  ],
+  "how": [
+    "Apply through the online form linked from the bursary page."
+  ],
+  "catches": [
+    "Open until places are filled or project funds run out.",
+    "Six bursaries available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "midwifery",
+    "placement",
+    "indigenous",
+    "sistabirth"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/birthing-on-country-placement-bursary/",
+    "label": "Southern Cross University: Birthing on Country Placement Bursary"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$2,500 for one year.",
+      "url": "https://www.scu.edu.au/scholarships/birthing-on-country-placement-bursary/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Applicants must identify as an Aboriginal person and/or Torres Strait Islander person.",
+      "url": "https://www.scu.edu.au/scholarships/birthing-on-country-placement-bursary/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

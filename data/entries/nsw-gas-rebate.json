@@ -1,0 +1,62 @@
+{
+  "id": "nsw-gas-rebate",
+  "name": "NSW Gas Rebate",
+  "provider": "NSW Government",
+  "category": "payments",
+  "summary": "Daily credit on your natural gas bill for NSW households holding a Health Care Card or other eligible concession card.",
+  "who": [
+    "Live in NSW at your principal place of residence",
+    "Hold a Pensioner Concession Card, Health Care Card, Low Income Health Care Card or DVA Veteran Gold Card"
+  ],
+  "how": [
+    "Call your gas retailer.",
+    "Ask for the NSW Gas Rebate to be applied to your account."
+  ],
+  "catches": [
+    "One NSW Gas Rebate per household per financial year; the page does not state the amount."
+  ],
+  "tags": [
+    "gas",
+    "energy",
+    "health care card",
+    "nsw",
+    "New South Wales"
+  ],
+  "source": {
+    "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-retail-customers",
+    "label": "Service NSW: Apply for the Gas Rebate (retail customers)"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligible cards",
+      "quote": "Health Care Card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-retail-customers",
+      "page_date": null
+    },
+    {
+      "claim": "Principal residence",
+      "quote": "You can only receive the rebate for your principal place of residence.",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-retail-customers",
+      "page_date": null
+    }
+  ]
+}

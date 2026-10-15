@@ -1,0 +1,35 @@
+{
+  "id": "codecademy-student",
+  "name": "Codecademy Pro student discount",
+  "provider": "Codecademy",
+  "category": "software",
+  "summary": "Discounted Codecademy Pro for eligible students.",
+  "key": "Eligible students get over 35% off the regular Pro price.",
+  "catches": [
+    "The page doesn't define eligibility; verification happens after login."
+  ],
+  "tags": [
+    "coding",
+    "programming",
+    "python",
+    "javascript",
+    "codecademy"
+  ],
+  "source": {
+    "url": "https://www.codecademy.com/student-center",
+    "label": "Codecademy: Student Center"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "35% off",
+      "quote": "eligible students get complete access to our interactive curriculum for over 35% off the regular price",
+      "url": "https://www.codecademy.com/student-center",
+      "page_date": null
+    }
+  ]
+}

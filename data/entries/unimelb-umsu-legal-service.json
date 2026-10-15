@@ -1,0 +1,55 @@
+{
+  "id": "unimelb-umsu-legal-service",
+  "name": "UMSU Legal Service",
+  "provider": "University of Melbourne Student Union",
+  "category": "uni",
+  "summary": "Free, confidential legal advice and financial counselling for current University of Melbourne students.",
+  "who": [
+    "University of Melbourne students."
+  ],
+  "how": [
+    "Submit an intake form online, Monday to Thursday."
+  ],
+  "catches": [
+    "Covers issues such as renting, employment, visas, discrimination and fines."
+  ],
+  "tags": [
+    "unimelb",
+    "university of melbourne",
+    "melbourne",
+    "vic",
+    "legal",
+    "financial counselling",
+    "free",
+    "student union",
+    "umsu"
+  ],
+  "source": {
+    "url": "https://umsu.unimelb.edu.au/guide/article/umsu/Where-do-I-go-if-I-need-help/support/legal/",
+    "label": "UMSU: Legal"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free legal advice and financial counselling",
+      "quote": "UniMelb students with free and confidential legal advice and financial counselling",
+      "url": "https://umsu.unimelb.edu.au/guide/article/umsu/Where-do-I-go-if-I-need-help/support/legal/",
+      "page_date": null
+    }
+  ]
+}

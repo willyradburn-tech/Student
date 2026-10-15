@@ -1,0 +1,58 @@
+{
+  "id": "uq-bel-overseas-study-assistance-scholarships",
+  "name": "UQ BEL Overseas Study Assistance Scholarships",
+  "provider": "University of Queensland, Faculty of Business, Economics and Law",
+  "category": "uni",
+  "summary": "Automatic exchange scholarships for UQ business, economics and law students who get credit for an approved overseas experience.",
+  "key": "Up to AUD $5,000 for semester-based exchange, and up to AUD $2,500 for short-term global experiences.",
+  "who": [
+    "Enrolled in a BEL program, including duals.",
+    "Completing a UQ-approved exchange or short-term experience with a listed partner, and getting academic credit for it."
+  ],
+  "how": [
+    "No application needed. Selection is competitive, based on merit, host university and funding."
+  ],
+  "catches": [
+    "The BEL Faculty offers 6 per semester.",
+    "Can't be combined with another UQ exchange grant for the same experience, but OS-HELP is allowed.",
+    "Recipients give a written testimonial and a short video."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "business",
+    "economics",
+    "law",
+    "exchange",
+    "study abroad"
+  ],
+  "source": {
+    "url": "https://employability.uq.edu.au/exchange-funding",
+    "label": "UQ Employability: Exchange funding"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "field": {
+      "yes": [
+        "business"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "6 scholarships per semester",
+      "quote": "The BEL Faculty offers 6 Overseas Study Assistance Scholarships per semester",
+      "url": "https://employability.uq.edu.au/financial-support",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

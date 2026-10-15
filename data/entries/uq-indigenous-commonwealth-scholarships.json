@@ -1,0 +1,70 @@
+{
+  "id": "uq-indigenous-commonwealth-scholarships",
+  "name": "UQ Indigenous Commonwealth Scholarships (UQ-ICS)",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "Per-semester education costs and accommodation scholarships for Aboriginal and Torres Strait Islander students in any UQ coursework program.",
+  "key": "UQ-ICECS: $1,500 each semester, UQ-ICAS $2,500 each semester.",
+  "who": [
+    "Australian citizen.",
+    "Aboriginal and/or Torres Strait Islander person.",
+    "Enrolled in any coursework program in the semester of the award.",
+    "Not getting assistance from another Commonwealth source for the same purpose."
+  ],
+  "how": [
+    "Apply using the online application form. One application covers all scholarships in the Aboriginal and Torres Strait Islander Education Scholarship scheme."
+  ],
+  "catches": [
+    "Applications opened 17 August 2026 and close 26 February 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "indigenous",
+    "first nations",
+    "aboriginal",
+    "torres strait islander",
+    "accommodation"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/uq-indigenous-commonwealth-scholarships-uq-ics",
+    "label": "UQ Scholarships: UQ Indigenous Commonwealth Scholarships (UQ-ICS)"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Per-semester amounts",
+      "quote": "UQ-ICECS: $1,500 each semester, UQ-ICAS $2,500 each semester",
+      "url": "https://scholarships.uq.edu.au/scholarship/uq-indigenous-commonwealth-scholarships-uq-ics",
+      "page_date": null
+    },
+    {
+      "claim": "For Aboriginal and Torres Strait Islander students",
+      "quote": "an Australian Aboriginal and/or Torres Strait Islander person",
+      "url": "https://scholarships.uq.edu.au/scholarship/uq-indigenous-commonwealth-scholarships-uq-ics",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-26"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "usyd-src-legal-service",
+  "name": "Sydney Uni SRC Legal Service",
+  "provider": "University of Sydney Students' Representative Council",
+  "category": "uni",
+  "summary": "Free legal advice, court representation where relevant, and referrals for University of Sydney undergraduates.",
+  "key": "Free legal advice, representation in court where relevant, and a referral service.",
+  "who": [
+    "University of Sydney undergraduate students (postgraduates are referred to SUPRA)"
+  ],
+  "how": [
+    "Call 02 9660 5222, Monday to Friday 9am to 5pm"
+  ],
+  "catches": [
+    "Family Law and Commercial Law matters are referred to outside solicitors who charge at a fair rate"
+  ],
+  "tags": [
+    "usyd",
+    "legal",
+    "free",
+    "src",
+    "student-union",
+    "sydney"
+  ],
+  "source": {
+    "url": "https://srcusyd.net.au/src-help/src-legal-service/",
+    "label": "USyd SRC: SRC Legal Service"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free legal advice for undergraduates",
+      "quote": "FREE Legal Service for University of Sydney undergraduate students",
+      "url": "https://srcusyd.net.au/src-help/src-legal-service/",
+      "page_date": null
+    }
+  ]
+}

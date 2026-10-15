@@ -1,0 +1,72 @@
+{
+  "id": "sa-energy-bill-concession",
+  "name": "SA energy bill concession",
+  "provider": "ConcessionsSA (Government of South Australia)",
+  "category": "health",
+  "summary": "Yearly credit on your electricity bill for South Australians on Youth Allowance, Austudy, ABSTUDY or with a Low Income Health Care Card.",
+  "key": "Up to $291.27 a year.",
+  "who": [
+    "Live at the property",
+    "Have an energy account in your name, listed first on the bill",
+    "Hold an eligible card (such as a Low Income Health Care Card) or receive an eligible payment such as Youth Allowance, Austudy or ABSTUDY"
+  ],
+  "how": [
+    "Apply with the online household concessions form, a paper form, or by calling ConcessionsSA on 1800 307 758.",
+    "Have your Centrelink CRN, latest electricity and water bills and bank details ready."
+  ],
+  "catches": [
+    "The amount is indexed each financial year and paid as a daily rate, so each bill's credit varies."
+  ],
+  "tags": [
+    "SA",
+    "Adelaide",
+    "electricity",
+    "energy",
+    "Health Care Card",
+    "Youth Allowance",
+    "Austudy"
+  ],
+  "source": {
+    "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/energy-bill-concessions",
+    "label": "SA.GOV.AU: Energy bill concessions"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "Up to $291.27 a year.",
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/energy-bill-concessions",
+      "page_date": null
+    },
+    {
+      "claim": "Eligible payments include Youth Allowance and Austudy",
+      "quote": "Youth Allowance",
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/energy-bill-concessions",
+      "page_date": null
+    },
+    {
+      "claim": "Eligible card",
+      "quote": "Low Income Health Care Card",
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/energy-bill-concessions",
+      "page_date": null
+    }
+  ]
+}

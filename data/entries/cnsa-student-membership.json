@@ -1,0 +1,51 @@
+{
+  "id": "cnsa-student-membership",
+  "name": "CNSA student membership",
+  "provider": "Cancer Nurses Society of Australia",
+  "category": "career",
+  "summary": "Free membership of the Cancer Nurses Society of Australia for nursing students interested in cancer care.",
+  "key": "You can join CNSA for free.",
+  "who": [
+    "Enrolled in study towards an entry-to-practice nursing qualification",
+    "Have an interest in cancer care and control"
+  ],
+  "catches": [
+    "Documented evidence is required and subject to approval."
+  ],
+  "tags": [
+    "nursing",
+    "oncology",
+    "cancer care",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.cnsa.org.au/join/become-a-member.html",
+    "label": "CNSA: Membership Categories"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "You can join CNSA for free",
+      "url": "https://www.cnsa.org.au/join/become-a-member.html",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Be enrolled in study towards an entry to practice nursing qualification; and",
+      "url": "https://www.cnsa.org.au/join/become-a-member.html",
+      "page_date": null
+    }
+  ]
+}

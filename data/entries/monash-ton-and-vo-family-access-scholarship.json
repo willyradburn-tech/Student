@@ -1,0 +1,72 @@
+{
+  "id": "monash-ton-and-vo-family-access-scholarship",
+  "name": "Ton and Vo Family Access Scholarship (Monash)",
+  "provider": "Monash University",
+  "category": "uni",
+  "summary": "$10,000 a year for a commencing Monash science, engineering or health undergraduate in financial hardship from an under-represented school.",
+  "key": "$10,000 a year for up to four years.",
+  "who": [
+    "Commencing undergraduate in Science, Engineering or Medicine, Nursing and Health Sciences.",
+    "ATAR of 95+, or 80+ for Indigenous Australians.",
+    "Experiencing financial hardship and attended an under-represented school."
+  ],
+  "how": [
+    "Apply through the VTAC equity schemes (SEAS), or directly to Monash."
+  ],
+  "catches": [
+    "Only one scholarship is available.",
+    "It can't be deferred."
+  ],
+  "tags": [
+    "monash",
+    "monash university",
+    "melbourne",
+    "vic",
+    "engineering",
+    "science",
+    "health",
+    "equity"
+  ],
+  "source": {
+    "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/ton-and-vo-family-access-scholarship-6300",
+    "label": "Monash: Ton and Vo Family Access Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering",
+        "care",
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$10,000 per annum (48 credit points of study) up to a maximum of four years.",
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/ton-and-vo-family-access-scholarship-6300",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

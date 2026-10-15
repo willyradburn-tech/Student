@@ -1,0 +1,119 @@
+{
+  "id": "youth-allowance",
+  "name": "Youth Allowance",
+  "provider": "Services Australia",
+  "category": "payments",
+  "summary": "Fortnightly income support for young full-time students and apprentices.",
+  "tags": [
+    "centrelink",
+    "income support",
+    "fortnightly payment"
+  ],
+  "who": [
+    "Full-time students aged 18 to 24.",
+    "Full-time Australian Apprentices aged 16 to 24.",
+    "16 and 17 year olds only if they are independent or need to live away from home to study.",
+    "If you already get it, you can keep going after you turn 25 until your course or apprenticeship ends."
+  ],
+  "how": [
+    "Claim online through Services Australia. The official page walks you through who can get it and how to claim."
+  ],
+  "catches": [
+    "Under 22 you're usually treated as dependent, so your parents' income can reduce or stop your payment. You're independent from 22, or earlier if you meet a criterion such as supporting yourself through work or being unable to live at home.",
+    "Rates shown are maximum basic rates. They're indexed each 1 January.",
+    "Residence rules apply. Check them on the official page."
+  ],
+  "status": "rechecking",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "age": {
+      "min": 18,
+      "max": 24
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ],
+      "maybe": [
+        "pr"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://www.servicesaustralia.gov.au/who-can-get-youth-allowance-for-students-and-apprentices",
+    "label": "Services Australia: Youth Allowance for students and apprentices"
+  },
+  "key": "Up to $482.40 a fortnight if you're 18 or over and live at home, or $677.20 if you live away from home (single, no children).",
+  "numbers": [
+    [
+      "Single, 18 or over, at home",
+      "$482.40 a fortnight (maximum basic rate)"
+    ],
+    [
+      "Single, living away from home",
+      "$677.20 a fortnight (maximum basic rate)"
+    ],
+    [
+      "Parental income test",
+      "Applies if you're under 22 and not independent. Payment drops by 20 cents for each $1 of parental income over the free area."
+    ]
+  ],
+  "cap": "maybe",
+  "extra_sources": [
+    {
+      "url": "https://guides.dss.gov.au/social-security-guide/5/1/1/20",
+      "label": "DSS Social Security Guide: YA current rates"
+    },
+    {
+      "url": "https://guides.dss.gov.au/social-security-guide/3/2/5/10",
+      "label": "DSS Social Security Guide: independence for YA"
+    },
+    {
+      "url": "https://guides.dss.gov.au/social-security-guide/4/2/8/10",
+      "label": "DSS Social Security Guide: dependent YA parental income test"
+    }
+  ],
+  "evidence": [
+    {
+      "claim": "Full-time students aged 18 to 24",
+      "quote": "18 to 24 and studying full time",
+      "url": "https://www.servicesaustralia.gov.au/who-can-get-youth-allowance-for-students-and-apprentices",
+      "page_date": null
+    },
+    {
+      "claim": "16 and 17 year olds only if independent or living away",
+      "quote": "16 to 17 and independent or needing to live away from home to study",
+      "url": "https://www.servicesaustralia.gov.au/who-can-get-youth-allowance-for-students-and-apprentices",
+      "page_date": null
+    },
+    {
+      "claim": "$482.40 and $677.20 a fortnight",
+      "quote": "Single, 18+, living at home: $482.40 per fortnight; 16 years or more, living away from home: $677.20 per fortnight",
+      "url": "https://guides.dss.gov.au/social-security-guide/5/1/1/20",
+      "page_date": "2026-09-21"
+    },
+    {
+      "claim": "Independent from 22",
+      "quote": "considered independent from their 22nd birthday",
+      "url": "https://guides.dss.gov.au/social-security-guide/3/2/5/10",
+      "page_date": "2025-01-02"
+    },
+    {
+      "claim": "20 cents per $1 over the free area",
+      "quote": "$0.20 for every $1.00 over the parental income test free area",
+      "url": "https://guides.dss.gov.au/social-security-guide/4/2/8/10",
+      "page_date": "2025-01-02"
+    }
+  ],
+  "open_questions": [
+    "The current parental income free area amount. The DSS guide only shows $65,189 in a worked example dated 1 January 2025, so no figure is published.",
+    "The residence rules. The Services Australia page lists them in a section that didn't load."
+  ]
+}

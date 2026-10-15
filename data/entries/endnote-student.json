@@ -1,0 +1,34 @@
+{
+  "id": "endnote-student",
+  "name": "EndNote student price",
+  "provider": "Clarivate",
+  "category": "software",
+  "summary": "Discounted EndNote reference manager for verified students.",
+  "catches": [
+    "Shown as $150 one-time purchase; currency not stated. Many unis supply EndNote free, so check your library first."
+  ],
+  "tags": [
+    "referencing",
+    "citations",
+    "endnote",
+    "research",
+    "thesis"
+  ],
+  "source": {
+    "url": "https://endnote.com/buy/",
+    "label": "EndNote: Buy"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Student discount",
+      "quote": "Verify your EndNote student discount eligibility to receive EndNote at this discounted price.",
+      "url": "https://endnote.com/buy/",
+      "page_date": null
+    }
+  ]
+}

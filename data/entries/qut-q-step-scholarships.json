@@ -1,0 +1,52 @@
+{
+  "id": "qut-q-step-scholarships",
+  "name": "QTAC Educational Access Scheme (Q-Step) Scholarships",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "Equity scholarships at QUT for students who applied through QTAC's Educational Access Scheme.",
+  "key": "Valued at up to $4,200.",
+  "how": [
+    "Considered through the QUT Equity Scholarships Scheme."
+  ],
+  "catches": [
+    "You can get only one award from the Equity Scholarships Scheme each year."
+  ],
+  "tags": [
+    "qut",
+    "q-step",
+    "qtac",
+    "eas",
+    "equity",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/about/equity/equity-scholarships-scheme",
+    "label": "QUT: Equity Scholarships Scheme"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Up to $4,200",
+      "quote": "QTAC Educational Access Scheme (Q-Step) Scholarships, valued at up to $4,200.",
+      "url": "https://www.qut.edu.au/about/equity/equity-scholarships-scheme",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "uq-rd-arida-scholarship",
+  "name": "R D Arida Scholarship (UQ)",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "Aspire scheme scholarship for North Queensland students who hold the Queensland Commitment Scholarship.",
+  "key": "$4,500 for 1 year.",
+  "who": [
+    "Domestic student commencing any UQ bachelor program in Semester 1, with no prior bachelor-level study.",
+    "Maximum EAS Financial Hardship points and awarded The Queensland Commitment Scholarship.",
+    "Resident of North Queensland at the time of application."
+  ],
+  "how": [
+    "Apply using the online form. One application covers all scholarships in the Aspire Scholarship scheme."
+  ],
+  "catches": [
+    "Applications opened 17 August 2026 and close 26 February 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "aspire",
+    "north queensland",
+    "regional"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/r-d-arida-scholarship",
+    "label": "UQ Scholarships: R D Arida Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$4,500",
+      "quote": "$4,500",
+      "url": "https://scholarships.uq.edu.au/scholarship/r-d-arida-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "North Queensland resident",
+      "quote": "are a resident of North Queensland at the time of application.",
+      "url": "https://scholarships.uq.edu.au/scholarship/r-d-arida-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-26"
+}

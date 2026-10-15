@@ -1,0 +1,64 @@
+{
+  "id": "scu-bachelor-of-innovation-honours-scholarship",
+  "name": "Bachelor of Innovation with Honours Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$5,000 for graduates with a GPA of 5 or more enrolled in SCU's Bachelor of Innovation with Honours.",
+  "key": "$5,000.",
+  "who": [
+    "Enrolled full-time or part-time in the Bachelor of Innovation with Honours.",
+    "Hold an Australian bachelor degree with a GPA of at least 5.00.",
+    "Australian citizen or permanent resident."
+  ],
+  "how": [
+    "Apply using the Apply now link on the scholarship page, with a personal statement and a 300-word research statement."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "Four scholarships, and the panel may offer fewer."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "honours",
+    "innovation",
+    "research"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/bachelor-of-innovation-with-honours-scholarship/",
+    "label": "Southern Cross University: Bachelor of Innovation with Honours Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "GPA rule",
+      "quote": "Transcripts with a minimum GPA of 5.00 from undergraduate course",
+      "url": "https://www.scu.edu.au/scholarships/bachelor-of-innovation-with-honours-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/bachelor-of-innovation-with-honours-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

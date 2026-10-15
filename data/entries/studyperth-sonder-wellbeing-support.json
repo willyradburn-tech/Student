@@ -1,0 +1,53 @@
+{
+  "id": "studyperth-sonder-wellbeing-support",
+  "name": "StudyPerth free 24/7 wellbeing support (Sonder)",
+  "provider": "StudyPerth",
+  "category": "health",
+  "summary": "Free 24/7 safety and wellbeing help for international students in Perth, with nurses, mental health clinicians and counselling via the Sonder app.",
+  "key": "free, confidential, 24/7 safety and well-being assistance.",
+  "who": [
+    "International students in Western Australia"
+  ],
+  "how": [
+    "Fill in the form on the StudyPerth page to set up an account, or download the free Sonder app"
+  ],
+  "tags": [
+    "international",
+    "intl",
+    "wa",
+    "perth",
+    "counselling",
+    "mental health",
+    "wellbeing",
+    "sonder",
+    "studyperth"
+  ],
+  "source": {
+    "url": "https://www.studyperth.com.au/student-support/supportservices",
+    "label": "StudyPerth: Free Support Services"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "wa"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free 24/7 support",
+      "quote": "free, confidential, 24/7 safety and well-being assistance.",
+      "url": "https://www.studyperth.com.au/student-support/supportservices",
+      "page_date": null
+    }
+  ]
+}

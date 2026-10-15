@@ -1,0 +1,60 @@
+{
+  "id": "griffith-clem-jones-sporting-scholarship",
+  "name": "Clem Jones Sporting Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $3,000 for state or national level sportspeople with financial need studying a Griffith undergraduate degree.",
+  "key": "Maximum value of $3,000, paid in instalments.",
+  "who": [
+    "Australian citizen or permanent resident.",
+    "High level sportsperson competing at a state or national level.",
+    "Able to provide evidence of financial need."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Listed as opening soon for 2027; the overview lists Monday 8 March 2027, 4pm."
+  ],
+  "tags": [
+    "griffith",
+    "sport",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-clem-jones-sporting-scholarship",
+    "label": "Griffith University: Clem Jones Sporting Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value of $3,000, paid in instalments.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-clem-jones-sporting-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "a high level sportsperson, competing at a state or national level",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-clem-jones-sporting-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

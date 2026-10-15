@@ -1,0 +1,72 @@
+{
+  "id": "adelaide-uni-whyalla-student-support-grant",
+  "name": "Adelaide University Whyalla Student Support Grant",
+  "provider": "Adelaide University",
+  "category": "uni",
+  "summary": "$3,000 grant for 100% online Adelaide University students in the Whyalla region affected by the blast furnace closure.",
+  "key": "The value of the Grant is $3,000",
+  "who": [
+    "Enrolled part-time or full-time in a 100% online undergraduate or postgraduate coursework program",
+    "Live in the Whyalla region, or rely on a Whyalla household member affected by the blast furnace closure and redundancies",
+    "Australian citizen, permanent resident, New Zealand citizen or permanent humanitarian visa holder"
+  ],
+  "how": [
+    "Apply online via myScholarships"
+  ],
+  "catches": [
+    "Applications open Monday 28 September 2026 and close Sunday 25 October 2026",
+    "Must be used in the year it is offered"
+  ],
+  "tags": [
+    "adelaide uni",
+    "adelaide university",
+    "whyalla",
+    "sa",
+    "online",
+    "grant",
+    "regional"
+  ],
+  "source": {
+    "url": "https://adelaide.edu.au/study/scholarships/dom/whyalla-student-support-grant/",
+    "label": "Adelaide University: Whyalla Student Support Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "The value of the Grant is $3,000",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/whyalla-student-support-grant/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Sunday 25 October 2026",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/whyalla-student-support-grant/",
+      "page_date": null
+    },
+    {
+      "claim": "Program",
+      "quote": "100% online, undergraduate or postgraduate coursework program",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/whyalla-student-support-grant/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-10-25"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "tas-adult-travel-concession",
+  "name": "Tasmanian adult travel concession",
+  "provider": "Tasmanian Government",
+  "category": "transport",
+  "summary": "Half-price public transport fares in Tasmania for Health Care Card holders and eligible full-time university and TasTAFE students.",
+  "key": "A discount of 50% off the full fare.",
+  "who": [
+    "Holders of an eligible concession card, including the Services Australia Health Care Card",
+    "Eligible full-time adult students at university, TasTAFE or Tasmanian College of English carrying student ID"
+  ],
+  "catches": [
+    "A further 20% discount is applied when using a smartcard like Greencard, Transportme, or a 10-trip ticket, where available.",
+    "Fares are free for everyone until 30 June 2027."
+  ],
+  "tags": [
+    "Tasmania",
+    "Health Care Card",
+    "UTAS",
+    "bus",
+    "ferry",
+    "concession"
+  ],
+  "source": {
+    "url": "https://www.concessions.tas.gov.au/browse-categories/transport",
+    "label": "Tasmanian Concessions: Transport"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "A discount of 50% off the full fare.",
+      "url": "https://www.concessions.tas.gov.au/browse-categories/transport",
+      "page_date": null
+    },
+    {
+      "claim": "Students eligible",
+      "quote": "Eligible adult students (full-time students attending secondary college, university, TasTAFE or Tasmanian College of English. Must carry relevant student identification).",
+      "url": "https://www.concessions.tas.gov.au/browse-categories/transport",
+      "page_date": null
+    },
+    {
+      "claim": "Health Care Card shown as an eligible card",
+      "quote": "Services Australia Health Care Card",
+      "url": "https://www.concessions.tas.gov.au/browse-categories/transport",
+      "page_date": null
+    }
+  ]
+}

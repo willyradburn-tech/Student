@@ -1,0 +1,69 @@
+{
+  "id": "uq-flannery-foundation-scholarship",
+  "name": "Flannery Foundation Scholarship (UQ)",
+  "provider": "University of Queensland and Flannery Foundation",
+  "category": "uni",
+  "summary": "Aspire scheme scholarship for Queensland Commitment Scholarship holders from outer regional or remote Queensland.",
+  "key": "$4,500 for 1 year.",
+  "who": [
+    "Domestic student commencing any UQ bachelor program in Semester 1, with no prior bachelor-level study.",
+    "Maximum points in the Financial Hardship category of QTAC's Educational Access Scheme, and awarded The Queensland Commitment Scholarship.",
+    "Permanent resident of an Outer Regional, Remote or Very Remote area of Queensland more than 200km from Brisbane."
+  ],
+  "how": [
+    "Apply using the online form. One application covers all scholarships in the Aspire Scholarship scheme."
+  ],
+  "catches": [
+    "Applications opened 17 August 2026 and close 26 February 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "aspire",
+    "regional",
+    "remote",
+    "rural queensland"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/flannery-foundation-scholarship",
+    "label": "UQ Scholarships: Flannery Foundation Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$4,500",
+      "quote": "$4,500",
+      "url": "https://scholarships.uq.edu.au/scholarship/flannery-foundation-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Outer regional or remote Queensland",
+      "quote": "are a permanent resident of Outer Regional, Remote or Very Remote areas in Queensland",
+      "url": "https://scholarships.uq.edu.au/scholarship/flannery-foundation-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-26"
+}

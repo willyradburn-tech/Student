@@ -1,0 +1,67 @@
+{
+  "id": "monash-achieving-potential-support-scholarship",
+  "name": "Monash Achieving Potential Support Scholarship",
+  "provider": "Monash University",
+  "category": "uni",
+  "summary": "Up to $30,000 for commencing Monash undergraduates on a low income or facing financial hardship.",
+  "key": "$6,000 a year, up to $30,000 in total, with 250 awarded each year.",
+  "who": [
+    "Australian or NZ citizen, permanent resident or humanitarian visa holder.",
+    "Commencing undergraduate at a Monash campus in Australia.",
+    "Experiencing financial hardship, with low income required."
+  ],
+  "how": [
+    "VTAC applicants apply through the VTAC equity schemes (SEAS) to be considered automatically."
+  ],
+  "tags": [
+    "monash",
+    "monash university",
+    "melbourne",
+    "vic",
+    "equity",
+    "low income",
+    "undergraduate",
+    "seas"
+  ],
+  "source": {
+    "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/Achieving-Potential-Support-Scholarship-8001",
+    "label": "Monash: Achieving Potential Support Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Annual value",
+      "quote": "$6000 per annum (48 credit points of study)",
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/Achieving-Potential-Support-Scholarship-8001",
+      "page_date": null
+    },
+    {
+      "claim": "Number offered",
+      "quote": "250 per year",
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/Achieving-Potential-Support-Scholarship-8001",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

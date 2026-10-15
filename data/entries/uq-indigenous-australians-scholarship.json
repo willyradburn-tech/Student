@@ -1,0 +1,62 @@
+{
+  "id": "uq-indigenous-australians-scholarship",
+  "name": "UQ Indigenous Australians Scholarship",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "One-year scholarship for Aboriginal and Torres Strait Islander UQ undergraduates facing financial hardship.",
+  "key": "$4,500 (subject to the annual distribution from the relevant fund and may be more or less in some years).",
+  "who": [
+    "Can demonstrate financial hardship.",
+    "Aboriginal and/or Torres Strait Islander person.",
+    "Enrolled in any undergraduate program in the year of the award."
+  ],
+  "how": [
+    "Apply using the online application form. One application covers all scholarships in the Aspire Scholarship scheme and related schemes."
+  ],
+  "catches": [
+    "Applications opened 17 August 2026 and close 26 February 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "indigenous",
+    "first nations",
+    "undergraduate"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/uq-indigenous-australians-scholarship",
+    "label": "UQ Scholarships: UQ Indigenous Australians Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$4,500",
+      "quote": "$4,500 (subject to the annual distribution from the relevant fund and may be more or less in some years)",
+      "url": "https://scholarships.uq.edu.au/scholarship/uq-indigenous-australians-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Financial hardship",
+      "quote": "can demonstrate financial hardship",
+      "url": "https://scholarships.uq.edu.au/scholarship/uq-indigenous-australians-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-26"
+}

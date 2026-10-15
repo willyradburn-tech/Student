@@ -1,0 +1,55 @@
+{
+  "id": "help-repayment-2026-27",
+  "name": "HELP repayments, 2026-27",
+  "provider": "Australian Taxation Office",
+  "category": "loans",
+  "summary": "How much of your income goes to a HELP debt once you earn above the threshold.",
+  "tags": [
+    "hecs debt",
+    "repayment",
+    "threshold",
+    "ato"
+  ],
+  "key": "Nothing to repay until your repayment income passes $69,528.",
+  "numbers": [
+    [
+      "Up to $69,528",
+      "Nil"
+    ],
+    [
+      "$69,529 to $129,717",
+      "15 cents for each $1 over $69,528"
+    ],
+    [
+      "$129,718 to $186,050",
+      "$9,028 plus 17 cents for each $1 over $129,717"
+    ],
+    [
+      "$186,051 and over",
+      "10% of total repayment income"
+    ]
+  ],
+  "catches": [
+    "The top band takes 10% of your whole repayment income, not only the part above $186,050.",
+    "The ATO page was last updated on 13 October 2026."
+  ],
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "low",
+  "review": "approved",
+  "cap": "maybe",
+  "match": {
+    "res": {
+      "yes": [
+        "citizen"
+      ],
+      "maybe": [
+        "pr"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://www.ato.gov.au/tax-rates-and-codes/study-and-training-support-loans-rates-and-repayment-thresholds",
+    "label": "ATO: study and training support loan thresholds and rates"
+  }
+}

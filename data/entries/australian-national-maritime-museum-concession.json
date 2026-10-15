@@ -1,0 +1,50 @@
+{
+  "id": "australian-national-maritime-museum-concession",
+  "name": "Australian National Maritime Museum concession tickets and membership",
+  "provider": "Australian National Maritime Museum",
+  "category": "streaming",
+  "summary": "Concession See it all tickets and a cheaper concession annual membership for full-time students at the Maritime Museum, Darling Harbour.",
+  "key": "Concession annual membership is $85 for full-time students; See it all concession tickets are $30 (adult $35).",
+  "who": [
+    "Full-time students (also adults over 60, pensioners and the unemployed)."
+  ],
+  "catches": [
+    "The page does not spell out who qualifies for the $30 See it all concession ticket."
+  ],
+  "tags": [
+    "maritime museum",
+    "darling harbour",
+    "museum",
+    "sydney",
+    "membership"
+  ],
+  "source": {
+    "url": "https://www.sea.museum/visit/tickets",
+    "label": "Australian National Maritime Museum: Tickets"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Concession ticket",
+      "quote": "Concession: $30.00",
+      "url": "https://www.sea.museum/visit/tickets",
+      "page_date": null
+    },
+    {
+      "claim": "Membership for full-time students",
+      "quote": "Concession (full time student or adult over 60 or pensioner or unemployed): $85.00",
+      "url": "https://www.sea.museum/visit/tickets",
+      "page_date": null
+    }
+  ]
+}

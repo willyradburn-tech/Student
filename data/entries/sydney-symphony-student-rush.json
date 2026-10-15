@@ -1,0 +1,41 @@
+{
+  "id": "sydney-symphony-student-rush",
+  "name": "Sydney Symphony Orchestra Student Rush",
+  "provider": "Sydney Symphony Orchestra",
+  "category": "streaming",
+  "summary": "Student Rush tickets to Sydney Symphony Orchestra concerts starting from $20.",
+  "key": "Our Student Rush Tickets start from just $20.",
+  "catches": [
+    "The page does not state Student Rush eligibility or booking steps; these are on a separate Student Rush page that could not be fetched."
+  ],
+  "tags": [
+    "sso",
+    "orchestra",
+    "sydney",
+    "opera house",
+    "student rush"
+  ],
+  "source": {
+    "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+    "label": "Sydney Symphony Orchestra: Special Pricing"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "From $20",
+      "quote": "Our Student Rush Tickets start from just $20.",
+      "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+      "page_date": null
+    }
+  ]
+}

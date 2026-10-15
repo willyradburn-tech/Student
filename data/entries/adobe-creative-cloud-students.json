@@ -1,0 +1,61 @@
+{
+  "id": "adobe-creative-cloud-students",
+  "name": "Adobe Creative Cloud Pro for students",
+  "provider": "Adobe",
+  "category": "software",
+  "summary": "Discounted access to Photoshop, Illustrator, Premiere Pro and 20+ other Adobe apps.",
+  "tags": [
+    "photoshop",
+    "illustrator",
+    "premiere",
+    "design",
+    "video"
+  ],
+  "key": "A$23.99 a month for the first year, then A$63.99 a month (annual plan billed monthly, incl. GST).",
+  "numbers": [
+    [
+      "First year",
+      "A$23.99 a month (A$287.88 a year)"
+    ],
+    [
+      "After that",
+      "A$63.99 a month (A$767.88 a year)"
+    ],
+    [
+      "Free trial",
+      "7 days"
+    ]
+  ],
+  "how": [
+    "Choose the student and teacher plan on Adobe's page and verify your student status."
+  ],
+  "catches": [
+    "It's an annual plan billed monthly. Read Adobe's offer terms before you sign up.",
+    "Adobe may ask for proof after purchase. Outside North America you have six days to send it.",
+    "After you graduate, education pricing continues for one year."
+  ],
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "source": {
+    "url": "https://www.adobe.com/au/creativecloud/buy/students.html",
+    "label": "Adobe: Creative Cloud for students"
+  },
+  "who": [
+    "Students aged 13 or over at an accredited university or college that grants degrees needing at least two years of full-time study."
+  ],
+  "need": [
+    "A school email for instant verification, or a dated document such as a student ID or fee statement."
+  ],
+  "extra_sources": [
+    {
+      "url": "https://helpx.adobe.com/au/x-productkb/policy-pricing/education-faq.html",
+      "label": "Adobe: education FAQ (updated 12 March 2026)"
+    }
+  ],
+  "open_questions": [
+    "Whether the first-year price is limited to first-time members isn't stated on the pages checked."
+  ]
+}

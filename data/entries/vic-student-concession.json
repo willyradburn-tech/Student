@@ -1,0 +1,49 @@
+{
+  "id": "vic-student-concession",
+  "name": "Victorian student concession (myki)",
+  "provider": "Transport Victoria",
+  "category": "transport",
+  "summary": "Half-price fares on Victorian public transport for full-time undergraduate and TAFE students.",
+  "tags": [
+    "myki",
+    "melbourne",
+    "vic",
+    "train",
+    "tram",
+    "bus"
+  ],
+  "key": "50% off fares.",
+  "who": [
+    "Full-time university or TAFE students.",
+    "International students can get a separate International Student Travel Pass."
+  ],
+  "how": [
+    "Apply for a Victorian Student Pass.",
+    "You need a Transport Victoria student ID or an approved ID from your institution. Ask your institution whether its ID is approved.",
+    "International students buy the International Student Travel Pass online at internationalstudent.ptv.vic.gov.au."
+  ],
+  "catches": [
+    "Postgraduate and part-time students can't get the student concession.",
+    "Carry your student ID whenever you travel on the concession."
+  ],
+  "cadence": "medium",
+  "match": {
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "verified": "2026-10-13",
+  "review": "pending",
+  "status": "verified",
+  "source": {
+    "url": "https://transport.vic.gov.au/tickets-and-payments/myki/myki-types/students",
+    "label": "Transport Victoria: students"
+  }
+}

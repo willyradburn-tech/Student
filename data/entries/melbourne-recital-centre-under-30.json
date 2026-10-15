@@ -1,0 +1,50 @@
+{
+  "id": "melbourne-recital-centre-under-30",
+  "name": "Melbourne Recital Centre student and under 30 prices",
+  "provider": "Melbourne Recital Centre",
+  "category": "streaming",
+  "summary": "Full-time student prices and, on selected performances, Under 30 tickets at Melbourne Recital Centre.",
+  "who": [
+    "Full-time students (16 and over need a Student Card or proof of enrolment).",
+    "Under 30 tickets on selected performances for anyone 29 and under."
+  ],
+  "catches": [
+    "The page does not state the prices.",
+    "Under 30 tickets are for selected performances only."
+  ],
+  "tags": [
+    "melbourne recital centre",
+    "under 30",
+    "melbourne",
+    "concerts"
+  ],
+  "source": {
+    "url": "https://www.melbournerecital.com.au/ticketing-information/ticket-prices-fees",
+    "label": "Melbourne Recital Centre: Ticket Prices and Fees"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Full-time students",
+      "quote": "This price is available to all full-time students, including all children aged under 16.",
+      "url": "https://www.melbournerecital.com.au/ticketing-information/ticket-prices-fees",
+      "page_date": null
+    },
+    {
+      "claim": "Photo ID for under 30",
+      "quote": "A valid photo ID must be presented at the time of purchase or collection of the ticket.",
+      "url": "https://www.melbournerecital.com.au/ticketing-information/ticket-prices-fees",
+      "page_date": null
+    }
+  ]
+}

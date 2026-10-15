@@ -1,0 +1,66 @@
+{
+  "id": "wa-hardship-utility-grant-scheme",
+  "name": "WA Hardship Utility Grant Scheme (HUGS)",
+  "provider": "WA Department of Communities",
+  "category": "payments",
+  "summary": "Grant towards overdue utility bills for Western Australians in financial hardship who set up a payment arrangement.",
+  "key": "South of the 26th parallel, you may be eligible for up to $640 per financial year; north of the 26th parallel, up to $1,060 per financial year.",
+  "who": [
+    "Assessed by your utility provider as being in financial hardship",
+    "Enter into a payment arrangement for at least 90 days",
+    "Outstanding bill still over $300 after that arrangement"
+  ],
+  "how": [
+    "Start with your utility provider, which assesses you and sets up a payment arrangement.",
+    "The HUGS Service Centre then reviews your case and the Department of Communities decides."
+  ],
+  "catches": [
+    "The grant must not exceed 85% of the amount outstanding on your utility account.",
+    "A Health Care Card is not required."
+  ],
+  "tags": [
+    "WA",
+    "Perth",
+    "HUGS",
+    "bills",
+    "hardship",
+    "electricity",
+    "water"
+  ],
+  "source": {
+    "url": "https://www.wa.gov.au/service/community-services/grants-and-subsidies/hardship-utility-grant-scheme",
+    "label": "WA.gov.au: Hardship Utility Grant Scheme"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "wa"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount south of 26th parallel",
+      "quote": "you may be eligible for up to $640 per financial year.",
+      "url": "https://www.wa.gov.au/service/community-services/grants-and-subsidies/hardship-utility-grant-scheme",
+      "page_date": null
+    },
+    {
+      "claim": "Payment arrangement",
+      "quote": "enter into a payment arrangement for at least 90 days",
+      "url": "https://www.wa.gov.au/service/community-services/grants-and-subsidies/hardship-utility-grant-scheme",
+      "page_date": null
+    },
+    {
+      "claim": "Cap",
+      "quote": "must not exceed 85% of the amount outstanding on your utility account.",
+      "url": "https://www.wa.gov.au/service/community-services/grants-and-subsidies/hardship-utility-grant-scheme",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

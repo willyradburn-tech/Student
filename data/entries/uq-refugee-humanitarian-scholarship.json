@@ -1,0 +1,64 @@
+{
+  "id": "uq-refugee-humanitarian-scholarship",
+  "name": "UQ Refugee and Humanitarian Scholarship",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "Full tuition waiver and living stipend for UQ coursework students on temporary protection, humanitarian or related bridging visas.",
+  "key": "100% tuition fee waiver, plus $29,000 annual living stipend.",
+  "who": [
+    "Enrolled or enrolling in an undergraduate or postgraduate coursework program at UQ.",
+    "Hold a Temporary Protection (785), Safe Haven Enterprise (790), Temporary Humanitarian Concern (786) or Temporary Humanitarian Stay (449) visa, or a Bridging Visa E or A after applying for one of these.",
+    "Can demonstrate financial hardship with documents.",
+    "Not previously received it at the same level, and not holding a similar scholarship."
+  ],
+  "how": [
+    "Apply using the online application form with your visa, CV, UQ offer letter, financial evidence and a personal statement."
+  ],
+  "catches": [
+    "Applications expected to open late October 2026 and close December 2026."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "refugee",
+    "asylum seeker",
+    "humanitarian visa",
+    "tuition waiver"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/uq-refugee-and-humanitarian-scholarship",
+    "label": "UQ Scholarships: UQ Refugee and Humanitarian Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Tuition waiver plus $29,000 stipend",
+      "quote": "100% tuition fee waiver, plus $29,000 annual living stipend",
+      "url": "https://scholarships.uq.edu.au/scholarship/uq-refugee-and-humanitarian-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Financial hardship required",
+      "quote": "can demonstrate financial hardship by providing documentary evidence.",
+      "url": "https://scholarships.uq.edu.au/scholarship/uq-refugee-and-humanitarian-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Opens late October",
+      "quote": "Applications expected to open late October.",
+      "url": "https://scholarships.uq.edu.au/scholarship/uq-refugee-and-humanitarian-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

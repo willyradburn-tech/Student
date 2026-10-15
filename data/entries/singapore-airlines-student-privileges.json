@@ -1,0 +1,50 @@
+{
+  "id": "singapore-airlines-student-privileges",
+  "name": "Singapore Airlines student privileges",
+  "provider": "Singapore Airlines",
+  "category": "transport",
+  "summary": "Student fares from Australia with 10% off Economy, extra baggage and a free first booking change for verified KrisFlyer students.",
+  "key": "Enjoy 10% savings with exclusive student fares on all Economy Class fare types.",
+  "who": [
+    "KrisFlyer members currently enrolled at an eligible college or university."
+  ],
+  "how": [
+    "Join KrisFlyer, then verify your student status online (run by SheerID).",
+    "Book while logged in through the student page."
+  ],
+  "catches": [
+    "Not available on promotional fares.",
+    "Maximum stay of 12 months.",
+    "Student status must be verified every year."
+  ],
+  "tags": [
+    "singapore airlines",
+    "airline",
+    "international flights",
+    "baggage",
+    "krisflyer"
+  ],
+  "source": {
+    "url": "https://www.singaporeair.com/en_UK/au/plan-travel/promotions/student-privileges/",
+    "label": "Singapore Airlines Australia: Student privileges"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "10% off Economy",
+      "quote": "Enjoy 10% savings with exclusive student fares on all Economy Class fare types",
+      "url": "https://www.singaporeair.com/en_UK/au/plan-travel/promotions/student-privileges/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "To qualify, you must be a KrisFlyer member currently enrolled at an eligible college or university.",
+      "url": "https://www.singaporeair.com/en_UK/au/plan-travel/promotions/student-privileges/",
+      "page_date": null
+    }
+  ]
+}

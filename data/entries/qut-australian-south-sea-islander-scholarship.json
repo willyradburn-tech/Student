@@ -1,0 +1,54 @@
+{
+  "id": "qut-australian-south-sea-islander-scholarship",
+  "name": "Australian South Sea Islander Community Foundation Scholarship",
+  "provider": "QUT and Australian South Sea Islander Community Foundation",
+  "category": "uni",
+  "summary": "An equity scholarship for Australian South Sea Islander students in QUT undergraduate study, applied for through the Equity Scholarships Scheme.",
+  "key": "Valued at up to $5,000, offered only in the Semester 1 round each year.",
+  "who": [
+    "Australian South Sea Islanders who meet QUT's entry requirements for undergraduate study."
+  ],
+  "how": [
+    "Apply through the QUT Equity Scholarships Scheme in the Semester 1 round."
+  ],
+  "catches": [
+    "You can get only one award from the Equity Scholarships Scheme each year."
+  ],
+  "tags": [
+    "qut",
+    "south sea islander",
+    "equity",
+    "low income",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/australian-south-sea-islander-community-foundation-scholarship",
+    "label": "QUT: Australian South Sea Islander Community Foundation Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Up to $5,000",
+      "quote": "Australian South Sea Islander Community Foundation Scholarships, valued at up to $5,000 (offered only in the Semester 1 application round, each year).",
+      "url": "https://www.qut.edu.au/about/equity/equity-scholarships-scheme",
+      "page_date": null
+    },
+    {
+      "claim": "Who it's for",
+      "quote": "Australian South Sea Islanders who satisfy university entry requirements for undergraduate studies at QUT.",
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/australian-south-sea-islander-community-foundation-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

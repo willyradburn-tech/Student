@@ -1,0 +1,49 @@
+{
+  "id": "unsw-arc-financial-counselling",
+  "name": "Arc UNSW Financial Counselling",
+  "provider": "Arc UNSW Student Life",
+  "category": "uni",
+  "summary": "Free financial counselling for Arc members on budgeting, debt and planning.",
+  "key": "Free for Arc members.",
+  "who": [
+    "Arc members (current UNSW students)"
+  ],
+  "how": [
+    "Book via the Arc financial counselling page (arcunswfinancialcounsellor.setmore.com)"
+  ],
+  "tags": [
+    "unsw",
+    "financial-counselling",
+    "free",
+    "arc",
+    "student-union"
+  ],
+  "source": {
+    "url": "https://www.unsw.edu.au/student/support/financial-support",
+    "label": "UNSW: Financial support"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free for Arc members",
+      "quote": "Arc@UNSW Financial Counselling is a free service for Arc members.",
+      "url": "https://www.unsw.edu.au/student/support/financial-support",
+      "page_date": null
+    }
+  ]
+}

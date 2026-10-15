@@ -1,0 +1,68 @@
+{
+  "id": "coastrs-first-aid-cpr-rebate",
+  "name": "CoastRs First Aid and CPR rebate (Gold Coast)",
+  "provider": "CoastRs (SCU Gold Coast student association)",
+  "category": "uni",
+  "summary": "CoastRs members get $50 back on a full First Aid course or $30 on a CPR-only course.",
+  "key": "Can request a rebate of $50 for full First Aid courses OR $30 for CPR-only courses.",
+  "who": [
+    "SCU students who are current 2026 CoastRs members."
+  ],
+  "how": [
+    "Email hello@coastrs.com.au your receipt, certificate and bank details."
+  ],
+  "catches": [
+    "One rebate per member per year.",
+    "Available from 1 January 2026 until funding runs out.",
+    "CoastRs membership costs $1."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "coastrs",
+    "gold coast",
+    "first aid",
+    "cpr",
+    "rebate"
+  ],
+  "source": {
+    "url": "https://coastrs.com.au/first-aid-and-cpr/",
+    "label": "CoastRs: First Aid and CPR"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "qld"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "can request a rebate of $50 for full First Aid courses OR $30 for CPR-only courses.",
+      "url": "https://coastrs.com.au/first-aid-and-cpr/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "CoastRs are offering a First Aid and CPR rebate to SCU students who are current 2026 CoastRs Members.",
+      "url": "https://coastrs.com.au/first-aid-and-cpr/",
+      "page_date": null
+    },
+    {
+      "claim": "Limit",
+      "quote": "One (1) rebate payment per CoastRs member, per year.",
+      "url": "https://coastrs.com.au/first-aid-and-cpr/",
+      "page_date": null
+    }
+  ]
+}

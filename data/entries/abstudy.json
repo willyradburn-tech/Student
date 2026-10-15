@@ -1,0 +1,44 @@
+{
+  "id": "abstudy",
+  "name": "ABSTUDY",
+  "provider": "Services Australia",
+  "category": "payments",
+  "summary": "Support for Aboriginal and Torres Strait Islander students and apprentices.",
+  "tags": [
+    "centrelink",
+    "indigenous",
+    "first nations"
+  ],
+  "who": [
+    "Australian citizens who normally live in Australia.",
+    "Aboriginal or Torres Strait Islander.",
+    "Studying an approved course at an approved provider, or an Australian Apprentice.",
+    "Not getting other government assistance to study."
+  ],
+  "need": [
+    "Evidence of your identity. Services Australia lists what it accepts."
+  ],
+  "how": [
+    "Claim through Services Australia. The official page sets out eligibility and evidence."
+  ],
+  "status": "verified",
+  "verified": "2026-10-12",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://operational.servicesaustralia.gov.au/public/Pages/students-and-trainees/010-02000000-01.html",
+    "label": "Services Australia: ABSTUDY eligibility"
+  }
+}

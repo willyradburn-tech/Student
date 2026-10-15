@@ -1,0 +1,67 @@
+{
+  "id": "uq-minegeotech-scholarship",
+  "name": "MineGeoTech Scholarship (UQ)",
+  "provider": "University of Queensland and MineGeoTech",
+  "category": "uni",
+  "summary": "Aspire scheme scholarship for regional or remote Queensland Commitment Scholarship holders starting a STEM program at UQ.",
+  "key": "$4,500 for 1 year.",
+  "who": [
+    "Domestic student commencing any UQ bachelor program in Semester 1, with no prior bachelor-level study.",
+    "Maximum EAS Financial Hardship points and awarded The Queensland Commitment Scholarship.",
+    "Resident of an Outer Regional, Remote or Very Remote area in the year before starting.",
+    "Studying a program with a significant component of STEM."
+  ],
+  "how": [
+    "Apply using the online form. One application covers all scholarships in the Aspire Scholarship scheme."
+  ],
+  "catches": [
+    "Applications opened 17 August 2026 and close 26 February 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "aspire",
+    "regional",
+    "remote",
+    "stem",
+    "mining",
+    "engineering"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/minegeotech-scholarship",
+    "label": "UQ Scholarships: MineGeoTech Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$4,500",
+      "quote": "$4,500",
+      "url": "https://scholarships.uq.edu.au/scholarship/minegeotech-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Regional or remote resident",
+      "quote": "are a resident of an Outer Regional, Remote or Very Remote area in the year prior to commencing studies",
+      "url": "https://scholarships.uq.edu.au/scholarship/minegeotech-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-26"
+}

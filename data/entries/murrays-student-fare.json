@@ -1,0 +1,44 @@
+{
+  "id": "murrays-student-fare",
+  "name": "Murrays coach student fare type",
+  "provider": "Murrays",
+  "category": "transport",
+  "summary": "Murrays express coaches (Canberra, Sydney, south coast, snowfields) list a Student passenger type for full-time students with ID.",
+  "who": [
+    "Full-time students aged 16 and over with a valid Student ID card from a school, university or educational institution."
+  ],
+  "catches": [
+    "Murrays' pages do not state how much the student fare saves."
+  ],
+  "tags": [
+    "murrays",
+    "coach",
+    "canberra",
+    "sydney",
+    "act",
+    "nsw"
+  ],
+  "source": {
+    "url": "https://www.murrays.com.au/express-services/help/passenger-types",
+    "label": "Murrays: Passenger types"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Student passenger type eligibility",
+      "quote": "Includes full-time students aged 16 and over with a valid Student ID card",
+      "url": "https://www.murrays.com.au/express-services/help/passenger-types",
+      "page_date": null
+    }
+  ]
+}

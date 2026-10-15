@@ -1,0 +1,65 @@
+{
+  "id": "adelaide-uni-au-online-first-nations-grant",
+  "name": "AU Online Aboriginal and Torres Strait Islander Grant",
+  "provider": "Adelaide University",
+  "category": "uni",
+  "summary": "$5,500 grant paid in three instalments for Aboriginal and Torres Strait Islander students in their first year of an AU Online program.",
+  "key": "Value: $5,500, paid in three instalments.",
+  "who": [
+    "Identify as Aboriginal and/or Torres Strait Islander, with an Affirmation of Aboriginality Form",
+    "Enrolled in an AU Online program of at least two years, in your first academic year at census date"
+  ],
+  "how": [
+    "Apply via myScholarships on the Student Portal"
+  ],
+  "catches": [
+    "Applications open twice a year, in Online Term 2 and Online Term 4",
+    "Part-time students receive pro-rata payments"
+  ],
+  "tags": [
+    "adelaide uni",
+    "adelaide university",
+    "au online",
+    "sa",
+    "online",
+    "aboriginal",
+    "torres strait islander",
+    "first nations",
+    "grant"
+  ],
+  "source": {
+    "url": "https://adelaide.edu.au/study/scholarships/dom/au-online-aboriginal-and-torres-strait-islander-grant/",
+    "label": "Adelaide University: AU Online Aboriginal and Torres Strait Islander Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Value: $5‚500",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/au-online-aboriginal-and-torres-strait-islander-grant/",
+      "page_date": null
+    },
+    {
+      "claim": "Rounds",
+      "quote": "Applications open twice a year, in Online Term 2 and Online Term 4.",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/au-online-aboriginal-and-torres-strait-islander-grant/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

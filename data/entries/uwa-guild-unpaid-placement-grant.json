@@ -1,0 +1,51 @@
+{
+  "id": "uwa-guild-unpaid-placement-grant",
+  "name": "UWA Guild Unpaid Placement (UP) Grant",
+  "provider": "UWA Student Guild",
+  "category": "uni",
+  "summary": "Grant of up to $300 for UWA Guild members in hardship doing a mandatory unpaid placement that cuts their paid work.",
+  "key": "Up to $300.",
+  "who": [
+    "Currently enrolled at UWA and a Guild member",
+    "Severe financial hardship and unable to repay a Guild loan",
+    "Doing an unpaid placement that is mandatory for your course and has affected your paid work"
+  ],
+  "how": [
+    "Download and complete the UP Grant form"
+  ],
+  "tags": [
+    "uwa",
+    "uwa guild",
+    "perth",
+    "wa",
+    "placement",
+    "prac",
+    "grant",
+    "nursing",
+    "teaching"
+  ],
+  "source": {
+    "url": "https://www.uwastudentguild.com/support/topic/grants",
+    "label": "UWA Student Guild: Grants"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Placement grant",
+      "quote": "Unpaid Placement (UP) Grant",
+      "url": "https://www.uwastudentguild.com/support/topic/grants",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

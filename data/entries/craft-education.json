@@ -1,0 +1,47 @@
+{
+  "id": "craft-education",
+  "name": "Craft for Education",
+  "provider": "Craft",
+  "category": "software",
+  "summary": "Free Craft education plan for verified students, with unlimited documents and up to 250 GB storage.",
+  "who": [
+    "Currently enrolled students at an academic institution."
+  ],
+  "how": [
+    "Register with your school email and click the activation link Craft emails you."
+  ],
+  "catches": [
+    "Re-verify every 12 months.",
+    "Confirm the plan's price on the page."
+  ],
+  "tags": [
+    "notes",
+    "writing",
+    "docs",
+    "productivity",
+    "craft"
+  ],
+  "source": {
+    "url": "https://www.craft.do/education",
+    "label": "Craft: Education"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "currently enrolled student, faculty or staff member of an academic institution",
+      "url": "https://www.craft.do/education",
+      "page_date": null
+    },
+    {
+      "claim": "12 months",
+      "quote": "Your verification will be valid for 12 months, after which you’ll need to re-verify your status.",
+      "url": "https://www.craft.do/education",
+      "page_date": null
+    }
+  ]
+}

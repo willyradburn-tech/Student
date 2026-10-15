@@ -1,0 +1,79 @@
+{
+  "id": "uon-equity-scholarships-scheme",
+  "name": "Equity Scholarships Scheme University of Newcastle (ESSUN)",
+  "provider": "University of Newcastle",
+  "category": "uni",
+  "summary": "Scholarship for University of Newcastle undergraduates on Centrelink means-tested income support.",
+  "key": "Up to $8,000 for one academic year of study.",
+  "who": [
+    "Enrolled in an undergraduate program (including honours and non-FEE-FREE Uni Ready diplomas)",
+    "Receiving a Centrelink means-tested income support payment",
+    "Australian citizen or permanent resident",
+    "Full-time or part-time",
+    "Not holding another University of Newcastle scholarship that year"
+  ],
+  "how": [
+    "Apply through the online portal (PDF uploads only); apply early as offers can be made at any time"
+  ],
+  "catches": [
+    "Closes 3 March 2027",
+    "Part-time students receive $1,750 per eligible study period"
+  ],
+  "tags": [
+    "uon",
+    "newcastle",
+    "essun",
+    "equity",
+    "centrelink",
+    "callaghan",
+    "nsw"
+  ],
+  "source": {
+    "url": "https://www.newcastle.edu.au/scholarships/ESSUN_3000",
+    "label": "University of Newcastle: Equity Scholarships Scheme (ESSUN)"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "The scholarship provides a benefit of up to $8,000 for one academic year of study and will be paid as:",
+      "url": "https://www.newcastle.edu.au/scholarships/ESSUN_3000",
+      "page_date": null
+    },
+    {
+      "claim": "Centrelink rule",
+      "quote": "Be experiencing financial challenges, demonstrated through receipt of a centrelink means-tested income support payment",
+      "url": "https://www.newcastle.edu.au/scholarships/ESSUN_3000",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "03 March 2027",
+      "url": "https://www.newcastle.edu.au/scholarships/ESSUN_3000",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-03-03"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ableton-education",
+  "name": "Ableton Live education discount",
+  "provider": "Ableton",
+  "category": "software",
+  "summary": "50% off new Ableton Live licences for full-time students aged 18 or over.",
+  "key": "Save 50% on a new Ableton Live Intro, Standard or Suite licence.",
+  "who": [
+    "Students 18 or over enrolled in full-time education."
+  ],
+  "how": [
+    "Choose the educational discount at purchase.",
+    "Provide institution details and upload a student ID; verification takes about one business day."
+  ],
+  "catches": [
+    "New licences only; not upgrades."
+  ],
+  "tags": [
+    "music",
+    "audio",
+    "daw",
+    "production",
+    "ableton"
+  ],
+  "source": {
+    "url": "https://www.ableton.com/en/shop/education/",
+    "label": "Ableton: Education"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "age": {
+      "min": 18
+    }
+  },
+  "evidence": [
+    {
+      "claim": "50% off",
+      "quote": "you can save 50% on a new Ableton Live Intro, Standard or Suite license.",
+      "url": "https://www.ableton.com/en/shop/education/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "a student who is 18 or over and enrolled in full-time education, up to advanced degree programs.",
+      "url": "https://www.ableton.com/en/shop/education/",
+      "page_date": null
+    }
+  ]
+}

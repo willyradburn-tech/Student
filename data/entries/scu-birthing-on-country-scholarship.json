@@ -1,0 +1,69 @@
+{
+  "id": "scu-birthing-on-country-scholarship",
+  "name": "Birthing on Country Scholarship (SCU Honours)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$10,000 for an Aboriginal or Torres Strait Islander recent graduate doing the Bachelor of Health and Human Sciences (Honours) at SCU.",
+  "key": "$10,000 for one year.",
+  "who": [
+    "Identify as an Aboriginal and/or Torres Strait Islander person.",
+    "Meet entry requirements for the Bachelor of Health and Human Sciences (Honours), full-time.",
+    "Graduated from SCU or another university in the last five years.",
+    "Willing to be based at the Gold Coast or Coffs Harbour campus."
+  ],
+  "how": [
+    "Apply through the online form linked from the scholarship page."
+  ],
+  "catches": [
+    "Open until places are filled.",
+    "Two scholarships available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "honours",
+    "indigenous",
+    "health",
+    "sistabirth"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/birthing-on-country-scholarship/",
+    "label": "Southern Cross University: Birthing on Country Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$10,000 for one year.",
+      "url": "https://www.scu.edu.au/scholarships/birthing-on-country-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Applicants must identify as an Aboriginal person and/or Torres Strait Islander person.",
+      "url": "https://www.scu.edu.au/scholarships/birthing-on-country-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

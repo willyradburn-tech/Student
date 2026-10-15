@@ -1,0 +1,78 @@
+{
+  "id": "scu-research-training-program-scholarship",
+  "name": "Research Training Program (RTP) Scholarship at SCU",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "A tax-free living stipend for full-time domestic research degree (HDR) candidates at Southern Cross University.",
+  "key": "AU$35,550 per annum (2027 rate, indexed annually), paid tax-free and fortnightly.",
+  "who": [
+    "Domestic HDR candidates enrolled full-time.",
+    "International RTP stipends aren't offered in the current round."
+  ],
+  "how": [
+    "Find a principal and co-supervisor who agree to sign your application.",
+    "Email the completed RTP application form and documents to hdrscholarships@scu.edu.au."
+  ],
+  "catches": [
+    "Applications close midnight, 31 October 2026.",
+    "Lasts up to 3 years 3 months.",
+    "Handwritten forms are not accepted."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "phd",
+    "research",
+    "masters by research",
+    "rtp",
+    "stipend"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/graduate-school/scholarships/australian-government-research-training-program/",
+    "label": "Southern Cross University: Australian Government Research Training Program Scholarships"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Stipend",
+      "quote": "AU$35,550 per annum (2027 rate, indexed annually)",
+      "url": "https://www.scu.edu.au/graduate-school/scholarships/australian-government-research-training-program/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Domestic HDR candidates enrolled full-time.",
+      "url": "https://www.scu.edu.au/graduate-school/scholarships/australian-government-research-training-program/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "midnight, 31 October 2026",
+      "url": "https://www.scu.edu.au/graduate-school/scholarships/australian-government-research-training-program/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-10-31"
+}

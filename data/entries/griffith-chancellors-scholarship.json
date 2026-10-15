@@ -1,0 +1,64 @@
+{
+  "id": "griffith-chancellors-scholarship",
+  "name": "Chancellor's Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Scholarship for Griffith undergraduates with compounding educational disadvantage, commencing or continuing.",
+  "key": "From $3,000 to $5,000.",
+  "who": [
+    "Griffith undergraduate student (commencing and continuing).",
+    "Australian citizen, permanent resident, permanent humanitarian visa holder or New Zealand citizen.",
+    "Demonstrate educational disadvantage based on a comprehensive assessment by the University."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Trimester 1, 2027 rounds close 21 December 2026, 27 January 2027 and 15 March 2027 (4pm).",
+    "Round 4 for Trimester 2, 2027 closes 30 June 2027, 11:59pm.",
+    "May continue for up to three years; continuing recipients need a GPA of 3.5 or above."
+  ],
+  "tags": [
+    "griffith",
+    "equity",
+    "hardship",
+    "disadvantage"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships",
+    "label": "Griffith University: Chancellor's Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "From $3,000 to $5,000",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "demonstrate educational disadvantage based on a comprehensive assessment by the University",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-12-21"
+}

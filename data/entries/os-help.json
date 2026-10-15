@@ -1,0 +1,66 @@
+{
+  "id": "os-help",
+  "name": "OS-HELP",
+  "provider": "Study Assist",
+  "category": "loans",
+  "summary": "A loan for flights, rent and other costs when you study overseas as part of your Australian degree.",
+  "tags": [
+    "exchange",
+    "study abroad",
+    "overseas",
+    "travel"
+  ],
+  "key": "Up to $8,442 for six months, or $10,130 in Asia. Plus up to $1,354 for approved Asian language study.",
+  "numbers": [
+    [
+      "Six months, outside Asia",
+      "Up to $8,442"
+    ],
+    [
+      "Six months, in Asia",
+      "Up to $10,130"
+    ],
+    [
+      "Extra for Asian language study",
+      "Up to $1,354"
+    ]
+  ],
+  "who": [
+    "Students in a Commonwealth supported place who are Australian citizens or eligible non-citizens.",
+    "You've finished one full-time year of your course and will have at least one unit left when you return.",
+    "Your uni has selected you, and your overseas subjects count toward your degree."
+  ],
+  "how": [
+    "Talk to your uni's international or exchange office about its selection process.",
+    "Confirm the overseas subjects will be credited.",
+    "Once selected, submit the OS-HELP eCAF your uni gives you."
+  ],
+  "catches": [
+    "It doesn't cover a whole course taken overseas.",
+    "You can't get it if you've already had OS-HELP more than once."
+  ],
+  "cadence": "low",
+  "cap": "maybe",
+  "match": {
+    "res": {
+      "yes": [
+        "citizen"
+      ],
+      "maybe": [
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "verified": "2026-10-13",
+  "review": "pending",
+  "status": "verified",
+  "source": {
+    "url": "https://www.studyassist.gov.au/download/245/2026-os-help-fact-sheet/211/document/pdf",
+    "label": "Study Assist: 2026 OS-HELP fact sheet"
+  }
+}

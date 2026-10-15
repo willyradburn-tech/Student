@@ -1,0 +1,34 @@
+{
+  "id": "apple-music-student",
+  "name": "Apple Music Student",
+  "provider": "Apple",
+  "category": "streaming",
+  "summary": "Apple Music at a student price, with Apple TV included.",
+  "tags": [
+    "music",
+    "apple music",
+    "apple tv",
+    "streaming"
+  ],
+  "key": "A$7.99 a month, first month free for new subscribers. Includes Apple TV.",
+  "who": [
+    "Verified university students who are new Apple Music subscribers."
+  ],
+  "how": [
+    "Choose the Student plan in Apple Music and verify your student status."
+  ],
+  "catches": [
+    "Student pricing lasts up to four years while you stay a student, then moves to A$14.99 a month.",
+    "Apple TV access ends when you no longer qualify.",
+    "Can't be shared with a Family Sharing group."
+  ],
+  "status": "verified",
+  "verified": "2026-10-13",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "source": {
+    "url": "https://www.apple.com/au/apple-music/",
+    "label": "Apple: Apple Music"
+  }
+}

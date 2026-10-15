@@ -1,0 +1,46 @@
+{
+  "id": "sa-help",
+  "name": "SA-HELP",
+  "provider": "Study Assist",
+  "category": "loans",
+  "summary": "A loan that pays your student services and amenities fee, so you don't pay it upfront.",
+  "tags": [
+    "ssaf",
+    "amenities fee",
+    "help"
+  ],
+  "key": "The fee is capped at $373 for full-time students in 2026.",
+  "who": [
+    "Australian citizens and eligible non-citizens."
+  ],
+  "need": [
+    "A tax file number, or proof you have applied for one.",
+    "A valid SA-HELP form, submitted to your provider by the fee due date."
+  ],
+  "how": [
+    "Submit the SA-HELP form through your provider by the fee due date.",
+    "You apply once per course. Changing course or provider needs a new form."
+  ],
+  "catches": [
+    "It is added to your HELP debt and indexed each 1 June.",
+    "It doesn't count toward your HELP borrowing limit."
+  ],
+  "status": "verified",
+  "verified": "2026-10-13",
+  "cadence": "low",
+  "review": "pending",
+  "match": {
+    "res": {
+      "yes": [
+        "citizen"
+      ],
+      "maybe": [
+        "pr"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://www.studyassist.gov.au/download/246/2026-sa-help-fact-sheet/213/document/pdf",
+    "label": "Study Assist: 2026 SA-HELP fact sheet"
+  }
+}

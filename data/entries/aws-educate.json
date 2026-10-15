@@ -1,0 +1,59 @@
+{
+  "id": "aws-educate",
+  "name": "AWS Educate",
+  "provider": "Amazon Web Services",
+  "category": "software",
+  "summary": "Free self-paced cloud courses and hands-on labs, open to anyone aged 13 or over.",
+  "tags": [
+    "cloud",
+    "aws",
+    "it",
+    "coding",
+    "badges"
+  ],
+  "key": "Free, with no credit card needed.",
+  "who": [
+    "Anyone aged 13 or over, at any stage of study or career."
+  ],
+  "numbers": [
+    [
+      "Included",
+      "Hands-on labs, a self-paced training library and shareable digital badges"
+    ],
+    [
+      "Job board",
+      "For learners 18 and over"
+    ]
+  ],
+  "need": [
+    "An email address."
+  ],
+  "how": [
+    "Register on the AWS Educate page with your email."
+  ],
+  "catches": [
+    "It isn't a student-only discount. Anyone can join.",
+    "The page doesn't mention AWS credits."
+  ],
+  "source": {
+    "url": "https://aws.amazon.com/education/awseducate/",
+    "label": "AWS: AWS Educate"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "it"
+      ],
+      "maybe": [
+        "engineering",
+        "business",
+        "care",
+        "other"
+      ]
+    }
+  }
+}

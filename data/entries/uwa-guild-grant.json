@@ -1,0 +1,51 @@
+{
+  "id": "uwa-guild-grant",
+  "name": "UWA Guild Grant",
+  "provider": "UWA Student Guild",
+  "category": "uni",
+  "summary": "Grant of up to $400 for UWA Guild members in severe financial difficulty who cannot repay a Guild loan.",
+  "key": "We offer Guild grants up to $400 to students who are experiencing severe financial difficulties.",
+  "who": [
+    "Currently enrolled at UWA and a current Guild member",
+    "Severe financial hardship, other options exhausted, and unable to repay a Guild loan"
+  ],
+  "how": [
+    "Download and complete the Guild grant form"
+  ],
+  "catches": [
+    "Does not cover course fees, social or holiday costs, or ongoing rent, groceries or bills"
+  ],
+  "tags": [
+    "uwa",
+    "uwa guild",
+    "perth",
+    "wa",
+    "hardship",
+    "grant",
+    "student union"
+  ],
+  "source": {
+    "url": "https://www.uwastudentguild.com/support/topic/grants",
+    "label": "UWA Student Guild: Grants"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "We offer Guild grants up to $400 to students who are experiencing severe financial difficulties.",
+      "url": "https://www.uwastudentguild.com/support/topic/grants",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

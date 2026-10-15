@@ -1,0 +1,71 @@
+{
+  "id": "unisq-indigenous-student-success-program-scholarships",
+  "name": "UniSQ Indigenous Student Success Program Scholarships",
+  "provider": "University of Southern Queensland",
+  "category": "uni",
+  "summary": "Education costs and relocation scholarships for Aboriginal and Torres Strait Islander UniSQ students on low-to-middle incomes.",
+  "key": "Each scholarship will have a maximum value of $4000 to be paid in one instalment.",
+  "who": [
+    "Domestic student living in Australia",
+    "Aboriginal and/or Torres Strait Islander",
+    "Enrolled in at least one unit in the study period",
+    "Low-to-middle annual household income"
+  ],
+  "how": [
+    "Apply through the UniSQ Scholarship Application Management System"
+  ],
+  "catches": [
+    "Opens each trimester; the Trimester 3 2026 round closed 31 August 2026"
+  ],
+  "tags": [
+    "unisq",
+    "usq",
+    "first nations",
+    "indigenous",
+    "relocation",
+    "education costs",
+    "toowoomba"
+  ],
+  "source": {
+    "url": "https://www.unisq.edu.au/scholarships/indigenous-student-success-program-scholarships",
+    "label": "UniSQ: Indigenous Student Success Program Scholarships"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "Each scholarship will have a maximum value of $4000 to be paid in one instalment.",
+      "url": "https://www.unisq.edu.au/scholarships/indigenous-student-success-program-scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "First Nations rule",
+      "quote": "be an Aboriginal and/or Torres Strait Islander person of Australia",
+      "url": "https://www.unisq.edu.au/scholarships/indigenous-student-success-program-scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Relocation stream",
+      "quote": "to support students with costs associated with relocating from a regional or remote area to study on-campus.",
+      "url": "https://www.unisq.edu.au/scholarships/indigenous-student-success-program-scholarships",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "monash-mada-equity-scholarship",
+  "name": "Monash Art Design and Architecture Equity Scholarship",
+  "provider": "Monash University",
+  "category": "uni",
+  "summary": "$6,000 a year for Year 12 students in financial hardship starting an art, design or architecture degree at Monash.",
+  "key": "$6,000 a year for up to three years (up to $18,000), three offered each year.",
+  "who": [
+    "Currently completing Year 12 or IB in Australia.",
+    "Experiencing financial hardship.",
+    "Starting a MADA undergraduate degree."
+  ],
+  "how": [
+    "Apply through VTAC equity schemes (SEAS)."
+  ],
+  "catches": [
+    "It can't be deferred."
+  ],
+  "tags": [
+    "monash",
+    "monash university",
+    "melbourne",
+    "vic",
+    "art",
+    "design",
+    "architecture",
+    "equity",
+    "year 12"
+  ],
+  "source": {
+    "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-art-design-and-architecture-equity-scholarship-6101",
+    "label": "Monash: MADA Equity Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$6000 per annum, until the minimum points for the degree are completed, up to a maximum of three years.",
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-art-design-and-architecture-equity-scholarship-6101",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

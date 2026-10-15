@@ -1,0 +1,65 @@
+{
+  "id": "pharmacy-guild-vic-student-membership",
+  "name": "Pharmacy Guild student membership (Victoria)",
+  "provider": "The Pharmacy Guild of Australia (Victorian Branch)",
+  "category": "career",
+  "summary": "Free Pharmacy Guild student membership for Victorian pharmacy students who join their local student association.",
+  "key": "Student membership is absolutely FREE.",
+  "who": [
+    "Any student currently studying pharmacy",
+    "Join through the student association at La Trobe (Bendigo), Monash or RMIT"
+  ],
+  "how": [
+    "Join your local student association to receive free Guild student membership."
+  ],
+  "tags": [
+    "pharmacy",
+    "victoria",
+    "vic",
+    "monash",
+    "rmit",
+    "la trobe",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://guild.org.au/guild-branches/vic/membership-categories/student-membership",
+    "label": "Pharmacy Guild of Australia: Student Membership (Vic)"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "care"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "it's absolutely FREE.",
+      "url": "https://guild.org.au/guild-branches/vic/membership-categories/student-membership",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Student membership is available to any student currently studying pharmacy",
+      "url": "https://guild.org.au/guild-branches/vic/membership-categories/student-membership",
+      "page_date": null
+    },
+    {
+      "claim": "How",
+      "quote": "Join your local student association and receive free student membership of the Pharmacy Guild of Australia.",
+      "url": "https://guild.org.au/guild-branches/vic/membership-categories/student-membership",
+      "page_date": null
+    }
+  ]
+}

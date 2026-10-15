@@ -1,0 +1,48 @@
+{
+  "id": "microsoft-365-personal-student",
+  "name": "Microsoft 365 Personal for students",
+  "provider": "Microsoft",
+  "category": "software",
+  "summary": "Half-price Microsoft 365 Personal: the full desktop apps, Copilot and 1 TB of OneDrive.",
+  "tags": [
+    "office",
+    "word",
+    "excel",
+    "onedrive",
+    "copilot"
+  ],
+  "key": "50% off Microsoft 365 Personal.",
+  "who": [
+    "Full-time and part-time students at accredited universities and colleges."
+  ],
+  "numbers": [
+    [
+      "Apps",
+      "Word, Excel, PowerPoint, OneNote and Outlook, with Copilot"
+    ],
+    [
+      "Storage",
+      "1 TB of OneDrive"
+    ],
+    [
+      "Devices",
+      "PC, Mac, iOS and Android"
+    ]
+  ],
+  "how": [
+    "Sign in with a Microsoft account and verify your student status."
+  ],
+  "catches": [
+    "You need to re-verify every year. If you no longer qualify, the price rises to the full monthly price.",
+    "Check whether your uni already gives you Office for free before you pay."
+  ],
+  "cadence": "high",
+  "match": {},
+  "verified": "2026-10-13",
+  "review": "approved",
+  "status": "verified",
+  "source": {
+    "url": "https://www.microsoft.com/en-au/microsoft-365/college-student-pricing",
+    "label": "Microsoft: student pricing for Microsoft 365"
+  }
+}

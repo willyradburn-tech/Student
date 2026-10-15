@@ -1,0 +1,50 @@
+{
+  "id": "azure-for-students",
+  "name": "Azure for Students",
+  "provider": "Microsoft",
+  "category": "software",
+  "summary": "US$100 of Azure cloud credit plus free services, with no credit card.",
+  "tags": [
+    "cloud",
+    "azure",
+    "coding",
+    "it"
+  ],
+  "key": "US$100 credit to use within 12 months. No credit card required.",
+  "who": [
+    "Full-time university students, signing up with a school email."
+  ],
+  "how": [
+    "Sign up with your school email.",
+    "Renew each year while you are a student."
+  ],
+  "catches": [
+    "When the credit runs out, Microsoft asks you to move to pay-as-you-go. If you don't, your subscription is disabled."
+  ],
+  "status": "verified",
+  "verified": "2026-10-13",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "field": {
+      "yes": [
+        "it",
+        "engineering"
+      ],
+      "maybe": [
+        "care",
+        "other",
+        "business"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://azure.microsoft.com/en-au/free/students",
+    "label": "Microsoft: Azure for Students"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "uq-civil-geotechnical-dalara-scholarship",
+  "name": "Civil Geotechnical Consultants and Dalara Foundation Scholarship (UQ)",
+  "provider": "University of Queensland, Civil Geotechnical Consultants and Dalara Foundation",
+  "category": "uni",
+  "summary": "Two-year scholarship for Aboriginal and Torres Strait Islander UQ coursework students in financial need.",
+  "key": "$7,000, over a 2-year duration.",
+  "who": [
+    "Can demonstrate financial need.",
+    "Aboriginal and/or Torres Strait Islander person.",
+    "Enrolled in a coursework program at UQ."
+  ],
+  "how": [
+    "Apply using the online application form. One application covers the Aspire Scholarship scheme and related schemes."
+  ],
+  "catches": [
+    "Applications opened 17 August 2026 and close 26 February 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "indigenous",
+    "first nations",
+    "geotechnical",
+    "civil engineering"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/civil-geotechnical-consultants-and-dalara-foundation-scholarship",
+    "label": "UQ Scholarships: Civil Geotechnical Consultants and Dalara Foundation Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$7,000",
+      "quote": "$7,000",
+      "url": "https://scholarships.uq.edu.au/scholarship/civil-geotechnical-consultants-and-dalara-foundation-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Aboriginal and/or Torres Strait Islander",
+      "quote": "are an Australian Aboriginal and/or Torres Strait Islander person",
+      "url": "https://scholarships.uq.edu.au/scholarship/civil-geotechnical-consultants-and-dalara-foundation-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-26"
+}

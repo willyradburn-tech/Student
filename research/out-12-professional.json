@@ -1,0 +1,2396 @@
+[
+ {
+  "id": "qls-student-membership",
+  "name": "Queensland Law Society student membership",
+  "provider": "Queensland Law Society",
+  "category": "career",
+  "summary": "Low-cost student membership of the Queensland Law Society for law students, with free student event registration and member discounts.",
+  "key": "Student membership costs $10.",
+  "who": [
+   "Currently enrolled TAFE Queensland and university law students",
+   "Recent law graduates or graduates undertaking practical legal training"
+  ],
+  "how": [
+   "Sign up through the myQLS portal."
+  ],
+  "catches": [
+   "The fee is listed in the page FAQ."
+  ],
+  "tags": [
+   "law",
+   "qld",
+   "queensland",
+   "lawyer",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.qls.com.au/qls-membership/student-membership",
+   "label": "Queensland Law Society: Student membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Cost",
+    "quote": "at a cost of $10 AUD",
+    "url": "https://www.qls.com.au/qls-membership/student-membership",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "currently enrolled TAFE Queensland and university law students",
+    "url": "https://www.qls.com.au/qls-membership/student-membership",
+    "page_date": null
+   },
+   {
+    "claim": "How to join",
+    "quote": "You can become a student member by signing up through the myQLS portal.",
+    "url": "https://www.qls.com.au/qls-membership/student-membership",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "law-society-nsw-student-membership",
+  "name": "Law Society of NSW student membership",
+  "provider": "The Law Society of NSW",
+  "category": "career",
+  "summary": "Free student membership of the Law Society of NSW for anyone studying law or who has completed a law course.",
+  "key": "Student membership with the Law Society of NSW is complimentary.",
+  "who": [
+   "Studying law or has successfully completed a course in law at any university",
+   "Not already eligible for Associate Membership"
+  ],
+  "how": [
+   "Sign up to LawID.",
+   "Apply for student membership once your LawID is verified."
+  ],
+  "tags": [
+   "law",
+   "nsw",
+   "sydney",
+   "lawyer",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.lawsociety.com.au/legal-communities/law-students/student-membership",
+   "label": "The Law Society of NSW: Student Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Student membership with the Law Society of NSW is complimentary.",
+    "url": "https://www.lawsociety.com.au/legal-communities/law-students/student-membership",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "is studying law or has successfully completed a course in law at any university",
+    "url": "https://www.lawsociety.com.au/legal-communities/law-students/student-membership",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "pia-student-membership",
+  "name": "Planning Institute of Australia student membership",
+  "provider": "Planning Institute of Australia",
+  "category": "career",
+  "summary": "Discounted student membership of the Planning Institute of Australia for urban and regional planning students.",
+  "key": "Student Full-Time membership is $93 (Australia based); Student Part-Time is $319.",
+  "catches": [
+   "Fees are for the current financial year."
+  ],
+  "tags": [
+   "planning",
+   "urban planning",
+   "town planning",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://planning.org.au/pia/membership/member-fees.aspx",
+   "label": "Planning Institute of Australia: Member Fees"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Full-time student fee",
+    "quote": "Student Full-Time: $93.00 (Australia Based)",
+    "url": "https://planning.org.au/pia/membership/member-fees.aspx",
+    "page_date": null
+   },
+   {
+    "claim": "Part-time student fee",
+    "quote": "Student Part-Time: $319.00 (Australia Based)",
+    "url": "https://planning.org.au/pia/membership/member-fees.aspx",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "aipm-student-membership",
+  "name": "AIPM Student Membership",
+  "provider": "Australian Institute of Project Management",
+  "category": "career",
+  "summary": "Discounted student membership of the Australian Institute of Project Management, with mentoring, resources and free or discounted events.",
+  "key": "Annual price: $89.45.",
+  "who": [
+   "Must be currently enrolled in study"
+  ],
+  "how": [
+   "Select Join now and provide evidence of enrolment such as a student card, course listing screenshot or enrolment confirmation."
+  ],
+  "catches": [
+   "Student members can't vote at the AGM or in elections.",
+   "RegPM certification is limited to Individual Membership."
+  ],
+  "tags": [
+   "project management",
+   "pm",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://aipm.com.au/membership/student-member/",
+   "label": "AIPM: Student Project Management Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "business",
+     "engineering"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Price",
+    "quote": "Annual price: $89.45",
+    "url": "https://aipm.com.au/membership/student-member/",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "To be eligible, you must be currently enrolled in study.",
+    "url": "https://aipm.com.au/membership/student-member/",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "architects-sona-student-membership",
+  "name": "SONA student membership (Australian Institute of Architects)",
+  "provider": "Australian Institute of Architects",
+  "category": "career",
+  "summary": "Student membership of SONA, the student body of the Australian Institute of Architects, for architecture students.",
+  "key": "$49 annual fee (includes GST).",
+  "who": [
+   "Students enrolled in a Bachelor's or Master's program in a recognised architecture or related course in Australia",
+   "Students on a one-year deferral are also eligible"
+  ],
+  "how": [
+   "Complete the online application form and payment."
+  ],
+  "tags": [
+   "architecture",
+   "architect",
+   "sona",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.architecture.com.au/sona",
+   "label": "Australian Institute of Architects: Student Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Fee",
+    "quote": "$49 annual fee (includes GST)",
+    "url": "https://www.architecture.com.au/sona",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "Students enrolled in a Bachelors's or Master's program in a recognised architecture or related course in Australia",
+    "url": "https://www.architecture.com.au/sona",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "aisa-student-membership",
+  "name": "AISA student membership",
+  "provider": "Australian Information Security Association",
+  "category": "career",
+  "summary": "Complimentary cyber security student membership of AISA for students at listed universities and TAFEs; others pay a reduced rate.",
+  "key": "Complimentary for eligible students; regular student membership is $50.",
+  "who": [
+   "Studying a cyber security course at one of the listed universities or TAFEs",
+   "Must have a valid student ID card"
+  ],
+  "how": [
+   "Click your institution's name on the page to access the complimentary membership."
+  ],
+  "catches": [
+   "Only students at listed institutions get it free."
+  ],
+  "tags": [
+   "cyber security",
+   "cybersecurity",
+   "information security",
+   "it security",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.aisa.org.au/Public/Public/Members/Student-Membership.aspx",
+   "label": "AISA: Student Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "it"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free for eligible students",
+    "quote": "a complimentary AISA student membership",
+    "url": "https://www.aisa.org.au/Public/Public/Members/Student-Membership.aspx",
+    "page_date": null
+   },
+   {
+    "claim": "Other students",
+    "quote": "Regular student membership is $50.",
+    "url": "https://www.aisa.org.au/Public/Public/Members/Student-Membership.aspx",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "Students currently studying a cyber security course at one of the following universities or TAFEs are eligible",
+    "url": "https://www.aisa.org.au/Public/Public/Members/Student-Membership.aspx",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "ausimm-student-membership",
+  "name": "AusIMM Student membership",
+  "provider": "Australasian Institute of Mining and Metallurgy",
+  "category": "career",
+  "summary": "Free annual student membership of AusIMM for full-time students heading into mining, metallurgy and the resources sector.",
+  "key": "Student Membership is a FREE annual membership, with a one-off $22 application fee.",
+  "who": [
+   "Full-time undergraduates completing their first degree, or full-time diploma students",
+   "No previous work experience in the resources sector"
+  ],
+  "how": [
+   "Complete the online application with photo ID, enrolment information and expected completion date."
+  ],
+  "catches": [
+   "One-off application fee of $22 when joining."
+  ],
+  "tags": [
+   "mining",
+   "metallurgy",
+   "geology",
+   "resources",
+   "engineering",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://ausimm.com/communities/membership/student-grade-membership",
+   "label": "AusIMM: Student membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "engineering",
+     "other"
+    ]
+   },
+   "load": {
+    "yes": [
+     "full"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Student Membership is a FREE annual membership.",
+    "url": "https://ausimm.com/communities/membership/student-grade-membership",
+    "page_date": null
+   },
+   {
+    "claim": "Application fee",
+    "quote": "a one-off application fee of $22.00 charged when joining",
+    "url": "https://ausimm.com/communities/membership/student-grade-membership",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "Full time undergraduates completing their first degree or full time students completing a diploma",
+    "url": "https://ausimm.com/communities/membership/student-grade-membership",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "ahri-student-membership",
+  "name": "AHRI Student membership",
+  "provider": "Australian HR Institute",
+  "category": "career",
+  "summary": "Discounted student membership of the Australian HR Institute for university students who haven't yet worked in HR.",
+  "key": "Annual investment $55.",
+  "who": [
+   "University students who are currently studying and have not yet worked in an HR role"
+  ],
+  "how": [
+   "Use the Join now form on the AHRI membership page."
+  ],
+  "tags": [
+   "human resources",
+   "hr",
+   "business",
+   "psychology",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.ahri.com.au/ahri-membership",
+   "label": "AHRI: Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "business"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Price",
+    "quote": "Annual investment $55",
+    "url": "https://www.ahri.com.au/ahri-membership",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "For university students who are currently studying and have not yet worked in an HR role.",
+    "url": "https://www.ahri.com.au/ahri-membership",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "ca-anz-achiever-program",
+  "name": "CA ANZ Achiever Program",
+  "provider": "Chartered Accountants Australia and New Zealand",
+  "category": "career",
+  "summary": "Paid accounting internships for penultimate and final-year accounting students, arranged through Chartered Accountants ANZ.",
+  "key": "All internships offered through the Achiever Program are paid, with pay varying by employer.",
+  "who": [
+   "Penultimate or final-year tertiary accounting student in Australia or New Zealand"
+  ],
+  "how": [
+   "Complete the online application form when the intake opens.",
+   "Eligible applicants are invited to a video interview, then shortlisted students interview with an employer."
+  ],
+  "catches": [
+   "Applications only open during intake periods."
+  ],
+  "tags": [
+   "accounting",
+   "chartered accountant",
+   "internship",
+   "ca anz",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.charteredaccountantsanz.com/become-a-member/value-of-your-provisional-membership/achiever-program-for-students",
+   "label": "CA ANZ: Achiever Program for students"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "business"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Paid",
+    "quote": "All internships offered through the Achiever Program are paid, with compensation varying by employer.",
+    "url": "https://www.charteredaccountantsanz.com/become-a-member/value-of-your-provisional-membership/achiever-program-for-students",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "You must be a penultimate or final-year tertiary accounting student in Australia or New Zealand.",
+    "url": "https://www.charteredaccountantsanz.com/become-a-member/value-of-your-provisional-membership/achiever-program-for-students",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "acn-undergraduate-membership",
+  "name": "ACN Undergraduate Membership",
+  "provider": "Australian College of Nursing",
+  "category": "career",
+  "summary": "Low-cost Australian College of Nursing membership for undergraduate RN and EN students.",
+  "key": "Monthly payments: $5.25.",
+  "who": [
+   "Undergraduate registered nurse (RN) and enrolled nurse (EN) students"
+  ],
+  "tags": [
+   "nursing",
+   "nurse",
+   "acn",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://members.acn.edu.au/Public/Join/Member_Benefits.aspx",
+   "label": "Australian College of Nursing: Member Benefits"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "care"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Price",
+    "quote": "Monthly payments: $5.25",
+    "url": "https://members.acn.edu.au/Public/Join/Member_Benefits.aspx",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "Undergraduate Membership provides undergraduate RN and EN students with access to a comprehensive suite of member benefits.",
+    "url": "https://members.acn.edu.au/Public/Join/Member_Benefits.aspx",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "cnsa-student-membership",
+  "name": "CNSA student membership",
+  "provider": "Cancer Nurses Society of Australia",
+  "category": "career",
+  "summary": "Free membership of the Cancer Nurses Society of Australia for nursing students interested in cancer care.",
+  "key": "You can join CNSA for free.",
+  "who": [
+   "Enrolled in study towards an entry-to-practice nursing qualification",
+   "Have an interest in cancer care and control"
+  ],
+  "catches": [
+   "Documented evidence is required and subject to approval."
+  ],
+  "tags": [
+   "nursing",
+   "oncology",
+   "cancer care",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.cnsa.org.au/join/become-a-member.html",
+   "label": "CNSA: Membership Categories"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "care"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "You can join CNSA for free",
+    "url": "https://www.cnsa.org.au/join/become-a-member.html",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "Be enrolled in study towards an entry to practice nursing qualification; and",
+    "url": "https://www.cnsa.org.au/join/become-a-member.html",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "acm-student-membership",
+  "name": "Australian College of Midwives student membership",
+  "provider": "Australian College of Midwives",
+  "category": "career",
+  "summary": "Free membership of the Australian College of Midwives for the length of your midwifery course.",
+  "key": "Student Members – Complimentary for the duration of your study ($0 membership fee).",
+  "who": [
+   "Students studying to gain initial midwifery registration"
+  ],
+  "catches": [
+   "Student members do not have voting rights."
+  ],
+  "tags": [
+   "midwifery",
+   "midwife",
+   "acm",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.midwives.org.au/join",
+   "label": "Australian College of Midwives: Membership Types"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "care"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Student Members – Complimentary for the duration of your study",
+    "url": "https://www.midwives.org.au/join",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "For students who are studying to gain initial midwifery registration.",
+    "url": "https://www.midwives.org.au/join",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "aps-student-subscriber",
+  "name": "APS Student Subscriber",
+  "provider": "Australian Psychological Society",
+  "category": "career",
+  "summary": "Discounted Student Subscriber grade of the Australian Psychological Society for students in accredited psychology programs.",
+  "key": "The student membership fee is $80 for a full year, with all interest groups for $25.",
+  "who": [
+   "Enrolled in an APAC-accredited psychology program, or a postgraduate research degree in psychology"
+  ],
+  "catches": [
+   "Student subscribers aren't eligible for the further fee discount other grades can apply for."
+  ],
+  "tags": [
+   "psychology",
+   "psychologist",
+   "aps",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://psychology.org.au/become-a-member/membership-fees",
+   "label": "APS: Membership fees"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "care",
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Interest groups",
+    "quote": "unlimited access to all our interest groups for $25",
+    "url": "https://psychology.org.au/become-a-member/membership-fees",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "You qualify for APS Student Subscriber grade if you are enrolled in an APAC-accredited psychology program",
+    "url": "https://psychology.org.au/become-a-member/membership-fees",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "apa-student-membership",
+  "name": "APA student membership",
+  "provider": "Australian Physiotherapy Association",
+  "category": "career",
+  "summary": "Free Australian Physiotherapy Association membership for students in accredited physiotherapy degrees.",
+  "key": "Student membership is free for those studying an Australian Physiotherapy Council accredited physiotherapy degree.",
+  "who": [
+   "Active student in an accredited, entry-level Australian physiotherapy degree (separate first-year and later-year categories)"
+  ],
+  "how": [
+   "Join as M7 (second year or later) or M7a (first year) on the APA site."
+  ],
+  "catches": [
+   "Membership runs 1 January to 31 December.",
+   "Doesn't include professional indemnity insurance."
+  ],
+  "tags": [
+   "physiotherapy",
+   "physio",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://australian.physio/membership/categories-fees/student-membership",
+   "label": "APA: Student membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "care"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Student membership is free for those studying an Australian Physiotherapy Council accredited physiotherapy degree.",
+    "url": "https://australian.physio/membership/categories-fees/student-membership",
+    "page_date": null
+   },
+   {
+    "claim": "No PII",
+    "quote": "This category doesn't include professional indemnity insurance (PII).",
+    "url": "https://australian.physio/membership/categories-fees/student-membership",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "psa-student-membership",
+  "name": "PSA Student Membership",
+  "provider": "Pharmaceutical Society of Australia",
+  "category": "career",
+  "summary": "Free Pharmaceutical Society of Australia membership for full-time pharmacy students.",
+  "key": "Student membership is free of charge.",
+  "who": [
+   "Studying pharmacy full-time at an Australian teaching university"
+  ],
+  "tags": [
+   "pharmacy",
+   "pharmacist",
+   "psa",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.psa.org.au/membership/student-membership",
+   "label": "PSA: Student Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "care"
+    ]
+   },
+   "load": {
+    "yes": [
+     "full"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Student membership is free of charge, to support you at the start of your pharmacy career.",
+    "url": "https://www.psa.org.au/membership/student-membership",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "To be eligible for Student membership you must be studying pharmacy full-time at an Australian teaching university.",
+    "url": "https://www.psa.org.au/membership/student-membership",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "adpha-student-membership",
+  "name": "AdPha student membership",
+  "provider": "Advanced Pharmacy Australia",
+  "category": "career",
+  "summary": "Free student membership of Advanced Pharmacy Australia (formerly SHPA) for the length of your pharmacy enrolment.",
+  "key": "Student membership fee: FREE.",
+  "who": [
+   "Enrolled as a pharmacy student"
+  ],
+  "how": [
+   "Provide a copy of your student card with your application; student status is checked."
+  ],
+  "tags": [
+   "pharmacy",
+   "hospital pharmacy",
+   "adpha",
+   "shpa",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://adpha.au/membership/benefits/students",
+   "label": "AdPha: Student membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "care"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Student membership fee: FREE",
+    "url": "https://adpha.au/membership/benefits/students",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "Student membership is for the period of your enrolment as a pharmacy student.",
+    "url": "https://adpha.au/membership/benefits/students",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "pharmacy-guild-vic-student-membership",
+  "name": "Pharmacy Guild student membership (Victoria)",
+  "provider": "The Pharmacy Guild of Australia (Victorian Branch)",
+  "category": "career",
+  "summary": "Free Pharmacy Guild student membership for Victorian pharmacy students who join their local student association.",
+  "key": "Student membership is absolutely FREE.",
+  "who": [
+   "Any student currently studying pharmacy",
+   "Join through the student association at La Trobe (Bendigo), Monash or RMIT"
+  ],
+  "how": [
+   "Join your local student association to receive free Guild student membership."
+  ],
+  "tags": [
+   "pharmacy",
+   "victoria",
+   "vic",
+   "monash",
+   "rmit",
+   "la trobe",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://guild.org.au/guild-branches/vic/membership-categories/student-membership",
+   "label": "Pharmacy Guild of Australia: Student Membership (Vic)"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "care"
+    ]
+   },
+   "campus": {
+    "yes": [
+     "vic"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "it's absolutely FREE.",
+    "url": "https://guild.org.au/guild-branches/vic/membership-categories/student-membership",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "Student membership is available to any student currently studying pharmacy",
+    "url": "https://guild.org.au/guild-branches/vic/membership-categories/student-membership",
+    "page_date": null
+   },
+   {
+    "claim": "How",
+    "quote": "Join your local student association and receive free student membership of the Pharmacy Guild of Australia.",
+    "url": "https://guild.org.au/guild-branches/vic/membership-categories/student-membership",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "dietitians-australia-student-membership",
+  "name": "Dietitians Australia student membership",
+  "provider": "Dietitians Australia",
+  "category": "career",
+  "summary": "Free Dietitians Australia membership for students in accredited dietetics courses.",
+  "key": "Student membership is free.",
+  "who": [
+   "Enrolled in an Australian accredited dietetics course or a course with Program Qualification"
+  ],
+  "tags": [
+   "dietetics",
+   "dietitian",
+   "nutrition",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://member.dietitiansaustralia.org.au/Portal/Content/About/Membership-Hub/Categories.aspx",
+   "label": "Dietitians Australia: Categories and fees"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "care"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Student Free Free Free Free Free N/A N/A N/A",
+    "url": "https://member.dietitiansaustralia.org.au/Portal/Content/About/Membership-Hub/Categories.aspx",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "Enrolled in an Australian accredited dietetics course or a course with Program Qualification (PQ)",
+    "url": "https://member.dietitiansaustralia.org.au/Portal/Content/About/Membership-Hub/Categories.aspx",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "aasw-student-membership",
+  "name": "AASW student membership",
+  "provider": "Australian Association of Social Workers",
+  "category": "career",
+  "summary": "Low-cost AASW student membership for students in accredited social work degrees, with some free student webinars.",
+  "key": "Student membership costs around $1 a week.",
+  "who": [
+   "Enrolled in an AASW accredited Bachelor of Social Work"
+  ],
+  "how": [
+   "Create a MyAASW account.",
+   "Upload a certified copy of your student card or other proof of enrolment, then Join Now."
+  ],
+  "tags": [
+   "social work",
+   "social worker",
+   "aasw",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://aasw.asn.au/membership/student",
+   "label": "AASW: Student"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "care"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Price",
+    "quote": "For around $1 a week, student membership is an investment in your future.",
+    "url": "https://aasw.asn.au/membership/student",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "You can become a student member of AASW if you are enrolled in an AASW accredited Bachelor of Social Work.",
+    "url": "https://aasw.asn.au/membership/student",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "dia-student-membership",
+  "name": "Design Institute of Australia student membership",
+  "provider": "Design Institute of Australia",
+  "category": "career",
+  "summary": "Discounted concessional membership of the Design Institute of Australia for design students.",
+  "key": "DIA Membership for Students is $45 + GST per year.",
+  "how": [
+   "Go to the Membership Application page, upload proof of concession (student card or enrolment) and select DIA General Membership (Concessional - annual)."
+  ],
+  "tags": [
+   "design",
+   "graphic design",
+   "interior design",
+   "industrial design",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.design.org.au/students",
+   "label": "Design Institute of Australia: Students"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Price",
+    "quote": "DIA Membership for Students is now only $45 + GST per year",
+    "url": "https://www.design.org.au/students",
+    "page_date": null
+   },
+   {
+    "claim": "Proof",
+    "quote": "Upload proof of concession (valid student card, proof of enrolment)",
+    "url": "https://www.design.org.au/students",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "qtu-student-membership",
+  "name": "QTU student membership",
+  "provider": "Queensland Teachers' Union",
+  "category": "career",
+  "summary": "Free Queensland Teachers' Union student membership for education students, which can be held alongside IEU-QNT membership.",
+  "key": "FREE QTU and IEU-QNT STUDENT membership.",
+  "who": [
+   "Education students"
+  ],
+  "how": [
+   "Fill out the dual application form, or join the QTU only at qtu.asn.au/join."
+  ],
+  "catches": [
+   "No membership fees until you land your first job; you choose one union for full membership once you start paid work."
+  ],
+  "tags": [
+   "teaching",
+   "education",
+   "teacher",
+   "qld",
+   "queensland",
+   "union",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://qtu.asn.au/join-online-downloadforms/student-membership-brochure-and-application-form",
+   "label": "QTU: Student membership brochure and application form"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "FREE QTU and IEU-QNT STUDENT membership",
+    "url": "https://qtu.asn.au/join-online-downloadforms/student-membership-brochure-and-application-form",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "Education students are eligible for simultaneous membership of both of Queensland teachers' unions",
+    "url": "https://qtu.asn.au/join-online-downloadforms/student-membership-brochure-and-application-form",
+    "page_date": null
+   },
+   {
+    "claim": "No fees",
+    "quote": "You will not have to pay a dollar in membership fees until you land your first job",
+    "url": "https://qtu.asn.au/join-online-downloadforms/student-membership-brochure-and-application-form",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "ieu-qnt-university-student-membership",
+  "name": "IEU-QNT university student membership",
+  "provider": "Independent Education Union – Queensland and Northern Territory Branch",
+  "category": "career",
+  "summary": "Free IEU-QNT union membership for aspiring teachers studying education at university in Queensland and the NT.",
+  "key": "Free membership for aspiring teachers studying education at university.",
+  "who": [
+   "Aspiring teachers studying education at university"
+  ],
+  "tags": [
+   "teaching",
+   "education",
+   "teacher",
+   "qld",
+   "nt",
+   "union",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://ieuqnt.org.au/university/",
+   "label": "IEU-QNT: University student membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Our union offers free membership to aspiring teachers studying education at university.",
+    "url": "https://ieuqnt.org.au/university/",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "ieu-nsw-act-student-membership",
+  "name": "IEU NSW/ACT student membership",
+  "provider": "Independent Education Union NSW/ACT Branch",
+  "category": "career",
+  "summary": "Free IEU NSW/ACT union membership for tertiary student teachers, with discounted membership in your first year of teaching.",
+  "key": "Free membership for tertiary students.",
+  "how": [
+   "Use the Join today button on the page."
+  ],
+  "catches": [
+   "Discounted (not free) membership in your first year of teaching."
+  ],
+  "tags": [
+   "teaching",
+   "education",
+   "teacher",
+   "nsw",
+   "act",
+   "union",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.ieu.asn.au/why-join-us/student-teachers/",
+   "label": "IEU NSW/ACT: Students (free membership)"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "We offer free membership for tertiary students",
+    "url": "https://www.ieu.asn.au/why-join-us/student-teachers/",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "aip-student-associate",
+  "name": "AIP Student Associate",
+  "provider": "Australian Institute of Physics",
+  "category": "career",
+  "summary": "Free online-only Student Associate membership of the Australian Institute of Physics for full-time physics students.",
+  "key": "Free online-only membership for Australian full-time students; postgraduates can upgrade for $60.",
+  "who": [
+   "Australian full-time students in physics (undergraduate, Honours, Masters or PhD)"
+  ],
+  "how": [
+   "Enter your email address in the sign-up field on the page."
+  ],
+  "catches": [
+   "No voting rights.",
+   "Runs for one year from 1 March, with no automatically recurring payments."
+  ],
+  "tags": [
+   "physics",
+   "science",
+   "aip",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://physics.org.au/Student-Associate",
+   "label": "Australian Institute of Physics: Student Associate"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "other"
+    ]
+   },
+   "load": {
+    "yes": [
+     "full"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Free online-only membership, without voting rights, for Australian full-time students",
+    "url": "https://physics.org.au/Student-Associate",
+    "page_date": null
+   },
+   {
+    "claim": "Upgrade",
+    "quote": "a greatly reduced student fee ($ 60)",
+    "url": "https://physics.org.au/Student-Associate",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "aibs-student-membership",
+  "name": "AIBS Student Membership",
+  "provider": "Australian Institute of Building Surveyors",
+  "category": "career",
+  "summary": "Free AIBS membership for students in accredited building surveying courses; students in other courses pay a reduced fee.",
+  "key": "Free for students in AIBS-accredited courses; students in non-accredited courses pay $77 per year.",
+  "who": [
+   "Enrolled in your first building surveying qualification at a recognised university, TAFE or training provider"
+  ],
+  "how": [
+   "Check eligibility, confirm whether your course is AIBS-accredited, then apply online with proof of enrolment."
+  ],
+  "tags": [
+   "building surveying",
+   "building certification",
+   "construction",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://aibs.com.au/student",
+   "label": "AIBS: Student Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "engineering",
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "your membership is completely free.",
+    "url": "https://aibs.com.au/student",
+    "page_date": null
+   },
+   {
+    "claim": "Non-accredited",
+    "quote": "Students in non-accredited courses pay just $77 per year.",
+    "url": "https://aibs.com.au/student",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "you must be enrolled in your first building surveying course.",
+    "url": "https://aibs.com.au/student",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "concrete-institute-student-membership",
+  "name": "Concrete Institute of Australia student membership",
+  "provider": "Concrete Institute of Australia",
+  "category": "career",
+  "summary": "Complimentary Concrete Institute of Australia membership for full-time undergraduate and postgraduate students.",
+  "key": "Complimentary Student Membership.",
+  "who": [
+   "Undergraduate and postgraduate students studying full-time"
+  ],
+  "how": [
+   "Use the Join Now button on the Concrete Institute site."
+  ],
+  "tags": [
+   "concrete",
+   "civil engineering",
+   "structural engineering",
+   "construction",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://concreteinstitute.com.au/membership/academic",
+   "label": "Concrete Institute of Australia: Academic Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "engineering"
+    ]
+   },
+   "load": {
+    "yes": [
+     "full"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "a complimentary Student Membership with the Concrete Institute of Australia",
+    "url": "https://concreteinstitute.com.au/membership/academic",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "Both Undergraduate and Post Graduate Students that are studying full-time",
+    "url": "https://concreteinstitute.com.au/membership/academic",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "asi-student-membership",
+  "name": "Australian Steel Institute student membership",
+  "provider": "Australian Steel Institute",
+  "category": "career",
+  "summary": "Free Australian Steel Institute membership for full-time undergraduate students at Australian universities.",
+  "key": "$0 (Free) student membership while studying full time.",
+  "who": [
+   "Studying an undergraduate bachelor degree full time",
+   "Enrolled at a university in Australia"
+  ],
+  "how": [
+   "Apply online and upload proof of full-time study (transcript, workload screenshot or enrolment letter)."
+  ],
+  "catches": [
+   "Free only while studying full time.",
+   "Brief approval process before access is confirmed."
+  ],
+  "tags": [
+   "steel",
+   "structural engineering",
+   "civil engineering",
+   "construction",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.steel.org.au/become-a-member/individual-memberships",
+   "label": "Australian Steel Institute: Individual memberships"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "engineering"
+    ]
+   },
+   "load": {
+    "yes": [
+     "full"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "This $0 (Free)* student membership is limited to the period of studying full time only.",
+    "url": "https://www.steel.org.au/become-a-member/individual-memberships",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "Student membership is only available to those studying undergraduate bachelor degrees full time",
+    "url": "https://www.steel.org.au/become-a-member/individual-memberships",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "airah-student-membership",
+  "name": "AIRAH Student Membership",
+  "provider": "Australian Institute of Refrigeration, Air Conditioning and Heating",
+  "category": "career",
+  "summary": "Free AIRAH membership for full-time students, apprentices and trainees heading into HVAC&R careers.",
+  "key": "Student membership is free for students who provide proof of full-time enrolment.",
+  "who": [
+   "Current full-time students, apprentices and trainees in Australia preparing for a career in HVAC&R"
+  ],
+  "how": [
+   "Create an AIRAH account, then apply with proof of enrolment."
+  ],
+  "tags": [
+   "hvac",
+   "mechanical engineering",
+   "building services",
+   "refrigeration",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://airah.org.au/site/membership/types/student",
+   "label": "AIRAH: Student Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "engineering"
+    ]
+   },
+   "load": {
+    "yes": [
+     "full"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Student membership is free for students who provide proof of full-time enrolment.",
+    "url": "https://airah.org.au/site/membership/types/student",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "Student Membership is open to current full-time students, apprentices, and trainees in Australia",
+    "url": "https://airah.org.au/site/membership/types/student",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "awa-student-membership",
+  "name": "Australian Water Association student concession membership",
+  "provider": "Australian Water Association",
+  "category": "career",
+  "summary": "Discounted concession membership of the Australian Water Association for full-time students in the water sector.",
+  "who": [
+   "Full-time students"
+  ],
+  "how": [
+   "Join online and provide evidence such as a student ID or current enrolment notice."
+  ],
+  "catches": [
+   "The page doesn't state the concession price."
+  ],
+  "tags": [
+   "water",
+   "environmental engineering",
+   "civil engineering",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.awa.asn.au/membership/individual",
+   "label": "Australian Water Association: Membership for me"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "engineering",
+     "other"
+    ]
+   },
+   "load": {
+    "yes": [
+     "full"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Concession",
+    "quote": "We offer a Concession level of membership for people who are full time students.",
+    "url": "https://www.awa.asn.au/membership/individual",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "stormwater-qld-student-membership",
+  "name": "Stormwater Queensland student membership",
+  "provider": "Stormwater Queensland",
+  "category": "career",
+  "summary": "Free Stormwater Queensland membership for full-time undergraduate students.",
+  "key": "Student Membership of Stormwater Queensland at no charge.",
+  "who": [
+   "Currently undertaking full-time undergraduate tertiary study"
+  ],
+  "how": [
+   "Register through the Stormwater Queensland membership portal."
+  ],
+  "catches": [
+   "Not available for postgraduate, masters or PhD study."
+  ],
+  "tags": [
+   "stormwater",
+   "water",
+   "civil engineering",
+   "qld",
+   "queensland",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://stormwaterqueensland.asn.au/about/membership/",
+   "label": "Stormwater Queensland: Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "engineering",
+     "other"
+    ]
+   },
+   "load": {
+    "yes": [
+     "full"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Student Membership of Stormwater Queensland at no charge",
+    "url": "https://stormwaterqueensland.asn.au/about/membership/",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "Student members must be currently undertaking full time tertiary study (undergraduate).",
+    "url": "https://stormwaterqueensland.asn.au/about/membership/",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "aca-student-membership-program",
+  "name": "ACA Student Membership Program",
+  "provider": "Australasian Corrosion Association",
+  "category": "career",
+  "summary": "Free one-year Australasian Corrosion Association membership for full-time undergraduate and postgraduate students, with limited places per branch.",
+  "key": "Free Membership Program, valid for one year.",
+  "who": [
+   "Full-time students, from undergraduate to postgraduate level"
+  ],
+  "how": [
+   "Register your interest through the online form."
+  ],
+  "catches": [
+   "A limited number of places per branch.",
+   "Renewal depends on engagement with ACA activities."
+  ],
+  "tags": [
+   "corrosion",
+   "materials engineering",
+   "chemical engineering",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.corrosion.com.au/?p=12773",
+   "label": "Australasian Corrosion Association: ACA Student Membership Program"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "engineering"
+    ]
+   },
+   "load": {
+    "yes": [
+     "full"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free, one year",
+    "quote": "is valid for one year and may be renewed based on your engagement with ACA activities",
+    "url": "https://www.corrosion.com.au/?p=12773",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "designed for full-time students, from undergraduate to postgraduate level",
+    "url": "https://www.corrosion.com.au/?p=12773",
+    "page_date": null
+   },
+   {
+    "claim": "Places",
+    "quote": "a limited number of placements available per branch",
+    "url": "https://www.corrosion.com.au/?p=12773",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "national-precast-student-membership",
+  "name": "National Precast student membership",
+  "provider": "National Precast Concrete Association Australia",
+  "category": "career",
+  "summary": "Free National Precast student membership for full-time students in courses related to the precast concrete industry.",
+  "key": "Professional Associate student Member – Free.",
+  "how": [
+   "Download and submit the application form."
+  ],
+  "tags": [
+   "precast",
+   "concrete",
+   "engineering",
+   "architecture",
+   "building",
+   "quantity surveying",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://nationalprecast.com.au/students/",
+   "label": "National Precast: Students"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "engineering",
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Professional Associate student Member – Free",
+    "url": "https://nationalprecast.com.au/students/",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "tpa-student-membership",
+  "name": "Transport Professionals Association student membership",
+  "provider": "Transport Professionals Association (formerly AITPM)",
+  "category": "career",
+  "summary": "Free membership of the Transport Professionals Association for students in transport-related disciplines.",
+  "key": "Free membership for students studying transport-related disciplines.",
+  "who": [
+   "Studying a transport-related discipline"
+  ],
+  "how": [
+   "Choose your membership category and complete the online form."
+  ],
+  "tags": [
+   "transport planning",
+   "traffic engineering",
+   "aitpm",
+   "civil engineering",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://transportprofessionals.com.au/membership/become-a-tpa-member",
+   "label": "Transport Professionals Association: Become a TPA Member"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "engineering",
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Free membership for students studying transport-related disciplines",
+    "url": "https://transportprofessionals.com.au/membership/become-a-tpa-member",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "ami-student-membership",
+  "name": "AMI free student membership",
+  "provider": "Australian Marketing Institute",
+  "category": "career",
+  "summary": "Free Australian Marketing Institute membership for new members enrolled in AMI-accredited marketing programs.",
+  "key": "FREE Student Membership for individuals enrolled in AMI-accredited tertiary programs.",
+  "who": [
+   "Enrolled in an AMI-accredited tertiary program, or an AMI-endorsed VET, industry or short course"
+  ],
+  "how": [
+   "Enter your email on the page and check the list of eligible institutions."
+  ],
+  "catches": [
+   "Offer valid for new members only."
+  ],
+  "tags": [
+   "marketing",
+   "business",
+   "ami",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://memberhub.ami.org.au/free-ami-Student-Membership",
+   "label": "Australian Marketing Institute: Free AMI Student Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "business"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "AMI offers FREE Student Membership to individuals enrolled in AMI-accredited tertiary programs",
+    "url": "https://memberhub.ami.org.au/free-ami-Student-Membership",
+    "page_date": null
+   },
+   {
+    "claim": "New members",
+    "quote": "Please note, the offer is valid for new members only.",
+    "url": "https://memberhub.ami.org.au/free-ami-Student-Membership",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "esa-nsw-student-membership",
+  "name": "Economic Society NSW student membership",
+  "provider": "Economic Society of Australia (NSW Branch)",
+  "category": "career",
+  "summary": "Cheap NSW Economic Society membership for full-time university students.",
+  "key": "University Student (Full Time): $20 / $10 for new members.",
+  "who": [
+   "Full-time university students",
+   "Sign up with your university student email address"
+  ],
+  "how": [
+   "Register on the ESA NSW site."
+  ],
+  "tags": [
+   "economics",
+   "nsw",
+   "economist",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://esansw.org.au/news/16290/information-on-becoming-a-member/?type_fr=",
+   "label": "Economic Society of Australia NSW: Information on becoming a Member"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "business"
+    ]
+   },
+   "load": {
+    "yes": [
+     "full"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Price",
+    "quote": "University Student (Full Time): $20 / $10 (new members*)",
+    "url": "https://esansw.org.au/news/16290/information-on-becoming-a-member/?type_fr=",
+    "page_date": null
+   },
+   {
+    "claim": "Email",
+    "quote": "sign up using your University Student Email Address",
+    "url": "https://esansw.org.au/news/16290/information-on-becoming-a-member/?type_fr=",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "actuaries-institute-university-subscriber",
+  "name": "Actuaries Institute university subscriber",
+  "provider": "Actuaries Institute",
+  "category": "career",
+  "summary": "Free university subscriber membership of the Actuaries Institute, with free events, career content and the Actuarial Sprint app.",
+  "key": "Become a uni subscriber for free.",
+  "how": [
+   "Sign up as a University Subscriber on the Actuaries Institute site."
+  ],
+  "tags": [
+   "actuarial",
+   "actuary",
+   "statistics",
+   "finance",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.actuaries.asn.au/become-a-university-subscriber",
+   "label": "Actuaries Institute: Become a university subscriber"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "business"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Become a uni subscriber and start connecting with your community for free.",
+    "url": "https://www.actuaries.asn.au/become-a-university-subscriber",
+    "page_date": null
+   },
+   {
+    "claim": "Benefits",
+    "quote": "Free Insight events, networking and Young Actuary Program events. Plus discount pricing on major events.",
+    "url": "https://www.actuaries.asn.au/become-a-university-subscriber",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "qnmu-student-membership",
+  "name": "QNMU free student membership",
+  "provider": "Queensland Nurses and Midwives' Union",
+  "category": "career",
+  "summary": "Free QNMU union membership for undergraduate nursing and midwifery students in Queensland.",
+  "key": "Undergraduate student (nursing or midwifery) membership is $0.",
+  "who": [
+   "Undertaking an accredited undergraduate nursing and/or midwifery course",
+   "Not engaged in nursing/midwifery work",
+   "No nursing or midwifery qualifications (diploma or higher)"
+  ],
+  "how": [
+   "Join at qnmu.org.au/join."
+  ],
+  "tags": [
+   "nursing",
+   "midwifery",
+   "qld",
+   "queensland",
+   "union",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.qnmu.org.au/Web/Membership/Membership_and_Fees.aspx",
+   "label": "QNMU: Membership and Fees"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "care"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Eligibility",
+    "quote": "is undertaking an accredited undergraduate nursing and/or midwifery course",
+    "url": "https://www.qnmu.org.au/Web/Membership/Membership_and_Fees.aspx",
+    "page_date": null
+   },
+   {
+    "claim": "Not working",
+    "quote": "is not engaged in nursing/midwifery work; and",
+    "url": "https://www.qnmu.org.au/Web/Membership/Membership_and_Fees.aspx",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "nswnma-student-membership",
+  "name": "NSWNMA student associate membership",
+  "provider": "NSW Nurses and Midwives' Association",
+  "category": "career",
+  "summary": "Free NSW Nurses and Midwives' Association associate membership for nursing and midwifery students.",
+  "key": "Nursing and midwifery students can become Associate Members for free.",
+  "who": [
+   "Nursing and midwifery students"
+  ],
+  "how": [
+   "Use the Join Now button on the NSWNMA site."
+  ],
+  "tags": [
+   "nursing",
+   "midwifery",
+   "nsw",
+   "union",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.nswnma.asn.au/nswnmamembers/student-membership",
+   "label": "NSWNMA: Student membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "care"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Nursing and midwifery students can become Associate Members of the Association for free.",
+    "url": "https://www.nswnma.asn.au/nswnmamembers/student-membership",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "acrrm-student-membership",
+  "name": "ACRRM student membership",
+  "provider": "Australian College of Rural and Remote Medicine",
+  "category": "career",
+  "summary": "Free ACRRM membership for the length of your studies for students in accredited medicine or health courses.",
+  "key": "ACRRM Membership is free for students.",
+  "who": [
+   "Enrolled in an Australian accredited undergraduate or graduate course in medicine or health"
+  ],
+  "how": [
+   "Use the Join for free button on the page."
+  ],
+  "tags": [
+   "medicine",
+   "rural health",
+   "doctor",
+   "health",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://acrrm.org.au/membership/student-membership",
+   "label": "ACRRM: Student membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "care"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "ACRRM Membership is free for students!",
+    "url": "https://acrrm.org.au/membership/student-membership",
+    "page_date": null
+   },
+   {
+    "claim": "Duration",
+    "quote": "will remain free for the duration of your studies",
+    "url": "https://acrrm.org.au/membership/student-membership",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "If you are enrolled in an Australian accredited undergraduate or graduate course in medicine or health",
+    "url": "https://acrrm.org.au/membership/student-membership",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "raci-student-membership",
+  "name": "RACI Student Membership",
+  "provider": "Royal Australian Chemical Institute",
+  "category": "career",
+  "summary": "Discounted Royal Australian Chemical Institute membership for chemistry students, with a separate PhD rate.",
+  "key": "$28.00 inc. GST annually (undergraduate, Honours and Masters); $64.00 for PhD students.",
+  "who": [
+   "Certificate, Diploma, Undergraduate, Honours and Masters students in chemistry-related courses",
+   "PhD students use the Postgraduate Student (MRACI) category"
+  ],
+  "how": [
+   "Choose a membership type, select Join now and upload formal confirmation of enrolment."
+  ],
+  "catches": [
+   "Activation can take up to 24 hours."
+  ],
+  "tags": [
+   "chemistry",
+   "science",
+   "chemical engineering",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.raci.org.au/about/student-membership",
+   "label": "RACI: Student Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Price",
+    "quote": "$28.00 inc. GST annually",
+    "url": "https://www.raci.org.au/about/student-membership",
+    "page_date": null
+   },
+   {
+    "claim": "PhD price",
+    "quote": "$64.00 inc. GST annually",
+    "url": "https://www.raci.org.au/about/student-membership",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "caters to Certificate, Diploma, Undergraduate, Honours, and Masters students in chemistry-related courses",
+    "url": "https://www.raci.org.au/about/student-membership",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "aila-student-membership",
+  "name": "AILA Student Membership",
+  "provider": "Australian Institute of Landscape Architects",
+  "category": "career",
+  "summary": "Free Australian Institute of Landscape Architects membership for landscape architecture students.",
+  "key": "Free for current students of Landscape Architecture.",
+  "who": [
+   "Students of landscape architecture"
+  ],
+  "how": [
+   "Use the Join Free button; applications are open year-round."
+  ],
+  "tags": [
+   "landscape architecture",
+   "architecture",
+   "design",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.aila.org.au/Web/Membership/Student.aspx",
+   "label": "AILA: Student"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Available to current students of Landscape Architecture",
+    "url": "https://www.aila.org.au/Web/Membership/Student.aspx",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "Applications for Student Membership (University) are invited from students of landscape architecture.",
+    "url": "https://www.aila.org.au/Web/Membership/Student.aspx",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "ota-student-membership",
+  "name": "Occupational Therapy Australia student membership",
+  "provider": "Occupational Therapy Australia",
+  "category": "career",
+  "summary": "Free Occupational Therapy Australia membership for undergraduate OT students registered as students with AHPRA.",
+  "key": "Student membership is FREE.",
+  "who": [
+   "Studying an undergraduate program recognised by AHPRA and WFOT",
+   "Registered as a student with AHPRA"
+  ],
+  "how": [
+   "Select Join now in the Student section."
+  ],
+  "catches": [
+   "Postgraduate students can't get student membership but can get discounted Affiliate membership."
+  ],
+  "tags": [
+   "occupational therapy",
+   "ot",
+   "allied health",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.otaus.com.au/membership",
+   "label": "Occupational Therapy Australia: Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "care"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Eligibility",
+    "quote": "Study an undergraduate level program recognised by AHPRA and WFOT",
+    "url": "https://www.otaus.com.au/membership",
+    "page_date": null
+   },
+   {
+    "claim": "Postgrad",
+    "quote": "Postgraduate students are not eligible for student membership, but are eligible for the discounted Affiliate membership",
+    "url": "https://www.otaus.com.au/membership",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "ava-student-membership",
+  "name": "AVA student membership",
+  "provider": "Australian Veterinary Association",
+  "category": "career",
+  "summary": "Free Australian Veterinary Association membership for the full length of an accredited vet degree.",
+  "key": "Student membership is free for the full duration of your veterinary degree.",
+  "who": [
+   "Veterinary students enrolled in an accredited Australian degree"
+  ],
+  "how": [
+   "Join with your personal email, university and expected graduation year; membership activates immediately."
+  ],
+  "tags": [
+   "veterinary",
+   "vet science",
+   "animal",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.ava.com.au/membership/",
+   "label": "Australian Veterinary Association: Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "care",
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Student membership is free for the full duration of your veterinary degree.",
+    "url": "https://www.ava.com.au/membership/",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "veterinary students enrolled in an accredited Australian degree",
+    "url": "https://www.ava.com.au/membership/",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "acp-student-connect",
+  "name": "Australasian College of Paramedicine Student Connect",
+  "provider": "Australasian College of Paramedicine",
+  "category": "career",
+  "summary": "Free Student Connect membership of the Australasian College of Paramedicine, with a paid Student Membership+ option.",
+  "key": "Student Connect is free; Student Membership+ costs $99.",
+  "how": [
+   "Select Join now under the Student option."
+  ],
+  "catches": [
+   "The membership page doesn't state student eligibility rules."
+  ],
+  "tags": [
+   "paramedicine",
+   "paramedic",
+   "ambulance",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://paramedics.org/membership",
+   "label": "Australasian College of Paramedicine: Membership"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "care"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Price",
+    "quote": "Student Connect - Free   Student Membership+ $99",
+    "url": "https://paramedics.org/membership",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "governance-institute-student-subscription",
+  "name": "Governance Institute free student subscription",
+  "provider": "Governance Institute of Australia",
+  "category": "career",
+  "summary": "Free subscription to the Governance Institute of Australia for tertiary students interested in governance and risk.",
+  "key": "Tertiary students subscribe for free.",
+  "who": [
+   "Tertiary students"
+  ],
+  "tags": [
+   "governance",
+   "risk",
+   "company secretary",
+   "business",
+   "law",
+   "student membership",
+   "professional body"
+  ],
+  "source": {
+   "url": "https://www.governanceinstitute.com.au/membership/",
+   "label": "Governance Institute of Australia: Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "field": {
+    "yes": [
+     "business",
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Free",
+    "quote": "Tertiary students subscribe for free here.",
+    "url": "https://www.governanceinstitute.com.au/membership/",
+    "page_date": null
+   }
+  ]
+ }
+]

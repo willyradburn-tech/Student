@@ -1,0 +1,69 @@
+{
+  "id": "scu-health-clinic-concession",
+  "name": "Southern Cross Health Clinic: free for concession card holders",
+  "provider": "Southern Cross University",
+  "category": "health",
+  "summary": "Student-run allied health clinics at Lismore, Gold Coast and Coffs Harbour, free for concession card holders and $10 otherwise.",
+  "key": "Concession card holders: no charge. Non-concession card holders: $10. All initial appointments are no charge.",
+  "who": [
+    "Open to students, staff and the community. Fees depend on whether you hold a concession card."
+  ],
+  "how": [
+    "Book through the Health Clinic page."
+  ],
+  "numbers": [
+    [
+      "Services",
+      "Exercise physiology, massage, naturopathy, osteopathy, occupational therapy, speech pathology and more, depending on campus"
+    ]
+  ],
+  "catches": [
+    "The separate free Mental Health and Wellbeing Clinic is not available to current SCU students or staff."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "health clinic",
+    "osteopathy",
+    "physio",
+    "concession",
+    "lismore",
+    "gold coast",
+    "coffs harbour"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/health-clinic/",
+    "label": "Southern Cross University: Health Clinic"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Concession price",
+      "quote": "Concession card holders - no charge",
+      "url": "https://www.scu.edu.au/health-clinic/",
+      "page_date": null
+    },
+    {
+      "claim": "Standard price",
+      "quote": "Non-concession card holders $10",
+      "url": "https://www.scu.edu.au/health-clinic/",
+      "page_date": null
+    },
+    {
+      "claim": "First visit",
+      "quote": "All initial appointments are no charge.",
+      "url": "https://www.scu.edu.au/health-clinic/",
+      "page_date": null
+    }
+  ]
+}

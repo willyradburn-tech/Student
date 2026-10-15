@@ -1,0 +1,53 @@
+{
+  "id": "usyd-interest-free-loan",
+  "name": "University of Sydney Interest-Free Student Loan",
+  "provider": "University of Sydney",
+  "category": "uni",
+  "summary": "Interest-free loan for University of Sydney students needing help with essential living and study expenses.",
+  "key": "Student loans of up to $2000 are available throughout the year.",
+  "who": [
+    "Enrolled University of Sydney student in need of assistance with essential living and study expenses"
+  ],
+  "how": [
+    "Complete the online application and upload supporting documents in Sydney Student (My finance > Apply for financial support)"
+  ],
+  "catches": [
+    "Must be repaid; repayment terms are agreed when the loan is approved",
+    "You will not be able to graduate until your loan is repaid"
+  ],
+  "tags": [
+    "usyd",
+    "loan",
+    "interest-free",
+    "emergency",
+    "sydney"
+  ],
+  "source": {
+    "url": "https://www.sydney.edu.au/students/financial-support/interest-free-loans.html",
+    "label": "University of Sydney: Interest-free loans"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Loans up to $2000",
+      "quote": "Student loans of up to $2000 are available throughout the year.",
+      "url": "https://www.sydney.edu.au/students/financial-support/interest-free-loans.html",
+      "page_date": null
+    }
+  ]
+}

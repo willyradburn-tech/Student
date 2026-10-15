@@ -1,0 +1,60 @@
+{
+  "id": "qld-medical-aids-subsidy-scheme",
+  "name": "Medical Aids Subsidy Scheme (MASS)",
+  "provider": "Queensland Health",
+  "category": "health",
+  "summary": "Subsidised aids and equipment for Queenslanders with a permanent condition or disability who hold a Health Care Card or other concession card.",
+  "who": [
+    "Permanent resident of Queensland",
+    "Hold an eligible card in your own name, including a Centrelink Health Care Card",
+    "Have a permanent or stable condition or disability and meet clinical criteria for each aid"
+  ],
+  "catches": [
+    "Covers aids such as communication, continence, daily living and mobility aids, home oxygen, medical grade footwear and orthoses."
+  ],
+  "tags": [
+    "disability",
+    "medical aids",
+    "equipment",
+    "health care card",
+    "qld",
+    "Queensland"
+  ],
+  "source": {
+    "url": "https://www.health.qld.gov.au/mass/consumer-information/apply",
+    "label": "Queensland Health: MASS - Can I apply?"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Health Care Card accepted",
+      "quote": "You hold one of the following eligibility cards in your own name:",
+      "url": "https://www.health.qld.gov.au/mass/consumer-information/apply",
+      "page_date": null
+    },
+    {
+      "claim": "Residency",
+      "quote": "You are a permanent resident of Queensland.",
+      "url": "https://www.health.qld.gov.au/mass/consumer-information/apply",
+      "page_date": null
+    }
+  ]
+}

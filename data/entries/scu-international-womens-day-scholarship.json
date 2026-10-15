@@ -1,0 +1,65 @@
+{
+  "id": "scu-international-womens-day-scholarship",
+  "name": "SCU International Women's Day Scholarship",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$5,000 for a current female SCU student studying full-time on campus in 2027 with an excellent GPA.",
+  "key": "$5,000 for one year.",
+  "who": [
+    "A current female student studying full-time at SCU in 2027.",
+    "Completed at least one full-time term on campus.",
+    "Excellent GPA."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with a statement of up to 200 words."
+  ],
+  "catches": [
+    "Applications close 31 January 2027.",
+    "Three scholarships available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "women",
+    "merit",
+    "lismore",
+    "gold coast",
+    "coffs harbour"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/international-womens-day-scholarship/",
+    "label": "Southern Cross University: International Women's Day Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$5,000 for one year",
+      "url": "https://www.scu.edu.au/scholarships/international-womens-day-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close on 31 January 2027.",
+      "url": "https://www.scu.edu.au/scholarships/international-womens-day-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-01-31"
+}

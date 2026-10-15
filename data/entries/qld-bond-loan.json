@@ -1,0 +1,56 @@
+{
+  "id": "qld-bond-loan",
+  "name": "Queensland Bond Loan",
+  "provider": "Queensland Government (Housing)",
+  "category": "payments",
+  "summary": "Interest-free help with a rental bond for low-income Queenslanders, with income limits that count Youth Allowance.",
+  "who": [
+    "Australian citizen, permanent resident, or temporary protection or bridging visa holder",
+    "Less than $5,500 in cash or savings among all applicants",
+    "Combined gross income within the limits (for example $1,428 a week for one adult)",
+    "Rent no more than 60% of the total gross weekly income of all applicants"
+  ],
+  "how": [
+    "Use the eligibility checker, or contact Housing Services on 13 QGOV (13 74 68)"
+  ],
+  "catches": [
+    "Youth Allowance counts as income; the Tertiary Access Payment does not."
+  ],
+  "tags": [
+    "rent",
+    "bond",
+    "housing",
+    "renting",
+    "qld",
+    "Queensland"
+  ],
+  "source": {
+    "url": "https://www.qld.gov.au/housing/renting/rent-assistance/financial/bond-loan/bond-loan-rental-grant-guide/bond-loan-rental-grant-eligibility",
+    "label": "Queensland Government: Bond loan and rental grant eligibility"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Savings limit",
+      "quote": "less than $5,500 in cash or savings among all the bond loan applicants",
+      "url": "https://www.qld.gov.au/housing/renting/rent-assistance/financial/bond-loan/bond-loan-rental-grant-guide/bond-loan-rental-grant-eligibility",
+      "page_date": null
+    },
+    {
+      "claim": "Rent cap",
+      "quote": "60% of the total gross weekly income of all applicants",
+      "url": "https://www.qld.gov.au/housing/renting/rent-assistance/financial/bond-loan/bond-loan-rental-grant-guide/bond-loan-rental-grant-eligibility",
+      "page_date": null
+    }
+  ]
+}

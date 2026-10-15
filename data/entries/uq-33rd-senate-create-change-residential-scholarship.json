@@ -1,0 +1,75 @@
+{
+  "id": "uq-33rd-senate-create-change-residential-scholarship",
+  "name": "33rd UQ Senate Create Change Residential Scholarship",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "Accommodation scholarship for commencing UQ students with an ATAR of 89+ who face financial hardship and live at an approved residence.",
+  "key": "$10,000 towards accommodation fees, for 1 year.",
+  "who": [
+    "Domestic commencing student enrolled full-time in an approved program.",
+    "Resident at an approved accommodation provider.",
+    "Minimum ATAR of 89.00 (or equivalent).",
+    "Can demonstrate financial hardship with documents."
+  ],
+  "how": [
+    "Apply using the online form with your QTAC reference number and evidence of financial hardship."
+  ],
+  "catches": [
+    "The main round closed 9 October 2026. The second round runs 10 October to 4 December 2026."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "accommodation",
+    "residential",
+    "college",
+    "first year"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/33rd-uq-senate-create-change-residential-scholarship",
+    "label": "UQ Scholarships: 33rd UQ Senate Create Change Residential Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$10,000 towards accommodation",
+      "quote": "$10,000 towards accommodation fees",
+      "url": "https://scholarships.uq.edu.au/scholarship/33rd-uq-senate-create-change-residential-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "ATAR 89 and financial hardship",
+      "quote": "achieve a minimum Australian Tertiary Admission Rank of 89.00 (or equivalent)",
+      "url": "https://scholarships.uq.edu.au/scholarship/33rd-uq-senate-create-change-residential-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

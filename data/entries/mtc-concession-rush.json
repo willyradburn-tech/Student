@@ -1,0 +1,61 @@
+{
+  "id": "mtc-concession-rush",
+  "name": "Melbourne Theatre Company concession rush and day seats",
+  "provider": "Melbourne Theatre Company",
+  "category": "streaming",
+  "summary": "Concession prices, day seats and a concession rush at MTC for full-time students with valid ID.",
+  "key": "Day seats for full-time student ID holders are from only $20.",
+  "who": [
+    "Full-time students with valid ID (also pensioners, the unemployed and MEAA members)."
+  ],
+  "how": [
+    "Day seats: buy between 9am and 12pm on the day from the theatre box office.",
+    "Concession rush: buy from the box office two hours before the performance."
+  ],
+  "catches": [
+    "Some Premium productions have no concession rush; phone 8688 0800 to check.",
+    "Parts of this page refer to 2019, so confirm day seats still run."
+  ],
+  "tags": [
+    "mtc",
+    "theatre",
+    "melbourne",
+    "rush tickets",
+    "concession"
+  ],
+  "source": {
+    "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
+    "label": "Melbourne Theatre Company: Ticket Prices and Discounts"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Concession for full-time students",
+      "quote": "Concession prices are available for Pensioners, Full-Time Students and the unemployed with a valid ID, for most MTC shows.",
+      "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
+      "page_date": null
+    },
+    {
+      "claim": "Day seats",
+      "quote": "Pensioner Concession Card, full time student ID or MEAA membership, from only $20.",
+      "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
+      "page_date": null
+    },
+    {
+      "claim": "Rush timing",
+      "quote": "When available they can be purchased from the relevant theatre box office two hours prior to each performance.",
+      "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
+      "page_date": null
+    }
+  ]
+}

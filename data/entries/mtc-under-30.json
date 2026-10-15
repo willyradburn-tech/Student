@@ -1,0 +1,60 @@
+{
+  "id": "mtc-under-30",
+  "name": "Melbourne Theatre Company Under 30 tickets",
+  "provider": "Melbourne Theatre Company",
+  "category": "streaming",
+  "summary": "Half-price A- and B-Reserve tickets to MTC mainstage plays for anyone aged 29 and under.",
+  "key": "Anyone aged 29 and under gets 50% off the adult price for A- or B-Reserve mainstage tickets.",
+  "who": [
+    "Anyone aged 29 and under with valid photo ID."
+  ],
+  "catches": [
+    "Not available for Premium seats or Opening Nights.",
+    "Prices may vary according to production."
+  ],
+  "tags": [
+    "mtc",
+    "theatre",
+    "melbourne",
+    "southbank",
+    "under 30"
+  ],
+  "source": {
+    "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
+    "label": "Melbourne Theatre Company: Ticket Prices and Discounts"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "age": {
+      "max": 29
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Age 29 and under, photo ID",
+      "quote": "Upon presentation of a valid photo ID, anyone aged 29 and under can purchase A-Reserve or B-Reserve tickets",
+      "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
+      "page_date": null
+    },
+    {
+      "claim": "50% off",
+      "quote": "to mainstage productions at a discount of 50% compared to the adult ticket price.",
+      "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
+      "page_date": null
+    },
+    {
+      "claim": "Subscriptions",
+      "quote": "Under 30s also save 50% on subscription packages.",
+      "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
+      "page_date": null
+    }
+  ]
+}

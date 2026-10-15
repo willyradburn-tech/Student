@@ -1,0 +1,56 @@
+{
+  "id": "unsw-financial-hardship-grant",
+  "name": "UNSW Financial Hardship Grant",
+  "provider": "UNSW Sydney",
+  "category": "uni",
+  "summary": "Non-repayable grant for UNSW students facing unforeseen hardship, covering living costs, study costs, medical bills, laptops and bonds.",
+  "who": [
+    "Facing hardship due to circumstances outside your control",
+    "Currently enrolled at UNSW and living in Australia",
+    "Completed at least one term at UNSW",
+    "No other means of financial support"
+  ],
+  "how": [
+    "Meet with a Student Support Advisor, who emails an application link",
+    "Provide 90 days of bank transactions, proof of income, evidence of expenses and a budget summary"
+  ],
+  "catches": [
+    "No amount is published",
+    "Does not cover tuition fees"
+  ],
+  "tags": [
+    "unsw",
+    "grant",
+    "hardship",
+    "emergency"
+  ],
+  "source": {
+    "url": "https://www.unsw.edu.au/student/support/financial-support/grants",
+    "label": "UNSW: Financial hardship grants"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Are currently enrolled at UNSW",
+      "url": "https://www.unsw.edu.au/student/support/financial-support/grants",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

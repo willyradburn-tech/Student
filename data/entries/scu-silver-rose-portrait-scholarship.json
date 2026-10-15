@@ -1,0 +1,65 @@
+{
+  "id": "scu-silver-rose-portrait-scholarship",
+  "name": "Silver Rose Portrait Photography Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$5,000 for a full-time SCU student, with preference for those studying or passionate about art or music.",
+  "key": "$5000 for one year.",
+  "who": [
+    "Australian citizen or permanent resident.",
+    "Enrolled full-time at SCU.",
+    "Preference for students studying or showing a passion for art or music."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with a 100 to 200 word statement."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One scholarship available.",
+    "Includes studio training with the donor."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "art",
+    "music",
+    "photography",
+    "creative arts"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/silver-rose-portrait-photography-scholarship/",
+    "label": "Southern Cross University: Silver Rose Portrait Photography Scholarship"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$5000 for one year",
+      "url": "https://www.scu.edu.au/scholarships/silver-rose-portrait-photography-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

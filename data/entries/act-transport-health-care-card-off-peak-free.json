@@ -1,0 +1,69 @@
+{
+  "id": "act-transport-health-care-card-off-peak-free",
+  "name": "Free off-peak Canberra buses and light rail for Health Care Card holders",
+  "provider": "Transport Canberra",
+  "category": "transport",
+  "summary": "Health Care Card holders ride Canberra buses and light rail free off-peak and on weekends, and pay concession fares at other times.",
+  "key": "Health Care Card holders travel for free on weekdays from 9:00 am to 4:30 pm and after 6:00 pm, and all day on weekends and public holidays.",
+  "who": [
+    "Primary holder of an Australian Government Health Care Card or Pension Card"
+  ],
+  "how": [
+    "Register your concession in your MyWay+ account: Register concession, choose Concession under Fare Type, select your concession type and submit."
+  ],
+  "catches": [
+    "Most MyWay+ concessions automatically expired on 30 June 2026, so check yours is still active.",
+    "Concession fares apply to the primary card holder at all times."
+  ],
+  "tags": [
+    "ACT",
+    "Canberra",
+    "ANU",
+    "UC",
+    "MyWay+",
+    "bus",
+    "light rail",
+    "Health Care Card",
+    "free"
+  ],
+  "source": {
+    "url": "https://www.transport.act.gov.au/tickets-and-myway/concessions",
+    "label": "Transport Canberra: Concessions"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "act"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "act"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free off-peak",
+      "quote": "The following card holders travel for free on weekdays from 9:00 am to 4:30 pm and after 6:00 pm (off-peak).",
+      "url": "https://www.transport.act.gov.au/tickets-and-myway/concessions",
+      "page_date": null
+    },
+    {
+      "claim": "Health Care Card in free list",
+      "quote": "Health Care Card or Pension Card",
+      "url": "https://www.transport.act.gov.au/tickets-and-myway/concessions",
+      "page_date": null
+    },
+    {
+      "claim": "Weekends",
+      "quote": "Travel is free all day on weekends and public holidays.",
+      "url": "https://www.transport.act.gov.au/tickets-and-myway/concessions",
+      "page_date": null
+    }
+  ]
+}

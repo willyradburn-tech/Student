@@ -1,0 +1,55 @@
+{
+  "id": "uts-digital-access-grant",
+  "name": "UTS Digital Access Grant",
+  "provider": "University of Technology Sydney",
+  "category": "uni",
+  "summary": "Once-only grant toward course-related computer hardware, software or internet for low-income UTS students.",
+  "key": "A $1,000 grant may apply for course-related high-end technical specification equipment.",
+  "who": [
+    "Combined income under $1,200 per fortnight and inadequate savings",
+    "Not in the final year of a degree or a degree of 36 credit points or less"
+  ],
+  "how": [
+    "Provide quotes or receipts and call 02 9514 1177 for a telephone appointment"
+  ],
+  "catches": [
+    "Hardware support is once only during a degree",
+    "A loan may be available for extra funds"
+  ],
+  "tags": [
+    "uts",
+    "grant",
+    "laptop",
+    "digital",
+    "tech"
+  ],
+  "source": {
+    "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+    "label": "UTS: Financial assistance programs"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$1,000 grant",
+      "quote": "provision of a $1,000 grant may apply to assist students in course-related high-end technical specification equipment",
+      "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

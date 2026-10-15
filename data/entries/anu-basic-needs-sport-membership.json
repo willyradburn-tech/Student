@@ -1,0 +1,53 @@
+{
+  "id": "anu-basic-needs-sport-membership",
+  "name": "ANU Sport annual membership (Basic Needs Supports)",
+  "provider": "Australian National University",
+  "category": "uni",
+  "summary": "Free ANU Sport annual membership for domestic undergraduates who are First Nations, low-SES, low-income, regional or first in family.",
+  "who": [
+    "Undergraduate, domestic",
+    "First Nations, low-SES by postcode or low-income, regional, rural or remote, or first generation"
+  ],
+  "how": [
+    "Apply through the Basic Needs Supports online form"
+  ],
+  "tags": [
+    "anu",
+    "canberra",
+    "act",
+    "gym",
+    "sport",
+    "basic needs",
+    "first in family",
+    "regional"
+  ],
+  "source": {
+    "url": "https://www.anu.edu.au/students/health-safety-wellbeing/spending-well/financial-advice-and-assistance",
+    "label": "ANU: Financial advice and assistance"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "From one of the following backgrounds: First Nations, Low-SES by postcode* or low-income**, From a regional, rural or remote location, First Generation",
+      "url": "https://www.anu.edu.au/students/health-safety-wellbeing/spending-well/financial-advice-and-assistance",
+      "page_date": null
+    }
+  ]
+}

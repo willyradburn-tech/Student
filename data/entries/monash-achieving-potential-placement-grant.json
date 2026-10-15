@@ -1,0 +1,71 @@
+{
+  "id": "monash-achieving-potential-placement-grant",
+  "name": "Monash Achieving Potential Placement Grant",
+  "provider": "Monash University",
+  "category": "uni",
+  "summary": "A $1,000 one-off grant for Monash undergraduates in financial hardship doing an unpaid placement of at least 10 days.",
+  "key": "$1,000 one-off, with 100 grants available.",
+  "who": [
+    "Australian or NZ citizen, permanent resident or humanitarian visa holder.",
+    "Undergraduate at a Monash campus in Australia doing an unpaid placement of at least 10 days.",
+    "Experiencing financial hardship."
+  ],
+  "how": [
+    "Current Monash students apply directly to Monash."
+  ],
+  "tags": [
+    "monash",
+    "monash university",
+    "melbourne",
+    "vic",
+    "placement",
+    "prac",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/achieving-potential-placement-grant-4096",
+    "label": "Monash: Achieving Potential Placement Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "prac": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$1000 one-off payment.",
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/achieving-potential-placement-grant-4096",
+      "page_date": null
+    },
+    {
+      "claim": "Number",
+      "quote": "100 grants are available.",
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/achieving-potential-placement-grant-4096",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

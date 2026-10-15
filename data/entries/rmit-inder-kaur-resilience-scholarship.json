@@ -1,0 +1,62 @@
+{
+  "id": "rmit-inder-kaur-resilience-scholarship",
+  "name": "Inder Kaur Resilience Scholarship (RMIT)",
+  "provider": "RMIT University",
+  "category": "uni",
+  "summary": "Up to $8,000 a year for women at RMIT with a past or current experience of family violence.",
+  "key": "Up to $8,000 a year full-time for up to five years, or $4,000 part-time for up to ten. One offered.",
+  "who": [
+    "Identifies as a woman with a past or current experience of family violence.",
+    "Australian citizen, permanent resident or permanent humanitarian visa holder."
+  ],
+  "how": [
+    "Complete the online application with supporting documents."
+  ],
+  "catches": [
+    "Semester 1 2027 applications close 2pm Tuesday 20 October 2026."
+  ],
+  "tags": [
+    "rmit",
+    "rmit university",
+    "melbourne",
+    "vic",
+    "women",
+    "family violence"
+  ],
+  "source": {
+    "url": "https://www.rmit.edu.au/scholarships/coursework/inder-kaur-resilience",
+    "label": "RMIT: Inder Kaur Resilience Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Up to $8,000 per annum for full-time enrolled students, for up to five years",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/inder-kaur-resilience",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-10-20"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "monash-equity-diversity-inclusion-scholarship",
+  "name": "Monash Equity, Diversity and Inclusion Scholarship",
+  "provider": "Monash University",
+  "category": "uni",
+  "summary": "A graduate research stipend for domestic students whose academic career has been affected by equity factors.",
+  "key": "$41,100 a year (2027 rate), up to 20 offered each year.",
+  "who": [
+    "Australian or NZ citizen, permanent resident or humanitarian visa holder.",
+    "Holds an Australian or NZ bachelor's degree with second class honours.",
+    "Academic career adversely affected due to equity grounds."
+  ],
+  "how": [
+    "Apply with your graduate research course application and upload the supplementary form in myApp."
+  ],
+  "catches": [
+    "Domestic rounds close 31 May and 31 October each year."
+  ],
+  "tags": [
+    "monash",
+    "monash university",
+    "melbourne",
+    "vic",
+    "phd",
+    "research",
+    "postgraduate",
+    "equity"
+  ],
+  "source": {
+    "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-equity-diversity-and-inclusion-scholarship",
+    "label": "Monash: Equity, Diversity and Inclusion Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Scholarship value",
+      "quote": "Total scholarship value $41,100 p.a (2027 rate)",
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-equity-diversity-and-inclusion-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Closing dates",
+      "quote": "Applications close 31 May and 31 October each year",
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-equity-diversity-and-inclusion-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-10-31"
+}

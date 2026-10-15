@@ -1,0 +1,69 @@
+{
+  "id": "mq-education-costs-scholarship",
+  "name": "Macquarie Education Costs Scholarship",
+  "provider": "Macquarie University",
+  "category": "uni",
+  "summary": "Yearly payment for full-time Macquarie undergraduates receiving Youth Allowance or another means-tested payment.",
+  "key": "$6,000 per year, for up to 4 years.",
+  "who": [
+    "Australian citizen, permanent resident or permanent humanitarian visa holder",
+    "Commencing or continuing full-time undergraduate",
+    "Receiving Youth Allowance or another means-tested Commonwealth payment"
+  ],
+  "how": [
+    "Apply via the UAC Equity Scholarship Application Portal"
+  ],
+  "catches": [
+    "The page still shows 2024 round dates; check UAC for the current round"
+  ],
+  "tags": [
+    "mq",
+    "equity",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-education-costs-scholarship",
+    "label": "Macquarie University: Macquarie Education Costs Scholarship"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$6,000 per year",
+      "quote": "Applicants need to be in receipt of Youth Allowance or any other means tested Commonwealth support payment",
+      "url": "https://www.mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-education-costs-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

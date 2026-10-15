@@ -1,0 +1,73 @@
+{
+  "id": "uq-hatch-women-engineering-scholarship",
+  "name": "Hatch Women in Engineering Scholarship (UQ)",
+  "provider": "University of Queensland and Hatch",
+  "category": "uni",
+  "summary": "One-year scholarship for female domestic UQ engineering students partway through their degree.",
+  "key": "$12,000 for 1 year.",
+  "who": [
+    "Female domestic student.",
+    "Enrolled full-time in the BE(Hons), BE(Hons)/Master of Engineering, or an engineering dual.",
+    "Has completed between 28 and 40 units.",
+    "No similar scholarship."
+  ],
+  "how": [
+    "Apply using the UQ application portal with a cover letter, resume and mySI-net studies report."
+  ],
+  "catches": [
+    "Opens January 2027 and closes March 2027.",
+    "Not needs-based."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "women in engineering",
+    "engineering"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/hatch-women-engineering-scholarship",
+    "label": "UQ Scholarships: Hatch Women in Engineering Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$12,000",
+      "quote": "$12,000",
+      "url": "https://scholarships.uq.edu.au/scholarship/hatch-women-engineering-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Female students",
+      "quote": "are a female student",
+      "url": "https://scholarships.uq.edu.au/scholarship/hatch-women-engineering-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

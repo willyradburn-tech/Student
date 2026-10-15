@@ -1,0 +1,63 @@
+{
+  "id": "scu-gosling-electrical-engineering-scholarship",
+  "name": "Gosling Electrical Scholarship for Engineering (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$15,000 over three years for a second-year SCU engineering student from, or willing to travel to, the Coffs Harbour region.",
+  "key": "$15,000, paid as $5,000 per year for 3 years.",
+  "who": [
+    "Enrolled in the second year of the Bachelor of Engineering (Honours) at SCU.",
+    "GPA of 4 or above.",
+    "Normally live in the Greater Coffs Harbour region or be willing to travel there."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with your transcript and a 100 to 200 word statement."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One scholarship available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "engineering",
+    "coffs harbour",
+    "electrical"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/gosling-electrical-scholarship-for-engineering/",
+    "label": "Southern Cross University: Gosling Electrical Scholarship for Engineering"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$15,000, paid as $5,000 per year for 3 years",
+      "url": "https://www.scu.edu.au/scholarships/gosling-electrical-scholarship-for-engineering/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/gosling-electrical-scholarship-for-engineering/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

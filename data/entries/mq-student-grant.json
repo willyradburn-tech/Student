@@ -1,0 +1,53 @@
+{
+  "id": "mq-student-grant",
+  "name": "Macquarie University Student Grant",
+  "provider": "Macquarie University",
+  "category": "uni",
+  "summary": "Non-repayable grant for onshore Macquarie students toward study costs and, in some cases, living expenses.",
+  "key": "Up to $2,000, or up to $500 for a computer; grants do not need to be repaid.",
+  "who": [
+    "Onshore Macquarie University student; eligibility depends on circumstances"
+  ],
+  "how": [
+    "Complete the online application, a budget spreadsheet and supporting documents",
+    "Contact a Welfare Advisor if unsure"
+  ],
+  "catches": [
+    "Does not cover tuition fees",
+    "Rent or food considered only in some cases"
+  ],
+  "tags": [
+    "mq",
+    "grant",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://students.mq.edu.au/finances/assistance/grants-loans",
+    "label": "Macquarie University: Student loans and grants"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Not repaid",
+      "quote": "Grants do not need to be repaid.",
+      "url": "https://students.mq.edu.au/finances/assistance/grants-loans",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "nt-free-public-buses",
+  "name": "Free public buses in the Northern Territory",
+  "provider": "Northern Territory Government",
+  "category": "transport",
+  "summary": "All public bus services in Greater Darwin and Alice Springs are free, including for CDU students.",
+  "key": "Travelling on all public bus services is currently free.",
+  "who": [
+    "Anyone travelling on NT public buses in the Greater Darwin region or Alice Springs"
+  ],
+  "catches": [
+    "Free since 1 July 2025; the page gives no end date."
+  ],
+  "tags": [
+    "NT",
+    "Darwin",
+    "Palmerston",
+    "Alice Springs",
+    "CDU",
+    "bus",
+    "free"
+  ],
+  "source": {
+    "url": "https://nt.gov.au/driving/public-transport-cycling/public-buses/fares",
+    "label": "NT.GOV.AU: Bus tickets and fares"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "campus": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Buses are free",
+      "quote": "Travelling on all public bus services is currently free.",
+      "url": "https://nt.gov.au/driving/public-transport-cycling/public-buses/fares",
+      "page_date": null
+    },
+    {
+      "claim": "Since 1 July 2025",
+      "quote": "All public bus services will continue to be free from 1 July 2025.",
+      "url": "https://nt.gov.au/driving/public-transport-cycling/public-buses/fares",
+      "page_date": null
+    }
+  ]
+}

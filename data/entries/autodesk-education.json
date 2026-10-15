@@ -1,0 +1,64 @@
+{
+  "id": "autodesk-education",
+  "name": "Autodesk Education",
+  "provider": "Autodesk",
+  "category": "software",
+  "summary": "Free one-year access to AutoCAD, Revit, Civil 3D, Fusion, Inventor and more for study.",
+  "tags": [
+    "autocad",
+    "revit",
+    "civil 3d",
+    "fusion",
+    "cad",
+    "engineering",
+    "architecture"
+  ],
+  "key": "Free, single-user, one-year access. Renew each year while you are eligible.",
+  "who": [
+    "Students at a qualified educational institution who meet Autodesk's minimum age requirement."
+  ],
+  "how": [
+    "Pick a product on the Autodesk Education page to start verification.",
+    "Once you're verified, download the software with your existing Autodesk account.",
+    "Renew from 30 days before your access expires."
+  ],
+  "catches": [
+    "For learning, training and research only. It may not be used for commercial, professional or any other for-profit purpose.",
+    "Install on up to three devices.",
+    "Some add-ons need other subscriptions. For example, cloud worksharing needs Revit or Civil 3D plus Forma."
+  ],
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering"
+      ],
+      "maybe": [
+        "it",
+        "care",
+        "other",
+        "business"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://www.autodesk.com/education/edu-software/overview",
+    "label": "Autodesk: education software"
+  },
+  "need": [
+    "Your school email.",
+    "Proof of enrolment if SheerID, Autodesk's verification provider, asks for it."
+  ],
+  "extra_sources": [
+    {
+      "url": "https://www.autodesk.com/support/account/education/students-educators/overview",
+      "label": "Autodesk: education eligibility and terms"
+    }
+  ],
+  "open_questions": [
+    "The minimum age is in a linked PDF that wasn't checked."
+  ]
+}

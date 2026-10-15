@@ -1,0 +1,74 @@
+{
+  "id": "unisc-equity-bursary",
+  "name": "UniSC Equity Bursary",
+  "provider": "University of the Sunshine Coast",
+  "category": "uni",
+  "summary": "One-study-period bursary for full-time UniSC undergraduates from low income or disadvantaged backgrounds.",
+  "key": "A$2,500 for one study period for applicants with the highest level of financial and/or personal hardship (A$1,000 for a high level).",
+  "who": [
+    "Undergraduate from a low income and/or other disadvantaged background",
+    "Domestic student enrolled full-time",
+    "Satisfactory academic progress (minimum GPA of 4.0)",
+    "Australian or New Zealand citizen, permanent humanitarian visa holder or permanent resident"
+  ],
+  "catches": [
+    "Apply 1 September to 30 November for Study Period 1 study, and 1 April to 31 May for Study Period 2",
+    "Preference goes to students without an undergraduate qualification"
+  ],
+  "tags": [
+    "unisc",
+    "usc",
+    "sunshine coast",
+    "equity",
+    "bursary",
+    "hardship",
+    "qld"
+  ],
+  "source": {
+    "url": "https://www.unisc.edu.au/study/scholarships/equity-scholarships/unisc-equity-bursary",
+    "label": "UniSC: UniSC Equity Bursary"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Top amount",
+      "quote": "A$2,500 for one study period for applicants who are assessed as having the highest level of financial and/or personal hardship considerations.",
+      "url": "https://www.unisc.edu.au/study/scholarships/equity-scholarships/unisc-equity-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "Main rule",
+      "quote": "Students in an undergraduate degree from low income and/or other disadvantaged backgrounds.",
+      "url": "https://www.unisc.edu.au/study/scholarships/equity-scholarships/unisc-equity-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "Next round",
+      "quote": "Apply 1 September - 30 November for Study Period 1 study",
+      "url": "https://www.unisc.edu.au/study/scholarships/equity-scholarships/unisc-equity-bursary",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

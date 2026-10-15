@@ -1,0 +1,82 @@
+{
+  "id": "flinders-emergency-student-support-grant",
+  "name": "Flinders Emergency Student Support Grant",
+  "provider": "Flinders University Student Association (FUSA)",
+  "category": "uni",
+  "summary": "Year-round non-repayable grant of $500 to $1,000 for domestic full-time Flinders students in short-term financial hardship.",
+  "key": "The value of the grant awarded will be between $500 to $1,000.",
+  "who": [
+    "Domestic student",
+    "Have successfully completed at least 18 units",
+    "Be enrolled full-time at Flinders University",
+    "Financial hardship or a significant deterioration in financial circumstances"
+  ],
+  "how": [
+    "Submit the online Student Support Grant form with supporting documents",
+    "Centrelink recipients provide a 30-day Income Statement; others provide a statement and 60 days of bank statements"
+  ],
+  "catches": [
+    "No more than $1,000 per year",
+    "Processed monthly until funds run out",
+    "Part-time students with extenuating circumstances considered case by case"
+  ],
+  "tags": [
+    "flinders",
+    "fusa",
+    "adelaide",
+    "sa",
+    "hardship",
+    "grant",
+    "emergency"
+  ],
+  "source": {
+    "url": "https://fusa.edu.au/?p=60149",
+    "label": "FUSA: What are the Flinders Student Support Grants?"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ],
+      "maybe": [
+        "part"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "the value of the grant awarded will be between $500 to $1,000.",
+      "url": "https://fusa.edu.au/?p=60149",
+      "page_date": null
+    },
+    {
+      "claim": "Full-time",
+      "quote": "Be enrolled full-time at Flinders University",
+      "url": "https://fusa.edu.au/?p=60149",
+      "page_date": null
+    },
+    {
+      "claim": "Year-round",
+      "quote": "Available year-round.",
+      "url": "https://fusa.edu.au/?p=60149",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "acp-student-connect",
+  "name": "Australasian College of Paramedicine Student Connect",
+  "provider": "Australasian College of Paramedicine",
+  "category": "career",
+  "summary": "Free Student Connect membership of the Australasian College of Paramedicine, with a paid Student Membership+ option.",
+  "key": "Student Connect is free; Student Membership+ costs $99.",
+  "how": [
+    "Select Join now under the Student option."
+  ],
+  "catches": [
+    "The membership page doesn't state student eligibility rules."
+  ],
+  "tags": [
+    "paramedicine",
+    "paramedic",
+    "ambulance",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://paramedics.org/membership",
+    "label": "Australasian College of Paramedicine: Membership"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Price",
+      "quote": "Student Connect - Free   Student Membership+ $99",
+      "url": "https://paramedics.org/membership",
+      "page_date": null
+    }
+  ]
+}

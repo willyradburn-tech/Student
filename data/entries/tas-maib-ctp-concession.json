@@ -1,0 +1,51 @@
+{
+  "id": "tas-maib-ctp-concession",
+  "name": "Tasmanian MAIB third party insurance concession",
+  "provider": "Tasmanian Government",
+  "category": "transport",
+  "summary": "Concession on the MAIB compulsory third party insurance premium in Tasmanian car registration for concession cardholders.",
+  "who": [
+    "Hold an eligible concession card; the Services Australia Health Care Card is shown as eligible"
+  ],
+  "catches": [
+    "Motorcycles are excluded.",
+    "The page does not state the discount amount."
+  ],
+  "tags": [
+    "Tasmania",
+    "car registration",
+    "rego",
+    "MAIB",
+    "CTP",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
+    "label": "Tasmanian Concessions: Vehicles"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Hold an eligible concession card.",
+      "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
+      "page_date": null
+    },
+    {
+      "claim": "Health Care Card shown as eligible card",
+      "quote": "Services Australia Health Care Card",
+      "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "adelaide-uni-susan-seymour-student-grant",
+  "name": "Adelaide University Susan Seymour Student Grant",
+  "provider": "Adelaide University",
+  "category": "uni",
+  "summary": "One-off $2,000 grant for commencing undergraduates in any discipline who show financial need or low income.",
+  "key": "Value: $2,000 (once-off payment after the Semester 1 census date.",
+  "who": [
+    "Australian citizen, permanent resident, permanent humanitarian visa holder or New Zealand citizen",
+    "A commencing undergraduate student (any discipline)",
+    "Financial need or low income, such as a Health Care Card or means-tested Centrelink payment"
+  ],
+  "how": [
+    "Online application via myScholarships with a written statement of up to 500 words"
+  ],
+  "catches": [
+    "Pro-rata payment for part-time enrolment",
+    "2026 applications closed 15 March 2026; check for the next round"
+  ],
+  "tags": [
+    "adelaide uni",
+    "adelaide university",
+    "adelaide",
+    "sa",
+    "low income",
+    "health care card",
+    "grant"
+  ],
+  "source": {
+    "url": "https://adelaideuni.edu.au/study/scholarships/susan-seymour-student-grant",
+    "label": "Adelaide University: Susan Seymour Student Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Value: $2,000 (once-off payment after the Semester 1 census date. Pro-rata payment applies for part-time enrolment.",
+      "url": "https://adelaideuni.edu.au/study/scholarships/susan-seymour-student-grant",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "a commencing undergraduate student (any discipline).",
+      "url": "https://adelaideuni.edu.au/study/scholarships/susan-seymour-student-grant",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

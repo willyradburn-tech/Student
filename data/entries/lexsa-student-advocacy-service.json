@@ -1,0 +1,48 @@
+{
+  "id": "lexsa-student-advocacy-service",
+  "name": "SCU Student Advocacy Service (LEXSA and CoastRs)",
+  "provider": "LEXSA and CoastRs student associations",
+  "category": "uni",
+  "summary": "Free, confidential, independent advocacy for SCU students on appeals, misconduct, special consideration, Centrelink and tenancy problems.",
+  "key": "The Student Advocacy Service is a free and confidential independent service available to all enrolled students.",
+  "who": [
+    "All enrolled SCU students."
+  ],
+  "how": [
+    "Gold Coast: (07) 5589 3164.",
+    "Lismore: (02) 6626 9232.",
+    "Coffs Harbour students can contact the same advocates by email."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "advocacy",
+    "appeals",
+    "centrelink",
+    "lexsa",
+    "coastrs"
+  ],
+  "source": {
+    "url": "https://coastrs.com.au/advocacy/",
+    "label": "CoastRs: Student Advocacy"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free service",
+      "quote": "The Student Advocacy Service is a free and confidential independent service available to all enrolled students.",
+      "url": "https://coastrs.com.au/advocacy/",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "qut-michael-roche-scholarship",
+  "name": "Michael Roche Scholarship",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "A one-year research scholarship for domestic QUT research students and early career researchers.",
+  "key": "Valued at $20,000 for a maximum of one year.",
+  "who": [
+    "Australian or NZ citizen, permanent resident or permanent humanitarian visa holder.",
+    "Domestic research student at QUT in an MPhil, PhD or Professional Doctorate, or an early career researcher within five years of a PhD."
+  ],
+  "how": [
+    "Apply with the application form, a transcript and a statement on the project, its suitability, the use of funds and your suitability."
+  ],
+  "catches": [
+    "Offered from Semester 2, 2026. The terms don't give a closing date."
+  ],
+  "tags": [
+    "qut",
+    "research",
+    "phd",
+    "mphil",
+    "hdr",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0007/1580065/michael-roche-scholarship-terms-and-conditions.pdf",
+    "label": "QUT: Michael Roche Scholarship terms and conditions"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$20,000 for one year",
+      "quote": "The Scholarship is valued at $20,000 for a maximum of one (1) year.",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0007/1580065/michael-roche-scholarship-terms-and-conditions.pdf",
+      "page_date": null
+    },
+    {
+      "claim": "Domestic research student",
+      "quote": "Must be a domestic research student at QUT",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0007/1580065/michael-roche-scholarship-terms-and-conditions.pdf",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

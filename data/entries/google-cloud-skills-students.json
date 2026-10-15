@@ -1,0 +1,38 @@
+{
+  "id": "google-cloud-skills-students",
+  "name": "Google Cloud free student training credits",
+  "provider": "Google Cloud",
+  "category": "software",
+  "summary": "Free Google Skills credits and hands-on cloud labs for students.",
+  "key": "200 free Google Skills credits.",
+  "how": [
+    "Request credits via the application form on the Google Cloud students page."
+  ],
+  "catches": [
+    "Credits expire one year after they are issued."
+  ],
+  "tags": [
+    "cloud",
+    "google cloud",
+    "coding",
+    "certification",
+    "it"
+  ],
+  "source": {
+    "url": "https://cloud.google.com/edu/students",
+    "label": "Google Cloud: Students"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Credits",
+      "quote": "200 free Google Skills credits",
+      "url": "https://cloud.google.com/edu/students",
+      "page_date": null
+    }
+  ]
+}

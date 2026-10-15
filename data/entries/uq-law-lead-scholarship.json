@@ -1,0 +1,70 @@
+{
+  "id": "uq-law-lead-scholarship",
+  "name": "UQ Law LEAD Scholarship",
+  "provider": "University of Queensland, TC Beirne School of Law",
+  "category": "uni",
+  "summary": "Scholarship for school leavers starting a UQ law degree who have faced educational, social or financial disadvantage.",
+  "key": "$8,000 per year for up to 5 years.",
+  "who": [
+    "Domestic student who finished senior school in Australia within 2 years of applying, or is finishing it this year.",
+    "Commencing the Bachelor of Laws (Honours), including duals, with no prior bachelor-level study.",
+    "Can demonstrate educational, social and/or financial disadvantage, and can attend an interview."
+  ],
+  "how": [
+    "Put the Bachelor of Laws (Honours) or a law dual as your first or second QTAC preference.",
+    "Complete the LEAD Scholarship application form, which also covers the Undergraduate Law Admission Scheme (ULAS)."
+  ],
+  "catches": [
+    "Applications opened 20 July 2026 and close 1 November 2026."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "law",
+    "equity",
+    "school leaver"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/tc-beirne-school-law-leadership-excellence-and-diversity-lead-scholarship",
+    "label": "UQ Scholarships: TC Beirne School of Law LEAD Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$8,000 per year, up to 5 years",
+      "quote": "$8,000 per year",
+      "url": "https://scholarships.uq.edu.au/scholarship/tc-beirne-school-law-leadership-excellence-and-diversity-lead-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Must show disadvantage",
+      "quote": "can demonstrate educational, social and/or financial disadvantage",
+      "url": "https://scholarships.uq.edu.au/scholarship/tc-beirne-school-law-leadership-excellence-and-diversity-lead-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Closes 1 November 2026",
+      "quote": "1 November 2026",
+      "url": "https://scholarships.uq.edu.au/scholarship/tc-beirne-school-law-leadership-excellence-and-diversity-lead-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-11-01"
+}

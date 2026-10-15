@@ -1,0 +1,67 @@
+{
+  "id": "mq-higher-study-scholarship",
+  "name": "Macquarie University Higher Study Scholarship",
+  "provider": "Macquarie University",
+  "category": "uni",
+  "summary": "Yearly payment for postgraduate coursework or Honours students in financial hardship with academic excellence.",
+  "key": "$12,000 per year (full-time rate).",
+  "who": [
+    "Australian citizen or permanent resident (including permanent humanitarian visa)",
+    "Postgraduate coursework or Honours degree (not Graduate Certificate or Diploma)",
+    "Financial hardship and academic excellence",
+    "Receiving a means-tested Commonwealth payment"
+  ],
+  "how": [
+    "Apply via the UAC Equity Scholarship Application Portal"
+  ],
+  "catches": [
+    "The page still shows 2024 round dates; check UAC for the current round"
+  ],
+  "tags": [
+    "mq",
+    "equity",
+    "scholarship",
+    "postgraduate",
+    "honours"
+  ],
+  "source": {
+    "url": "https://mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-university-higher-study-scholarship-full-time-rate",
+    "label": "Macquarie University: Higher Study Scholarship (full-time rate)"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Payment criterion",
+      "quote": "Applicants need to be in receipt of Youth Allowance or any other means tested Commonwealth support payment.",
+      "url": "https://mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-university-higher-study-scholarship-full-time-rate",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

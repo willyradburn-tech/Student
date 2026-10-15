@@ -1,0 +1,75 @@
+{
+  "id": "uq-sir-william-tyree-engineering-scholarship",
+  "name": "Sir William Tyree Engineering Scholarship (UQ)",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "Multi-year scholarship for rural or remote first-year UQ engineering students with an interest in electrical engineering.",
+  "key": "$15,000 per year for up to 4 years.",
+  "who": [
+    "Domestic student from rural or remote Australia (RA2-5).",
+    "Can demonstrate financial hardship.",
+    "Commencing full-time in the first year of the BE(Hons), BE(Hons)/Master of Engineering, or an engineering dual.",
+    "Strong interest in electrical engineering."
+  ],
+  "how": [
+    "Apply using the online form with a cover letter, resume, Year 12 report, ATAR Advice Notice and evidence of financial hardship."
+  ],
+  "catches": [
+    "Opens January 2027 and closes March 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "electrical engineering",
+    "engineering",
+    "rural",
+    "remote",
+    "regional"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/sir-william-tyree-engineering-scholarship",
+    "label": "UQ Scholarships: Sir William Tyree Engineering Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$15,000 per year, up to 4 years",
+      "quote": "$15,000 per year",
+      "url": "https://scholarships.uq.edu.au/scholarship/sir-william-tyree-engineering-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Rural or remote",
+      "quote": "are a domestic student from rural/remote Australia (RA2-5)",
+      "url": "https://scholarships.uq.edu.au/scholarship/sir-william-tyree-engineering-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

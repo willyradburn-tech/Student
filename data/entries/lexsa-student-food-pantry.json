@@ -1,0 +1,53 @@
+{
+  "id": "lexsa-student-food-pantry",
+  "name": "LEXSA Student Food Pantry (Lismore)",
+  "provider": "LEXSA (Lismore and External Student Association)",
+  "category": "uni",
+  "summary": "Free food, toiletries and sanitary items from the LEXSA office on SCU's Lismore campus.",
+  "key": "Students can take 2 items from the pantry per day.",
+  "who": [
+    "SCU students at the Lismore campus."
+  ],
+  "how": [
+    "Ask staff at the LEXSA Office during opening hours."
+  ],
+  "catches": [
+    "Free condoms, tampons and pads are also in the pantry."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "lexsa",
+    "lismore",
+    "food pantry",
+    "free food"
+  ],
+  "source": {
+    "url": "https://www.lexsa.com.au/support",
+    "label": "LEXSA: Support"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Pantry limit",
+      "quote": "Students can take 2 items from the pantry per day.",
+      "url": "https://www.lexsa.com.au/support",
+      "page_date": null
+    }
+  ]
+}

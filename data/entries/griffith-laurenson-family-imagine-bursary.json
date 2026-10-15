@@ -1,0 +1,62 @@
+{
+  "id": "griffith-laurenson-family-imagine-bursary",
+  "name": "Laurenson Family Imagine Bursary",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $1,500 for female Griffith students in an arts or design and business dual degree.",
+  "key": "Maximum value is $1,500, paid in instalments.",
+  "who": [
+    "Australian citizen.",
+    "Identify as female.",
+    "Continuing, full-time undergraduate in a listed Visual Arts, Design, Photography or Creative and Interactive Media dual degree with Business.",
+    "Minimum GPA of 4.5."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Listed as coming soon for 2027; the 2026 round closed 23 March 2026."
+  ],
+  "tags": [
+    "griffith",
+    "arts",
+    "design",
+    "business",
+    "female"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/laurenson-family-imagine-bursary",
+    "label": "Griffith University: Laurenson Family Imagine Bursary"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value is $1,500, paid in instalments.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/laurenson-family-imagine-bursary",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

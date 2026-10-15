@@ -1,0 +1,73 @@
+{
+  "id": "unisq-study-support-grant",
+  "name": "UniSQ Study Support Grant",
+  "provider": "University of Southern Queensland",
+  "category": "uni",
+  "summary": "One-off grant for domestic UniSQ students from low-to-middle income, rural or remote, or First Nations backgrounds.",
+  "key": "Each grant will have a maximum value of $3000 to be paid in one instalment.",
+  "who": [
+    "Domestic student living in Australia",
+    "Continuing students need a GPA of at least 4.0",
+    "Low-to-middle household income, rural or remote residence, or Aboriginal and/or Torres Strait Islander"
+  ],
+  "how": [
+    "Apply through the UniSQ Scholarship Application Management System"
+  ],
+  "catches": [
+    "Runs each trimester; the Trimester 3 2026 round closed 31 August 2026",
+    "Meeting the criteria does not guarantee a grant"
+  ],
+  "tags": [
+    "unisq",
+    "usq",
+    "toowoomba",
+    "equity",
+    "rural",
+    "regional",
+    "grant",
+    "qld"
+  ],
+  "source": {
+    "url": "https://www.unisq.edu.au/scholarships/study-support-grant",
+    "label": "UniSQ: Study Support Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "Each grant will have a maximum value of $3000 to be paid in one instalment.",
+      "url": "https://www.unisq.edu.au/scholarships/study-support-grant",
+      "page_date": null
+    },
+    {
+      "claim": "Main rule",
+      "quote": "meet at least one of the following criteria*:",
+      "url": "https://www.unisq.edu.au/scholarships/study-support-grant",
+      "page_date": null
+    },
+    {
+      "claim": "Limited grants",
+      "quote": "There are a limited number of grants available in 2026.",
+      "url": "https://www.unisq.edu.au/scholarships/study-support-grant",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

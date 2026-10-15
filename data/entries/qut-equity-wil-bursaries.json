@@ -1,0 +1,64 @@
+{
+  "id": "qut-equity-wil-bursaries",
+  "name": "QUT Equity Work Integrated Learning (WIL) Bursaries",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "Help with the costs of a mandatory placement for QUT students in financial hardship, including a relocation bursary.",
+  "key": "Valued at up to AU$3,000, paid once, with the amount depending on the bursary type.",
+  "who": [
+    "Domestic or international students admitted in a QUT award course and enrolled in a mandatory placement unit.",
+    "Have a confirmed placement for that unit.",
+    "Show sudden or extraordinary financial hardship and no access to savings or other support."
+  ],
+  "how": [
+    "Apply with the application form before your placement ends.",
+    "Include at least two months of bank statements for all accounts, proof of income, independent evidence of hardship and placement cost quotes."
+  ],
+  "catches": [
+    "Offered from Semester 1, 2026.",
+    "The Relocation Bursary needs evidence of relocation."
+  ],
+  "tags": [
+    "qut",
+    "placement",
+    "prac",
+    "wil",
+    "hardship",
+    "relocation",
+    "bursary"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/equity-work-integrated-learning-wil-bursaries",
+    "label": "QUT: Equity WIL Bursaries"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "prac": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Up to $3,000",
+      "quote": "is an equity bursary valued at up to AU$3,000.00, offered to commencing or continuing international or domestic students.",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0003/1557093/qut-equity-work-integrated-learning-bursaries-terms-and-conditions.pdf",
+      "page_date": null
+    },
+    {
+      "claim": "Must be in a mandatory placement unit",
+      "quote": "Must be admitted in a QUT award course and enrolled in a placement unit that is mandatory for that QUT award course",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0003/1557093/qut-equity-work-integrated-learning-bursaries-terms-and-conditions.pdf",
+      "page_date": null
+    }
+  ]
+}

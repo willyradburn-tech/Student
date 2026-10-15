@@ -1,0 +1,61 @@
+{
+  "id": "qls-student-membership",
+  "name": "Queensland Law Society student membership",
+  "provider": "Queensland Law Society",
+  "category": "career",
+  "summary": "Low-cost student membership of the Queensland Law Society for law students, with free student event registration and member discounts.",
+  "key": "Student membership costs $10.",
+  "who": [
+    "Currently enrolled TAFE Queensland and university law students",
+    "Recent law graduates or graduates undertaking practical legal training"
+  ],
+  "how": [
+    "Sign up through the myQLS portal."
+  ],
+  "catches": [
+    "The fee is listed in the page FAQ."
+  ],
+  "tags": [
+    "law",
+    "qld",
+    "queensland",
+    "lawyer",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.qls.com.au/qls-membership/student-membership",
+    "label": "Queensland Law Society: Student membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Cost",
+      "quote": "at a cost of $10 AUD",
+      "url": "https://www.qls.com.au/qls-membership/student-membership",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "currently enrolled TAFE Queensland and university law students",
+      "url": "https://www.qls.com.au/qls-membership/student-membership",
+      "page_date": null
+    },
+    {
+      "claim": "How to join",
+      "quote": "You can become a student member by signing up through the myQLS portal.",
+      "url": "https://www.qls.com.au/qls-membership/student-membership",
+      "page_date": null
+    }
+  ]
+}

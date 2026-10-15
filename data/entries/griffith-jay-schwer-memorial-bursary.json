@@ -1,0 +1,71 @@
+{
+  "id": "griffith-jay-schwer-memorial-bursary",
+  "name": "Jay Schwer Memorial Bursary for Mature Age Students",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "$500 bursary for mature-age social work and human services students facing hardship.",
+  "key": "This bursary is valued at $500, payable in a single instalment.",
+  "who": [
+    "Enrolled in a Bachelor or Master of Social Work or Human Services degree.",
+    "Experiencing financial hardship, carer responsibilities and/or social disadvantage.",
+    "Aged 30 years or over.",
+    "Australian citizen, New Zealand citizen, permanent humanitarian visa holder or permanent resident."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Apply by Wednesday 30 June 2027 for Trimester 2, 2027."
+  ],
+  "tags": [
+    "griffith",
+    "mature age",
+    "social work",
+    "human services",
+    "carer"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/jay-schwer-memorial-bursary-for-mature-age-students",
+    "label": "Griffith University: Jay Schwer Memorial Bursary for Mature Age Students"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    },
+    "age": {
+      "min": 30
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "This bursary is valued at $500, payable in a single instalment.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/jay-schwer-memorial-bursary-for-mature-age-students",
+      "page_date": null
+    },
+    {
+      "claim": "age rule",
+      "quote": "aged 30 years or over.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/jay-schwer-memorial-bursary-for-mature-age-students",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

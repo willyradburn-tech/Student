@@ -1,0 +1,55 @@
+{
+  "id": "fine-geo5-student",
+  "name": "GEO5 and FIN EC free student licence",
+  "provider": "Fine Software",
+  "category": "software",
+  "summary": "Free 12-month renewable licence to GEO5 geotechnical and FIN EC structural programs for engineering students.",
+  "key": "Free student licence valid for 12 months (renewable).",
+  "who": [
+    "Enrolled engineering students."
+  ],
+  "how": [
+    "Find your university in the partner directory and authenticate through its portal, then activate in the Fine Software shop."
+  ],
+  "tags": [
+    "geotechnical",
+    "civil engineering",
+    "geo5",
+    "structural"
+  ],
+  "source": {
+    "url": "https://www.finesoftware.eu/geotechnical-software/student-license/",
+    "label": "Fine Software: Free Student License"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Get your free student license in just a few simple steps",
+      "url": "https://www.finesoftware.eu/geotechnical-software/student-license/",
+      "page_date": null
+    },
+    {
+      "claim": "12 months",
+      "quote": "Valid for 12 months (renewable)",
+      "url": "https://www.finesoftware.eu/geotechnical-software/student-license/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Available to all enrolled engineering students.",
+      "url": "https://www.finesoftware.eu/geotechnical-software/student-license/",
+      "page_date": null
+    }
+  ]
+}

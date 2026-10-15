@@ -1,0 +1,51 @@
+{
+  "id": "qut-disability-accessibility-services",
+  "name": "QUT Disability and Accessibility Services",
+  "provider": "QUT",
+  "category": "health",
+  "summary": "Free disability advisers who arrange study adjustments, plus assistive technology rooms, for QUT students with a disability, injury or health condition.",
+  "who": [
+    "Domestic or international, internal or external students with a disability, injury or health condition."
+  ],
+  "how": [
+    "Contact reception on 3138 2019 or student.disability@qut.edu.au and book with your faculty's adviser, ideally before or early in your studies.",
+    "Provide current supporting documentation to receive adjustments."
+  ],
+  "tags": [
+    "qut",
+    "disability",
+    "accessibility",
+    "adjustments",
+    "assistive technology",
+    "free"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/student-life/support/disability-accessibility-services",
+    "label": "QUT: Disability and Accessibility Services"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "low",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free appointments",
+      "quote": "There is no cost for appointments with a disability adviser.",
+      "url": "https://www.qut.edu.au/study/student-life/support/disability-accessibility-services",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "available to all students – domestic or international, internal or external.",
+      "url": "https://www.qut.edu.au/study/student-life/support/disability-accessibility-services",
+      "page_date": null
+    }
+  ]
+}

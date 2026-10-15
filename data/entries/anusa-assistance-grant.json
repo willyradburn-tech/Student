@@ -1,0 +1,60 @@
+{
+  "id": "anusa-assistance-grant",
+  "name": "ANUSA Assistance Grant",
+  "provider": "ANU Students' Association (ANUSA)",
+  "category": "uni",
+  "summary": "Non-repayable ANUSA grant for ANU students facing genuine, unexpected financial need.",
+  "key": "The maximum grant available is $750 per semester.",
+  "who": [
+    "Enrolled ANU student",
+    "Able to demonstrate genuine and unexpected financial need",
+    "Student visa holders must show a genuine and unforeseen change in circumstances after starting their program"
+  ],
+  "how": [
+    "Complete the online form and select the ANUSA Assistance Grant",
+    "Provide a confirmation of enrolment and 60 days of statements from all bank accounts"
+  ],
+  "catches": [
+    "Applications are assessed individually and may not get the full amount",
+    "Does not cover HECS, course fees, debts or vehicle costs"
+  ],
+  "tags": [
+    "anu",
+    "anusa",
+    "canberra",
+    "act",
+    "hardship",
+    "grant",
+    "student union"
+  ],
+  "source": {
+    "url": "https://anusa.com.au/student-assistance/financial/assistance-grant/",
+    "label": "ANUSA: Assistance Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Maximum",
+      "quote": "The maximum grant available is $750 per semester.",
+      "url": "https://anusa.com.au/student-assistance/financial/assistance-grant/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Be able to demonstrate genuine and unexpected financial need",
+      "url": "https://anusa.com.au/student-assistance/financial/assistance-grant/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

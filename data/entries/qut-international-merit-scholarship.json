@@ -1,0 +1,64 @@
+{
+  "id": "qut-international-merit-scholarship",
+  "name": "QUT International Merit Scholarship",
+  "provider": "Queensland University of Technology",
+  "category": "uni",
+  "summary": "Ongoing 25% tuition fee scholarship for high-achieving international students starting an undergraduate or postgraduate course at QUT.",
+  "key": "You'll receive an ongoing scholarship to cover 25% of your tuition fees per semester of study at QUT",
+  "who": [
+    "Commencing the course for the first time",
+    "Eligibility is based only on your academic record",
+    "Not available if you hold another QUT academic scholarship"
+  ],
+  "how": [
+    "No application: QUT assesses you when you apply to study and includes the offer with your admission letter"
+  ],
+  "catches": [
+    "Continues for the course only while you keep meeting academic requirements"
+  ],
+  "tags": [
+    "qut",
+    "brisbane",
+    "qld",
+    "international",
+    "intl",
+    "merit",
+    "tuition",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/international-merit-scholarship",
+    "label": "QUT: International Merit Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "25% of tuition",
+      "quote": "You'll receive an ongoing scholarship to cover 25% of your tuition fees per semester of study at QUT",
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/international-merit-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "No application",
+      "quote": "You do not need to apply for this scholarship.",
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/international-merit-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

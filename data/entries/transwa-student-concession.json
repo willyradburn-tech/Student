@@ -1,0 +1,60 @@
+{
+  "id": "transwa-student-concession",
+  "name": "Transwa student concession fares",
+  "provider": "Transwa",
+  "category": "transport",
+  "summary": "Half-price regional WA coach and train fares for full-time students aged 16 and over in Western Australia.",
+  "key": "You are entitled to 50% off the regular fare.",
+  "who": [
+    "Aged 16 years or over and a full-time student in Western Australia."
+  ],
+  "how": [
+    "Show a valid Student or Tertiary SmartRider."
+  ],
+  "tags": [
+    "transwa",
+    "wa",
+    "regional",
+    "coach",
+    "train",
+    "smartrider",
+    "perth"
+  ],
+  "source": {
+    "url": "https://www.transwa.wa.gov.au/fares/concessions",
+    "label": "Transwa: Concessions"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "wa"
+      ]
+    },
+    "age": {
+      "min": 16
+    }
+  },
+  "evidence": [
+    {
+      "claim": "50% off",
+      "quote": "you are entitled to 50% off the regular fare",
+      "url": "https://www.transwa.wa.gov.au/fares/concessions",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "aged 16 years or over and are a full-time student in Western Australia",
+      "url": "https://www.transwa.wa.gov.au/fares/concessions",
+      "page_date": null
+    }
+  ]
+}

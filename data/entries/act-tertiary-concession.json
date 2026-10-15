@@ -1,0 +1,48 @@
+{
+  "id": "act-tertiary-concession",
+  "name": "ACT tertiary concession (MyWay+)",
+  "provider": "Transport Canberra",
+  "category": "transport",
+  "summary": "Concession fares on Canberra buses and light rail for full-time university and CIT students.",
+  "tags": [
+    "myway",
+    "canberra",
+    "act",
+    "light rail",
+    "bus"
+  ],
+  "who": [
+    "Full-time students at a public or private Australian university, or at CIT."
+  ],
+  "how": [
+    "In your MyWay+ account, choose Register concession, pick Concession as the fare type, then your concession type.",
+    "Or order a concession card in your account, or buy one at a MyWay+ retail outlet."
+  ],
+  "need": [
+    "ID showing you study full-time, such as a valid student card. Carry it whenever you travel."
+  ],
+  "catches": [
+    "Tertiary concessions expire on 31 March of the year after purchase, so revalidate each year.",
+    "The account and concession must be in your own name."
+  ],
+  "cadence": "medium",
+  "match": {
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "act"
+      ]
+    }
+  },
+  "verified": "2026-10-13",
+  "review": "pending",
+  "status": "verified",
+  "source": {
+    "url": "https://www.transport.act.gov.au/travel-options/schools/students",
+    "label": "Transport Canberra: students"
+  }
+}

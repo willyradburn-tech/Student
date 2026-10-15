@@ -1,0 +1,56 @@
+{
+  "id": "uwa-sos-emergency-grant",
+  "name": "UWA SOS Emergency Grant",
+  "provider": "University of Western Australia",
+  "category": "uni",
+  "summary": "Non-repayable UWA grant for onshore students at risk of discontinuing because of exceptional, unforeseen hardship.",
+  "who": [
+    "Enrolled onshore and at risk of discontinuing",
+    "Exceptional and unforeseen circumstances causing hardship",
+    "Must have tried other help, such as Centrelink or Guild support"
+  ],
+  "how": [
+    "Submit the Online Referral Form"
+  ],
+  "catches": [
+    "Only for unexpected costs; cannot pay tuition fees"
+  ],
+  "tags": [
+    "uwa",
+    "perth",
+    "wa",
+    "hardship",
+    "grant",
+    "emergency"
+  ],
+  "source": {
+    "url": "https://www.uwa.edu.au/students/support/financial-assistance",
+    "label": "UWA: Financial support"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Not repaid",
+      "quote": "does not have to be paid back.",
+      "url": "https://www.uwa.edu.au/students/support/financial-assistance",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "exceptional and unforeseen circumstances",
+      "url": "https://www.uwa.edu.au/students/support/financial-assistance",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

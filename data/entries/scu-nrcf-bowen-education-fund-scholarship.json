@@ -1,0 +1,73 @@
+{
+  "id": "scu-nrcf-bowen-education-fund-scholarship",
+  "name": "Northern Rivers Community Foundation SCU Bowen Education Fund Scholarship",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$2,500 for Northern Rivers SCU students in any course who face financial hardship and contribute to their region.",
+  "key": "$2,500 for one year.",
+  "who": [
+    "Australian citizen or permanent resident.",
+    "Live in the Northern Rivers Community Foundation area, such as Tweed Heads, Lismore, Ballina, Byron Bay or Grafton.",
+    "Show financial disadvantage or hardship.",
+    "Show commitment to the region through school or community contributions."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page. SCU also suggests applying for an SCU Equity Scholarship."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "Up to two awards: one for a commencing school leaver, and where possible one for a non-school-leaver or continuing student."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "northern rivers",
+    "hardship",
+    "ballina",
+    "byron",
+    "lismore",
+    "tweed"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/northern-rivers-community-foundation-scu-bowen-education-fund-scholarship/",
+    "label": "Southern Cross University: NRCF SCU Bowen Education Fund Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$2,500 for one year",
+      "url": "https://www.scu.edu.au/scholarships/northern-rivers-community-foundation-scu-bowen-education-fund-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/northern-rivers-community-foundation-scu-bowen-education-fund-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

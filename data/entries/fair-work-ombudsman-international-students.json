@@ -1,0 +1,64 @@
+{
+  "id": "fair-work-ombudsman-international-students",
+  "name": "Fair Work Ombudsman free help for international students",
+  "provider": "Fair Work Ombudsman (Australian Government)",
+  "category": "career",
+  "summary": "Free workplace advice and help with underpayment or exploitation for international students, with protections so reporting doesn't put your visa at risk.",
+  "key": "It is safe and free for you if you need help.",
+  "who": [
+    "All workers in Australia, including international students"
+  ],
+  "how": [
+    "Contact the Fair Work Ombudsman through fairwork.gov.au; anonymous reports are possible"
+  ],
+  "catches": [
+    "Home Affairs generally won't cancel your visa if there is evidence your workplace rights were breached",
+    "Services available in different languages, free"
+  ],
+  "tags": [
+    "international",
+    "intl",
+    "fair work",
+    "wages",
+    "underpayment",
+    "work rights",
+    "visa",
+    "exploitation",
+    "national"
+  ],
+  "source": {
+    "url": "https://www.studyaustralia.gov.au/en/work-in-australia/work-rights-and-responsibilities/roles-of-the-fair-work-ombudsman",
+    "label": "Study Australia: Get help from the Fair Work Ombudsman"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free help",
+      "quote": "It is safe and free for you if you need help.",
+      "url": "https://www.studyaustralia.gov.au/en/work-in-australia/work-rights-and-responsibilities/roles-of-the-fair-work-ombudsman",
+      "page_date": null
+    },
+    {
+      "claim": "Includes international students",
+      "quote": "The FWO gives advice and support to all workers in Australia, including international students.",
+      "url": "https://www.studyaustralia.gov.au/en/work-in-australia/work-rights-and-responsibilities/roles-of-the-fair-work-ombudsman",
+      "page_date": null
+    },
+    {
+      "claim": "Visa protection",
+      "quote": "Your visa will not be cancelled if you come forward with genuine complaints about your working conditions.",
+      "url": "https://www.studyaustralia.gov.au/en/tools-and-resources/tips-and-advice-for-students/new-employment-protections-for-international-students",
+      "page_date": null
+    }
+  ]
+}

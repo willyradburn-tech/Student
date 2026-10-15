@@ -1,0 +1,59 @@
+{
+  "id": "github-student-pack",
+  "name": "GitHub Student Developer Pack",
+  "provider": "GitHub",
+  "category": "software",
+  "summary": "Free GitHub Pro, Copilot for students and a bundle of free developer tools while you study.",
+  "tags": [
+    "coding",
+    "copilot",
+    "github pro",
+    "programming",
+    "azure",
+    "jetbrains"
+  ],
+  "key": "Free GitHub Pro while you are a student, plus GitHub Copilot Student.",
+  "who": [
+    "Aged 13 or over and enrolled in a degree- or diploma-granting program.",
+    "You need your own personal GitHub account."
+  ],
+  "numbers": [
+    [
+      "GitHub Pro",
+      "Free while you are a student"
+    ],
+    [
+      "Copilot Student",
+      "Unlimited code completions, an allowance of AI credits, and limited chat and agent use"
+    ],
+    [
+      "Partner offers",
+      "Codespaces, Azure, JetBrains and more. Each has its own length and terms."
+    ]
+  ],
+  "how": [
+    "Sign in to GitHub and open Settings, then Education benefits, and apply as a student."
+  ],
+  "catches": [
+    "Partner offers run for different lengths. Some last a year, some need renewing."
+  ],
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "source": {
+    "url": "https://education.github.com/pack",
+    "label": "GitHub Education: Student Developer Pack"
+  },
+  "need": [
+    "A verified academic email on your GitHub account, if your school issues one.",
+    "Proof of current enrolment, such as a dated student ID, class schedule or enrolment letter."
+  ],
+  "extra_sources": [
+    {
+      "url": "https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student",
+      "label": "GitHub Docs: apply as a student"
+    }
+  ]
+}

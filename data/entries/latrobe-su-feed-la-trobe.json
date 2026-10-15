@@ -1,0 +1,51 @@
+{
+  "id": "latrobe-su-feed-la-trobe",
+  "name": "Feed La Trobe food bank",
+  "provider": "La Trobe Student Union",
+  "category": "uni",
+  "summary": "A free student-run food bank at Bundoora where La Trobe students can take a tote bag of food and household items each week.",
+  "key": "One tote bag of items free, once a week.",
+  "catches": [
+    "Open Tuesdays, Wednesdays and Thursdays 11am to 2pm, depending on supply and volunteers.",
+    "Ground Floor of Agora, Shop 113, Bundoora."
+  ],
+  "tags": [
+    "latrobe",
+    "la trobe university",
+    "melbourne",
+    "vic",
+    "food",
+    "pantry",
+    "free",
+    "student union",
+    "bundoora"
+  ],
+  "source": {
+    "url": "https://www.latrobesu.org.au/support/feedlatrobe/",
+    "label": "La Trobe Student Union: Feed La Trobe"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Weekly free items",
+      "quote": "one tote bag size of items away with them for free",
+      "url": "https://www.latrobesu.org.au/support/feedlatrobe/",
+      "page_date": null
+    }
+  ]
+}

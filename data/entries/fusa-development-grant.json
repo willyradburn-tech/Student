@@ -1,0 +1,55 @@
+{
+  "id": "fusa-development-grant",
+  "name": "FUSA Development Grant",
+  "provider": "Flinders University Student Association (FUSA)",
+  "category": "uni",
+  "summary": "$800 grant for Flinders students taking part in a professional development activity.",
+  "key": "$800",
+  "who": [
+    "Any enrolled student wanting to participate in an activity that focuses on professional development"
+  ],
+  "how": [
+    "Apply online through the FUSA website when the grant is promoted"
+  ],
+  "catches": [
+    "Promotions run in February and July each year"
+  ],
+  "tags": [
+    "flinders",
+    "fusa",
+    "adelaide",
+    "sa",
+    "professional development",
+    "grant"
+  ],
+  "source": {
+    "url": "https://students.flinders.edu.au/finances-and-admin/support/help-loans-and-grants",
+    "label": "Flinders University: Help, loans and grants"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Any enrolled student wanting to participate in an activity that focuses on professional development.",
+      "url": "https://students.flinders.edu.au/finances-and-admin/support/help-loans-and-grants",
+      "page_date": null
+    },
+    {
+      "claim": "Rounds",
+      "quote": "February and July each year.",
+      "url": "https://students.flinders.edu.au/finances-and-admin/support/help-loans-and-grants",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

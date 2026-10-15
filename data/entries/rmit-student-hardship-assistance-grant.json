@@ -1,0 +1,59 @@
+{
+  "id": "rmit-student-hardship-assistance-grant",
+  "name": "RMIT Student Hardship Assistance Grant",
+  "provider": "RMIT University",
+  "category": "uni",
+  "summary": "Cash grants of up to $1,000, or vouchers, for RMIT students whose financial difficulty is affecting their study.",
+  "key": "Cash grants of up to $1,000, or Coles, Myki or Prezzee vouchers.",
+  "who": [
+    "Enrolled for more than one semester.",
+    "Experiencing financial difficulty that affects your ability to study, with evidence.",
+    "No other funds such as savings or family money available."
+  ],
+  "how": [
+    "Complete the Student Hardship Assistance Grant Form with a fortnightly budget, all bank statements and evidence of your circumstances."
+  ],
+  "catches": [
+    "Not for first-semester students, students on leave or exchange, or anyone with RMIT fees due or overdue.",
+    "Applications without enough evidence are unsuccessful."
+  ],
+  "tags": [
+    "rmit",
+    "rmit university",
+    "melbourne",
+    "vic",
+    "hardship",
+    "grant",
+    "vouchers",
+    "international"
+  ],
+  "source": {
+    "url": "https://www.rmit.edu.au/students/support-services/financial-legal-support/hardship-assistance-grants",
+    "label": "RMIT: Student Hardship Assistance Grants"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Grant limit",
+      "quote": "cash grants of up to $1,000",
+      "url": "https://www.rmit.edu.au/students/support-services/financial-legal-support/hardship-assistance-grants",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

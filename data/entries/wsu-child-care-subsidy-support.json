@@ -1,0 +1,53 @@
+{
+  "id": "wsu-child-care-subsidy-support",
+  "name": "Western Sydney University Child Care Subsidy Support",
+  "provider": "Western Sydney University",
+  "category": "uni",
+  "summary": "Financial help with childcare fees for WSU student parents and carers who meet the financial assistance criteria.",
+  "who": [
+    "Meets Financial Assistance criteria",
+    "Parent, guardian or primary carer of a child aged 13 or younger using an approved childcare service",
+    "Not received a Child Care Subsidy Grant earlier in the same calendar year"
+  ],
+  "how": [
+    "Submit the Financial Assistance application with proof of childcare enrolment and fees"
+  ],
+  "catches": [
+    "No amount is published",
+    "Once per calendar year"
+  ],
+  "tags": [
+    "wsu",
+    "childcare",
+    "parents",
+    "carers"
+  ],
+  "source": {
+    "url": "https://www.westernsydney.edu.au/students/services-and-facilities/student-welfare-services/financial-support",
+    "label": "Western Sydney University: Financial support"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Child Care Subsidy Support",
+      "url": "https://www.westernsydney.edu.au/students/services-and-facilities/student-welfare-services/financial-support",
+      "page_date": null
+    }
+  ]
+}

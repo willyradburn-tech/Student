@@ -1,0 +1,48 @@
+{
+  "id": "griffith-free-counselling",
+  "name": "Griffith counselling and wellbeing services",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Free, confidential counselling for enrolled Griffith students, plus a 24/7 mental wellbeing support line.",
+  "key": "Free and confidential counselling, plus the 24/7 Mental Wellbeing Support Line on 1300 785 442.",
+  "who": [
+    "Currently enrolled Griffith students (or holding an offer, on approved leave or deferment).",
+    "Recent graduates within three months (six months for previous clients)."
+  ],
+  "how": [
+    "Book telehealth online, or call (07) 3735 7299 (Nathan) or (07) 5552 8734 (Gold Coast) for limited face-to-face appointments."
+  ],
+  "catches": [
+    "Not available to students outside Australia."
+  ],
+  "tags": [
+    "griffith",
+    "counselling",
+    "mental health",
+    "wellbeing",
+    "crisis"
+  ],
+  "source": {
+    "url": "https://student.griffith.edu.au/student-support/counselling",
+    "label": "Griffith University: Counselling"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "free counselling",
+      "quote": "High-quality, free and confidential counselling and wellbeing services",
+      "url": "https://student.griffith.edu.au/student-support/counselling",
+      "page_date": null
+    }
+  ]
+}

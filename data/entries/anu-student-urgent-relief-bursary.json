@@ -1,0 +1,65 @@
+{
+  "id": "anu-student-urgent-relief-bursary",
+  "name": "ANU Student Urgent Relief Bursary (SURF)",
+  "provider": "Australian National University",
+  "category": "uni",
+  "summary": "Non-repayable bursary for enrolled ANU students facing significant financial hardship from unforeseen events who need immediate help.",
+  "key": "The maximum total amount disbursed may not exceed $2,000 AUD per calendar year.",
+  "who": [
+    "Currently enrolled ANU student",
+    "Experiencing significant financial hardship due to unforeseen events",
+    "Requires immediate financial assistance"
+  ],
+  "how": [
+    "Apply via the online application form, yourself or through a referral",
+    "Upload a statement of your circumstances or a tax invoice or receipt for expenses already paid"
+  ],
+  "catches": [
+    "No deadline, but it runs only until current funds are fully spent",
+    "Does not cover HECS, tuition fees, SA-FEE or travel costs"
+  ],
+  "tags": [
+    "anu",
+    "canberra",
+    "act",
+    "hardship",
+    "bursary",
+    "emergency"
+  ],
+  "source": {
+    "url": "https://www.anu.edu.au/students/program-administration/program-management/student-urgent-relief-bursary-surf",
+    "label": "ANU: Student Urgent Relief Bursary (SURF)"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Maximum amount",
+      "quote": "the maximum total amount disbursed may not exceed $2,000 AUD per calendar year.",
+      "url": "https://www.anu.edu.au/students/program-administration/program-management/student-urgent-relief-bursary-surf",
+      "page_date": null
+    },
+    {
+      "claim": "Not a loan",
+      "quote": "Successful applicants do not have to repay the money (i.e. it's not a loan).",
+      "url": "https://www.anu.edu.au/students/program-administration/program-management/student-urgent-relief-bursary-surf",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Be experiencing significant financial hardship due to unforeseen events;",
+      "url": "https://www.anu.edu.au/students/program-administration/program-management/student-urgent-relief-bursary-surf",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

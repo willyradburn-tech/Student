@@ -1,0 +1,71 @@
+{
+  "id": "scu-essential-energy-female-engineering-scholarship",
+  "name": "Essential Energy Female Engineering Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "Up to $30,000 over three years for a female SCU engineering student in second year or later.",
+  "key": "This scholarship is for up to three years with a total maximum of $30,000.",
+  "who": [
+    "Australian citizen or permanent resident.",
+    "Identify as female.",
+    "In second, third or fourth year of the Bachelor of Engineering (Honours), or Engineering and Business, at SCU.",
+    "Pass average or better."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with a 100 to 200 word statement."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One scholarship available.",
+    "$10,000 a year full-time, pro rata for part-time."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "engineering",
+    "women in stem",
+    "essential energy"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/essential-energy-female-engineering-scholarship/",
+    "label": "Southern Cross University: Essential Energy Female Engineering Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "This scholarship is for up to three years with a total maximum of $30,000.",
+      "url": "https://www.scu.edu.au/scholarships/essential-energy-female-engineering-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Academic rule",
+      "quote": "Achieve a minimum of a pass average across all subjects during the course of study.",
+      "url": "https://www.scu.edu.au/scholarships/essential-energy-female-engineering-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

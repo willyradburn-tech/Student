@@ -1,0 +1,60 @@
+{
+  "id": "raci-student-membership",
+  "name": "RACI Student Membership",
+  "provider": "Royal Australian Chemical Institute",
+  "category": "career",
+  "summary": "Discounted Royal Australian Chemical Institute membership for chemistry students, with a separate PhD rate.",
+  "key": "$28.00 inc. GST annually (undergraduate, Honours and Masters); $64.00 for PhD students.",
+  "who": [
+    "Certificate, Diploma, Undergraduate, Honours and Masters students in chemistry-related courses",
+    "PhD students use the Postgraduate Student (MRACI) category"
+  ],
+  "how": [
+    "Choose a membership type, select Join now and upload formal confirmation of enrolment."
+  ],
+  "catches": [
+    "Activation can take up to 24 hours."
+  ],
+  "tags": [
+    "chemistry",
+    "science",
+    "chemical engineering",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.raci.org.au/about/student-membership",
+    "label": "RACI: Student Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Price",
+      "quote": "$28.00 inc. GST annually",
+      "url": "https://www.raci.org.au/about/student-membership",
+      "page_date": null
+    },
+    {
+      "claim": "PhD price",
+      "quote": "$64.00 inc. GST annually",
+      "url": "https://www.raci.org.au/about/student-membership",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "caters to Certificate, Diploma, Undergraduate, Honours, and Masters students in chemistry-related courses",
+      "url": "https://www.raci.org.au/about/student-membership",
+      "page_date": null
+    }
+  ]
+}

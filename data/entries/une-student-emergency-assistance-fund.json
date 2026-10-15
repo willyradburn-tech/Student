@@ -1,0 +1,70 @@
+{
+  "id": "une-student-emergency-assistance-fund",
+  "name": "UNE Student Emergency Assistance Fund",
+  "provider": "University of New England",
+  "category": "uni",
+  "summary": "Quick-response one-off grants for UNE students whose financial hardship is affecting their studies.",
+  "who": [
+    "Currently enrolled in a degree or course at UNE (not UNE staff)",
+    "Experiencing financial hardship"
+  ],
+  "how": [
+    "Talk with UNE Life Student Advocacy and Welfare, then submit the application form with supporting documents"
+  ],
+  "catches": [
+    "Applications accepted year-round",
+    "One application per student in a 12-month period",
+    "Grants may not cover the full cost of the expense"
+  ],
+  "tags": [
+    "une",
+    "new england",
+    "armidale",
+    "hardship",
+    "emergency grant",
+    "nsw"
+  ],
+  "source": {
+    "url": "https://www.une.edu.au/scholarships/student-emergency-assistance-fund/student-emergency-assistance-funds",
+    "label": "University of New England: Student Emergency Assistance Funds"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr",
+        "intl"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Who it is for",
+      "quote": "quick response grants for UNE students experiencing financial hardship.",
+      "url": "https://www.une.edu.au/scholarships/student-emergency-assistance-fund/student-emergency-assistance-funds",
+      "page_date": null
+    },
+    {
+      "claim": "Open to all enrolled students",
+      "quote": "Open to all students currently enrolled in a degree/course at UNE, excluding UNE staff members.",
+      "url": "https://www.une.edu.au/scholarships/student-emergency-assistance-fund/student-emergency-assistance-funds",
+      "page_date": null
+    },
+    {
+      "claim": "No closing date",
+      "quote": "N/A - Applications may be submitted year-round.",
+      "url": "https://www.une.edu.au/scholarships/student-emergency-assistance-fund/student-emergency-assistance-funds",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

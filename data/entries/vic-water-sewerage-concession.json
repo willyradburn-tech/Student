@@ -1,0 +1,52 @@
+{
+  "id": "vic-water-sewerage-concession",
+  "name": "Victorian water and sewerage concession",
+  "provider": "Victorian Department of Families, Fairness and Housing",
+  "category": "health",
+  "summary": "50% off water and sewerage charges, up to a yearly cap, for Victorian water account holders with a Health Care Card.",
+  "key": "50% deduction on water and sewerage charges up to a yearly maximum of $372.10 for 2025-26.",
+  "who": [
+    "Water account holder with a Pensioner Concession Card, Health Care Card or Veterans' Affairs Gold Card"
+  ],
+  "how": [
+    "Phone your water corporation and give your concession card details over the phone."
+  ],
+  "catches": [
+    "The page shows the 2025-26 cap; the 2026-27 cap was not yet listed when checked."
+  ],
+  "tags": [
+    "Victoria",
+    "Melbourne",
+    "water",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://services.dffh.vic.gov.au/water-and-sewerage-concession",
+    "label": "DFFH Victoria: Water and sewerage concession"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "50% deduction on water and sewerage charges up to a yearly maximum of $372.10 for 2025-26.",
+      "url": "https://services.dffh.vic.gov.au/water-and-sewerage-concession",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "A water account holder who holds one of the following eligible cards:",
+      "url": "https://services.dffh.vic.gov.au/water-and-sewerage-concession",
+      "page_date": null
+    }
+  ]
+}

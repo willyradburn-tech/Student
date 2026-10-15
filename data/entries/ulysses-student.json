@@ -1,0 +1,35 @@
+{
+  "id": "ulysses-student",
+  "name": "Ulysses student pricing",
+  "provider": "Ulysses",
+  "category": "software",
+  "summary": "Reduced Ulysses writing app pricing for students.",
+  "catches": [
+    "Student price isn't stated; check the App Store for local pricing.",
+    "Apple devices only."
+  ],
+  "tags": [
+    "writing",
+    "mac",
+    "ipad",
+    "essays",
+    "ulysses"
+  ],
+  "source": {
+    "url": "https://ulysses.app/pricing",
+    "label": "Ulysses: Pricing"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Student pricing",
+      "quote": "Reduced pricing for students",
+      "url": "https://ulysses.app/pricing",
+      "page_date": null
+    }
+  ]
+}

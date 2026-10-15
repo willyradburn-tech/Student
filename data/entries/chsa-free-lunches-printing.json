@@ -1,0 +1,56 @@
+{
+  "id": "chsa-free-lunches-printing",
+  "name": "CHSA free lunches and free printing (Coffs Harbour)",
+  "provider": "CHSA (Coffs Harbour Students Association)",
+  "category": "uni",
+  "summary": "Free lunches through the year for all SCU students and free printing from the Uni Lounge computers at the Coffs Harbour campus.",
+  "key": "Free lunches throughout the year for active members and all SCU students, and free printing from Uni Lounge computers.",
+  "who": [
+    "SCU students at the Coffs Harbour campus. A student ID card is needed to print."
+  ],
+  "how": [
+    "Check the CHSA calendar and social channels for lunch days."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "chsa",
+    "coffs harbour",
+    "free food",
+    "printing"
+  ],
+  "source": {
+    "url": "https://scuchsa.com.au/membership-perks/",
+    "label": "CHSA: Membership perks"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free lunches",
+      "quote": "The CHSA offers active members as well as all SCU students free lunches throughout the year!",
+      "url": "https://scuchsa.com.au/membership-perks/",
+      "page_date": null
+    },
+    {
+      "claim": "Free printing",
+      "quote": "Printing is available from all computers in the Uni Lounge, with free printing for students",
+      "url": "https://scuchsa.com.au/membership-perks/",
+      "page_date": null
+    }
+  ]
+}

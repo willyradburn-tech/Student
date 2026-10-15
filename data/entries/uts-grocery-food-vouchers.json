@@ -1,0 +1,52 @@
+{
+  "id": "uts-grocery-food-vouchers",
+  "name": "UTS Grocery and Food Vouchers",
+  "provider": "University of Technology Sydney",
+  "category": "uni",
+  "summary": "Grocery vouchers and Opal travel credit for UTS students in financial hardship.",
+  "who": [
+    "Financial hardship, or regular income under $1,200 per fortnight while living away from home, with inadequate savings"
+  ],
+  "how": [
+    "Call 02 9514 1177 to book an on-campus appointment"
+  ],
+  "catches": [
+    "No amount is published",
+    "Cards must be collected in person at Broadway"
+  ],
+  "tags": [
+    "uts",
+    "voucher",
+    "food",
+    "opal",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+    "label": "UTS: Financial assistance programs"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Collection in person",
+      "quote": "You must be able to collect the cards, in person, from our UTS Broadway Sydney campus.",
+      "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+      "page_date": null
+    }
+  ]
+}

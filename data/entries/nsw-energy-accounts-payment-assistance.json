@@ -1,0 +1,55 @@
+{
+  "id": "nsw-energy-accounts-payment-assistance",
+  "name": "Energy Accounts Payment Assistance (EAPA)",
+  "provider": "NSW Government",
+  "category": "payments",
+  "summary": "Help paying a current electricity or gas bill for NSW households in a short-term financial crisis or emergency.",
+  "who": [
+    "Get electricity or gas from a retailer",
+    "Have not paid your most recent bill",
+    "Having a short-term financial crisis or emergency"
+  ],
+  "how": [
+    "Apply online, or in person or by phone through an approved non-government EAPA provider"
+  ],
+  "catches": [
+    "The page does not state the amount."
+  ],
+  "tags": [
+    "electricity",
+    "gas",
+    "hardship",
+    "emergency",
+    "nsw",
+    "New South Wales"
+  ],
+  "source": {
+    "url": "https://service.nsw.gov.au/eapa",
+    "label": "Service NSW: Energy Accounts Payment Assistance"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "What it does",
+      "quote": "EAPA can help you pay for your current residential electricity or gas bills",
+      "url": "https://service.nsw.gov.au/eapa",
+      "page_date": null
+    },
+    {
+      "claim": "Crisis requirement",
+      "quote": "You're having a short-term financial crisis or emergency and finding it hard to pay your recent energy bill.",
+      "url": "https://service.nsw.gov.au/eapa",
+      "page_date": null
+    }
+  ]
+}

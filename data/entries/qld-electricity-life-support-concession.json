@@ -1,0 +1,64 @@
+{
+  "id": "qld-electricity-life-support-concession",
+  "name": "Electricity Life Support Concession",
+  "provider": "Queensland Government",
+  "category": "payments",
+  "summary": "Yearly payment towards electricity for Queenslanders using a home oxygen concentrator or kidney dialysis machine.",
+  "key": "$1,063.30 per year for each oxygen concentrator, or $712.07 per year for each kidney dialysis machine.",
+  "who": [
+    "Oxygen concentrator users must get the machine free through MASS and hold an eligible card, such as a Health Care Card",
+    "Kidney dialysis users must get a home machine free through a Queensland Health hospital"
+  ],
+  "how": [
+    "Complete the Electricity Life Support Concession application form",
+    "Phone Concession Services on 13 QGOV (13 74 68)"
+  ],
+  "catches": [
+    "CPAP machine users are not eligible."
+  ],
+  "tags": [
+    "electricity",
+    "life support",
+    "medical",
+    "energy",
+    "qld",
+    "Queensland"
+  ],
+  "source": {
+    "url": "https://www.qld.gov.au/community/cost-of-living-support/electricity-life-support",
+    "label": "Queensland Government: Electricity life support"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Oxygen concentrator amount",
+      "quote": "$1,063.30 per year for each oxygen concentrator",
+      "url": "https://www.qld.gov.au/community/cost-of-living-support/electricity-life-support",
+      "page_date": null
+    },
+    {
+      "claim": "Health Care Card accepted (oxygen)",
+      "quote": "Health Care Card",
+      "url": "https://www.qld.gov.au/community/cost-of-living-support/electricity-life-support",
+      "page_date": null
+    }
+  ]
+}

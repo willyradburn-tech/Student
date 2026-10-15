@@ -1,0 +1,53 @@
+{
+  "id": "unsw-arc-legal-advocacy",
+  "name": "Arc UNSW Legal & Advocacy",
+  "provider": "Arc UNSW Student Life",
+  "category": "uni",
+  "summary": "Free, confidential legal advice for current UNSW students who are Arc members, including visa and academic appeal help.",
+  "key": "Legal advice is confidential and free for Arc members.",
+  "who": [
+    "Current UNSW student and Arc member"
+  ],
+  "how": [
+    "Book a virtual appointment online, email advice@arc.unsw.edu.au or call (02) 9065 0900"
+  ],
+  "catches": [
+    "No advice on tax returns, criminal charges, car accidents, personal injury, business law, wills, family law or conveyancing"
+  ],
+  "tags": [
+    "unsw",
+    "legal",
+    "free",
+    "arc",
+    "student-union",
+    "visa"
+  ],
+  "source": {
+    "url": "https://www.arc.unsw.edu.au/help",
+    "label": "Arc UNSW: Help"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free for Arc members",
+      "quote": "Legal advice is confidential and free for Arc members (you must be a current UNSW student).",
+      "url": "https://www.arc.unsw.edu.au/help",
+      "page_date": null
+    }
+  ]
+}

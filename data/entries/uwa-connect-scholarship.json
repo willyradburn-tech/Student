@@ -1,0 +1,66 @@
+{
+  "id": "uwa-connect-scholarship",
+  "name": "UWA Connect Scholarship",
+  "provider": "University of Western Australia",
+  "category": "uni",
+  "summary": "$5,000 a year plus a $1,500 first-year payment for commencing domestic bachelor students from disadvantaged or equity backgrounds.",
+  "key": "Value $21,500.00: $5,000 per year for 3 years, plus a $1,500 upfront payment in first year.",
+  "who": [
+    "Commencing domestic student who has applied for a bachelor's degree",
+    "Disadvantaged background or equity group, such as low SES, regional or remote, First Nations, disability, first in family, or financial or personal hardship"
+  ],
+  "how": [
+    "Create a profile and apply through the Apply now link on the UWA scholarship listing"
+  ],
+  "catches": [
+    "Applications open 01/07/2026 and close 30/11/2026",
+    "200 offered"
+  ],
+  "tags": [
+    "uwa",
+    "perth",
+    "wa",
+    "equity",
+    "first in family",
+    "regional",
+    "low ses",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://uwa.edu.au/study/scholarship-listing/uwa-connect-scholarship-f2413521",
+    "label": "UWA: UWA Connect Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Value $21,500.00",
+      "url": "https://uwa.edu.au/study/scholarship-listing/uwa-connect-scholarship-f2413521",
+      "page_date": null
+    },
+    {
+      "claim": "How to apply",
+      "quote": "Create a profile to start an application or save information to your dashboard",
+      "url": "https://uwa.edu.au/study/scholarship-listing/uwa-connect-scholarship-f2413521",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-11-30"
+}

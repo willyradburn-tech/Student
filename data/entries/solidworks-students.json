@@ -1,0 +1,43 @@
+{
+  "id": "solidworks-students",
+  "name": "SOLIDWORKS for Students",
+  "provider": "Dassault Systemes SOLIDWORKS",
+  "category": "software",
+  "summary": "Free SOLIDWORKS Design Standard CAD for every student, with Premium and xDesign plans at a student price.",
+  "key": "SOLIDWORKS Design Standard is free for every student; Design Premium and xDesign are $60 USD/year.",
+  "catches": [
+    "Design Standard runs on Windows PC only.",
+    "USD price; local pricing is shown in the cart."
+  ],
+  "tags": [
+    "cad",
+    "3d",
+    "mechanical",
+    "engineering",
+    "solidworks",
+    "design"
+  ],
+  "source": {
+    "url": "https://www.solidworks.com/product/students",
+    "label": "SOLIDWORKS: Students"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Free for every student",
+      "quote": "The world's most widely used 3D CAD software is now free for every student, everywhere.",
+      "url": "https://www.solidworks.com/product/students",
+      "page_date": null
+    },
+    {
+      "claim": "Premium price",
+      "quote": "$60 USD/year",
+      "url": "https://www.solidworks.com/product/students",
+      "page_date": null
+    }
+  ]
+}

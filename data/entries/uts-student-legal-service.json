@@ -1,0 +1,50 @@
+{
+  "id": "uts-student-legal-service",
+  "name": "UTS Student Legal Service",
+  "provider": "University of Technology Sydney",
+  "category": "uni",
+  "summary": "Free legal advice for enrolled UTS students on tenancy, employment, traffic, consumer, debt and other matters.",
+  "key": "Free legal advice for all students currently enrolled at UTS.",
+  "who": [
+    "Currently enrolled UTS student"
+  ],
+  "how": [
+    "Email studentlegalservice@uts.edu.au, call 02 9514 2484 or drop in to Tower Building 1, level 5"
+  ],
+  "catches": [
+    "No advice on visa or migration matters or issues against UTS"
+  ],
+  "tags": [
+    "uts",
+    "legal",
+    "free"
+  ],
+  "source": {
+    "url": "https://www.uts.edu.au/for-students/current-students/support/when-things-go-wrong/student-legal-service",
+    "label": "UTS: Student Legal Service"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free for all enrolled students",
+      "quote": "All students currently enrolled at UTS have access to free legal advice.",
+      "url": "https://www.uts.edu.au/for-students/current-students/support/when-things-go-wrong/student-legal-service",
+      "page_date": null
+    }
+  ]
+}

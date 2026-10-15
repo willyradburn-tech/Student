@@ -1,0 +1,43 @@
+{
+  "id": "lucidchart-education",
+  "name": "Lucidchart Education account",
+  "provider": "Lucid Software",
+  "category": "software",
+  "summary": "Free Lucidchart Education accounts for students and educators.",
+  "key": "Students and educators are eligible for a free Education account.",
+  "how": [
+    "Sign up for a free account and follow the prompts."
+  ],
+  "catches": [
+    "Automatic upgrade applies to K-12 users with a school email; uni students may need to follow the higher education steps."
+  ],
+  "tags": [
+    "diagrams",
+    "flowcharts",
+    "lucidchart",
+    "productivity"
+  ],
+  "source": {
+    "url": "https://lucid.co/lucidchart/use-cases/education",
+    "label": "Lucid: Lucidchart for education"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Free education account",
+      "quote": "Students and educators are eligible for a free Education account!",
+      "url": "https://lucid.co/lucidchart/use-cases/education",
+      "page_date": null
+    },
+    {
+      "claim": "Higher ed",
+      "quote": "Higher education student or professor? We've got you covered.",
+      "url": "https://lucid.co/lucidchart/use-cases/education",
+      "page_date": null
+    }
+  ]
+}

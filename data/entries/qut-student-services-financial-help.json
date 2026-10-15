@@ -1,0 +1,52 @@
+{
+  "id": "qut-student-services-financial-help",
+  "name": "QUT Student Services financial help",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "QUT welfare officers help students manage money and access financial support such as Equity Emergency Bursaries.",
+  "who": [
+    "QUT students, domestic and international."
+  ],
+  "how": [
+    "Call Student Services on 3138 2019 or email welfare@qut.edu.au."
+  ],
+  "catches": [
+    "The page does not say this is formal financial counselling."
+  ],
+  "tags": [
+    "qut",
+    "financial counselling",
+    "budgeting",
+    "welfare",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/student-life/support",
+    "label": "QUT: Student support"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Help with finances",
+      "quote": "Student Services can help you manage your finances and access financial support, such as Equity Emergency Bursaries",
+      "url": "https://www.qut.edu.au/study/student-life/support",
+      "page_date": null
+    },
+    {
+      "claim": "Welfare officers",
+      "quote": "Our welfare officers can help you manage your finances and access financial support.",
+      "url": "https://www.qut.edu.au/study/international/support",
+      "page_date": null
+    }
+  ]
+}

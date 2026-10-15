@@ -1,0 +1,71 @@
+{
+  "id": "adelaide-uni-whyalla-city-council-student-grant",
+  "name": "Adelaide University Whyalla City Council Student Grant",
+  "provider": "Adelaide University",
+  "category": "uni",
+  "summary": "$2,500 grant for first-time tertiary students from the Whyalla region studying full-time at the Whyalla campus.",
+  "key": "Total $2,500, paid in two instalments of $1,250.",
+  "who": [
+    "Enrolled full-time in an internal program at the Whyalla campus",
+    "Lived in the Whyalla region (postcodes 5600, 5601, 5608 or 5609) in Year 12 or the six months before applying",
+    "Never previously attended a tertiary institution",
+    "Financial need, such as a Health Care Card or means-tested Centrelink benefit"
+  ],
+  "how": [
+    "Apply online through myScholarships with a written statement of maximum 500 words"
+  ],
+  "catches": [
+    "2026 applications opened 19 January and closed 29 March 2026; check for the next round"
+  ],
+  "tags": [
+    "adelaide uni",
+    "adelaide university",
+    "whyalla",
+    "sa",
+    "regional",
+    "first in family",
+    "grant"
+  ],
+  "source": {
+    "url": "https://adelaide.edu.au/study/scholarships/dom/whyalla-city-council-student-grant/",
+    "label": "Adelaide University: Whyalla City Council Student Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$2,500",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/whyalla-city-council-student-grant/",
+      "page_date": null
+    },
+    {
+      "claim": "How to apply",
+      "quote": "myScholarships.",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/whyalla-city-council-student-grant/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

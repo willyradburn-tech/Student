@@ -1,0 +1,79 @@
+{
+  "id": "griffith-vice-chancellors-international-scholarship",
+  "name": "Griffith Vice Chancellor's International Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "50% tuition fee scholarship for exceptional international students starting undergraduate or postgraduate coursework at Griffith in 2026 or 2027.",
+  "key": "50% of tuition fees.",
+  "who": [
+    "Citizen of a country other than Australia or New Zealand",
+    "Prior GPA of at least 6.0 on a 7-point scale",
+    "Full-time student starting in 2026 or 2027"
+  ],
+  "how": [
+    "Once you have your Letter of Offer, apply by the closing date with academic records and a personal statement"
+  ],
+  "catches": [
+    "Trimester 1 2027: apply by 28 November 2026",
+    "Trimester 1 2027 (Australian Year 12 completers): apply by 2 January 2027",
+    "Trimester 2 2027: apply by 10 April 2027",
+    "Must keep a cumulative GPA of at least 5.5 and pass all courses"
+  ],
+  "tags": [
+    "griffith",
+    "gold coast",
+    "brisbane",
+    "qld",
+    "international",
+    "intl",
+    "tuition",
+    "scholarship",
+    "vice chancellor"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/vice-chancellors-international-scholarship",
+    "label": "Griffith University: Vice Chancellor's International Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "50% of tuition fees.",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/vice-chancellors-international-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Citizenship",
+      "quote": "Be a citizen of a country other than Australia or New Zealand.",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/vice-chancellors-international-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date T1 2027",
+      "quote": "Apply by: 28 November 2026",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/vice-chancellors-international-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

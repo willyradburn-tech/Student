@@ -1,0 +1,63 @@
+{
+  "id": "griffith-makan-family-scholarship",
+  "name": "Makan Family Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $30,000 for First Peoples or historically marginalised students in the Bachelor of Musical Theatre.",
+  "key": "Maximum value of each scholarship is up to $30,000, payable in instalments.",
+  "who": [
+    "Commencing or continuing full-time in the Bachelor of Musical Theatre.",
+    "Demonstrate educational disadvantage.",
+    "Aboriginal and/or Torres Strait Islander, or from a historically marginalised group.",
+    "Australian citizen, permanent resident, permanent humanitarian visa holder or New Zealand citizen."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Listed as coming soon for 2027; the 2026 round closed 30 March 2026."
+  ],
+  "tags": [
+    "griffith",
+    "musical theatre",
+    "conservatorium",
+    "first nations",
+    "equity"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/makan-family-scholarship",
+    "label": "Griffith University: Makan Family Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value of each scholarship is up to $30,000, payable in instalments.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/makan-family-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

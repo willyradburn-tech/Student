@@ -1,0 +1,57 @@
+{
+  "id": "commonwealth-ombudsman-overseas-students",
+  "name": "Overseas Students Ombudsman complaints",
+  "provider": "Commonwealth Ombudsman",
+  "category": "health",
+  "summary": "Free, confidential complaint service for international students with problems at a private education provider.",
+  "key": "There are free and confidential services to help international students make a complaint about their study experience.",
+  "who": [
+    "International students on a student visa who are studying, previously studied or plan to study with a private provider (the page names VET courses)"
+  ],
+  "how": [
+    "Use the Make a complaint option on the Ombudsman website"
+  ],
+  "catches": [
+    "Usually use your provider's internal complaints process first",
+    "Category is the closest fit: free complaint service"
+  ],
+  "tags": [
+    "international",
+    "intl",
+    "ombudsman",
+    "complaint",
+    "overseas students ombudsman",
+    "private provider",
+    "vet",
+    "national"
+  ],
+  "source": {
+    "url": "https://www.ombudsman.gov.au/complaints/international-student-complaints",
+    "label": "Commonwealth Ombudsman: International student complaints"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free complaint help",
+      "quote": "There are free and confidential services to help international students make a complaint about their study experience.",
+      "url": "https://www.ombudsman.gov.au/complaints/international-student-complaints",
+      "page_date": null
+    },
+    {
+      "claim": "Who",
+      "quote": "The Overseas Student team at the Commonwealth Ombudsman can look into complaints from international students who are currently studying, previously studied, or are planning to study a VET course",
+      "url": "https://www.ombudsman.gov.au/complaints/international-student-complaints",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "csu-first-nations-education-costs-scholarship",
+  "name": "Charles Sturt First Nations Education Costs Scholarship",
+  "provider": "Charles Sturt University",
+  "category": "uni",
+  "summary": "Scholarship for First Nations Charles Sturt students in financial need to cover study costs like textbooks and laptops.",
+  "key": "Value: up to $5,000.",
+  "who": [
+    "A First Nations Australian citizen",
+    "Studying an enabling, undergraduate, honours or postgraduate award",
+    "Enrolled as a Commonwealth supported student",
+    "Able to show financial need"
+  ],
+  "how": [
+    "Complete an online application form with supporting documents"
+  ],
+  "catches": [
+    "Current round is for session 2 2026 only and closes 16 October 2026, or earlier if funds run out"
+  ],
+  "tags": [
+    "csu",
+    "charles sturt",
+    "first nations",
+    "indigenous",
+    "education costs",
+    "laptop"
+  ],
+  "source": {
+    "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/indigenous-education-costs",
+    "label": "Charles Sturt University: First Nations Education Costs Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "Value: up to $5,000",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/indigenous-education-costs",
+      "page_date": null
+    },
+    {
+      "claim": "First Nations requirement",
+      "quote": "a First Nations Australian citizen;",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/indigenous-education-costs",
+      "page_date": null
+    },
+    {
+      "claim": "Must be in a CSP",
+      "quote": "enrolled in a Charles Sturt course as a Commonwealth supported student in a Commonwealth supported place;",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/indigenous-education-costs",
+      "page_date": null
+    },
+    {
+      "claim": "Current round",
+      "quote": "Session 2 applications will only remain open until funds are exhausted.",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/indigenous-education-costs",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-10-16"
+}

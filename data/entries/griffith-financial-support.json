@@ -1,0 +1,59 @@
+{
+  "id": "griffith-financial-support",
+  "name": "Griffith University financial support",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "One-off hardship support, emergency vouchers and loans, and placement bursaries for Griffith students.",
+  "tags": [
+    "griffith",
+    "gold coast",
+    "logan",
+    "brisbane",
+    "hardship",
+    "placement"
+  ],
+  "who": [
+    "Griffith students whose study is affected by extreme financial hardship."
+  ],
+  "numbers": [
+    [
+      "One-off hardship support",
+      "For education-related costs. Apply with the Request support form."
+    ],
+    [
+      "Emergency support",
+      "Grocery and transport vouchers through SRC/GUPSA. Crisis packages, emergency loans and housing through the Student Guild."
+    ],
+    [
+      "WIL Placement Bursary",
+      "Offered by email to eligible equity students on placement. No application needed."
+    ],
+    [
+      "Brighter Futures Scholarships",
+      "For undergraduates affected by financial hardship, disrupted schooling or disability"
+    ]
+  ],
+  "need": [
+    "Bank statements showing your financial position, plus any other supporting documents."
+  ],
+  "catches": [
+    "Griffith doesn't publish the amounts.",
+    "Emergency support is listed for Brisbane, Logan and Gold Coast students."
+  ],
+  "cadence": "medium",
+  "cap": "maybe",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    }
+  },
+  "verified": "2026-10-13",
+  "review": "pending",
+  "status": "verified",
+  "source": {
+    "url": "https://student.griffith.edu.au/my-study/scholarships/other-financial-support",
+    "label": "Griffith University: other financial support"
+  }
+}

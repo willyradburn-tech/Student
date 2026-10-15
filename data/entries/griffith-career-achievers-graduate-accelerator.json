@@ -1,0 +1,55 @@
+{
+  "id": "griffith-career-achievers-graduate-accelerator",
+  "name": "Career Achievers Program and Graduate Accelerator Program",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Funding for equity undergraduates' professional development, placements, internships or global mobility activities.",
+  "who": [
+    "Currently enrolled domestic undergraduates in particular program areas.",
+    "Low-SES, regional or remote, and/or First Nations students.",
+    "First-years use the Career Achievers Program; later years use the Graduate Accelerator Program."
+  ],
+  "how": [
+    "Apply through the UniHub form linked from Griffith's other financial support page."
+  ],
+  "catches": [
+    "Griffith doesn't publish the amounts on this page."
+  ],
+  "tags": [
+    "griffith",
+    "career",
+    "internship",
+    "placement",
+    "global mobility",
+    "equity"
+  ],
+  "source": {
+    "url": "https://student.griffith.edu.au/my-study/scholarships/other-financial-support",
+    "label": "Griffith University: other financial support"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "what it funds",
+      "quote": "Financial support for professional development, work readiness, placement, internship, or global mobility activities",
+      "url": "https://student.griffith.edu.au/my-study/scholarships/other-financial-support",
+      "page_date": null
+    }
+  ]
+}

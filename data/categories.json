@@ -1,0 +1,62 @@
+[
+  {
+    "id": "payments",
+    "name": "Money and payments",
+    "short": "Payments",
+    "note": "Income support and one-off payments from the Australian Government while you study."
+  },
+  {
+    "id": "loans",
+    "name": "Study costs and HELP",
+    "short": "HELP",
+    "note": "How uni fees are covered, and what you repay later."
+  },
+  {
+    "id": "tax",
+    "name": "Tax",
+    "short": "Tax",
+    "note": "The tax rules most students run into once they start working."
+  },
+  {
+    "id": "transport",
+    "name": "Getting around",
+    "short": "Getting around",
+    "note": "Cheaper fares between home and campus, and student fares for flights and coaches."
+  },
+  {
+    "id": "health",
+    "name": "Health and concession cards",
+    "short": "Health",
+    "note": "Concession cards, free and cheaper health services, and the rebates a Health Care Card unlocks."
+  },
+  {
+    "id": "uni",
+    "name": "Scholarships and uni help",
+    "short": "Uni help",
+    "note": "Scholarships, bursaries, hardship grants, loans and free services from universities and their student unions, at more than 30 unis."
+  },
+  {
+    "id": "software",
+    "name": "Software and study tools",
+    "short": "Software",
+    "note": "Free or cheap software for students, from CAD and code to notes and design."
+  },
+  {
+    "id": "tech",
+    "name": "Laptops and devices",
+    "short": "Devices",
+    "note": "Education pricing on computers and tablets."
+  },
+  {
+    "id": "streaming",
+    "name": "Entertainment and culture",
+    "short": "Fun",
+    "note": "Student plans for music and video, plus student prices at cinemas, galleries, theatres and museums."
+  },
+  {
+    "id": "career",
+    "name": "Careers and memberships",
+    "short": "Careers",
+    "note": "Free and discounted student memberships of professional bodies, unions and networks that help you land work."
+  }
+]

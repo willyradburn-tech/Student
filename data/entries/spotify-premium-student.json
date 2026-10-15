@@ -1,0 +1,35 @@
+{
+  "id": "spotify-premium-student",
+  "name": "Spotify Premium Student",
+  "provider": "Spotify",
+  "category": "streaming",
+  "summary": "Discounted Spotify Premium for enrolled students.",
+  "tags": [
+    "music",
+    "spotify",
+    "streaming"
+  ],
+  "key": "$7.99 a month after a free first month, for up to 4 years.",
+  "who": [
+    "Over 18 and enrolled at an eligible accredited institution."
+  ],
+  "how": [
+    "Sign up on Spotify's student page and verify through SheerID."
+  ],
+  "catches": [
+    "After 4 years it moves to Premium Individual at $15.99 a month."
+  ],
+  "status": "verified",
+  "verified": "2026-10-12",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "age": {
+      "min": 18
+    }
+  },
+  "source": {
+    "url": "https://www.spotify.com/au/student/",
+    "label": "Spotify: Premium Student"
+  }
+}

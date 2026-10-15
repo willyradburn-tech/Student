@@ -1,0 +1,53 @@
+{
+  "id": "melbourne-recital-centre-student-rush",
+  "name": "Melbourne Recital Centre $15 Student Rush",
+  "provider": "Melbourne Recital Centre",
+  "category": "streaming",
+  "summary": "$15 Student Rush tickets to Melbourne Recital Centre presentations for free Student Members, from 48 hours before the event.",
+  "key": "Student Members can access $15 Student Rush tickets for all events presented by Melbourne Recital Centre.",
+  "who": [
+    "Holders of a valid Melbourne Recital Centre Student Membership."
+  ],
+  "how": [
+    "Book at the MRC Box Office or by phone during business hours; not online."
+  ],
+  "catches": [
+    "Subject to availability; only for events presented by Melbourne Recital Centre."
+  ],
+  "tags": [
+    "melbourne recital centre",
+    "classical music",
+    "melbourne",
+    "southbank",
+    "student rush"
+  ],
+  "source": {
+    "url": "https://www.melbournerecital.com.au/ticketing-information/ticket-prices-fees",
+    "label": "Melbourne Recital Centre: Ticket Prices and Fees"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$15 Student Rush",
+      "quote": "Student Members can access $15 Student Rush tickets for all events presented by Melbourne Recital Centre,",
+      "url": "https://www.melbournerecital.com.au/ticketing-information/ticket-prices-fees",
+      "page_date": null
+    },
+    {
+      "claim": "Membership needed",
+      "quote": "Student Rush tickets are subject to availability and can only be purchased if you have a valid Student Membership.",
+      "url": "https://www.melbournerecital.com.au/ticketing-information/ticket-prices-fees",
+      "page_date": null
+    }
+  ]
+}

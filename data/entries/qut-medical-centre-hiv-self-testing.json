@@ -1,0 +1,40 @@
+{
+  "id": "qut-medical-centre-hiv-self-testing",
+  "name": "QUT Medical Centre free HIV self-testing",
+  "provider": "QUT Medical Centre",
+  "category": "health",
+  "summary": "Free, confidential HIV self-testing at QUT's on-campus medical centre.",
+  "catches": [
+    "The medical centre has Gardens Point and Kelvin Grove clinics."
+  ],
+  "tags": [
+    "qut",
+    "sexual health",
+    "hiv",
+    "free",
+    "medical centre"
+  ],
+  "source": {
+    "url": "https://www.medical-centre.qut.edu.au/",
+    "label": "QUT Medical Centre"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free HIV self-testing",
+      "quote": "Free, confidential HIV self-testing now available at QUT.",
+      "url": "https://www.medical-centre.qut.edu.au/",
+      "page_date": null
+    }
+  ]
+}

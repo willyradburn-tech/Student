@@ -1,0 +1,73 @@
+{
+  "id": "griffith-brighter-futures-scholarship",
+  "name": "Griffith Brighter Futures Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $20,000 over a degree for Griffith undergraduates facing educational disadvantage, or $40,000 for eligible permanent residents.",
+  "tags": [
+    "griffith",
+    "scholarship",
+    "disadvantage",
+    "first nations",
+    "disability",
+    "permanent resident"
+  ],
+  "key": "$625 per 10 credit points: $5,000 for a one-year award, or up to $20,000 over a four-year degree. Permanent residents get double.",
+  "numbers": [
+    [
+      "One-year award (80 CP)",
+      "$5,000"
+    ],
+    [
+      "Degree-length award",
+      "$15,000 (240 CP) or $20,000 (320 CP)"
+    ],
+    [
+      "Permanent Resident award",
+      "$30,000 (240 CP) or $40,000 (320 CP)"
+    ],
+    [
+      "Commencing students",
+      "A one-off $500 early payment on enrolment"
+    ]
+  ],
+  "who": [
+    "Australian citizens, permanent residents, permanent humanitarian visa holders and New Zealand citizens.",
+    "Griffith undergraduates, starting or continuing, assessed as educationally disadvantaged: financial hardship, home responsibilities, English language difficulty, illness or disability, disrupted schooling, or remoteness.",
+    "Commencing students need an ATAR above 85 or equivalent, which Griffith may adjust for disadvantage. Continuing students need a GPA of 4.5 or more."
+  ],
+  "how": [
+    "Check the before-you-apply list, then apply in Griffith's online scholarship system.",
+    "Include your income and spending, any other scholarships and your circumstances."
+  ],
+  "catches": [
+    "You can't hold any other scholarship funding.",
+    "You can't already have an Australian bachelor degree, unless it's a prerequisite for your program.",
+    "You must keep a GPA of 4.5 or more, checked each trimester at census.",
+    "Payments while studying part-time may be taxable.",
+    "Trimester 1, 2027 rounds close 21 December 2026, 27 January 2027 and 15 March 2027."
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/brighter-futures-scholarship",
+    "label": "Griffith University: Brighter Futures Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "cap": "maybe",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "closes": "2026-12-21"
+}

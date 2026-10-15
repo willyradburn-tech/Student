@@ -1,0 +1,58 @@
+{
+  "id": "act-utilities-concession",
+  "name": "ACT utilities concession",
+  "provider": "ACT Revenue Office",
+  "category": "health",
+  "summary": "Yearly rebate on energy bills for Canberra residents who are the primary holder of a Health Care Card.",
+  "key": "The annual rebate for 2026-27 is $800.",
+  "who": [
+    "Primary holder of an eligible card, including the Health Care Card and Low Income Health Care Card"
+  ],
+  "how": [
+    "Contact your energy provider.",
+    "Embedded network residents can call the ACT Revenue Office on (02) 6207 0028 or apply online."
+  ],
+  "catches": [
+    "Health Care Card holders must reapply each time a new card is issued.",
+    "The Commonwealth Seniors Health Card is not eligible."
+  ],
+  "tags": [
+    "ACT",
+    "Canberra",
+    "ANU",
+    "UC",
+    "electricity",
+    "gas",
+    "energy",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://www.revenue.act.gov.au/community-assistance/utilities-concession",
+    "label": "ACT Revenue Office: Utilities concession"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "act"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "The annual rebate for 2026-27 is $800.",
+      "url": "https://www.revenue.act.gov.au/community-assistance/utilities-concession",
+      "page_date": null
+    },
+    {
+      "claim": "Primary cardholder",
+      "quote": "Eligible applicants must be the primary holder of one of the following concession cards",
+      "url": "https://www.revenue.act.gov.au/community-assistance/utilities-concession",
+      "page_date": null
+    }
+  ]
+}

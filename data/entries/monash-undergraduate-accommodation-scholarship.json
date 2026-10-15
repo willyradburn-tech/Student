@@ -1,0 +1,63 @@
+{
+  "id": "monash-undergraduate-accommodation-scholarship",
+  "name": "Monash Undergraduate Accommodation Scholarship",
+  "provider": "Monash University",
+  "category": "uni",
+  "summary": "A $2,587 accommodation scholarship for Monash undergraduates in financial hardship who will live in Monash University Accommodation.",
+  "key": "$2,587, with 45 offered.",
+  "who": [
+    "Australian or NZ citizen, permanent resident or humanitarian visa holder.",
+    "Enrolled or intending to enrol in an undergraduate degree at a Monash campus in Australia.",
+    "Experiencing financial hardship and intending to live in Monash University Accommodation."
+  ],
+  "how": [
+    "Apply to Monash University Accommodation for a room, and apply through VTAC SEAS or directly to Monash."
+  ],
+  "catches": [
+    "Can't be held with any other accommodation scholarship."
+  ],
+  "tags": [
+    "monash",
+    "monash university",
+    "melbourne",
+    "vic",
+    "accommodation",
+    "housing",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/mrs-undergraduate-accommodation-scholarship-6256",
+    "label": "Monash: Undergraduate Accommodation Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Total scholarship value $2587",
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/mrs-undergraduate-accommodation-scholarship-6256",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

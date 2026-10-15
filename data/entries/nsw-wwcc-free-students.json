@@ -1,0 +1,53 @@
+{
+  "id": "nsw-wwcc-free-students",
+  "name": "Free Working With Children Check for students on placement",
+  "provider": "NSW Office of the Children's Guardian",
+  "category": "career",
+  "summary": "The NSW Working With Children Check is free for students over 18 on professional placement.",
+  "key": "The WWCC is free for students over 18 on professional placement.",
+  "who": [
+    "Student over 18 on a professional placement"
+  ],
+  "catches": [
+    "If you are in paid work, you must apply for a paid WWCC."
+  ],
+  "tags": [
+    "wwcc",
+    "working with children",
+    "placement",
+    "prac",
+    "teaching",
+    "nursing",
+    "nsw",
+    "New South Wales"
+  ],
+  "source": {
+    "url": "https://www.ocg.nsw.gov.au/working-children-check/applicant",
+    "label": "Office of the Children's Guardian: Apply for a WWCC"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free for placement students",
+      "quote": "students over 18 on professional placement",
+      "url": "https://www.ocg.nsw.gov.au/working-children-check/applicant",
+      "page_date": null
+    },
+    {
+      "claim": "Lead-in",
+      "quote": "The WWCC is free for:",
+      "url": "https://www.ocg.nsw.gov.au/working-children-check/applicant",
+      "page_date": null
+    }
+  ]
+}

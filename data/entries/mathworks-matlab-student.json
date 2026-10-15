@@ -1,0 +1,41 @@
+{
+  "id": "mathworks-matlab-student",
+  "name": "MATLAB and Simulink Student Suite",
+  "provider": "MathWorks",
+  "category": "software",
+  "summary": "Student suite of MATLAB, Simulink and popular add-ons; many unis also give free campus-wide access.",
+  "catches": [
+    "The page doesn't show the student price.",
+    "Check whether your uni has Campus-Wide access first."
+  ],
+  "tags": [
+    "matlab",
+    "simulink",
+    "engineering",
+    "maths",
+    "coding"
+  ],
+  "source": {
+    "url": "https://au.mathworks.com/products/matlab/student.html",
+    "label": "MathWorks Australia: MATLAB for students"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Campus-wide access",
+      "quote": "If your university has Campus-Wide access and you create a MathWorks Account using your student email address,",
+      "url": "https://au.mathworks.com/products/matlab/student.html",
+      "page_date": null
+    },
+    {
+      "claim": "Suite contents",
+      "quote": "Includes MATLAB, Simulink, Online Training, and some of the most widely used add-on products.",
+      "url": "https://au.mathworks.com/products/matlab/student.html",
+      "page_date": null
+    }
+  ]
+}

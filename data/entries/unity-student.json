@@ -1,0 +1,46 @@
+{
+  "id": "unity-student",
+  "name": "Unity Student plan",
+  "provider": "Unity",
+  "category": "software",
+  "summary": "Free Unity Pro Editor and extras for students at accredited institutions.",
+  "key": "The Unity Student plan is free, including the latest Unity Pro Editor.",
+  "who": [
+    "Students enrolled at accredited degree-granting institutions."
+  ],
+  "how": [
+    "Apply on the Unity Student page and choose Post-Secondary.",
+    "Log in with a Unity ID.",
+    "Complete the SheerID verification form."
+  ],
+  "tags": [
+    "game development",
+    "coding",
+    "3d",
+    "unity",
+    "games"
+  ],
+  "source": {
+    "url": "https://unity.com/products/unity-student",
+    "label": "Unity: Unity Student"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Free plan",
+      "quote": "The Unity Student plan is free and allows individual students to learn and create with Unity",
+      "url": "https://unity.com/products/unity-student",
+      "page_date": null
+    },
+    {
+      "claim": "Post-secondary eligibility",
+      "quote": "Students enrolled at accredited degree-granting institutions.",
+      "url": "https://unity.com/products/unity-student",
+      "page_date": null
+    }
+  ]
+}

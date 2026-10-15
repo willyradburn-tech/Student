@@ -1,0 +1,77 @@
+{
+  "id": "griffith-john-willett-international-scholarship",
+  "name": "Griffith John Willett International Scholarship (Master of Global Development)",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "50% tuition scholarship for students from listed Asian countries starting Griffith's Master of Global Development in Trimester 1 2028.",
+  "key": "The Scholarship covers 50% of postgraduate coursework tuition fees only for the duration of the program.",
+  "who": [
+    "Citizen of a country other than Australia or New Zealand, from one of 16 listed Asian countries",
+    "Minimum GPA of 4.0 on a 7-point scale or equivalent",
+    "Offer for the Master of Global Development; full-time, commencing in Trimester 1"
+  ],
+  "how": [
+    "Apply for the Master of Global Development, then submit a scholarship application with academic records and a personal statement"
+  ],
+  "catches": [
+    "Maximum of two years",
+    "Trimester 1 2028: apply by 24 January 2028",
+    "Page metadata names a different scholarship; confirm details with Griffith"
+  ],
+  "tags": [
+    "griffith",
+    "postgraduate",
+    "global development",
+    "asia",
+    "qld",
+    "international",
+    "intl",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/john-willett-international-endowed-scholarship/",
+    "label": "Griffith University: John Willett International Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "The Scholarship covers 50% of postgraduate coursework tuition fees only for the duration of the program.",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/john-willett-international-endowed-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Citizenship",
+      "quote": "Be a citizen of a country other than Australia or New Zealand.",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/john-willett-international-endowed-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Apply by: 24 January 2028",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/john-willett-international-endowed-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

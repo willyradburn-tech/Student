@@ -1,0 +1,55 @@
+{
+  "id": "uts-interest-free-loan",
+  "name": "UTS Interest-Free Student Loan",
+  "provider": "University of Technology Sydney",
+  "category": "uni",
+  "summary": "Interest-free loan for enrolled UTS students facing short-term cash flow problems.",
+  "key": "Up to a $3,000 balance at any one time, with no interest charges.",
+  "who": [
+    "Currently enrolled, continuing UTS student (international students must be onshore)",
+    "90 days of transactions for each Australian bank account"
+  ],
+  "how": [
+    "Apply online in the student portal under Financial Assistance Application",
+    "For urgent needs call SSU reception on 02 9514 1177"
+  ],
+  "catches": [
+    "Must be fully repaid before you complete your course; repayments can be deferred 3 months then spread over 3, 6 or 12 months",
+    "Not open to UTS College, non-award, inbound exchange or leave-of-absence students",
+    "First-session students can apply only after census date"
+  ],
+  "tags": [
+    "uts",
+    "loan",
+    "interest-free",
+    "broadway"
+  ],
+  "source": {
+    "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+    "label": "UTS: Financial assistance programs"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "No interest",
+      "quote": "There are no interest charges.",
+      "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
+      "page_date": null
+    }
+  ]
+}

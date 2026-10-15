@@ -1,0 +1,51 @@
+{
+  "id": "nsw-advance-rent",
+  "name": "Advance Rent (Homes NSW)",
+  "provider": "Homes NSW",
+  "category": "payments",
+  "summary": "Up to two weeks' rent in advance to help eligible clients start a new private rental tenancy in NSW.",
+  "key": "Up to two weeks' Advance Rent.",
+  "who": [
+    "Need help setting up a new tenancy",
+    "Less than $5,000 in cash assets"
+  ],
+  "catches": [
+    "Full eligibility is not set out on this page; ask Homes NSW."
+  ],
+  "tags": [
+    "rent",
+    "housing",
+    "renting",
+    "nsw",
+    "New South Wales"
+  ],
+  "source": {
+    "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rentstart-bond-loan-factsheet-for-clients",
+    "label": "Homes NSW: About the Rentstart Bond Loan (factsheet)"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "may be eligible for up to two weeks’ Advance Rent.",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rentstart-bond-loan-factsheet-for-clients",
+      "page_date": null
+    },
+    {
+      "claim": "Assets",
+      "quote": "have less than $5,000 in cash assets.",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rentstart-bond-loan-factsheet-for-clients",
+      "page_date": null
+    }
+  ]
+}

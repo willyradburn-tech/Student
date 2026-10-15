@@ -1,0 +1,62 @@
+{
+  "id": "griffith-sports-excellence-scholarship",
+  "name": "Griffith Sports Excellence Scholarships",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Scholarships for elite athletes competing nationally or internationally while studying at Griffith.",
+  "key": "$28,000 for the Full Scholarship; $5,000 for the Development Scholarship.",
+  "who": [
+    "Competing at an elite level (nationally or internationally) in your sport.",
+    "Commencing or current undergraduate or postgraduate coursework student.",
+    "Australian citizen, permanent resident or permanent humanitarian visa holder."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process.",
+    "Include a coach referee report and a list of sporting achievements."
+  ],
+  "catches": [
+    "Apply by Monday 16 November 2026, 4pm."
+  ],
+  "tags": [
+    "griffith",
+    "sport",
+    "athlete",
+    "elite"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-sports-excellence-scholarship",
+    "label": "Griffith University: Griffith Sports Excellence Scholarships"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "$28,000 for the Griffith Sports Excellence Full Scholarship",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-sports-excellence-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "development tier",
+      "quote": "$5,000 for the Griffith Sports Excellence Development Scholarship",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-sports-excellence-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

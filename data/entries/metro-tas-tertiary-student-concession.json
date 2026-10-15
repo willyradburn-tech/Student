@@ -1,0 +1,61 @@
+{
+  "id": "metro-tas-tertiary-student-concession",
+  "name": "Metro Tasmania adult student concession fare",
+  "provider": "Metro Tasmania",
+  "category": "transport",
+  "summary": "Concession bus fares for full-time students aged 19 and over at any university, TasTAFE or the Tasmanian College of English.",
+  "who": [
+    "Full-time students aged 19 or older enrolled at any university, TasTAFE or the Tasmanian College of English"
+  ],
+  "how": [
+    "Full-time adult students may apply through Building Tasmania for a Special Circumstances Student Greencard."
+  ],
+  "catches": [
+    "Fares are currently free for everyone until 30 June 2027; this concession matters after that.",
+    "Adult concession applies from the start of the year in which the cardholder turns 19."
+  ],
+  "tags": [
+    "Tasmania",
+    "Hobart",
+    "Launceston",
+    "UTAS",
+    "Metro Tasmania",
+    "Greencard",
+    "bus",
+    "tertiary"
+  ],
+  "source": {
+    "url": "https://www.metrotas.com.au/fares/concessions/",
+    "label": "Metro Tasmania: Concessions"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "campus": {
+      "yes": [
+        "other"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Age rule",
+      "quote": "Adult concession applies from the start of the year in which the cardholder turns 19",
+      "url": "https://www.metrotas.com.au/fares/concessions/",
+      "page_date": null
+    },
+    {
+      "claim": "Greencard for full-time adult students",
+      "quote": "Full time adult students may be issued a Special Circumstances Student Greencard by Building Tasmania",
+      "url": "https://www.metrotas.com.au/fares/concessions/",
+      "page_date": null
+    }
+  ]
+}

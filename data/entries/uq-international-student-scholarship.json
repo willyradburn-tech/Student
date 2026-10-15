@@ -1,0 +1,50 @@
+{
+  "id": "uq-international-student-scholarship",
+  "name": "UQ International Student Scholarship",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "One-year support for international undergraduates at UQ facing temporary, unexpected financial hardship.",
+  "tags": [
+    "uq",
+    "international students",
+    "hardship",
+    "scholarship"
+  ],
+  "who": [
+    "International students enrolled full-time in a UQ undergraduate program.",
+    "Facing temporary and unexpected financial hardship."
+  ],
+  "how": [
+    "Apply through the scholarship page. Applications open in December 2026 and close in February 2027."
+  ],
+  "catches": [
+    "The amount depends on the fund's income each year, so none is published.",
+    "Not available if you've had UQ Financial Hardship Assistance Scheme support that year, or hold a similar scholarship."
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/international-student-scholarship",
+    "label": "UQ Scholarships: International Student Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "cap": "maybe",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    }
+  }
+}

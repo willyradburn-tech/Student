@@ -1,0 +1,70 @@
+{
+  "id": "cqu-cqunicares-student-success-scholarship",
+  "name": "CQUniCares Student Success Scholarship",
+  "provider": "CQUniversity",
+  "category": "uni",
+  "summary": "Donor-funded scholarship for CQUniversity students whose financial circumstances are affecting their study.",
+  "key": "Up to $5,000, paid per term by study load.",
+  "who": [
+    "Enrolled in a CQUniversity higher education diploma, undergraduate or postgraduate course",
+    "Studying at least 12 credit points at census",
+    "Experiencing financial circumstances affecting participation and success",
+    "Australian or New Zealand citizen, permanent resident or humanitarian visa holder"
+  ],
+  "how": [
+    "Eligible students are emailed instructions on how to apply"
+  ],
+  "catches": [
+    "Offered by targeted email invitation; the Term 2, 2026 round has closed"
+  ],
+  "tags": [
+    "cqu",
+    "cquniversity",
+    "equity",
+    "financial need",
+    "donor-funded"
+  ],
+  "source": {
+    "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1043921/cqunicares-student-success-scholarship-donorfunded",
+    "label": "CQUniversity: CQUniCares Student Success Scholarship"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "Up to $5,000",
+      "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1043921/cqunicares-student-success-scholarship-donorfunded",
+      "page_date": null
+    },
+    {
+      "claim": "Financial rule",
+      "quote": "Be experiencing financial circumstances affecting participation and success",
+      "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1043921/cqunicares-student-success-scholarship-donorfunded",
+      "page_date": null
+    },
+    {
+      "claim": "Invite-only process",
+      "quote": "Eligible enrolled students will receive a direct email to their student account with instructions on how to apply.",
+      "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1043921/cqunicares-student-success-scholarship-donorfunded",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

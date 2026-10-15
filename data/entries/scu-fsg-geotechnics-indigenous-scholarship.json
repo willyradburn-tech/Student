@@ -1,0 +1,77 @@
+{
+  "id": "scu-fsg-geotechnics-indigenous-scholarship",
+  "name": "FSG Geotechnics and Foundations Indigenous Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$15,000 over three years for an Aboriginal or Torres Strait Islander SCU engineering student majoring in civil engineering.",
+  "key": "$15,000 in total paid as $5,000 per year for up to 3 years.",
+  "who": [
+    "Aboriginal or Torres Strait Islander.",
+    "Australian citizen or permanent resident.",
+    "Studying the Bachelor of Engineering (Honours), or Engineering and Business, with a Civil Engineering major."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with a short personal statement. An interview may be needed."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One scholarship available.",
+    "Preference for students interested in geotechnical engineering."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "indigenous",
+    "civil engineering",
+    "geotechnical",
+    "gold coast",
+    "lismore"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/fsg-geotechnics-and-foundations-indigenous-scholarship/",
+    "label": "Southern Cross University: FSG Geotechnics and Foundations Indigenous Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$15,000 in total paid as $5,000 per year for up to 3 years.",
+      "url": "https://www.scu.edu.au/scholarships/fsg-geotechnics-and-foundations-indigenous-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close on 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/fsg-geotechnics-and-foundations-indigenous-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

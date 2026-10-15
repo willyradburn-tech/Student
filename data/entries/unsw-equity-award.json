@@ -1,0 +1,61 @@
+{
+  "id": "unsw-equity-award",
+  "name": "UNSW Equity Award (current students)",
+  "provider": "UNSW Sydney",
+  "category": "uni",
+  "summary": "One-year award for current UNSW undergraduate or postgraduate coursework students in socioeconomic hardship.",
+  "key": "$5,000 for one year.",
+  "who": [
+    "Currently studying a UNSW eligible undergraduate or postgraduate coursework degree",
+    "Experiencing socioeconomic hardship",
+    "Australian citizen, permanent resident or NZ citizen"
+  ],
+  "how": [
+    "Current students submit an Equity Scholarships (ES) application through UAC"
+  ],
+  "catches": [
+    "February 2027 round for current, postgraduate and honours students: ES by 29 Jan 2027"
+  ],
+  "tags": [
+    "unsw",
+    "equity",
+    "scholarship",
+    "current-students",
+    "postgraduate"
+  ],
+  "source": {
+    "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+    "label": "UNSW Scholarships: UNSW Equity Scholarships for 2027"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$5,000 for one year",
+      "quote": "Supports current students at UNSW who may be experiencing hardship due to their socioeconomic circumstances.",
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

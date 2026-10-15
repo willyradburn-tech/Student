@@ -1,0 +1,70 @@
+{
+  "id": "griffith-college-diploma-to-degree-international-scholarship",
+  "name": "Griffith International Scholarship for Griffith College Diploma to Degree",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "$3,000 off first-trimester tuition for the top international Griffith College diploma graduate moving into a Griffith undergraduate degree.",
+  "key": "AU$3,000 will be deducted from undergraduate tuition fees only",
+  "who": [
+    "Citizen of a country other than Australia or New Zealand",
+    "Completed a diploma at Griffith College",
+    "Full-time student starting at Griffith in 2025 or 2026"
+  ],
+  "how": [
+    "No application: the top-performing eligible student is selected and notified at graduation"
+  ],
+  "catches": [
+    "Applied in the first trimester of first year only",
+    "Page lists 2025 or 2026 starts only; check for a 2027 round"
+  ],
+  "tags": [
+    "griffith",
+    "griffith college",
+    "diploma",
+    "pathway",
+    "qld",
+    "international",
+    "intl",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/griffith-college-diploma-degree",
+    "label": "Griffith University: Griffith College Diploma to Degree scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "AU$3,000 will be deducted from undergraduate tuition fees only",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/griffith-college-diploma-degree",
+      "page_date": null
+    },
+    {
+      "claim": "Citizenship",
+      "quote": "Be a citizen of a country other than Australia or New Zealand.",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/griffith-college-diploma-degree",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "csu-pathways-to-practice-placement-scholarship",
+  "name": "Charles Sturt Pathways to Practice Placement Scholarship",
+  "provider": "Charles Sturt University",
+  "category": "uni",
+  "summary": "Weekly payment for Charles Sturt students in financial need doing compulsory work integrated learning placements.",
+  "key": "Eligible students can receive $338.60 per week of placement to a maximum of $2,708.80.",
+  "who": [
+    "Enrolled in a Commonwealth Supported Place",
+    "Studying an undergraduate course, or a First Nations student in an undergraduate or postgraduate course",
+    "Doing a subject with a compulsory work integrated learning placement of at least 28 hours",
+    "Able to show financial need"
+  ],
+  "how": [
+    "Complete the online application form and attach evidence of financial need"
+  ],
+  "catches": [
+    "Current round closes 11:59pm 7 Dec 2026"
+  ],
+  "tags": [
+    "csu",
+    "charles sturt",
+    "placement",
+    "prac",
+    "equity",
+    "nsw"
+  ],
+  "source": {
+    "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-placement-scholarship",
+    "label": "Charles Sturt University: Pathways to Practice - Placement Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Weekly amount and cap",
+      "quote": "Eligible students can receive $338.60 per week of placement to a maximum of $2,708.80",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-placement-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Must be in a CSP",
+      "quote": "Enrolled in a Commonwealth Supported Place (CSP).",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-placement-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Placement requirement",
+      "quote": "Undertaking a subject that includes a compulsory Work Integrated Learning with a minimum of 28 hours.",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-placement-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "The current round of applications close on: 11:59pm 7 Dec 2026",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-placement-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-12-07"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "adelaide-uni-stem-higher-education-opportunity-scholarship",
+  "name": "Adelaide University STEM Higher Education Opportunity Scholarship",
+  "provider": "Adelaide University",
+  "category": "uni",
+  "summary": "$3,000 a year for equity-group students in Engineering, IT or Science programs, including women in non-traditional areas.",
+  "key": "$3,000 per year for the duration of the program.",
+  "who": [
+    "Australian citizen, permanent resident, permanent humanitarian visa holder or New Zealand citizen",
+    "Enrolled in an eligible program in the College of Engineering and Information Technology or the College of Science",
+    "Member of a recognised equity group, such as First Nations, low socioeconomic background or women in non-traditional areas"
+  ],
+  "how": [
+    "Online applications via myScholarships with a written statement of up to 500 words"
+  ],
+  "catches": [
+    "2026 applications opened 19 January and closed 15 March 2026; check for the next round",
+    "Not available to students who have received another Adelaide University STEM scholarship"
+  ],
+  "tags": [
+    "adelaide uni",
+    "adelaide university",
+    "adelaide",
+    "sa",
+    "stem",
+    "engineering",
+    "it",
+    "women in stem",
+    "equity",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://adelaide.edu.au/study/scholarships/dom/adelaide-university-stem-higher-education-opportunity-scholarship/",
+    "label": "Adelaide University: STEM Higher Education Opportunity Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering",
+        "it"
+      ],
+      "maybe": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$3‚000 per year for the duration of the program.",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/adelaide-university-stem-higher-education-opportunity-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Enrolment",
+      "quote": "Be enrolled full-time or part-time",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/adelaide-university-stem-higher-education-opportunity-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

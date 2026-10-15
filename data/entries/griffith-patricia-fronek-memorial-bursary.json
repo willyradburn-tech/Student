@@ -1,0 +1,59 @@
+{
+  "id": "griffith-patricia-fronek-memorial-bursary",
+  "name": "Patricia Fronek Memorial Bursary",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $1,000 for Griffith social work students in financial hardship.",
+  "key": "Maximum value is $1,000, payable in a single instalment.",
+  "who": [
+    "Griffith Bachelor of Social Work, Bachelor of Social Work (Honours) or Master of Social Work student.",
+    "Demonstrate financial hardship based on a comprehensive assessment by the University."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Apply by Monday 19 April 2027, 4pm, for Trimester 1 2027.",
+    "Not available if you received other Griffith scholarships or financial support in the past 12 months."
+  ],
+  "tags": [
+    "griffith",
+    "social work",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/patricia-fronek-memorial-bursary",
+    "label": "Griffith University: Patricia Fronek Memorial Bursary"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value is $1,000, payable in a single instalment.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/patricia-fronek-memorial-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "demonstrate financial hardship based on a comprehensive assessment by the University",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/patricia-fronek-memorial-bursary",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

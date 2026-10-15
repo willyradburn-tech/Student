@@ -1,0 +1,66 @@
+{
+  "id": "adelaide-uni-ar-riddle-grant",
+  "name": "Adelaide University A R Riddle Grant",
+  "provider": "Adelaide University",
+  "category": "uni",
+  "summary": "One-off grant for Adelaide University students in the final semester of Honours or postgraduate coursework who are in financial hardship.",
+  "key": "Total value $3,000, as a one-off payment; the annual value varies with funds available.",
+  "who": [
+    "Australian citizen, permanent resident, permanent Humanitarian visa holder or New Zealand citizen",
+    "In the final semester of an Honours year or Postgraduate Coursework program",
+    "Must show financial need or hardship with supporting documents"
+  ],
+  "how": [
+    "Contact AUSA Student Care before applying to arrange a short interview: (08) 8313 5430 or ausa.studentcare@adelaide.edu.au"
+  ],
+  "catches": [
+    "2026 rounds closed 8 May (Semester 1) and 18 September (Semester 2)"
+  ],
+  "tags": [
+    "adelaide uni",
+    "adelaide university",
+    "adelaide",
+    "sa",
+    "honours",
+    "postgraduate",
+    "hardship",
+    "grant"
+  ],
+  "source": {
+    "url": "https://adelaide.edu.au/study/scholarships/dom/ar-riddle-grant/",
+    "label": "Adelaide University: A R Riddle Grant"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value varies",
+      "quote": "The annual value of the grant varies depending on the funds available and the number and merit of applications received.",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/ar-riddle-grant/",
+      "page_date": null
+    },
+    {
+      "claim": "How to apply",
+      "quote": "Applicants must contact Student Care before applying to arrange a short interview.",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/ar-riddle-grant/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "curtin-guild-emergency-hardship-grant",
+  "name": "Curtin Guild Emergency Hardship Grant",
+  "provider": "Curtin Student Guild",
+  "category": "uni",
+  "summary": "Case-by-case vouchers, gift cards or bill payments for low-income onshore Curtin students facing unexpected hardship.",
+  "who": [
+    "Currently enrolled, onshore Curtin student, domestic or international",
+    "Low income, such as receiving or meeting the requirements of a means-tested Centrelink payment",
+    "Unexpected circumstances causing significant financial hardship"
+  ],
+  "how": [
+    "Request an appointment with Guild Student Assist and bring enrolment confirmation, bank statements and income records"
+  ],
+  "catches": [
+    "Grant approval and the amount disbursed is on a case-by-case basis"
+  ],
+  "tags": [
+    "curtin",
+    "curtin guild",
+    "perth",
+    "wa",
+    "hardship",
+    "grant",
+    "vouchers",
+    "student union"
+  ],
+  "source": {
+    "url": "https://guild.curtin.edu.au/advice/non-academic/financial/emergency-hardship-grant/",
+    "label": "Curtin Student Guild: Emergency Hardship Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "Grant approval and the amount disbursed is on a case-by-case basis.",
+      "url": "https://guild.curtin.edu.au/advice/non-academic/financial/emergency-hardship-grant/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

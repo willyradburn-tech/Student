@@ -1,0 +1,73 @@
+{
+  "id": "griffith-owen-smith-engineering-scholarship",
+  "name": "Owen Smith in Memoriam Engineering Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $5,000 for penultimate-year Griffith engineering students facing educational disadvantage.",
+  "key": "Maximum value is $5,000.",
+  "who": [
+    "Full-time in the penultimate year of the Bachelor of Engineering (Honours), including double degrees.",
+    "Good academic progress.",
+    "Demonstrate educational disadvantage.",
+    "Australian citizen, permanent resident, permanent humanitarian visa holder, New Zealand citizen or Pacific Engagement visa holder."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Apply by Monday 22 March 2027, 4pm.",
+    "Preference for students of Pacific Islander heritage."
+  ],
+  "tags": [
+    "griffith",
+    "engineering",
+    "pacific islander",
+    "equity"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/owen-smith-in-memoriam-engineering-scholarship",
+    "label": "Griffith University: Owen Smith in Memoriam Engineering Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value is $5,000.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/owen-smith-in-memoriam-engineering-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "demonstrate educational disadvantage based on a comprehensive assessment by the University.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/owen-smith-in-memoriam-engineering-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

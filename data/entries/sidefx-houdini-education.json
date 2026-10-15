@@ -1,0 +1,41 @@
+{
+  "id": "sidefx-houdini-education",
+  "name": "Houdini Education and Apprentice",
+  "provider": "SideFX",
+  "category": "software",
+  "summary": "Houdini Education licences for students at accredited schools, plus the free Apprentice version.",
+  "catches": [
+    "The fetched page didn't show the Education price.",
+    "Apprentice renders carry a watermark."
+  ],
+  "tags": [
+    "3d",
+    "vfx",
+    "animation",
+    "houdini",
+    "design"
+  ],
+  "source": {
+    "url": "https://www.sidefx.com/buy/",
+    "label": "SideFX: Buy"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Student eligibility",
+      "quote": "Students of accredited schools and training centers are eligible to use Houdini Education licenses",
+      "url": "https://www.sidefx.com/buy/",
+      "page_date": null
+    },
+    {
+      "claim": "Free Apprentice",
+      "quote": "Houdini Apprentice is a free version of Houdini FX",
+      "url": "https://www.sidefx.com/buy/",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "griffith-student-guild-free-facility-friday",
+  "name": "Student Guild Free Facility Friday",
+  "provider": "Griffith University Gold Coast Student Guild",
+  "category": "uni",
+  "summary": "Free use of the Uni Fitness gym, Aquatic Centre and athletics track at Gold Coast every Friday during trimester.",
+  "catches": [
+    "Fridays during trimester only."
+  ],
+  "tags": [
+    "griffith",
+    "gym",
+    "fitness",
+    "pool",
+    "gold coast",
+    "student guild"
+  ],
+  "source": {
+    "url": "https://gugcstudentguild.com.au/",
+    "label": "Griffith University Gold Coast Student Guild: home page"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "free facility access",
+      "quote": "Every Friday during the trimester, you can use the Uni Fitness gym (G07), Aquatic Centre (G45) and athletics track free",
+      "url": "https://gugcstudentguild.com.au/",
+      "page_date": null
+    }
+  ]
+}

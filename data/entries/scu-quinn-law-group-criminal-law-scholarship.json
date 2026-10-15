@@ -1,0 +1,63 @@
+{
+  "id": "scu-quinn-law-group-criminal-law-scholarship",
+  "name": "Quinn Law Group Criminal Law Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$1,000 for SCU Bachelor of Laws students in second year or above with strong criminal law results.",
+  "key": "$1,000.",
+  "who": [
+    "Enrolled in a Bachelor of Laws at SCU, second year or above, Gold Coast or online.",
+    "Strong results in criminal law units.",
+    "Planning to study full-time in 2027."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with an introductory statement."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "Five scholarships available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "law",
+    "criminal law",
+    "gold coast"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/the-quinn-law-group-criminal-law-scholarship/",
+    "label": "Southern Cross University: Quinn Law Group Criminal Law Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "field": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Current enrolment in a Bachelor of Laws at Southern Cross University (second year or above), Gold Coast or Online.",
+      "url": "https://www.scu.edu.au/scholarships/the-quinn-law-group-criminal-law-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/the-quinn-law-group-criminal-law-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

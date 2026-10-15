@@ -1,0 +1,61 @@
+{
+  "id": "griffith-vice-chancellors-academic-achievement-scholarship-continuing",
+  "name": "Vice Chancellor's Academic Achievement Scholarship for Continuing Students",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $10,000 for high-achieving Griffith undergraduates after their first year.",
+  "key": "Cash (up to $10,000) + Student Academy of Excellence offer.",
+  "who": [
+    "Completed 80 CP in your first year at Griffith.",
+    "GPA of 6.0 or higher.",
+    "Completed secondary school within the previous two years.",
+    "Australian citizen, permanent resident, permanent humanitarian visa holder or New Zealand citizen."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Apply by Monday 7 December 2026, 4pm."
+  ],
+  "tags": [
+    "griffith",
+    "merit",
+    "continuing"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/vice-chancellors-academic-achievement-scholarship-for-continuing-students",
+    "label": "Griffith University: VC's Academic Achievement Scholarship for Continuing Students"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Cash (up to $10,000) + Student Academy of Excellence offer.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/vice-chancellors-academic-achievement-scholarship-for-continuing-students",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "have achieved a GPA (Grade Point Average) of 6.0 or higher",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/vice-chancellors-academic-achievement-scholarship-for-continuing-students",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

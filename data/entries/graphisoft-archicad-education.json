@@ -1,0 +1,44 @@
+{
+  "id": "graphisoft-archicad-education",
+  "name": "Archicad free education licence",
+  "provider": "Graphisoft",
+  "category": "software",
+  "summary": "Free full Archicad licence for students at accredited universities, renewable until you finish your studies.",
+  "key": "Free Archicad licence valid for one year and extendable till the end of your studies free of charge.",
+  "who": [
+    "Students with a valid student ID at public or officially accredited universities, colleges or technical institutions."
+  ],
+  "how": [
+    "Apply through the MyArchicad portal."
+  ],
+  "tags": [
+    "architecture",
+    "bim",
+    "archicad",
+    "cad",
+    "design"
+  ],
+  "source": {
+    "url": "https://www.graphisoft.com/education/",
+    "label": "Graphisoft: Education"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Valid one year and extendable free",
+      "quote": "Valid for one year and can be extended till the end of your studies free of charge.",
+      "url": "https://www.graphisoft.com/education/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Available only for Students and Teachers with a valid student or teacher ID",
+      "url": "https://www.graphisoft.com/education/",
+      "page_date": null
+    }
+  ]
+}

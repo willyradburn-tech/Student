@@ -1,0 +1,77 @@
+{
+  "id": "rmit-study-support-scholarship",
+  "name": "RMIT Study Support Scholarship",
+  "provider": "RMIT University",
+  "category": "uni",
+  "summary": "$3,000 for one year, paid fortnightly, for RMIT students whose circumstances affect their study.",
+  "key": "$3,000 for one year full-time, or $1,500 part-time.",
+  "who": [
+    "Australian or NZ citizen, permanent resident or permanent humanitarian visa holder.",
+    "Enrolling in Semester 1 2027 in an eligible RMIT program.",
+    "Circumstances that affect your study, or from an RMIT priority group."
+  ],
+  "how": [
+    "Apply direct to RMIT online (preferred) or through VTAC, with supporting documents."
+  ],
+  "catches": [
+    "Semester 1 2027 applications close 2pm Tuesday 20 October 2026.",
+    "RMIT awarded 1,270 of these in 2025."
+  ],
+  "tags": [
+    "rmit",
+    "rmit university",
+    "melbourne",
+    "vic",
+    "equity",
+    "hardship",
+    "stipend"
+  ],
+  "source": {
+    "url": "https://www.rmit.edu.au/scholarships/coursework/rmit-study-support",
+    "label": "RMIT: Study Support Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full",
+        "part"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "This scholarship provides $3,000 for one year for full-time enrolled students.",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/rmit-study-support",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications for Semester 1 2027 close 2:00pm Tuesday 20 October 2026.",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/rmit-study-support",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-10-20"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "ausa-hardship-loans-and-grants",
+  "name": "AUSA Student Care hardship loans and grants",
+  "provider": "Adelaide University Student Association (AUSA)",
+  "category": "uni",
+  "summary": "AUSA Student Care runs loans, grants and emergency food support for Adelaide University students in financial hardship.",
+  "how": [
+    "Book an appointment via ausa.financialcounselling@adelaide.edu.au",
+    "For emergency food support, complete the survey linked on the page"
+  ],
+  "tags": [
+    "adelaide uni",
+    "adelaide university",
+    "ausa",
+    "sa",
+    "loan",
+    "grant",
+    "food",
+    "hardship",
+    "student union"
+  ],
+  "source": {
+    "url": "https://www.ausaadelaide.com.au/support/studentcare/financial",
+    "label": "AUSA: Student Care financial support"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Loans and grants",
+      "quote": "Student Care administers a range of loans and grants to assist students in financial hardship.",
+      "url": "https://www.ausaadelaide.com.au/support/studentcare/financial",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

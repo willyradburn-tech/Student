@@ -1,0 +1,41 @@
+{
+  "id": "stata-student",
+  "name": "Stata student pricing",
+  "provider": "StataCorp",
+  "category": "software",
+  "summary": "Discounted single-user Stata licences for students at degree-granting institutions.",
+  "key": "Stata/BE student licence from $48 USD for 6 months.",
+  "catches": [
+    "USD prices; Australian buyers may be directed to an international reseller.",
+    "Proof of student status required."
+  ],
+  "tags": [
+    "statistics",
+    "econometrics",
+    "stata",
+    "research"
+  ],
+  "source": {
+    "url": "https://www.stata.com/order/new/edu/profplus/student-pricing/",
+    "label": "Stata: Student pricing"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Students currently enrolled at degree-granting institutions may purchase a single-user Stata license",
+      "url": "https://www.stata.com/order/new/edu/profplus/student-pricing/",
+      "page_date": null
+    },
+    {
+      "claim": "Price",
+      "quote": "$48 USD",
+      "url": "https://www.stata.com/order/new/edu/profplus/student-pricing/",
+      "page_date": null
+    }
+  ]
+}

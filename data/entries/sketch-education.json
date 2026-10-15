@@ -1,0 +1,47 @@
+{
+  "id": "sketch-education",
+  "name": "Sketch for Education",
+  "provider": "Sketch",
+  "category": "software",
+  "summary": "One year of free Sketch design access for students aged 16+.",
+  "key": "One year of free Sketch access with 50 GB storage.",
+  "who": [
+    "16 or older and enrolled at a college or university."
+  ],
+  "how": [
+    "Download Sketch, set up a Workspace and complete the education application."
+  ],
+  "catches": [
+    "Mac, web and iPhone apps only."
+  ],
+  "tags": [
+    "design",
+    "ui",
+    "ux",
+    "mac",
+    "sketch"
+  ],
+  "source": {
+    "url": "https://www.sketch.com/education/",
+    "label": "Sketch: Education"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Free workspace",
+      "quote": "includes a free Workspace with 50 GB of storage and Editor seats",
+      "url": "https://www.sketch.com/education/",
+      "page_date": null
+    },
+    {
+      "claim": "One year",
+      "quote": "get one year of access to our design platform",
+      "url": "https://www.sketch.com/education/",
+      "page_date": null
+    }
+  ]
+}

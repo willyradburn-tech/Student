@@ -1,0 +1,46 @@
+{
+  "id": "wolfram-mathematica-student",
+  "name": "Mathematica Student",
+  "provider": "Wolfram",
+  "category": "software",
+  "summary": "Student subscriptions to Mathematica for degree students, with proof of enrolment.",
+  "who": [
+    "Part-time or full-time students working toward a degree.",
+    "Part-time non-degree students if required for a class."
+  ],
+  "catches": [
+    "Proof of enrollment is required.",
+    "Installed only on the student's own personal computer.",
+    "The fetched page didn't show prices."
+  ],
+  "tags": [
+    "maths",
+    "mathematica",
+    "wolfram",
+    "symbolic",
+    "engineering"
+  ],
+  "source": {
+    "url": "https://www.wolfram.com/mathematica/pricing/students/",
+    "label": "Wolfram: Mathematica student pricing"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Degree students eligible",
+      "quote": "students working toward an associate's, bachelor's, master's, doctoral or equivalent degree",
+      "url": "https://www.wolfram.com/mathematica/pricing/students/",
+      "page_date": null
+    },
+    {
+      "claim": "Proof required",
+      "quote": "Proof of enrollment is required.",
+      "url": "https://www.wolfram.com/mathematica/pricing/students/",
+      "page_date": null
+    }
+  ]
+}

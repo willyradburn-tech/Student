@@ -1,0 +1,45 @@
+{
+  "id": "microsoft-365-education",
+  "name": "Microsoft 365 Education (Office 365 A1)",
+  "provider": "Microsoft",
+  "category": "software",
+  "summary": "Free web versions of Word, Excel, PowerPoint, Outlook and OneNote with an eligible uni email.",
+  "tags": [
+    "office",
+    "word",
+    "excel",
+    "powerpoint",
+    "onenote"
+  ],
+  "key": "Free with an eligible education email.",
+  "numbers": [
+    [
+      "Included",
+      "Web versions of Outlook, Word, Excel, PowerPoint and OneNote, plus Publisher and Access on PC"
+    ],
+    [
+      "Not included in A1",
+      "Full desktop apps, which come with the A3 plan"
+    ]
+  ],
+  "need": [
+    "An eligible education email address."
+  ],
+  "how": [
+    "Select Get started for students on Microsoft's education page.",
+    "Verification is often instant, but can take up to a month."
+  ],
+  "catches": [
+    "Your uni may already give you the full desktop apps through its own licence. Check with your uni IT service first.",
+    "If the plan ends you can still view your files but not edit them."
+  ],
+  "status": "verified",
+  "verified": "2026-10-13",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "source": {
+    "url": "https://www.microsoft.com/en-au/education/products/office",
+    "label": "Microsoft: Office 365 Education"
+  }
+}

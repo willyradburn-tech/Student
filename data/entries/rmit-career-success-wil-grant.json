@@ -1,0 +1,69 @@
+{
+  "id": "rmit-career-success-wil-grant",
+  "name": "RMIT Career Success WIL Grant",
+  "provider": "RMIT University",
+  "category": "uni",
+  "summary": "A $1,000 grant for low-SES or Indigenous RMIT bachelor students in hardship doing a work placement of two weeks or more.",
+  "key": "$1,000, paid after the placement. 40 available.",
+  "who": [
+    "Aboriginal and/or Torres Strait Islander, or from a low socioeconomic background.",
+    "Bachelor student with a confirmed 2026 placement of at least two weeks ending by 30 November 2026.",
+    "Financial hardship, such as lost income or a low-income Centrelink payment or Health Care Card."
+  ],
+  "how": [
+    "Complete the online application form with supporting documents."
+  ],
+  "catches": [
+    "Applications may close at any time."
+  ],
+  "tags": [
+    "rmit",
+    "rmit university",
+    "melbourne",
+    "vic",
+    "placement",
+    "wil",
+    "internship",
+    "low ses"
+  ],
+  "source": {
+    "url": "https://www.rmit.edu.au/scholarships/coursework/careersuccess-wilgrant",
+    "label": "RMIT: Career Success WIL Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "prac": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "The value of the Career Success WIL Grant is $1,000, paid after the completion of the WIL placement.",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/careersuccess-wilgrant",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

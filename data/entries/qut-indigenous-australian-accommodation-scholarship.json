@@ -1,0 +1,72 @@
+{
+  "id": "qut-indigenous-australian-accommodation-scholarship",
+  "name": "QUT Indigenous Australian Accommodation Scholarship",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "Paid student accommodation for Aboriginal and Torres Strait Islander students relocating to start a QUT undergraduate degree.",
+  "key": "The 2024 full scholarship was an accommodation package with a rental value of $31,100.",
+  "who": [
+    "Australian citizen of Aboriginal and/or Torres Strait Islander descent.",
+    "Starting an undergraduate degree for the first time at QUT.",
+    "Listed a QUT undergraduate degree as QTAC preference 1 to 3."
+  ],
+  "how": [
+    "Apply with the application form, written responses, evidence of relocation, recommendation letters and transcripts."
+  ],
+  "catches": [
+    "The terms found are from 2024. Check the current round."
+  ],
+  "tags": [
+    "qut",
+    "indigenous",
+    "first nations",
+    "accommodation",
+    "relocation",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-indigenous-australian-accommodation-program",
+    "label": "QUT: Indigenous Australian Accommodation Scholarship"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$31,100 accommodation package",
+      "quote": "the current rental market value of this accommodation package is $31,100.",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0010/1283374/qut-indigenous-australian-accommodation-scholarship-terms-and-conditions-2024.pdf",
+      "page_date": null
+    },
+    {
+      "claim": "Citizen",
+      "quote": "Must be an Australian citizen.",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0010/1283374/qut-indigenous-australian-accommodation-scholarship-terms-and-conditions-2024.pdf",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

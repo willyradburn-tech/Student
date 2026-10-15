@@ -1,0 +1,52 @@
+{
+  "id": "psa-student-membership",
+  "name": "PSA Student Membership",
+  "provider": "Pharmaceutical Society of Australia",
+  "category": "career",
+  "summary": "Free Pharmaceutical Society of Australia membership for full-time pharmacy students.",
+  "key": "Student membership is free of charge.",
+  "who": [
+    "Studying pharmacy full-time at an Australian teaching university"
+  ],
+  "tags": [
+    "pharmacy",
+    "pharmacist",
+    "psa",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.psa.org.au/membership/student-membership",
+    "label": "PSA: Student Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "care"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Student membership is free of charge, to support you at the start of your pharmacy career.",
+      "url": "https://www.psa.org.au/membership/student-membership",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "To be eligible for Student membership you must be studying pharmacy full-time at an Australian teaching university.",
+      "url": "https://www.psa.org.au/membership/student-membership",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "uq-internship-grants",
+  "name": "UQ Internship Grants",
+  "provider": "University of Queensland, Student Enrichment and Success",
+  "category": "uni",
+  "summary": "Grants for UQ students doing an in-person global or embassy internship, prioritising First Nations, low-SES, regional and disabled students.",
+  "key": "Up to AUD $3,000 for a Global Internship (in-person) and up to AUD $2,000 for a UQ Embassy Internship (in-person).",
+  "who": [
+    "Accepted into an internship supported by the UQ Internships Team.",
+    "Enrolled in My Career Adviser or the Employability Award.",
+    "Priority for students from under-represented groups such as First Nations, low socioeconomic, regional or remote, or students with disability."
+  ],
+  "how": [
+    "Register your internship with the UQ Internship Team, and you're automatically considered for funding."
+  ],
+  "catches": [
+    "Funding isn't guaranteed. Virtual internships aren't funded.",
+    "The current round covers experiences between 22 November 2026 and 21 February 2027; registration was extended to 11 October 2026."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "internship",
+    "global internship",
+    "embassy",
+    "employability"
+  ],
+  "source": {
+    "url": "https://employability.uq.edu.au/internships/budget-funding",
+    "label": "UQ Employability: Internship budget and funding"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Global Internship up to $3,000",
+      "quote": "AUD $3,000",
+      "url": "https://employability.uq.edu.au/internships/budget-funding",
+      "page_date": null
+    },
+    {
+      "claim": "Embassy Internship up to $2,000",
+      "quote": "AUD $2,000",
+      "url": "https://employability.uq.edu.au/internships/budget-funding",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

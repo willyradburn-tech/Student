@@ -1,0 +1,72 @@
+{
+  "id": "griffith-olsson-family-engineering-scholarship",
+  "name": "Olsson Family Engineering Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $10,000 for second or third-year Griffith engineering students facing educational disadvantage.",
+  "key": "Maximum value is $10,000, paid in two instalments.",
+  "who": [
+    "Australian citizen or permanent resident.",
+    "Full-time in your second or third year of the Bachelor of Engineering at Griffith.",
+    "GPA of 5 or above.",
+    "Demonstrate educational disadvantage."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Apply by Monday 22 March 2027, 4pm, for Trimester 1 2027.",
+    "Can't be received in more than one year."
+  ],
+  "tags": [
+    "griffith",
+    "engineering",
+    "equity"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/olsson-family-engineering-scholarship",
+    "label": "Griffith University: Olsson Family Engineering Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value is $10,000, paid in two instalments.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/olsson-family-engineering-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "be full-time enrolled in your second or third year of the Bachelor of Engineering at Griffith University",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/olsson-family-engineering-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

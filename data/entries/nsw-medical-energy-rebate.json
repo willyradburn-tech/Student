@@ -1,0 +1,63 @@
+{
+  "id": "nsw-medical-energy-rebate",
+  "name": "NSW Medical Energy Rebate",
+  "provider": "NSW Government",
+  "category": "payments",
+  "summary": "Electricity bill credit for NSW concession card holders who, or whose household member, cannot self-regulate body temperature.",
+  "who": [
+    "Hold a Pensioner Concession Card, Health Care Card, Low Income Health Care Card or DVA Veteran Gold Card",
+    "You or someone living with you cannot self-regulate body temperature and meets the qualifying conditions"
+  ],
+  "how": [
+    "Complete the form with your medical practitioner",
+    "Contact your electricity retailer and provide them with a copy of your completed form."
+  ],
+  "catches": [
+    "The page does not state the dollar amount."
+  ],
+  "tags": [
+    "electricity",
+    "medical",
+    "energy",
+    "health care card",
+    "nsw",
+    "New South Wales"
+  ],
+  "source": {
+    "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-retail-customers",
+    "label": "Service NSW: Apply for the Medical Energy Rebate (retail customers)"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Health Care Card accepted",
+      "quote": "Health Care Card issued by Services Australia",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-retail-customers",
+      "page_date": null
+    },
+    {
+      "claim": "Medical condition",
+      "quote": "meets at least one Primary Qualifying Condition and at least one Secondary Qualifying Condition.",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-retail-customers",
+      "page_date": null
+    }
+  ]
+}

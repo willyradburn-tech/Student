@@ -1,0 +1,40 @@
+{
+  "id": "jmp-student-edition",
+  "name": "JMP Student Edition",
+  "provider": "JMP Statistical Discovery",
+  "category": "software",
+  "summary": "Free JMP statistics software for students at degree-granting institutions, renewable each year.",
+  "key": "Free for academic use, renewable at no cost every 12 months.",
+  "who": [
+    "Currently enrolled at a degree granting institution."
+  ],
+  "tags": [
+    "statistics",
+    "data analysis",
+    "jmp",
+    "research"
+  ],
+  "source": {
+    "url": "https://www.jmp.com/en/academic/jmp-student-edition",
+    "label": "JMP: Student Edition"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Free for qualified students, instructors, and academic researchers",
+      "url": "https://www.jmp.com/en/academic/jmp-student-edition",
+      "page_date": null
+    },
+    {
+      "claim": "Renewal",
+      "quote": "Renew – at no cost – every 12 months for as long as you are eligible.",
+      "url": "https://www.jmp.com/en/academic/jmp-student-edition",
+      "page_date": null
+    }
+  ]
+}

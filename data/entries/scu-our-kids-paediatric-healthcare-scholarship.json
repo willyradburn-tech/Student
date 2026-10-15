@@ -1,0 +1,63 @@
+{
+  "id": "scu-our-kids-paediatric-healthcare-scholarship",
+  "name": "Our Kids Paediatric Healthcare Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$4,000 for a Northern NSW Local Health District paediatric nurse, midwife or allied health worker doing SCU's Master of Healthcare Leadership.",
+  "key": "$4,000.",
+  "who": [
+    "Employed by Northern New South Wales Local Health District as a paediatric nurse, midwife or allied health professional.",
+    "Enrolled in, or applying for, the Master of Healthcare Leadership at SCU."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One scholarship available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "postgraduate",
+    "nursing",
+    "paediatric",
+    "northern rivers"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/our-kids-paediatric-healthcare-scholarship/",
+    "label": "Southern Cross University: Our Kids Paediatric Healthcare Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Northern New South Wales Local Health District (NNSWLHD)",
+      "url": "https://www.scu.edu.au/scholarships/our-kids-paediatric-healthcare-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/our-kids-paediatric-healthcare-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "lumion-student",
+  "name": "Lumion Student",
+  "provider": "Lumion",
+  "category": "software",
+  "summary": "Free one-year Lumion Pro-level rendering licence for students, renewable while you study.",
+  "key": "Free Lumion Student licence for 1 year, renewable while you're a student.",
+  "catches": [
+    "Renders contain a small watermark.",
+    "Not for commercial use."
+  ],
+  "tags": [
+    "rendering",
+    "architecture",
+    "visualisation",
+    "lumion",
+    "3d"
+  ],
+  "source": {
+    "url": "https://lumion.com/product/educational-licenses",
+    "label": "Lumion: Educational licenses"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "One year",
+      "quote": "Lumion Student is available for 1 year",
+      "url": "https://lumion.com/product/educational-licenses",
+      "page_date": null
+    },
+    {
+      "claim": "Renewable free",
+      "quote": "Easily renew your free license as long as you're still a student",
+      "url": "https://lumion.com/product/educational-licenses",
+      "page_date": null
+    }
+  ]
+}

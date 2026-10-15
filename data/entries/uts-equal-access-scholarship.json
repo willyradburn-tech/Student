@@ -1,0 +1,60 @@
+{
+  "id": "uts-equal-access-scholarship",
+  "name": "UTS Equal Access Scholarship",
+  "provider": "University of Technology Sydney",
+  "category": "uni",
+  "summary": "Equity scholarship for domestic UTS students showing financial disadvantage, applied for through UAC.",
+  "key": "Various ($500 - $6000).",
+  "who": [
+    "Australian or New Zealand citizen or Australian permanent resident",
+    "Offered or admitted into a UTS coursework, UniReady or research degree",
+    "Financial disadvantage shown through the UAC Equity Scholarship application"
+  ],
+  "how": [
+    "Apply through UAC for an Equity Scholarship"
+  ],
+  "catches": [
+    "Applications open 8 April 2026 and close 5 February 2027"
+  ],
+  "tags": [
+    "uts",
+    "equity",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/equal-access-scholarship-institution-equity-scholarship",
+    "label": "UTS: Equal Access Scholarship (Institution Equity Scholarship)"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Various ($500 - $6000)",
+      "quote": "Various ($500 - $6000)",
+      "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/equal-access-scholarship-institution-equity-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-05"
+}

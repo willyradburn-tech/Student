@@ -1,0 +1,77 @@
+{
+  "id": "griffith-international-academic-merit-scholarship",
+  "name": "Griffith International Academic Merit Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Automatic 20% tuition fee reduction for international students with strong grades starting undergraduate or postgraduate coursework at Griffith.",
+  "key": "Eligible international students receive 20% off their tuition fees for the entire duration of their program.",
+  "who": [
+    "Citizen of a country other than Australia or New Zealand",
+    "Minimum GPA of 4.5 on a 7 point scale or equivalent in previous studies",
+    "Full-time study; meet academic and English entry requirements",
+    "Some programs excluded, including the MBA and Doctor of Medicine"
+  ],
+  "how": [
+    "No separate application: apply for a Griffith program and eligibility is assessed with your offer"
+  ],
+  "catches": [
+    "Must commence in Trimester 3 2025 or any trimester in 2026 or 2027; deferring to 2028 or later is not eligible"
+  ],
+  "tags": [
+    "griffith",
+    "gold coast",
+    "brisbane",
+    "qld",
+    "international",
+    "intl",
+    "merit",
+    "tuition",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/international-academic-merit-scholarship",
+    "label": "Griffith University: International Academic Merit Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "20% off tuition",
+      "quote": "Eligible international students receive 20% off their tuition fees for the entire duration of their program.",
+      "url": "https://www.griffith.edu.au/international-scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "GPA rule",
+      "quote": "Have a minimum GPA (Grade Point Average) in previous studies of 4.5 on a 7 point scale or equivalent.",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/international-academic-merit-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Start dates",
+      "quote": "Commence study in Trimester 3, 2025 or any trimester in 2026 or 2027.",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/international-academic-merit-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

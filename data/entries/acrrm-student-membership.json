@@ -1,0 +1,57 @@
+{
+  "id": "acrrm-student-membership",
+  "name": "ACRRM student membership",
+  "provider": "Australian College of Rural and Remote Medicine",
+  "category": "career",
+  "summary": "Free ACRRM membership for the length of your studies for students in accredited medicine or health courses.",
+  "key": "ACRRM Membership is free for students.",
+  "who": [
+    "Enrolled in an Australian accredited undergraduate or graduate course in medicine or health"
+  ],
+  "how": [
+    "Use the Join for free button on the page."
+  ],
+  "tags": [
+    "medicine",
+    "rural health",
+    "doctor",
+    "health",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://acrrm.org.au/membership/student-membership",
+    "label": "ACRRM: Student membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "ACRRM Membership is free for students!",
+      "url": "https://acrrm.org.au/membership/student-membership",
+      "page_date": null
+    },
+    {
+      "claim": "Duration",
+      "quote": "will remain free for the duration of your studies",
+      "url": "https://acrrm.org.au/membership/student-membership",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "If you are enrolled in an Australian accredited undergraduate or graduate course in medicine or health",
+      "url": "https://acrrm.org.au/membership/student-membership",
+      "page_date": null
+    }
+  ]
+}

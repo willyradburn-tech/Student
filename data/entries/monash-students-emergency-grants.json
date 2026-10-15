@@ -1,0 +1,54 @@
+{
+  "id": "monash-students-emergency-grants",
+  "name": "Monash Students Emergency Grants Scheme",
+  "provider": "Monash University",
+  "category": "uni",
+  "summary": "A grant of up to $500 for Monash students in financial hardship, for essential living costs or study technology.",
+  "key": "Up to $500.",
+  "who": [
+    "Monash students experiencing financial hardship."
+  ],
+  "tags": [
+    "monash",
+    "monash university",
+    "melbourne",
+    "vic",
+    "hardship",
+    "emergency grant"
+  ],
+  "source": {
+    "url": "https://www.monash.edu/get-started/about-uni-life/loans-grants-scholarships",
+    "label": "Monash: Loans, grants and scholarships"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Grant amount and purpose",
+      "quote": "This grant is up to $500 and can help pay for essential living expenses, technology for study",
+      "url": "https://www.monash.edu/get-started/about-uni-life/loans-grants-scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Who it's for",
+      "quote": "The Students Emergency Grants Scheme is for students experiencing financial hardship",
+      "url": "https://www.monash.edu/get-started/about-uni-life/loans-grants-scholarships",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

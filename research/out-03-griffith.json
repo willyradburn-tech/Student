@@ -1,0 +1,3281 @@
+[
+  {
+    "id": "griffith-vice-chancellors-academic-achievement-scholarship",
+    "name": "Vice Chancellor's Academic Achievement Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Cash scholarship for high-achieving school leavers starting their first Griffith undergraduate degree.",
+    "key": "Cash (from $15,000) + Student Academy of Excellence offer + access to a travel grant.",
+    "who": [
+      "Be a commencing undergraduate student in Trimester 1, 2027.",
+      "Receive an unadjusted ATAR of 95.45 or above."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process.",
+      "Include your QTAC or UAC reference number."
+    ],
+    "catches": [
+      "Apply by Monday 21 December 2026, 4pm for Trimester 1, 2027, Round 1."
+    ],
+    "tags": [
+      "griffith",
+      "merit",
+      "atar",
+      "school leaver"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/vice-chancellors-academic-achievement-scholarship/",
+      "label": "Griffith University: Vice Chancellor's Academic Achievement Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Cash (from $15,000) + Student Academy of Excellence offer + access to a travel grant",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/vice-chancellors-academic-achievement-scholarship/",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "receive an unadjusted ATAR (Australian Tertiary Admission Rank) of 95.45 or above",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/vice-chancellors-academic-achievement-scholarship/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-vice-chancellors-academic-achievement-scholarship-continuing",
+    "name": "Vice Chancellor's Academic Achievement Scholarship for Continuing Students",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $10,000 for high-achieving Griffith undergraduates after their first year.",
+    "key": "Cash (up to $10,000) + Student Academy of Excellence offer.",
+    "who": [
+      "Completed 80 CP in your first year at Griffith.",
+      "GPA of 6.0 or higher.",
+      "Completed secondary school within the previous two years.",
+      "Australian citizen, permanent resident, permanent humanitarian visa holder or New Zealand citizen."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by Monday 7 December 2026, 4pm."
+    ],
+    "tags": [
+      "griffith",
+      "merit",
+      "continuing"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/vice-chancellors-academic-achievement-scholarship-for-continuing-students",
+      "label": "Griffith University: VC's Academic Achievement Scholarship for Continuing Students"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Cash (up to $10,000) + Student Academy of Excellence offer.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/vice-chancellors-academic-achievement-scholarship-for-continuing-students",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "have achieved a GPA (Grade Point Average) of 6.0 or higher",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/vice-chancellors-academic-achievement-scholarship-for-continuing-students",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-chancellors-scholarship",
+    "name": "Chancellor's Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Scholarship for Griffith undergraduates with compounding educational disadvantage, commencing or continuing.",
+    "key": "From $3,000 to $5,000.",
+    "who": [
+      "Griffith undergraduate student (commencing and continuing).",
+      "Australian citizen, permanent resident, permanent humanitarian visa holder or New Zealand citizen.",
+      "Demonstrate educational disadvantage based on a comprehensive assessment by the University."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Trimester 1, 2027 rounds close 21 December 2026, 27 January 2027 and 15 March 2027 (4pm).",
+      "Round 4 for Trimester 2, 2027 closes 30 June 2027, 11:59pm.",
+      "May continue for up to three years; continuing recipients need a GPA of 3.5 or above."
+    ],
+    "tags": [
+      "griffith",
+      "equity",
+      "hardship",
+      "disadvantage"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships",
+      "label": "Griffith University: Chancellor's Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "From $3,000 to $5,000",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "demonstrate educational disadvantage based on a comprehensive assessment by the University",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-chancellors-scholarship-postgraduate",
+    "name": "Chancellor's Scholarship for Postgraduate (Coursework) Students",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $4,000 for Griffith postgraduate coursework students facing educational disadvantage.",
+    "key": "Maximum $4,000, paid at $500 per 10 credit points each enrolled trimester.",
+    "who": [
+      "Griffith postgraduate (coursework) student, commencing or continuing.",
+      "Demonstrate educational disadvantage based on a comprehensive assessment by the University.",
+      "Australian citizen, permanent resident, permanent humanitarian visa holder or New Zealand citizen."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Rounds close 21 December 2026, 27 January 2027, 15 March 2027 (4pm) and 30 June 2027 (11:59pm).",
+      "Priority goes to commencing students."
+    ],
+    "tags": [
+      "griffith",
+      "equity",
+      "postgraduate",
+      "coursework"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships-postgraduate-students",
+      "label": "Griffith University: Chancellor's Scholarship for Postgraduate (Coursework) Students"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "in instalments of $500 per 10 Credit Points for each enrolled trimester",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships-postgraduate-students",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "demonstrate educational disadvantage based on a comprehensive assessment by the University",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships-postgraduate-students",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-rachel-hunter-refugee-scholarship",
+    "name": "Rachel Hunter Refugee Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $20,000 for permanent humanitarian visa holders starting their first Griffith undergraduate degree.",
+    "key": "Maximum value of $20,000, payable in trimester instalments.",
+    "who": [
+      "Permanent humanitarian visa holder.",
+      "Commencing a Griffith undergraduate degree for the first time.",
+      "Demonstrate financial hardship and/or educational disadvantage."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by Wednesday 27 January 2027, 4pm, for Trimester 1 2027.",
+      "Not available if you receive a Centrelink Relocation Grant or a Commonwealth Scholarship."
+    ],
+    "tags": [
+      "griffith",
+      "refugee",
+      "humanitarian visa",
+      "equity"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/rachel-hunter-refugee-scholarship",
+      "label": "Griffith University: Rachel Hunter Refugee Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "The Rachel Hunter Refugee Scholarship has a maximum value of $20,000, payable in trimester instalments.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/rachel-hunter-refugee-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "be a permanent humanitarian visa holder",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/rachel-hunter-refugee-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-george-alexander-foundation-scholarship",
+    "name": "George Alexander Foundation Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $30,000 over three years for recent school leavers relocating to study a Griffith undergraduate degree.",
+    "key": "From 2027 the maximum value is $30,000, paid in instalments over a maximum of three years.",
+    "who": [
+      "Australian citizen.",
+      "Completed secondary school within the last two years and not started at another university.",
+      "Relocating, or needing to move away from home, to study an undergraduate degree.",
+      "ATAR of 80 or more."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by Monday 18 January 2027, 4pm.",
+      "For commencing full-time students."
+    ],
+    "tags": [
+      "griffith",
+      "relocation",
+      "regional",
+      "school leaver",
+      "move away"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-george-alexander-foundation-scholarship",
+      "label": "Griffith University: George Alexander Foundation Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen"
+        ]
+      },
+      "away": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "From 2027 the maximum value is $30,000, paid in instalments over a maximum of three years.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-george-alexander-foundation-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "be relocating, or need to move away from home, in order to study an undergraduate degree",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-george-alexander-foundation-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-sports-excellence-scholarship",
+    "name": "Griffith Sports Excellence Scholarships",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Scholarships for elite athletes competing nationally or internationally while studying at Griffith.",
+    "key": "$28,000 for the Full Scholarship; $5,000 for the Development Scholarship.",
+    "who": [
+      "Competing at an elite level (nationally or internationally) in your sport.",
+      "Commencing or current undergraduate or postgraduate coursework student.",
+      "Australian citizen, permanent resident or permanent humanitarian visa holder."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process.",
+      "Include a coach referee report and a list of sporting achievements."
+    ],
+    "catches": [
+      "Apply by Monday 16 November 2026, 4pm."
+    ],
+    "tags": [
+      "griffith",
+      "sport",
+      "athlete",
+      "elite"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-sports-excellence-scholarship",
+      "label": "Griffith University: Griffith Sports Excellence Scholarships"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "$28,000 for the Griffith Sports Excellence Full Scholarship",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-sports-excellence-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "development tier",
+        "quote": "$5,000 for the Griffith Sports Excellence Development Scholarship",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-sports-excellence-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-clem-jones-sporting-scholarship",
+    "name": "Clem Jones Sporting Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $3,000 for state or national level sportspeople with financial need studying a Griffith undergraduate degree.",
+    "key": "Maximum value of $3,000, paid in instalments.",
+    "who": [
+      "Australian citizen or permanent resident.",
+      "High level sportsperson competing at a state or national level.",
+      "Able to provide evidence of financial need."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Listed as opening soon for 2027; the overview lists Monday 8 March 2027, 4pm."
+    ],
+    "tags": [
+      "griffith",
+      "sport",
+      "hardship"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-clem-jones-sporting-scholarship",
+      "label": "Griffith University: Clem Jones Sporting Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value of $3,000, paid in instalments.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-clem-jones-sporting-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "a high level sportsperson, competing at a state or national level",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-clem-jones-sporting-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-jay-schwer-memorial-bursary",
+    "name": "Jay Schwer Memorial Bursary for Mature Age Students",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "$500 bursary for mature-age social work and human services students facing hardship.",
+    "key": "This bursary is valued at $500, payable in a single instalment.",
+    "who": [
+      "Enrolled in a Bachelor or Master of Social Work or Human Services degree.",
+      "Experiencing financial hardship, carer responsibilities and/or social disadvantage.",
+      "Aged 30 years or over.",
+      "Australian citizen, New Zealand citizen, permanent humanitarian visa holder or permanent resident."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by Wednesday 30 June 2027 for Trimester 2, 2027."
+    ],
+    "tags": [
+      "griffith",
+      "mature age",
+      "social work",
+      "human services",
+      "carer"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/jay-schwer-memorial-bursary-for-mature-age-students",
+      "label": "Griffith University: Jay Schwer Memorial Bursary for Mature Age Students"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "field": {
+        "yes": [
+          "care"
+        ]
+      },
+      "age": {
+        "min": 30
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "This bursary is valued at $500, payable in a single instalment.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/jay-schwer-memorial-bursary-for-mature-age-students",
+        "page_date": null
+      },
+      {
+        "claim": "age rule",
+        "quote": "aged 30 years or over.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/jay-schwer-memorial-bursary-for-mature-age-students",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-nellie-thomas-bursary",
+    "name": "Nellie Thomas Bursary",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $2,000 for Aboriginal and Torres Strait Islander medicine and health students facing financial disadvantage.",
+    "key": "Maximum value is $2,000, payable in a single instalment.",
+    "who": [
+      "Australian citizen or permanent resident.",
+      "Aboriginal and/or Torres Strait Islander.",
+      "Accepted into or enrolled in a program in medicine or health.",
+      "Can demonstrate financial disadvantage."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by Monday 19 April 2027, 4pm, for Trimester 1 2027.",
+      "Priority goes to School of Medicine and Dentistry students."
+    ],
+    "tags": [
+      "griffith",
+      "first nations",
+      "indigenous",
+      "medicine",
+      "health"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-nellie-thomas-bursary",
+      "label": "Griffith University: Nellie Thomas Bursary"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value is $2,000, payable in a single instalment.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-nellie-thomas-bursary",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "Aboriginal and/or Torres Strait Islander",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-nellie-thomas-bursary",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-patricia-fronek-memorial-bursary",
+    "name": "Patricia Fronek Memorial Bursary",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $1,000 for Griffith social work students in financial hardship.",
+    "key": "Maximum value is $1,000, payable in a single instalment.",
+    "who": [
+      "Griffith Bachelor of Social Work, Bachelor of Social Work (Honours) or Master of Social Work student.",
+      "Demonstrate financial hardship based on a comprehensive assessment by the University."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by Monday 19 April 2027, 4pm, for Trimester 1 2027.",
+      "Not available if you received other Griffith scholarships or financial support in the past 12 months."
+    ],
+    "tags": [
+      "griffith",
+      "social work",
+      "hardship"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/patricia-fronek-memorial-bursary",
+      "label": "Griffith University: Patricia Fronek Memorial Bursary"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "field": {
+        "yes": [
+          "care"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value is $1,000, payable in a single instalment.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/patricia-fronek-memorial-bursary",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "demonstrate financial hardship based on a comprehensive assessment by the University",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/patricia-fronek-memorial-bursary",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-lesley-chenoweth-scholarship",
+    "name": "Lesley Chenoweth Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $2,000 for full-time Griffith undergraduates in financial hardship, with preference for Logan students.",
+    "key": "Maximum value is $2,000, paid in two instalments.",
+    "who": [
+      "Completed 40 CP of a Griffith undergraduate degree with a passing grade.",
+      "Enrolled full-time.",
+      "Able to demonstrate financial hardship.",
+      "Australian citizen, permanent resident, humanitarian visa holder or New Zealand citizen."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process.",
+      "Upload a CV; applicants may be interviewed."
+    ],
+    "catches": [
+      "Apply by Monday 19 April 2027, 4pm, for Trimester 1 2027.",
+      "Logan campus students get preference."
+    ],
+    "tags": [
+      "griffith",
+      "hardship",
+      "logan",
+      "equity"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/lesley-chenoweth-scholarship",
+      "label": "Griffith University: Lesley Chenoweth Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value is $2,000, paid in two instalments.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/lesley-chenoweth-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "be able to demonstrate financial hardship.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/lesley-chenoweth-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-pulsestart-nursing-midwifery-bursary",
+    "name": "Pulsestart Nursing and Midwifery Bursary",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $2,500 for full-time Griffith nursing and midwifery students facing educational disadvantage.",
+    "key": "Maximum value is $2,500, payable in a single instalment.",
+    "who": [
+      "Australian citizen or permanent resident.",
+      "Bachelor of Nursing or Bachelor of Midwifery student who has completed at least 40 CP.",
+      "Studying full-time.",
+      "Demonstrate educational disadvantage."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "The 2026 round closed 17 August 2026. Griffith lists applications opening 1 July 2027 for Trimester 2, 2027."
+    ],
+    "tags": [
+      "griffith",
+      "nursing",
+      "midwifery",
+      "equity"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/pulsestart-nursing-midwifery-bursary",
+      "label": "Griffith University: Pulsestart Nursing and Midwifery Bursary"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "field": {
+        "yes": [
+          "care"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value is $2,500, payable in a single instalment.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/pulsestart-nursing-midwifery-bursary",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "be a Griffith Bachelor of Nursing or Bachelor of Midwifery program student and completed a minimum of 40CP (credit points)",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/pulsestart-nursing-midwifery-bursary",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-hobart-medical-scholarship",
+    "name": "Rotary Club of Southport Peter and Jenny Hobart Medical Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $2,000 for full-time third-year Griffith Doctor of Medicine students.",
+    "key": "Maximum value is $2,000. Instalments of $1,000 are payable in Trimester 1 and 2.",
+    "who": [
+      "Australian citizen, permanent resident or humanitarian visa holder.",
+      "Enrolled full-time in your third year of the Doctor of Medicine at Griffith."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by Monday 19 April 2027, 4pm, for Trimester 1 2027.",
+      "Targeted at students experiencing financial difficulties."
+    ],
+    "tags": [
+      "griffith",
+      "medicine",
+      "md",
+      "gold coast"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/peter-and-jenny-hobart-medical-bursary",
+      "label": "Griffith University: Peter and Jenny Hobart Medical Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value is $2,000. Instalments of $1,000 are payable in Trimester 1 and 2.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/peter-and-jenny-hobart-medical-bursary",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "enrolled full-time in your third year of study in the Doctor of Medicine at Griffith University",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/peter-and-jenny-hobart-medical-bursary",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-ict-access-scholarship",
+    "name": "School of ICT Access Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $5,000 for students facing educational disadvantage starting an IT degree at Griffith.",
+    "key": "Maximum value of $5,000, paid in two instalments.",
+    "who": [
+      "Australian citizen, permanent resident or permanent humanitarian visa holder.",
+      "Applying to commence university for the first time in Trimester 1 2027.",
+      "Demonstrated educational disadvantage.",
+      "Not receiving any other scholarship."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by Monday 11 January 2027, 4pm, for Trimester 1 2027.",
+      "The ICT degree must be your first preference on QTAC or UAC."
+    ],
+    "tags": [
+      "griffith",
+      "it",
+      "computing",
+      "equity",
+      "school of ict"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/ict-access-scholarship",
+      "label": "Griffith University: School of ICT Access Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "field": {
+        "yes": [
+          "it"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value of $5,000, paid in two instalments.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/ict-access-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "demonstrated educational disadvantage based on comprehensive assessment by the University",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/ict-access-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-queensland-regional-electronic-engineering-bursary",
+    "name": "Queensland Regional Electronic Engineering Bursary",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $2,500 for regional Queensland school leavers starting electronic engineering at Griffith's Nathan campus.",
+    "key": "Maximum value is $2,500, paid in instalments.",
+    "who": [
+      "Australian citizen, permanent resident or humanitarian visa holder.",
+      "Completed Year 12 at a Queensland high school outside the South East and Metropolitan regions.",
+      "Starting full-time in a listed engineering program at Nathan and choosing an Electronic Engineering major."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process.",
+      "Include a personal statement, an academic referee report and your results."
+    ],
+    "catches": [
+      "Apply by 4pm, Friday 29 January 2027.",
+      "The page's eligibility wording still refers to 2025 Year 12 and Trimester 1 2026, so check the year with the Scholarships Office."
+    ],
+    "tags": [
+      "griffith",
+      "engineering",
+      "regional",
+      "electronics",
+      "nathan"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-school-of-engineering-queensland-regional-electronic-engineering-bursary",
+      "label": "Griffith University: Queensland Regional Electronic Engineering Bursary"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "field": {
+        "yes": [
+          "engineering"
+        ]
+      },
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value is $2,500, paid in instalments.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-school-of-engineering-queensland-regional-electronic-engineering-bursary",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-aecom-women-in-stem-engineering-scholarship",
+    "name": "AECOM Women in STEM Bachelor of Engineering Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $8,500 for female penultimate-year Griffith engineering students with a GPA of 5 or above.",
+    "key": "Maximum value is $8,500, paid in instalments.",
+    "who": [
+      "Identify as female.",
+      "Full-time in the penultimate year of the Bachelor of Engineering (Honours), including double degrees.",
+      "GPA of 5.0 or above.",
+      "Not receiving any other Griffith scholarship."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Closed and awarded for 2026; listed as coming soon for 2027."
+    ],
+    "tags": [
+      "griffith",
+      "engineering",
+      "women in stem",
+      "female"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/aecom-women-in-stem-bachelor-of-engineering-scholarship",
+      "label": "Griffith University: AECOM Women in STEM Bachelor of Engineering Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "field": {
+        "yes": [
+          "engineering"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value is $8,500, paid in instalments.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/aecom-women-in-stem-bachelor-of-engineering-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "be full-time enrolled in the penultimate year of the Bachelor of Engineering (Honours), including double degrees",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/aecom-women-in-stem-bachelor-of-engineering-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-edg-consulting-civil-engineering-scholarship",
+    "name": "EDG Consulting Civil Engineering Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $8,500 for penultimate or final-year Griffith civil engineering students, with priority for geotechnical interest.",
+    "key": "Maximum value is $8,500, paid in instalments of $4,250 in trimester 1 and trimester 2.",
+    "who": [
+      "Australian citizen, permanent resident or permanent humanitarian visa holder.",
+      "Full-time in the penultimate or final year of the Bachelor of Engineering (Honours).",
+      "Minimum GPA of 5."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by Monday 22 March 2027, 4pm for Trimester 1, 2027.",
+      "Priority for students committed to geotechnical engineering."
+    ],
+    "tags": [
+      "griffith",
+      "engineering",
+      "civil engineering",
+      "geotechnical"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/edg-consulting-civil-engineering-scholarship",
+      "label": "Griffith University: EDG Consulting Civil Engineering Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "field": {
+        "yes": [
+          "engineering"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value is $8,500, paid in instalments of $4,250 in trimester 1 and trimester 2 only, provided conditions are met.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/edg-consulting-civil-engineering-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "be full-time enrolled in the penultimate or final year of the Bachelor of Engineering (Honours),",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/edg-consulting-civil-engineering-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-olsson-family-engineering-scholarship",
+    "name": "Olsson Family Engineering Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $10,000 for second or third-year Griffith engineering students facing educational disadvantage.",
+    "key": "Maximum value is $10,000, paid in two instalments.",
+    "who": [
+      "Australian citizen or permanent resident.",
+      "Full-time in your second or third year of the Bachelor of Engineering at Griffith.",
+      "GPA of 5 or above.",
+      "Demonstrate educational disadvantage."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by Monday 22 March 2027, 4pm, for Trimester 1 2027.",
+      "Can't be received in more than one year."
+    ],
+    "tags": [
+      "griffith",
+      "engineering",
+      "equity"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/olsson-family-engineering-scholarship",
+      "label": "Griffith University: Olsson Family Engineering Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "field": {
+        "yes": [
+          "engineering"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value is $10,000, paid in two instalments.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/olsson-family-engineering-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "be full-time enrolled in your second or third year of the Bachelor of Engineering at Griffith University",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/olsson-family-engineering-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-owen-smith-engineering-scholarship",
+    "name": "Owen Smith in Memoriam Engineering Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $5,000 for penultimate-year Griffith engineering students facing educational disadvantage.",
+    "key": "Maximum value is $5,000.",
+    "who": [
+      "Full-time in the penultimate year of the Bachelor of Engineering (Honours), including double degrees.",
+      "Good academic progress.",
+      "Demonstrate educational disadvantage.",
+      "Australian citizen, permanent resident, permanent humanitarian visa holder, New Zealand citizen or Pacific Engagement visa holder."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by Monday 22 March 2027, 4pm.",
+      "Preference for students of Pacific Islander heritage."
+    ],
+    "tags": [
+      "griffith",
+      "engineering",
+      "pacific islander",
+      "equity"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/owen-smith-in-memoriam-engineering-scholarship",
+      "label": "Griffith University: Owen Smith in Memoriam Engineering Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "field": {
+        "yes": [
+          "engineering"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value is $5,000.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/owen-smith-in-memoriam-engineering-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "demonstrate educational disadvantage based on a comprehensive assessment by the University.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/owen-smith-in-memoriam-engineering-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-karl-morris-scholarship",
+    "name": "Karl Morris Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $5,000 for financially disadvantaged Griffith business, commerce and financial planning students from second year.",
+    "key": "Maximum value is $5,000, paid in instalments.",
+    "who": [
+      "Australian citizen, permanent resident or Permanent Humanitarian Visa holder.",
+      "Commencing at least second year of the program (minimum 80 CP completed).",
+      "Not receiving any other scholarship funding."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process.",
+      "Include a CV and Centrelink statements or other evidence of financial hardship."
+    ],
+    "catches": [
+      "Apply by 4pm, Monday 15 March 2027."
+    ],
+    "tags": [
+      "griffith",
+      "business",
+      "commerce",
+      "financial planning",
+      "hardship"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/karl-morris-scholarships",
+      "label": "Griffith University: Karl Morris Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "field": {
+        "yes": [
+          "business"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value is $5,000, paid in instalments.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/karl-morris-scholarships",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "be commencing at least second year of the required program (have completed a minimum of 80CP)",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/karl-morris-scholarships",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-ej-smith-scholarship",
+    "name": "EJ Smith Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $20,000 for Griffith undergraduates from Jimboomba facing educational disadvantage.",
+    "key": "$15,000 for a single degree and $20,000 for a double degree.",
+    "who": [
+      "Commencing or continuing undergraduate, enrolled full-time.",
+      "Demonstrate educational disadvantage.",
+      "Live in, or be relocating for study from, the Jimboomba community in Queensland.",
+      "Australian citizen, permanent resident, permanent humanitarian visa holder or New Zealand citizen."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by Monday 15 March 2027, 4pm."
+    ],
+    "tags": [
+      "griffith",
+      "jimboomba",
+      "logan",
+      "equity",
+      "regional"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/ej-smith-scholarship",
+      "label": "Griffith University: EJ Smith Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      },
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "$20,000 for a double degree (320 CP (credit points)).",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/ej-smith-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "single degree value",
+        "quote": "$15,000 for a single degree (240 CP (credit points))",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/ej-smith-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "reside in, or be relocating for study from, the Jimboomba community in Queensland.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/ej-smith-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-bendigo-bank-accounting-finance-economics-scholarship",
+    "name": "Bendigo Bank Accounting, Finance, and Economics Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Scholarship for Griffith accounting, finance and economics undergraduates who have experienced educational disadvantage.",
+    "key": "Up to $15,000 (the scholarship section states a maximum value of $5,000, paid at $625 per 10 credit points).",
+    "who": [
+      "Australian citizen, New Zealand citizen, permanent resident or permanent humanitarian visa holder.",
+      "Current or commencing, full-time or part-time.",
+      "Minimum GPA of 4.0 if a current student.",
+      "Experienced educational disadvantage."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by Monday 15 March 2027, 4pm.",
+      "The page states both 'up to $15,000' and a $5,000 maximum; confirm the value."
+    ],
+    "tags": [
+      "griffith",
+      "business",
+      "accounting",
+      "finance",
+      "economics",
+      "equity"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/bendigo-bank-accounting-finance-economics-scholarship",
+      "label": "Griffith University: Bendigo Bank Accounting, Finance, and Economics Scholarship"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "field": {
+        "yes": [
+          "business"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "The maximum value is $5,000, payable in instalments of $625 per 10 Credit Points.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/bendigo-bank-accounting-finance-economics-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-nealemon-business-school-scholarship",
+    "name": "Nealemon Business School Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $5,000 for first-year Griffith Business School undergraduates facing educational disadvantage.",
+    "key": "Maximum value of the scholarship is $5,000.",
+    "who": [
+      "Australian citizen, permanent resident or permanent humanitarian visa holder.",
+      "Griffith Business School undergraduate entering or in first year.",
+      "Demonstrate educational disadvantage.",
+      "Enrolled full-time."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by 4pm, Monday 15 March 2027.",
+      "Currently enrolled students need a GPA of 4."
+    ],
+    "tags": [
+      "griffith",
+      "business",
+      "first year",
+      "equity"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/nealemon-business-school-scholarship",
+      "label": "Griffith University: Nealemon Business School Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "field": {
+        "yes": [
+          "business"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value of the scholarship is $5,000.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/nealemon-business-school-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "be a Griffith Business School undergraduate student entering into or enrolled in their first year of study",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/nealemon-business-school-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-business-school-next-step-scholarship",
+    "name": "Griffith Business School Next Step Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $5,000 for first-time students facing educational disadvantage starting a Griffith Business School degree.",
+    "key": "Maximum value of the scholarship is $5,000 for one year or 80 credit points.",
+    "who": [
+      "Australian citizen, permanent resident or humanitarian visa holder.",
+      "Applying for university study for the first time.",
+      "GBS degree as first preference on QTAC or UAC.",
+      "Demonstrate educational disadvantage."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by Monday 9 November 2026, 4pm.",
+      "Not available with another Griffith-funded scholarship."
+    ],
+    "tags": [
+      "griffith",
+      "business",
+      "government",
+      "equity",
+      "school leaver"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-business-school-next-step-scholarship",
+      "label": "Griffith University: GBS Next Step Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "field": {
+        "yes": [
+          "business"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value of the scholarship is $5,000 for one year or 80 credit points (equivalent to $625 per 10 credit points).",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-business-school-next-step-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-business-school-first-peoples-scholarship",
+    "name": "Griffith Business School Aboriginal and Torres Strait Islander Peoples Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "$15,000 to $20,000 for First Peoples students starting a Griffith Business School undergraduate degree.",
+    "key": "$15,000 for a single degree and $20,000 for a double degree.",
+    "who": [
+      "Australian citizen.",
+      "Aboriginal and/or Torres Strait Islander.",
+      "Commencing university for the first time.",
+      "Applying for an undergraduate degree hosted by Griffith Business School."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process.",
+      "You may be asked for a Confirmation of Heritage."
+    ],
+    "catches": [
+      "Apply by Monday 9 November 2026, 4pm.",
+      "Not available with another Griffith-funded scholarship."
+    ],
+    "tags": [
+      "griffith",
+      "first nations",
+      "indigenous",
+      "business"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/Griffith-Business-School-first-peoples-scholarship",
+      "label": "Griffith University: GBS Aboriginal and Torres Strait Islander Peoples Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "field": {
+        "yes": [
+          "business"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "$15,000 for a single degree",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/Griffith-Business-School-first-peoples-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "double degree value",
+        "quote": "$20,000 for a double degree",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/Griffith-Business-School-first-peoples-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-calleo-indigenous-scholarship",
+    "name": "Calleo Indigenous Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $7,000 a year (or $10,000 at the excellence rate) for full-time Aboriginal and Torres Strait Islander undergraduates.",
+    "key": "Maximum value is $7,000 (base rate) or $10,000 (academic excellence rate).",
+    "who": [
+      "Australian citizen.",
+      "Aboriginal and/or Torres Strait Islander, with a Confirmation of Heritage.",
+      "Full-time in any Griffith undergraduate degree.",
+      "Minimum GPA of 4 for continuing students."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Opening soon for 2027; no closing date published yet.",
+      "May continue up to $21,000 (base) or $30,000 (excellence) overall, subject to donor approval."
+    ],
+    "tags": [
+      "griffith",
+      "first nations",
+      "indigenous"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/calleo-indigenous-scholarship",
+      "label": "Griffith University: Calleo Indigenous Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value is $7,000* (base rate) or $10,000* (academic excellence rate)",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/calleo-indigenous-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "be Aboriginal and/or Torres Strait Islander",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/calleo-indigenous-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-adora-indigenous-nursing-midwifery-scholarship",
+    "name": "Adora Indigenous Nursing and Midwifery Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $15,000 for Aboriginal and Torres Strait Islander nursing and midwifery students in financial hardship.",
+    "key": "Maximum value is $15,000.",
+    "who": [
+      "Aboriginal and/or Torres Strait Islander.",
+      "Australian citizen.",
+      "In year one, two or three of the Bachelor of Nursing or Bachelor of Midwifery.",
+      "At least two trimesters of full-time study remaining.",
+      "Demonstrate financial hardship."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by Monday 22 March 2027, 4pm, for Trimester 1 2027."
+    ],
+    "tags": [
+      "griffith",
+      "first nations",
+      "indigenous",
+      "nursing",
+      "midwifery"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/adora-indigenous-nursing-and-midwifery-scholarship",
+      "label": "Griffith University: Adora Indigenous Nursing and Midwifery Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "field": {
+        "yes": [
+          "care"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value is $15,000.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/adora-indigenous-nursing-and-midwifery-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "be enrolled in the Bachelor of Nursing or Bachelor of Midwifery program at Griffith University in year one, two or three",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/adora-indigenous-nursing-and-midwifery-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-patience-thoms-first-peoples-scholarship",
+    "name": "Patience Thoms First Peoples (Honours and Postgraduate) Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $4,000 for First Peoples honours and postgraduate coursework students facing educational disadvantage.",
+    "key": "Valued at a maximum of $4,000, payable in instalments.",
+    "who": [
+      "Australian citizen.",
+      "Aboriginal and/or Torres Strait Islander.",
+      "Enrolled or eligible for a one-year honours or postgraduate coursework degree.",
+      "Educational disadvantage and academic merit."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "The page shows 'Currently closed'; the scholarships list gives Monday 15 March 2027, 4pm."
+    ],
+    "tags": [
+      "griffith",
+      "first nations",
+      "indigenous",
+      "honours",
+      "postgraduate"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/patience-thoms-first-peoples-honours-postgraduate-scholarship",
+      "label": "Griffith University: Patience Thoms First Peoples (Honours and Postgraduate) Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "valued at a maximum of $4,000, payable in instalments.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/patience-thoms-first-peoples-honours-postgraduate-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-doctor-of-medicine-first-peoples-scholarship",
+    "name": "Doctor of Medicine First Peoples Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "$20,000 over the degree for Aboriginal and Torres Strait Islander students starting Griffith's Doctor of Medicine.",
+    "key": "$20,000 for the duration of the degree.",
+    "who": [
+      "Aboriginal and/or Torres Strait Islander.",
+      "Australian citizen or permanent resident.",
+      "Commencing the Doctor of Medicine as a First Peoples candidate."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process.",
+      "Include a personal statement and proof of Aboriginality or a community letter of support."
+    ],
+    "catches": [
+      "Listed as coming soon for 2027; the 2026 round closed 13 April 2026."
+    ],
+    "tags": [
+      "griffith",
+      "first nations",
+      "indigenous",
+      "medicine",
+      "md"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/doctor-of-medicine-first-peoples-scholarship",
+      "label": "Griffith University: Doctor of Medicine First Peoples Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "$20,000 for the duration of the degree",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/doctor-of-medicine-first-peoples-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-mannu-kala-foundation-md-scholarship",
+    "name": "Mannu Kala Foundation MD Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Full tuition for students facing educational disadvantage starting Griffith's Doctor of Medicine.",
+    "key": "100% tuition fees for the duration of degree.",
+    "who": [
+      "Australian citizen, permanent resident, permanent humanitarian visa holder or New Zealand citizen.",
+      "Demonstrate educational disadvantage.",
+      "Applied for and accepted into the Doctor of Medicine at Griffith."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "The scholarships list gives Monday 1 February 2027, 4pm for Trimester 1 2027; the page body still shows a January 2026 date."
+    ],
+    "tags": [
+      "griffith",
+      "medicine",
+      "md",
+      "equity",
+      "tuition"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/mannu-kala-foundation-md-scholarship",
+      "label": "Griffith University: Mannu Kala Foundation MD Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "100% tuition fees for the duration of degree.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/mannu-kala-foundation-md-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "demonstrate educational disadvantage based on a comprehensive assessment by the University",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/mannu-kala-foundation-md-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-avant-foundation-md-rural-placement-scholarship",
+    "name": "Avant Foundation Doctor of Medicine Rural Placement Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $10,000 for final-year Griffith MD students doing a full-year rural clerkship.",
+    "key": "The maximum value is $10,000.",
+    "who": [
+      "Australian citizen, permanent resident, permanent humanitarian visa holder or New Zealand citizen.",
+      "Demonstrate educational disadvantage.",
+      "Enrolled in the final year (Phase 3) of the Doctor of Medicine and taking the full-year Longlook rural clerkship."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by Monday 1 February 2027, 4pm.",
+      "Students in the Toowoomba end-to-end rural program are excluded."
+    ],
+    "tags": [
+      "griffith",
+      "medicine",
+      "md",
+      "rural",
+      "placement"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/avant-foundation-doctor-of-medicine-rural-placement-scholarship",
+      "label": "Griffith University: Avant Foundation Doctor of Medicine Rural Placement Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "prac": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "The maximum value is $10,000.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/avant-foundation-doctor-of-medicine-rural-placement-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "be enrolled in the final-year (Phase 3) of the Doctor of Medicine (MD) program",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/avant-foundation-doctor-of-medicine-rural-placement-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-adam-scott-foundation-scholarship",
+    "name": "Adam Scott Foundation Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Pays all student contribution charges for Australian citizens starting a Griffith business degree.",
+    "key": "Payment of 100% of the student contribution charges (CSP/HECS).",
+    "who": [
+      "Australian citizen.",
+      "Accepted into a Griffith undergraduate business degree starting in Trimester 1 of the year of award.",
+      "Not previously completed a bachelor's degree or higher.",
+      "Full-time study (part-time may be approved)."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process.",
+      "Two referees, two personal statements and a CV; shortlisted applicants are interviewed."
+    ],
+    "catches": [
+      "Apply by Tuesday 26 January 2027."
+    ],
+    "tags": [
+      "griffith",
+      "business",
+      "hecs",
+      "fees"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/adam-scott-foundation-business-scholarship",
+      "label": "Griffith University: Adam Scott Foundation Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen"
+        ]
+      },
+      "field": {
+        "yes": [
+          "business"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "This scholarship is for payment of 100% of the student contribution charges (CSP/HECS).",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/adam-scott-foundation-business-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-mario-bortolanza-regional-scholarship",
+    "name": "Mario Bortolanza Regional Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $20,000 for students relocating from regional Queensland to start a music degree at the Queensland Conservatorium.",
+    "key": "Up to $5,000 per year, up to $20,000 in total including honours.",
+    "who": [
+      "Commencing full-time in an undergraduate music degree at the Queensland Conservatorium in 2027.",
+      "Relocating from a rural, regional or remote location in Queensland.",
+      "Australian citizen, permanent resident or permanent humanitarian visa holder."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Offered again in 2027; no closing date published yet."
+    ],
+    "tags": [
+      "griffith",
+      "music",
+      "conservatorium",
+      "regional",
+      "relocation"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-mario-bortolanza-regional-scholarship",
+      "label": "Griffith University: Mario Bortolanza Regional Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "away": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "The scholarship is valued at up to $5,000 per year",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-mario-bortolanza-regional-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "relocating from a rural, regional or remote location in Queensland.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/the-mario-bortolanza-regional-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-mcilwain-family-scholarship",
+    "name": "McIlwain Family Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $20,000 for commencing Griffith Sciences undergraduates facing educational disadvantage.",
+    "key": "Maximum value is $20,000, paid in instalments.",
+    "who": [
+      "Australian citizen or permanent resident.",
+      "Commencing full-time in Trimester 1.",
+      "GPA of 5 or above or an ATAR of 88.75 or above.",
+      "Demonstrate educational disadvantage.",
+      "Not receiving other scholarship funding."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Apply by 4pm, Friday 29 January 2027."
+    ],
+    "tags": [
+      "griffith",
+      "science",
+      "engineering",
+      "it",
+      "griffith sciences",
+      "equity"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/mcilwain-family-scholarship",
+      "label": "Griffith University: McIlwain Family Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value is $20,000, paid in instalments.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/mcilwain-family-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "main eligibility rule",
+        "quote": "demonstrate educational disadvantage based on a comprehensive assessment by the University",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/mcilwain-family-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-makan-family-scholarship",
+    "name": "Makan Family Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $30,000 for First Peoples or historically marginalised students in the Bachelor of Musical Theatre.",
+    "key": "Maximum value of each scholarship is up to $30,000, payable in instalments.",
+    "who": [
+      "Commencing or continuing full-time in the Bachelor of Musical Theatre.",
+      "Demonstrate educational disadvantage.",
+      "Aboriginal and/or Torres Strait Islander, or from a historically marginalised group.",
+      "Australian citizen, permanent resident, permanent humanitarian visa holder or New Zealand citizen."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Listed as coming soon for 2027; the 2026 round closed 30 March 2026."
+    ],
+    "tags": [
+      "griffith",
+      "musical theatre",
+      "conservatorium",
+      "first nations",
+      "equity"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/makan-family-scholarship",
+      "label": "Griffith University: Makan Family Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value of each scholarship is up to $30,000, payable in instalments.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/makan-family-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-laurenson-family-imagine-bursary",
+    "name": "Laurenson Family Imagine Bursary",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Up to $1,500 for female Griffith students in an arts or design and business dual degree.",
+    "key": "Maximum value is $1,500, paid in instalments.",
+    "who": [
+      "Australian citizen.",
+      "Identify as female.",
+      "Continuing, full-time undergraduate in a listed Visual Arts, Design, Photography or Creative and Interactive Media dual degree with Business.",
+      "Minimum GPA of 4.5."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Listed as coming soon for 2027; the 2026 round closed 23 March 2026."
+    ],
+    "tags": [
+      "griffith",
+      "arts",
+      "design",
+      "business",
+      "female"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/laurenson-family-imagine-bursary",
+      "label": "Griffith University: Laurenson Family Imagine Bursary"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "Maximum value is $1,500, paid in instalments.",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/laurenson-family-imagine-bursary",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-accommodation-residential-leadership-scholarship",
+    "name": "Griffith Accommodation Residential Leadership Scholarship",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "$2,500 per trimester for returning Griffith Accommodation residents on the student leadership team.",
+    "key": "$2,500 per trimester for up to three years.",
+    "who": [
+      "Returning Griffith Accommodation resident who has lived on campus for at least one trimester.",
+      "Hold a position on the Griffith Accommodation Student Leadership Team.",
+      "Cumulative GPA of 4.5 or above."
+    ],
+    "how": [
+      "Apply through Griffith's online scholarship application process."
+    ],
+    "catches": [
+      "Opening soon for 2027; no closing date published yet."
+    ],
+    "tags": [
+      "griffith",
+      "accommodation",
+      "residential",
+      "leadership",
+      "nathan"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-accommodation-residential-leadership-scholarship",
+      "label": "Griffith University: Griffith Accommodation Residential Leadership Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "the key figure",
+        "quote": "$2,500 per trimester for up to three years",
+        "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-accommodation-residential-leadership-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-career-achievers-graduate-accelerator",
+    "name": "Career Achievers Program and Graduate Accelerator Program",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Funding for equity undergraduates' professional development, placements, internships or global mobility activities.",
+    "who": [
+      "Currently enrolled domestic undergraduates in particular program areas.",
+      "Low-SES, regional or remote, and/or First Nations students.",
+      "First-years use the Career Achievers Program; later years use the Graduate Accelerator Program."
+    ],
+    "how": [
+      "Apply through the UniHub form linked from Griffith's other financial support page."
+    ],
+    "catches": [
+      "Griffith doesn't publish the amounts on this page."
+    ],
+    "tags": [
+      "griffith",
+      "career",
+      "internship",
+      "placement",
+      "global mobility",
+      "equity"
+    ],
+    "source": {
+      "url": "https://student.griffith.edu.au/my-study/scholarships/other-financial-support",
+      "label": "Griffith University: other financial support"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "what it funds",
+        "quote": "Financial support for professional development, work readiness, placement, internship, or global mobility activities",
+        "url": "https://student.griffith.edu.au/my-study/scholarships/other-financial-support",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-student-guild-free-legal-service",
+    "name": "Student Guild free legal service",
+    "provider": "Griffith University Gold Coast Student Guild",
+    "category": "uni",
+    "summary": "Free legal advice from McInnes Wilson Lawyers for all currently enrolled Griffith students.",
+    "key": "Free legal advice through the Student Guild's partnership with McInnes Wilson Lawyers.",
+    "who": [
+      "All students currently enrolled at Griffith University."
+    ],
+    "how": [
+      "Use the Enquire now form; a lawyer should reply by email within 48 hours on weekdays."
+    ],
+    "catches": [
+      "Advice only, no legal representation.",
+      "No longer covers migration law.",
+      "Covers family, estates and personal injury law."
+    ],
+    "tags": [
+      "griffith",
+      "legal",
+      "lawyer",
+      "student guild",
+      "gold coast"
+    ],
+    "source": {
+      "url": "https://gugcstudentguild.com.au/legal-service/",
+      "label": "Griffith University Gold Coast Student Guild: Legal service"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "free legal advice",
+        "quote": "We offer free legal services through our partnership with McInnes Wilson Lawyers.",
+        "url": "https://gugcstudentguild.com.au/legal-service/",
+        "page_date": null
+      },
+      {
+        "claim": "eligibility",
+        "quote": "all students currently enrolled at Griffith University",
+        "url": "https://gugcstudentguild.com.au/legal-service/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-student-guild-campus-cupboard",
+    "name": "Student Guild Campus Cupboard",
+    "provider": "Griffith University Gold Coast Student Guild",
+    "category": "uni",
+    "summary": "Free groceries, pantry staples and fresh fruit and veg for Gold Coast campus students twice a week.",
+    "who": [
+      "All Gold Coast campus students."
+    ],
+    "how": [
+      "Bring your own bag and student card, next to The Uni Store (G07)."
+    ],
+    "catches": [
+      "Every Monday and Thursday from 2pm, until it runs out."
+    ],
+    "tags": [
+      "griffith",
+      "food",
+      "pantry",
+      "groceries",
+      "gold coast",
+      "student guild"
+    ],
+    "source": {
+      "url": "https://gugcstudentguild.com.au/food-support/",
+      "label": "Griffith University Gold Coast Student Guild: Food support"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "free groceries",
+        "quote": "free groceries in Campus Cupboard, including pantry staples and fresh fruit and veggies",
+        "url": "https://gugcstudentguild.com.au/food-support/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-student-guild-tuesday-cook-up",
+    "name": "Student Guild Tuesday Cook Up",
+    "provider": "Griffith University Gold Coast Student Guild",
+    "category": "uni",
+    "summary": "Free dinner for Gold Coast students every Tuesday night, cooked by the Student Guild.",
+    "how": [
+      "Just show up at The Deck (G07); no registration needed."
+    ],
+    "catches": [
+      "Every Tuesday night from 6pm.",
+      "Vegetarian options available."
+    ],
+    "tags": [
+      "griffith",
+      "food",
+      "free dinner",
+      "gold coast",
+      "student guild"
+    ],
+    "source": {
+      "url": "https://gugcstudentguild.com.au/food-support/",
+      "label": "Griffith University Gold Coast Student Guild: Food support"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "free dinner",
+        "quote": "Let the Student Guild cook you a free dinner",
+        "url": "https://gugcstudentguild.com.au/food-support/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-student-guild-cereal-bar",
+    "name": "Student Guild Cereal Bar",
+    "provider": "Griffith University Gold Coast Student Guild",
+    "category": "uni",
+    "summary": "Free cereal, juice, tea and coffee most weekday mornings for Gold Coast students.",
+    "who": [
+      "Available to all Gold Coast students."
+    ],
+    "how": [
+      "Go to The Courtside (G32); no registration required."
+    ],
+    "catches": [
+      "Monday, Tuesday, Thursday and Friday mornings, 7am to 9am."
+    ],
+    "tags": [
+      "griffith",
+      "food",
+      "breakfast",
+      "gold coast",
+      "student guild"
+    ],
+    "source": {
+      "url": "https://gugcstudentguild.com.au/food-support/",
+      "label": "Griffith University Gold Coast Student Guild: Food support"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "free breakfast",
+        "quote": "free cereal, juice, tea and coffee every morning",
+        "url": "https://gugcstudentguild.com.au/food-support/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-student-guild-placement-care-pack",
+    "name": "Student Guild Placement Care Pack",
+    "provider": "Griffith University Gold Coast Student Guild",
+    "category": "uni",
+    "summary": "A pack of everyday essentials for Gold Coast students who relocate or cut work hours for unpaid placement.",
+    "who": [
+      "Students who must relocate outside the Gold Coast and/or reduce paid work hours for an unpaid placement."
+    ],
+    "how": [
+      "Use the online application form on the Student Guild's essential support page."
+    ],
+    "catches": [
+      "One pack per student."
+    ],
+    "tags": [
+      "griffith",
+      "placement",
+      "prac",
+      "gold coast",
+      "student guild"
+    ],
+    "source": {
+      "url": "https://gugcstudentguild.com.au/emergency-support/",
+      "label": "Griffith University Gold Coast Student Guild: Essential support"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      },
+      "prac": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "what it is",
+        "quote": "you can apply for a placement care package to help you with everyday essentials. One pack per student.",
+        "url": "https://gugcstudentguild.com.au/emergency-support/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-src-student-pantry",
+    "name": "SRC Student Pantry and food support",
+    "provider": "Griffith University Student Representative Council",
+    "category": "uni",
+    "summary": "Free essential food items for Griffith students at Nathan, Logan and South Bank, with no proof of hardship needed.",
+    "who": [
+      "Griffith students at Brisbane South (Nathan), Logan and Brisbane City (South Bank); online students can visit a nearby campus."
+    ],
+    "how": [
+      "Check the SRC food support page for each campus's times and locations."
+    ],
+    "catches": [
+      "Includes the Student Pantry, Fruit and Vegetable Market, Breakfast Bar and Meal Drops."
+    ],
+    "tags": [
+      "griffith",
+      "food",
+      "pantry",
+      "nathan",
+      "logan",
+      "south bank",
+      "src"
+    ],
+    "source": {
+      "url": "https://griffithsrc.com.au/food-support/",
+      "label": "Griffith SRC: Food support"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "no hardship test",
+        "quote": "No proof of hardship needed; you know your own needs best!",
+        "url": "https://griffithsrc.com.au/food-support/",
+        "page_date": null
+      },
+      {
+        "claim": "free food",
+        "quote": "free, essential food items funded by SSAF",
+        "url": "https://griffithsrc.com.au/food-support/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-src-gupsa-period-products",
+    "name": "Free period care products (SRC and GUPSA)",
+    "provider": "Griffith University Student Representative Council",
+    "category": "uni",
+    "summary": "Free period care products for Griffith students at stations on the Nathan, Logan and South Bank campuses.",
+    "how": [
+      "Pick up from stations at Nathan (N28 Merch, N18_0.01), Logan (L03_2.02) and South Bank (S02_2.02, S01 Room 1.48 D)."
+    ],
+    "tags": [
+      "griffith",
+      "period products",
+      "health",
+      "src",
+      "gupsa",
+      "nathan",
+      "logan"
+    ],
+    "source": {
+      "url": "https://griffithsrc.com.au/period-positivity-program",
+      "label": "Griffith SRC: Period Positivity Program"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "free products",
+        "quote": "free period care products to students",
+        "url": "https://griffithsrc.com.au/period-positivity-program",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-chaplaincy-free-pancake-breakfasts",
+    "name": "Chaplaincy free pancake breakfasts",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Free weekly pancake breakfasts during trimester at Griffith's South Bank, Nathan and Logan campuses.",
+    "catches": [
+      "Weekly during trimester from Week 2.",
+      "South Bank Wednesdays 11:30am, Nathan Thursdays 9am, Logan Tuesdays 9am."
+    ],
+    "tags": [
+      "griffith",
+      "food",
+      "breakfast",
+      "chaplaincy",
+      "nathan",
+      "logan",
+      "south bank"
+    ],
+    "source": {
+      "url": "https://student.griffith.edu.au/student-support/spiritual-wellbeing/chaplaincy",
+      "label": "Griffith University: Chaplaincy"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "free breakfast",
+        "quote": "Come and fill up on a free feed of pancakes cooked by a local faith group and powered by Griffith Chaplaincy.",
+        "url": "https://student.griffith.edu.au/student-support/spiritual-wellbeing/chaplaincy",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-chaplaincy-connect-dinners",
+    "name": "Chaplaincy Connect Dinners",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Free fortnightly dinners for Griffith students at Gold Coast and Nathan, aimed at helping international students connect.",
+    "who": [
+      "All students welcome."
+    ],
+    "how": [
+      "Register through the Chaplaincy page link."
+    ],
+    "catches": [
+      "Fortnightly on Mondays during trimester at 6pm."
+    ],
+    "tags": [
+      "griffith",
+      "food",
+      "free dinner",
+      "international",
+      "gold coast",
+      "nathan",
+      "chaplaincy"
+    ],
+    "source": {
+      "url": "https://student.griffith.edu.au/student-support/spiritual-wellbeing/chaplaincy",
+      "label": "Griffith University: Chaplaincy"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "eligibility",
+        "quote": "All students welcome.",
+        "url": "https://student.griffith.edu.au/student-support/spiritual-wellbeing/chaplaincy",
+        "page_date": null
+      },
+      {
+        "claim": "free dinner",
+        "quote": "Each fortnight Griffith Chaplaincy host free dinners",
+        "url": "https://www.griffith.edu.au/student-support/cost-of-living",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-free-counselling",
+    "name": "Griffith counselling and wellbeing services",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Free, confidential counselling for enrolled Griffith students, plus a 24/7 mental wellbeing support line.",
+    "key": "Free and confidential counselling, plus the 24/7 Mental Wellbeing Support Line on 1300 785 442.",
+    "who": [
+      "Currently enrolled Griffith students (or holding an offer, on approved leave or deferment).",
+      "Recent graduates within three months (six months for previous clients)."
+    ],
+    "how": [
+      "Book telehealth online, or call (07) 3735 7299 (Nathan) or (07) 5552 8734 (Gold Coast) for limited face-to-face appointments."
+    ],
+    "catches": [
+      "Not available to students outside Australia."
+    ],
+    "tags": [
+      "griffith",
+      "counselling",
+      "mental health",
+      "wellbeing",
+      "crisis"
+    ],
+    "source": {
+      "url": "https://student.griffith.edu.au/student-support/counselling",
+      "label": "Griffith University: Counselling"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "free counselling",
+        "quote": "High-quality, free and confidential counselling and wellbeing services",
+        "url": "https://student.griffith.edu.au/student-support/counselling",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-tax-clinic",
+    "name": "Griffith Tax Clinic",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Free tax help from supervised Griffith student advisers, including tax returns and ATO notices.",
+    "who": [
+      "Unrepresented taxpayers."
+    ],
+    "how": [
+      "Apply through the online form, email taxclinic@griffith.edu.au or call +61 7 338 21177."
+    ],
+    "catches": [
+      "Runs at Logan campus (L08, Room 1.11) on Tuesdays, plus Wednesdays in Trimester 2, 9am to 4pm."
+    ],
+    "tags": [
+      "griffith",
+      "tax",
+      "tax return",
+      "ato",
+      "logan"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/griffith-business-school/department-accounting-finance-economics/griffith-tax-clinic",
+      "label": "Griffith University: Griffith Tax Clinic"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "free tax help",
+        "quote": "Providing free tax assistance to help you navigate Australia's complex tax system.",
+        "url": "https://www.griffith.edu.au/griffith-business-school/department-accounting-finance-economics/griffith-tax-clinic",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-clothing-library",
+    "name": "The Clothing Library",
+    "provider": "Griffith University",
+    "category": "uni",
+    "summary": "Free business wear for Griffith students for interviews, internships and work placements.",
+    "how": [
+      "Visit the red shipping container outside the L04 student lounge at Logan, or email s.paterson@griffith.edu.au."
+    ],
+    "catches": [
+      "Opening depends on staff availability, usually market days at Logan."
+    ],
+    "tags": [
+      "griffith",
+      "clothing",
+      "interview",
+      "placement",
+      "logan",
+      "career"
+    ],
+    "source": {
+      "url": "https://www.griffith.edu.au/student-support/cost-of-living/clothing-library",
+      "label": "Griffith University: The Clothing Library"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "free business wear",
+        "quote": "quality business wear to students at no cost",
+        "url": "https://www.griffith.edu.au/student-support/cost-of-living/clothing-library",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-student-guild-free-facility-friday",
+    "name": "Student Guild Free Facility Friday",
+    "provider": "Griffith University Gold Coast Student Guild",
+    "category": "uni",
+    "summary": "Free use of the Uni Fitness gym, Aquatic Centre and athletics track at Gold Coast every Friday during trimester.",
+    "catches": [
+      "Fridays during trimester only."
+    ],
+    "tags": [
+      "griffith",
+      "gym",
+      "fitness",
+      "pool",
+      "gold coast",
+      "student guild"
+    ],
+    "source": {
+      "url": "https://gugcstudentguild.com.au/",
+      "label": "Griffith University Gold Coast Student Guild: home page"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "free facility access",
+        "quote": "Every Friday during the trimester, you can use the Uni Fitness gym (G07), Aquatic Centre (G45) and athletics track free",
+        "url": "https://gugcstudentguild.com.au/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-student-guild-budgeted",
+    "name": "Student Guild BudgetED",
+    "provider": "Griffith University Gold Coast Student Guild",
+    "category": "uni",
+    "summary": "Free one-on-one budgeting support from a qualified financial professional for Gold Coast students.",
+    "catches": [
+      "Listed as an event on the Student Guild calendar; check dates."
+    ],
+    "tags": [
+      "griffith",
+      "budget",
+      "financial counselling",
+      "money",
+      "gold coast",
+      "student guild"
+    ],
+    "source": {
+      "url": "https://gugcstudentguild.com.au/",
+      "label": "Griffith University Gold Coast Student Guild: home page"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "free budgeting support",
+        "quote": "BudgetED gives you free one-on-one support from a qualified financial professional",
+        "url": "https://gugcstudentguild.com.au/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-student-guild-qstars-tenancy-advice",
+    "name": "Free tenancy advice at the Student Guild (QSTARS)",
+    "provider": "Griffith University Gold Coast Student Guild",
+    "category": "uni",
+    "summary": "Free, confidential tenancy advice from QSTARS every Monday at the Gold Coast Student Guild reception.",
+    "how": [
+      "Visit the Guild Reception (G07) on a Monday."
+    ],
+    "tags": [
+      "griffith",
+      "renting",
+      "tenancy",
+      "legal",
+      "gold coast",
+      "student guild"
+    ],
+    "source": {
+      "url": "https://gugcstudentguild.com.au/",
+      "label": "Griffith University Gold Coast Student Guild: home page"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "free tenancy advice",
+        "quote": "QSTARS offers free, confidential tenancy advice every Monday at the Guild Reception (G07).",
+        "url": "https://gugcstudentguild.com.au/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "griffith-student-home-use-software",
+    "name": "Griffith Student Home Use Software Library",
+    "provider": "Griffith University",
+    "category": "software",
+    "summary": "Study software such as EndNote, NVivo, SAS and discounted SPSS through your Griffith student account.",
+    "how": [
+      "Open the Student Home Use Software Library with your Griffith student account."
+    ],
+    "catches": [
+      "SPSS and Amos are vendor-discounted, not free.",
+      "Adobe Creative Cloud is staff-only."
+    ],
+    "tags": [
+      "griffith",
+      "software",
+      "endnote",
+      "nvivo",
+      "spss"
+    ],
+    "source": {
+      "url": "https://student.griffith.edu.au/student-support/digital-services/software",
+      "label": "Griffith University: Software"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "griffith"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "how to get it",
+        "quote": "This software is accessible through your Griffith student account via SharePoint.",
+        "url": "https://student.griffith.edu.au/student-support/digital-services/software",
+        "page_date": null
+      }
+    ]
+  }
+]

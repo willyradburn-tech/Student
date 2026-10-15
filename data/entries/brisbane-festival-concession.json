@@ -1,0 +1,43 @@
+{
+  "id": "brisbane-festival-concession",
+  "name": "Brisbane Festival concession tickets",
+  "provider": "Brisbane Festival",
+  "category": "streaming",
+  "summary": "Brisbane Festival offers concession tickets to full-time students on many productions.",
+  "who": [
+    "Full-time students."
+  ],
+  "catches": [
+    "Discounts vary by production; check each event page.",
+    "The festival runs each September, so offers apply to the next festival."
+  ],
+  "tags": [
+    "brisbane festival",
+    "festival",
+    "brisbane",
+    "concession"
+  ],
+  "source": {
+    "url": "https://www.brisbanefestival.com.au/info/ticketing-info",
+    "label": "Brisbane Festival: Ticketing Info"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Full-time students",
+      "quote": "Concession – For full-time students, pension card holders, healthcare card holders, or seniors card holders.",
+      "url": "https://www.brisbanefestival.com.au/info/ticketing-info",
+      "page_date": null
+    }
+  ]
+}

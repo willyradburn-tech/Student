@@ -1,0 +1,71 @@
+{
+  "id": "unisq-placement-bursary",
+  "name": "UniSQ Placement Bursary",
+  "provider": "University of Southern Queensland",
+  "category": "uni",
+  "summary": "Help with travel and accommodation costs for UniSQ undergraduates attending mandatory placements.",
+  "key": "The placement bursary value will range from $250 to $1000 and will be paid in one instalment.",
+  "who": [
+    "Domestic student living in Australia",
+    "Low-to-middle annual household income",
+    "Clinical Placement Bursary applicants must attend a placement more than 80 km from their term-time address"
+  ],
+  "how": [
+    "Apply through the UniSQ Scholarship Application Management System"
+  ],
+  "catches": [
+    "Trimester 3 2026 applications close 11:59pm 23 November 2026"
+  ],
+  "tags": [
+    "unisq",
+    "usq",
+    "placement",
+    "prac",
+    "nursing",
+    "education",
+    "travel"
+  ],
+  "source": {
+    "url": "https://www.unisq.edu.au/scholarships/placement-bursary",
+    "label": "UniSQ: Placement Bursary"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "The placement bursary value will range from $250 to $1000 and will be paid in one instalment.",
+      "url": "https://www.unisq.edu.au/scholarships/placement-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "Income rule",
+      "quote": "have a low-to-middle annual household income.",
+      "url": "https://www.unisq.edu.au/scholarships/placement-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Close: Monday 23 November 2026 at 11:59pm (AEST)",
+      "url": "https://www.unisq.edu.au/scholarships/placement-bursary",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-11-23"
+}

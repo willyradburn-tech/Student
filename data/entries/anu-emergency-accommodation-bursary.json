@@ -1,0 +1,51 @@
+{
+  "id": "anu-emergency-accommodation-bursary",
+  "name": "ANU Emergency Accommodation Bursary",
+  "provider": "Australian National University",
+  "category": "uni",
+  "summary": "Variable-value bursary to help continuing ANU students in financial hardship with accommodation costs.",
+  "key": "Value: Variable",
+  "who": [
+    "Continuing ANU student",
+    "Domestic or international, undergraduate or postgraduate",
+    "Selected on financial hardship"
+  ],
+  "tags": [
+    "anu",
+    "canberra",
+    "act",
+    "accommodation",
+    "hardship",
+    "bursary"
+  ],
+  "source": {
+    "url": "https://study.anu.edu.au/scholarships/find-scholarship/emergency-accommodation-bursary",
+    "label": "ANU: Emergency Accommodation Bursary"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Variable",
+      "url": "https://study.anu.edu.au/scholarships/find-scholarship/emergency-accommodation-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility starts",
+      "quote": "The Award is available to a continuing ANU student who:",
+      "url": "https://study.anu.edu.au/scholarships/find-scholarship/emergency-accommodation-bursary",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

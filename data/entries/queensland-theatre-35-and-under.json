@@ -1,0 +1,53 @@
+{
+  "id": "queensland-theatre-35-and-under",
+  "name": "Queensland Theatre 35 & Under and student concession",
+  "provider": "Queensland Theatre",
+  "category": "streaming",
+  "summary": "Queensland Theatre gives season ticket discounts to people 35 and under and concession to full-time students.",
+  "who": [
+    "People aged 35 or younger, with photo ID showing birth year.",
+    "Full-time students with a copy of their student ID."
+  ],
+  "how": [
+    "Email proof of age or student status to sales@queenslandtheatre.com.au."
+  ],
+  "catches": [
+    "The page does not list prices; it refers to a price table PDF."
+  ],
+  "tags": [
+    "queensland theatre",
+    "theatre",
+    "brisbane",
+    "under 35",
+    "season tickets"
+  ],
+  "source": {
+    "url": "https://queenslandtheatre.com.au/season-tickets-1",
+    "label": "Queensland Theatre: Season Tickets"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "35 & Under",
+      "quote": "35 & Under - discount is available to those aged 35 or younger at time of booking, who can provide a photo",
+      "url": "https://queenslandtheatre.com.au/season-tickets-1",
+      "page_date": null
+    },
+    {
+      "claim": "Concession for full-time students",
+      "quote": "numbers or can provide a copy of their Full Time Student ID*.",
+      "url": "https://queenslandtheatre.com.au/season-tickets-1",
+      "page_date": null
+    }
+  ]
+}

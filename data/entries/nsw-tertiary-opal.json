@@ -1,0 +1,97 @@
+{
+  "id": "nsw-tertiary-opal",
+  "name": "NSW tertiary student Opal concession",
+  "provider": "Transport for NSW",
+  "category": "transport",
+  "summary": "Reduced Opal fares between home and an approved NSW institution.",
+  "tags": [
+    "opal",
+    "train",
+    "bus",
+    "sydney",
+    "nsw"
+  ],
+  "who": [
+    "Live in NSW, and are an Australian citizen or permanent resident.",
+    "Full-time, on-campus students at an approved institution, as your institution defines it. Other accredited courses need at least 16 hours a week of on-campus classes for six continuous weeks.",
+    "International students only if they hold an Endeavour, Australia Awards or Research Training Program scholarship.",
+    "Students with disability may qualify if they study part-time or externally."
+  ],
+  "how": [
+    "Check your institution is on the approved list.",
+    "Give your institution consent to share your details with Transport for NSW, then allow two business days.",
+    "Check whether your student ID is accepted as proof. If not, apply online for a free Transport Concession Entitlement Card (TCEC).",
+    "Apply for a Concession Opal card once you have proof of entitlement.",
+    "Since 20 May 2026 you can tap with a linked bank card or device and still pay the concession fare."
+  ],
+  "catches": [
+    "The TCEC is valid for up to 15 months. Renew it from 30 days before expiry, and by 31 March each year.",
+    "The TCEC is tied to one institution. Reapply if you change.",
+    "The concession is for travel between home and your institution.",
+    "Transport for NSW doesn't state the size of the discount on this page, so no percentage is shown."
+  ],
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ],
+      "maybe": [
+        "qld",
+        "vic",
+        "wa",
+        "act",
+        "other"
+      ]
+    },
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://transportnsw.info/tertiary-students",
+    "label": "Transport for NSW: tertiary students"
+  },
+  "extra_sources": [
+    {
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-transport-concession-entitlement-card-as-a-tertiary-or-tafe-student",
+      "label": "Service NSW: transport concession entitlement card for tertiary students"
+    }
+  ],
+  "evidence": [
+    {
+      "claim": "Live in NSW",
+      "quote": "live in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-transport-concession-entitlement-card-as-a-tertiary-or-tafe-student",
+      "page_date": null
+    },
+    {
+      "claim": "International scholarship holders",
+      "quote": "Endeavour Scholarship, an Australian Awards Scholarship, or a Research Training Program (RTP) Scholarship",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-transport-concession-entitlement-card-as-a-tertiary-or-tafe-student",
+      "page_date": null
+    }
+  ],
+  "open_questions": [
+    "The concession fare amounts and caps; the fares page showed headings only."
+  ]
+}

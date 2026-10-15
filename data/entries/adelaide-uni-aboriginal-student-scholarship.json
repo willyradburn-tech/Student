@@ -1,0 +1,71 @@
+{
+  "id": "adelaide-uni-aboriginal-student-scholarship",
+  "name": "Adelaide University Aboriginal Student Scholarship",
+  "provider": "Adelaide University",
+  "category": "uni",
+  "summary": "Up to $6,000 a year for up to four years for commencing Aboriginal and Torres Strait Islander students facing financial barriers.",
+  "key": "Total value $36,000, including an annual stipend of up to $6,000 per annum for up to 4 years.",
+  "who": [
+    "Commencing undergraduate or postgraduate coursework students (including AU Online)",
+    "An Australian Citizen of Aboriginal and Torres Strait Islander descent",
+    "Demonstrate financial barriers to access post-secondary study"
+  ],
+  "how": [
+    "Online application through myScholarships"
+  ],
+  "catches": [
+    "The latest listed round opened 27 July 2026 and closed 23 August 2026",
+    "Also includes a $1,500 relocation grant for students moving from outside Major Cities and a $500 starter pack"
+  ],
+  "tags": [
+    "adelaide uni",
+    "adelaide university",
+    "adelaide",
+    "sa",
+    "aboriginal",
+    "torres strait islander",
+    "first nations",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://adelaide.edu.au/study/scholarships/dom/adelaide-university-aboriginal-student-scholarship/",
+    "label": "Adelaide University: Aboriginal Student Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Stipend",
+      "quote": "annual stipend of up to $6,000 per annum for up to 4 years,",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/adelaide-university-aboriginal-student-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "An Australian Citizen of Aboriginal and Torres Strait Islander descent",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/adelaide-university-aboriginal-student-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

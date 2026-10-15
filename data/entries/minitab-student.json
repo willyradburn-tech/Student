@@ -1,0 +1,46 @@
+{
+  "id": "minitab-student",
+  "name": "Minitab student rental",
+  "provider": "Minitab",
+  "category": "software",
+  "summary": "Six- and twelve-month Minitab statistics licences at student prices.",
+  "key": "12-month student rental $79.99 USD; 6-month $49.99 USD.",
+  "how": [
+    "Buy through OnTheHub.com."
+  ],
+  "tags": [
+    "statistics",
+    "minitab",
+    "data analysis",
+    "six sigma"
+  ],
+  "source": {
+    "url": "https://www.minitab.com/en-us/academic/",
+    "label": "Minitab: Academic"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Student rental",
+      "quote": "Single-User Student & Faculty Rentals for Degree Courses",
+      "url": "https://www.minitab.com/en-us/academic/",
+      "page_date": null
+    },
+    {
+      "claim": "Price",
+      "quote": "$79.99 USD",
+      "url": "https://www.minitab.com/en-us/academic/",
+      "page_date": null
+    },
+    {
+      "claim": "6-month price",
+      "quote": "$49.99 USD",
+      "url": "https://www.minitab.com/en-us/academic/",
+      "page_date": null
+    }
+  ]
+}

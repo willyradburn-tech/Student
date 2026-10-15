@@ -1,0 +1,56 @@
+{
+  "id": "vicroads-registration-concession",
+  "name": "VicRoads registration concession for Health Care Card holders",
+  "provider": "VicRoads",
+  "category": "transport",
+  "summary": "Half-price vehicle registration fee in Victoria for one private vehicle owned by a Health Care Card holder.",
+  "key": "50% discount on registration fee (Health Care Card; no discount on the TAC fee).",
+  "who": [
+    "Primary cardholder (or spouse/domestic partner) named on the renewal notice",
+    "One vehicle used privately for social, domestic or recreational purposes"
+  ],
+  "how": [
+    "Log in to myVicRoads, select Vehicles & Registration, then Apply for registration concession.",
+    "Apply at least 5 days before the due date and wait for confirmation before renewing."
+  ],
+  "catches": [
+    "No discount on the TAC fee for Health Care Card holders.",
+    "Concession card eligibility will be checked with the responsible authority before the concession is granted."
+  ],
+  "tags": [
+    "Victoria",
+    "VicRoads",
+    "car registration",
+    "rego",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://www.vicroads.vic.gov.au/registration/registration-fees/concessions-and-discounts/registration-concessions",
+    "label": "VicRoads: Registration concessions"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Health Care Card discount",
+      "quote": "50% discount on registration fee",
+      "url": "https://www.vicroads.vic.gov.au/registration/registration-fees/concessions-and-discounts/registration-concessions",
+      "page_date": null
+    },
+    {
+      "claim": "Health Care Card accepted",
+      "quote": "Centrelink concession cards, such as Health Care card and Pensioner Concession Card",
+      "url": "https://www.vicroads.vic.gov.au/registration/registration-fees/concessions-and-discounts/registration-concessions",
+      "page_date": null
+    }
+  ]
+}

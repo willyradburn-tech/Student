@@ -1,0 +1,42 @@
+{
+  "id": "griffith-src-gupsa-period-products",
+  "name": "Free period care products (SRC and GUPSA)",
+  "provider": "Griffith University Student Representative Council",
+  "category": "uni",
+  "summary": "Free period care products for Griffith students at stations on the Nathan, Logan and South Bank campuses.",
+  "how": [
+    "Pick up from stations at Nathan (N28 Merch, N18_0.01), Logan (L03_2.02) and South Bank (S02_2.02, S01 Room 1.48 D)."
+  ],
+  "tags": [
+    "griffith",
+    "period products",
+    "health",
+    "src",
+    "gupsa",
+    "nathan",
+    "logan"
+  ],
+  "source": {
+    "url": "https://griffithsrc.com.au/period-positivity-program",
+    "label": "Griffith SRC: Period Positivity Program"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "free products",
+      "quote": "free period care products to students",
+      "url": "https://griffithsrc.com.au/period-positivity-program",
+      "page_date": null
+    }
+  ]
+}

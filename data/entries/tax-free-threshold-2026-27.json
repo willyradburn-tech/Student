@@ -1,0 +1,49 @@
+{
+  "id": "tax-free-threshold-2026-27",
+  "name": "Tax-free threshold, 2026-27",
+  "provider": "Australian Taxation Office",
+  "category": "tax",
+  "summary": "The income you can earn before paying income tax, and the first rate above it.",
+  "tags": [
+    "income tax",
+    "part-time job",
+    "casual work",
+    "ato"
+  ],
+  "key": "Your first $18,200 a year is tax-free if you are a resident for tax purposes.",
+  "who": [
+    "Residents for tax purposes."
+  ],
+  "numbers": [
+    [
+      "$0 to $18,200",
+      "Nil"
+    ],
+    [
+      "$18,201 to $45,000",
+      "15 cents for each $1 over $18,200"
+    ]
+  ],
+  "catches": [
+    "The 2% Medicare levy is on top of these rates."
+  ],
+  "status": "verified",
+  "verified": "2026-10-12",
+  "cadence": "low",
+  "review": "approved",
+  "match": {
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://www.ato.gov.au/tax-rates-and-codes/tax-rates-australian-residents",
+    "label": "ATO: tax rates for Australian residents"
+  }
+}

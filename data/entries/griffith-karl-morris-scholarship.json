@@ -1,0 +1,68 @@
+{
+  "id": "griffith-karl-morris-scholarship",
+  "name": "Karl Morris Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $5,000 for financially disadvantaged Griffith business, commerce and financial planning students from second year.",
+  "key": "Maximum value is $5,000, paid in instalments.",
+  "who": [
+    "Australian citizen, permanent resident or Permanent Humanitarian Visa holder.",
+    "Commencing at least second year of the program (minimum 80 CP completed).",
+    "Not receiving any other scholarship funding."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process.",
+    "Include a CV and Centrelink statements or other evidence of financial hardship."
+  ],
+  "catches": [
+    "Apply by 4pm, Monday 15 March 2027."
+  ],
+  "tags": [
+    "griffith",
+    "business",
+    "commerce",
+    "financial planning",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/karl-morris-scholarships",
+    "label": "Griffith University: Karl Morris Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "business"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value is $5,000, paid in instalments.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/karl-morris-scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "be commencing at least second year of the required program (have completed a minimum of 80CP)",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/karl-morris-scholarships",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

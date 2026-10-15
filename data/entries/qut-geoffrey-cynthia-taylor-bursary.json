@@ -1,0 +1,72 @@
+{
+  "id": "qut-geoffrey-cynthia-taylor-bursary",
+  "name": "Geoffrey and Cynthia Taylor Bursary",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "A bursary for continuing Aboriginal and Torres Strait Islander QUT students studying full time.",
+  "key": "Valued at $1,000.",
+  "who": [
+    "Australian citizen.",
+    "Aboriginal and/or Torres Strait Islander, confirmed through QUT's CATSID procedure.",
+    "Full-time (36 credit points or more) and completed at least 96 credit points of an eligible course."
+  ],
+  "how": [
+    "Apply with the application form, with a CV, transcript, a response to the selection criteria and proof of descent.",
+    "Questions go to information.oodgeroo@qut.edu.au."
+  ],
+  "catches": [
+    "The terms found are the 2025 terms. Check the current round.",
+    "A separate Higher Degree by Research version exists."
+  ],
+  "tags": [
+    "qut",
+    "indigenous",
+    "first nations",
+    "bursary"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/geoffrey-and-cynthia-taylor-bursary",
+    "label": "QUT: Geoffrey and Cynthia Taylor Bursary"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$1,000",
+      "quote": "is a bursary valued at $1,000, offered to continuing Aboriginal and Torres Strait Islander students",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0005/1407623/2025-Geoffrey-and-Cynthia-Taylor-Bursary-Terms-and-Conditions.pdf",
+      "page_date": null
+    },
+    {
+      "claim": "Full-time",
+      "quote": "Must be enrolled in a standard full-time enrolment program (36 credit points or more)",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0005/1407623/2025-Geoffrey-and-Cynthia-Taylor-Bursary-Terms-and-Conditions.pdf",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

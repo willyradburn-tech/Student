@@ -1,0 +1,56 @@
+{
+  "id": "scu-transition-to-uni-pathway-scholarship",
+  "name": "Transition to Uni (TU) Pathway Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$2,500 offered with an Early Offer to SCU's Transition to Uni summer pathway in 2027, paid as you move into a bachelor degree.",
+  "key": "Each scholarship is worth a total of $2,500.",
+  "who": [
+    "Starting the Transition to Uni program in 2027 with an Early Offer.",
+    "Completing it in Summer 2027 and moving straight into the packaged bachelor degree."
+  ],
+  "how": [
+    "No application required. It comes with the course offer."
+  ],
+  "catches": [
+    "40 places, given to the first 40 students who accept, with a waiting list.",
+    "Paid in instalments: $1,000 after the summer census, $500 when the degree starts, $1,000 after the first two subjects."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "pathway",
+    "transition to uni",
+    "early offer"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/transition-to-uni/",
+    "label": "Southern Cross University: Transition to Uni (TU) Pathway Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "Each scholarship is worth a total of $2,500.",
+      "url": "https://www.scu.edu.au/scholarships/transition-to-uni/",
+      "page_date": null
+    },
+    {
+      "claim": "No application",
+      "quote": "No application required. This scholarship is offered concurrently with the course offer.",
+      "url": "https://www.scu.edu.au/scholarships/transition-to-uni/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

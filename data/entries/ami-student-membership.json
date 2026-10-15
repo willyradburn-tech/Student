@@ -1,0 +1,53 @@
+{
+  "id": "ami-student-membership",
+  "name": "AMI free student membership",
+  "provider": "Australian Marketing Institute",
+  "category": "career",
+  "summary": "Free Australian Marketing Institute membership for new members enrolled in AMI-accredited marketing programs.",
+  "key": "FREE Student Membership for individuals enrolled in AMI-accredited tertiary programs.",
+  "who": [
+    "Enrolled in an AMI-accredited tertiary program, or an AMI-endorsed VET, industry or short course"
+  ],
+  "how": [
+    "Enter your email on the page and check the list of eligible institutions."
+  ],
+  "catches": [
+    "Offer valid for new members only."
+  ],
+  "tags": [
+    "marketing",
+    "business",
+    "ami",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://memberhub.ami.org.au/free-ami-Student-Membership",
+    "label": "Australian Marketing Institute: Free AMI Student Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "business"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "AMI offers FREE Student Membership to individuals enrolled in AMI-accredited tertiary programs",
+      "url": "https://memberhub.ami.org.au/free-ami-Student-Membership",
+      "page_date": null
+    },
+    {
+      "claim": "New members",
+      "quote": "Please note, the offer is valid for new members only.",
+      "url": "https://memberhub.ami.org.au/free-ami-Student-Membership",
+      "page_date": null
+    }
+  ]
+}

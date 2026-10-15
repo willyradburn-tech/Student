@@ -1,0 +1,69 @@
+{
+  "id": "cqu-cqunicares-study-resource-equity-bursary",
+  "name": "CQUniCares Study Resource Equity Bursary",
+  "provider": "CQUniversity",
+  "category": "uni",
+  "summary": "Bursary for First Nations CQUniversity students to help with study resources.",
+  "key": "Up to $1,000.",
+  "who": [
+    "First Nations student in an undergraduate or postgraduate course",
+    "Studying at least 6 credit points at Term 3, 2026 census",
+    "Australian or New Zealand citizen, permanent resident or humanitarian visa holder",
+    "Not receiving a Needs-based Funding or ISSP scholarship in the current term"
+  ],
+  "how": [
+    "Complete the online Equity Scholarship Application Form"
+  ],
+  "catches": [
+    "Open until funding is exhausted"
+  ],
+  "tags": [
+    "cqu",
+    "cquniversity",
+    "first nations",
+    "indigenous",
+    "bursary",
+    "study resources"
+  ],
+  "source": {
+    "url": "https://www.cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1264475/cqunicares-study-resource-equity-bursary",
+    "label": "CQUniversity: CQUniCares Study Resource Equity Bursary"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "Up to $1,000",
+      "url": "https://www.cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1264475/cqunicares-study-resource-equity-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "First Nations rule",
+      "quote": "Be a First Nations student enrolled in an undergraduate or postgraduate course",
+      "url": "https://www.cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1264475/cqunicares-study-resource-equity-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "Open until funds run out",
+      "quote": "Bursaries are subject to funding availability. Applications will remain open until funding is exhausted.",
+      "url": "https://www.cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1264475/cqunicares-study-resource-equity-bursary",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

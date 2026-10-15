@@ -1,0 +1,41 @@
+{
+  "id": "virgin-australia-student-fares",
+  "name": "Virgin Australia student airfares",
+  "provider": "Virgin Australia",
+  "category": "transport",
+  "summary": "Discounted student airfares on Virgin Australia domestic and international routes after verifying student status through Student Beans.",
+  "who": [
+    "Students who verify their student status through Student Beans."
+  ],
+  "how": [
+    "Click Book now on Virgin's student page.",
+    "Verify your student status.",
+    "Search for student fares on the Virgin Australia booking page."
+  ],
+  "catches": [
+    "The page does not state the size of the discount or which flights are eligible."
+  ],
+  "tags": [
+    "virgin",
+    "airline",
+    "flights",
+    "student beans"
+  ],
+  "source": {
+    "url": "https://www.virginaustralia.com/au/en/book/partner-offers/student-discounts/",
+    "label": "Virgin Australia: Student discounts"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Discounted student airfares",
+      "quote": "Enjoy discounted student airfares, flexible options, and great value on popular domestic and international routes.",
+      "url": "https://www.virginaustralia.com/au/en/book/partner-offers/student-discounts/",
+      "page_date": null
+    }
+  ]
+}

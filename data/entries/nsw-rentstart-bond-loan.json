@@ -1,0 +1,58 @@
+{
+  "id": "nsw-rentstart-bond-loan",
+  "name": "Rentstart Bond Loan",
+  "provider": "Homes NSW",
+  "category": "payments",
+  "summary": "Interest-free loan covering up to 100% of a rental bond for low-income NSW renters with limited savings.",
+  "key": "The interest-free loan can be up to 100% of your rental bond.",
+  "who": [
+    "Australian citizen or permanent resident in NSW",
+    "Less than $5,000 in cash assets",
+    "Not own or part-own property",
+    "Rent no more than 50% of household gross weekly income"
+  ],
+  "how": [
+    "Apply online or with the PDF form"
+  ],
+  "catches": [
+    "Repaid fortnightly over 12 or 18 months.",
+    "The Homes NSW factsheet gives the rent limit as 60% of income; check with Homes NSW."
+  ],
+  "tags": [
+    "rent",
+    "bond",
+    "housing",
+    "renting",
+    "nsw",
+    "New South Wales"
+  ],
+  "source": {
+    "url": "https://www.service.nsw.gov.au/transaction/apply-rentstart-bond-loan",
+    "label": "Service NSW: Apply for a Rentstart Bond Loan"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "The interest-free loan can be up to 100% of your rental bond.",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-rentstart-bond-loan",
+      "page_date": null
+    },
+    {
+      "claim": "Assets",
+      "quote": "have less than $5,000 in cash assets",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-rentstart-bond-loan",
+      "page_date": null
+    }
+  ]
+}

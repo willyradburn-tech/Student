@@ -1,0 +1,53 @@
+{
+  "id": "fusa-emergency-financial-assistance",
+  "name": "FUSA emergency financial assistance",
+  "provider": "Flinders University Student Association (FUSA)",
+  "category": "uni",
+  "summary": "Supermarket vouchers, food parcels and Metro cards for any enrolled Flinders student in an emergency.",
+  "key": "Supermarket vouchers, food parcels, and metro cards.",
+  "who": [
+    "Any currently enrolled student"
+  ],
+  "how": [
+    "Phone FUSA on 8201 2371 or visit the FUSA office"
+  ],
+  "tags": [
+    "flinders",
+    "fusa",
+    "adelaide",
+    "sa",
+    "food",
+    "vouchers",
+    "metro card",
+    "emergency"
+  ],
+  "source": {
+    "url": "https://students.flinders.edu.au/finances-and-admin/support/help-loans-and-grants",
+    "label": "Flinders University: Help, loans and grants"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "What you get",
+      "quote": "Supermarket vouchers, food parcels, and metro cards.",
+      "url": "https://students.flinders.edu.au/finances-and-admin/support/help-loans-and-grants",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Any currently enrolled student.",
+      "url": "https://students.flinders.edu.au/finances-and-admin/support/help-loans-and-grants",
+      "page_date": null
+    }
+  ]
+}

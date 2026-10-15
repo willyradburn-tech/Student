@@ -1,0 +1,57 @@
+{
+  "id": "uwa-workplace-qualification-reimbursement",
+  "name": "UWA Workplace Qualification Reimbursement Program",
+  "provider": "University of Western Australia",
+  "category": "uni",
+  "summary": "Up to $150 back on RSA, First Aid or Barista training for domestic UWA students, with priority for those in hardship.",
+  "key": "Up to $150 toward costs.",
+  "who": [
+    "Domestic students; international students can apply only for First Aid through Study Perth",
+    "Priority will be given to students facing financial hardship"
+  ],
+  "how": [
+    "Get pre-approval through the application form, then book and pay for training"
+  ],
+  "catches": [
+    "Pre-approved students must provide a tax invoice and certificate of completion to UWA within 30 days"
+  ],
+  "tags": [
+    "uwa",
+    "perth",
+    "wa",
+    "rsa",
+    "first aid",
+    "barista",
+    "work",
+    "reimbursement"
+  ],
+  "source": {
+    "url": "https://www.uwa.edu.au/students/support/financial-assistance",
+    "label": "UWA: Financial support"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Priority",
+      "quote": "Priority will be given to students facing financial hardship.",
+      "url": "https://www.uwa.edu.au/students/support/financial-assistance",
+      "page_date": null
+    },
+    {
+      "claim": "Condition",
+      "quote": "Pre-approved students must provide a tax invoice and certificate of completion to UWA within 30 days",
+      "url": "https://www.uwa.edu.au/students/support/financial-assistance",
+      "page_date": null
+    }
+  ]
+}

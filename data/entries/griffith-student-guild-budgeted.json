@@ -1,0 +1,41 @@
+{
+  "id": "griffith-student-guild-budgeted",
+  "name": "Student Guild BudgetED",
+  "provider": "Griffith University Gold Coast Student Guild",
+  "category": "uni",
+  "summary": "Free one-on-one budgeting support from a qualified financial professional for Gold Coast students.",
+  "catches": [
+    "Listed as an event on the Student Guild calendar; check dates."
+  ],
+  "tags": [
+    "griffith",
+    "budget",
+    "financial counselling",
+    "money",
+    "gold coast",
+    "student guild"
+  ],
+  "source": {
+    "url": "https://gugcstudentguild.com.au/",
+    "label": "Griffith University Gold Coast Student Guild: home page"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "free budgeting support",
+      "quote": "BudgetED gives you free one-on-one support from a qualified financial professional",
+      "url": "https://gugcstudentguild.com.au/",
+      "page_date": null
+    }
+  ]
+}

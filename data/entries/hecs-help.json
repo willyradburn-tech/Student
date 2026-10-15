@@ -1,0 +1,61 @@
+{
+  "id": "hecs-help",
+  "name": "HECS-HELP and Commonwealth supported places",
+  "provider": "Study Assist",
+  "category": "loans",
+  "summary": "A government-subsidised uni place, plus a loan that covers your share of the fees so you pay nothing upfront.",
+  "tags": [
+    "hecs",
+    "help",
+    "csp",
+    "fees",
+    "census date",
+    "ecaf"
+  ],
+  "key": "HELP borrowing limit for most students: $129,883 (2026).",
+  "who": [
+    "Australian citizens who study part of the course in Australia.",
+    "Some non-citizens resident in Australia, such as New Zealand Special Category Visa and permanent humanitarian visa holders."
+  ],
+  "need": [
+    "A Unique Student Identifier (USI).",
+    "A tax file number, or proof you have applied for one.",
+    "The Request for Commonwealth support and HECS-HELP form (eCAF) from your provider."
+  ],
+  "how": [
+    "Check the course is offered as a Commonwealth supported place, on your uni's site or Course Seeker.",
+    "Apply for the course. Your offer letter says whether it is a supported place and how to accept.",
+    "Submit the eCAF through your provider on or before the census date.",
+    "Enrol in your units, then pay upfront or defer to HECS-HELP by the census date.",
+    "Check your balance any time on myHELPbalance."
+  ],
+  "catches": [
+    "If you don't pay or defer by the census date, your supported-place enrolment is cancelled.",
+    "It covers tuition only, not rent, laptops or textbooks.",
+    "Eligibility for non-citizens depends on your visa. Check the Study Assist page for yours."
+  ],
+  "extra_sources": [
+    {
+      "url": "https://www.studyassist.gov.au/help-loans/hecs-help",
+      "label": "Study Assist: HECS-HELP"
+    }
+  ],
+  "status": "verified",
+  "verified": "2026-10-13",
+  "cadence": "low",
+  "review": "pending",
+  "match": {
+    "res": {
+      "yes": [
+        "citizen"
+      ],
+      "maybe": [
+        "pr"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://www.studyassist.gov.au/download/243/2026-commonwealth-supported-places-and-hecs-help-fact-sheet/210/document/pdf",
+    "label": "Study Assist: 2026 CSP and HECS-HELP fact sheet"
+  }
+}

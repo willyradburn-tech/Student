@@ -1,0 +1,45 @@
+{
+  "id": "nswnma-student-membership",
+  "name": "NSWNMA student associate membership",
+  "provider": "NSW Nurses and Midwives' Association",
+  "category": "career",
+  "summary": "Free NSW Nurses and Midwives' Association associate membership for nursing and midwifery students.",
+  "key": "Nursing and midwifery students can become Associate Members for free.",
+  "who": [
+    "Nursing and midwifery students"
+  ],
+  "how": [
+    "Use the Join Now button on the NSWNMA site."
+  ],
+  "tags": [
+    "nursing",
+    "midwifery",
+    "nsw",
+    "union",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.nswnma.asn.au/nswnmamembers/student-membership",
+    "label": "NSWNMA: Student membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Nursing and midwifery students can become Associate Members of the Association for free.",
+      "url": "https://www.nswnma.asn.au/nswnmamembers/student-membership",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "vic-ambulance-concession",
+  "name": "Free ambulance transport for Victorian Health Care Card holders",
+  "provider": "Victorian Department of Families, Fairness and Housing",
+  "category": "health",
+  "summary": "Health Care Card holders in Victoria get free clinically necessary ambulance transport, so they don't need ambulance membership.",
+  "who": [
+    "Health Care Card holders and their dependents, including spouses listed on the card"
+  ],
+  "how": [
+    "Where possible, please advise the ambulance paramedic of your concession card number."
+  ],
+  "catches": [
+    "Please note that concession benefits only apply to clinically necessary transports.",
+    "Your concession card must be valid on the date of travel.",
+    "Excludes Health Care Cards for Carer Allowance or Foster Care issued in the child's name."
+  ],
+  "tags": [
+    "Victoria",
+    "ambulance",
+    "Ambulance Victoria",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://services.dffh.vic.gov.au/node/236",
+    "label": "DFFH Victoria: Ambulance transport"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Health Care Card holders covered",
+      "quote": "Health Care Card holders",
+      "url": "https://services.dffh.vic.gov.au/node/236",
+      "page_date": null
+    },
+    {
+      "claim": "Clinically necessary only",
+      "quote": "Please note that concession benefits only apply to clinically necessary transports.",
+      "url": "https://services.dffh.vic.gov.au/node/236",
+      "page_date": null
+    },
+    {
+      "claim": "Free coverage",
+      "quote": "eligible Victorians holding certain concession cards receive free Clinically Necessary ambulance coverage",
+      "url": "https://www.ambulance.vic.gov.au/ambulance-victoria-membership-scheme-business-rules/40-eligibility-and-concession-cards",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "mq-computer-loan-scheme",
+  "name": "Macquarie University Computer Loan Scheme",
+  "provider": "Macquarie University",
+  "category": "uni",
+  "summary": "Free loan of a desktop computer for Macquarie students in real financial hardship.",
+  "key": "Free loan of Windows All-in-One Desktop computers.",
+  "who": [
+    "Enrolled in an award program and studying onshore",
+    "Real and exceptional financial hardship (domestic: means-tested Commonwealth allowance)",
+    "WAM of at least 50, or an explanation of progress",
+    "No money owed to the University"
+  ],
+  "how": [
+    "Fill out the online application form with supporting documents"
+  ],
+  "tags": [
+    "mq",
+    "computer",
+    "laptop",
+    "tech",
+    "free"
+  ],
+  "source": {
+    "url": "https://students.mq.edu.au/uni-life/community/diversity-inclusion/digital-inclusion/computer-loan-scheme",
+    "label": "Macquarie University: Computer loan scheme"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free desktop loan",
+      "quote": "Free loan of Windows All-in-One Desktop computers.",
+      "url": "https://students.mq.edu.au/uni-life/community/diversity-inclusion/digital-inclusion/computer-loan-scheme",
+      "page_date": null
+    }
+  ]
+}

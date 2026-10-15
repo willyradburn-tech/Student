@@ -1,0 +1,54 @@
+{
+  "id": "ota-student-membership",
+  "name": "Occupational Therapy Australia student membership",
+  "provider": "Occupational Therapy Australia",
+  "category": "career",
+  "summary": "Free Occupational Therapy Australia membership for undergraduate OT students registered as students with AHPRA.",
+  "key": "Student membership is FREE.",
+  "who": [
+    "Studying an undergraduate program recognised by AHPRA and WFOT",
+    "Registered as a student with AHPRA"
+  ],
+  "how": [
+    "Select Join now in the Student section."
+  ],
+  "catches": [
+    "Postgraduate students can't get student membership but can get discounted Affiliate membership."
+  ],
+  "tags": [
+    "occupational therapy",
+    "ot",
+    "allied health",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.otaus.com.au/membership",
+    "label": "Occupational Therapy Australia: Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Study an undergraduate level program recognised by AHPRA and WFOT",
+      "url": "https://www.otaus.com.au/membership",
+      "page_date": null
+    },
+    {
+      "claim": "Postgrad",
+      "quote": "Postgraduate students are not eligible for student membership, but are eligible for the discounted Affiliate membership",
+      "url": "https://www.otaus.com.au/membership",
+      "page_date": null
+    }
+  ]
+}

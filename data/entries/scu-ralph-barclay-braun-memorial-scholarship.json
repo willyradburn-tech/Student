@@ -1,0 +1,75 @@
+{
+  "id": "scu-ralph-barclay-braun-memorial-scholarship",
+  "name": "Ralph Barclay Braun Memorial Scholarship (SCU Marine Science Honours)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$5,000 for a full-time Bachelor of Science with Honours student based at the National Marine Science Centre, Coffs Harbour.",
+  "key": "$5,000 for one year.",
+  "who": [
+    "Formal offer to the Bachelor of Science with Honours.",
+    "Based full-time and on campus at the National Marine Science Centre.",
+    "GPA above 5.5 in the final undergraduate year."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with your record, a 100-word statement and a one-page research proposal."
+  ],
+  "catches": [
+    "Applications close 17 March 2027.",
+    "One scholarship available."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "marine science",
+    "honours",
+    "coffs harbour",
+    "nmsc"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/ralph-barclay-braun-memorial-scholarship/",
+    "label": "Southern Cross University: Ralph Barclay Braun Memorial Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$5,000 for one year",
+      "url": "https://www.scu.edu.au/scholarships/ralph-barclay-braun-memorial-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Campus rule",
+      "quote": "Students must be based, full-time, at the National Marine Science Centre (NMSC).",
+      "url": "https://www.scu.edu.au/scholarships/ralph-barclay-braun-memorial-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close 17 March 2027.",
+      "url": "https://www.scu.edu.au/scholarships/ralph-barclay-braun-memorial-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-03-17"
+}

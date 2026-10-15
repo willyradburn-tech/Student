@@ -1,0 +1,56 @@
+{
+  "id": "the-couch-international-student-centre-free-meals",
+  "name": "The Couch International Student Centre free meals",
+  "provider": "The Couch International Student Centre",
+  "category": "health",
+  "summary": "Free cooked meals and social activities for international students in Melbourne, Monday to Thursday evenings.",
+  "key": "free cooked meals",
+  "who": [
+    "International students in Melbourne"
+  ],
+  "how": [
+    "Drop in Monday to Thursday, 6.00 pm to 8.30 pm"
+  ],
+  "catches": [
+    "Listed on Study Melbourne; the provider's own page is an Instagram account, so address needs confirming",
+    "Category is the closest fit: food relief"
+  ],
+  "tags": [
+    "international",
+    "intl",
+    "melbourne",
+    "vic",
+    "food",
+    "free meals",
+    "the couch",
+    "food relief"
+  ],
+  "source": {
+    "url": "https://studymelbourne.vic.gov.au/living-here/help-in-tough-times/food-and-financial-help",
+    "label": "Study Melbourne: Food and financial help for international students"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free meals",
+      "quote": "free cooked meals",
+      "url": "https://studymelbourne.vic.gov.au/living-here/help-in-tough-times/food-and-financial-help",
+      "page_date": null
+    }
+  ]
+}

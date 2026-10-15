@@ -1,0 +1,1978 @@
+[
+  {
+    "id": "csu-student-emergency-equity-grant",
+    "name": "Charles Sturt Student Emergency Equity Grant",
+    "provider": "Charles Sturt University",
+    "category": "uni",
+    "summary": "One-off grant for Charles Sturt students facing sudden financial hardship, for domestic and international students.",
+    "key": "The amount is determined by the Scholarships and Financial Support team through the assessment process.",
+    "who": [
+      "Currently studying an undergraduate or postgraduate course at Charles Sturt",
+      "Enrolled in one or more subjects in the current session",
+      "Completed at least one session of study, or enrolled after the census date of your first session",
+      "Able to show financial hardship with supporting documents"
+    ],
+    "how": [
+      "Complete the online application form and attach supporting documents"
+    ],
+    "catches": [
+      "2026 applications close 11:59pm 10 Dec 2026",
+      "One grant per study session; funding is limited",
+      "Applications with incorrect or no supporting documentation are deemed ineligible"
+    ],
+    "tags": [
+      "csu",
+      "charles sturt",
+      "hardship",
+      "emergency grant",
+      "nsw"
+    ],
+    "source": {
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/eeg",
+      "label": "Charles Sturt University: Student Emergency Equity Grant"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr",
+          "intl"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount is set by assessment",
+        "quote": "The amount is determined by the Scholarships and Financial Support team through the assessment process",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/eeg",
+        "page_date": null
+      },
+      {
+        "claim": "Open to domestic and international students",
+        "quote": "The Emergency Equity Grant is available to both domestic and international students.",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/eeg",
+        "page_date": null
+      },
+      {
+        "claim": "Must be a current student",
+        "quote": "Are currently studying an undergraduate or postgraduate course at Charles Sturt University",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/eeg",
+        "page_date": null
+      },
+      {
+        "claim": "Closing date",
+        "quote": "11:59pm 10 Dec 2026.",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/eeg",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "csu-pathways-to-practice-placement-scholarship",
+    "name": "Charles Sturt Pathways to Practice Placement Scholarship",
+    "provider": "Charles Sturt University",
+    "category": "uni",
+    "summary": "Weekly payment for Charles Sturt students in financial need doing compulsory work integrated learning placements.",
+    "key": "Eligible students can receive $338.60 per week of placement to a maximum of $2,708.80.",
+    "who": [
+      "Enrolled in a Commonwealth Supported Place",
+      "Studying an undergraduate course, or a First Nations student in an undergraduate or postgraduate course",
+      "Doing a subject with a compulsory work integrated learning placement of at least 28 hours",
+      "Able to show financial need"
+    ],
+    "how": [
+      "Complete the online application form and attach evidence of financial need"
+    ],
+    "catches": [
+      "Current round closes 11:59pm 7 Dec 2026"
+    ],
+    "tags": [
+      "csu",
+      "charles sturt",
+      "placement",
+      "prac",
+      "equity",
+      "nsw"
+    ],
+    "source": {
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-placement-scholarship",
+      "label": "Charles Sturt University: Pathways to Practice - Placement Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Weekly amount and cap",
+        "quote": "Eligible students can receive $338.60 per week of placement to a maximum of $2,708.80",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-placement-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Must be in a CSP",
+        "quote": "Enrolled in a Commonwealth Supported Place (CSP).",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-placement-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Placement requirement",
+        "quote": "Undertaking a subject that includes a compulsory Work Integrated Learning with a minimum of 28 hours.",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-placement-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Closing date",
+        "quote": "The current round of applications close on: 11:59pm 7 Dec 2026",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-placement-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "csu-pathways-to-practice-intensive-school-scholarship",
+    "name": "Charles Sturt Pathways to Practice Intensive School Scholarship",
+    "provider": "Charles Sturt University",
+    "category": "uni",
+    "summary": "Daily payment to help Charles Sturt students attend compulsory on-campus intensive schools.",
+    "key": "$80 per day, plus extra support based on distance travelled.",
+    "who": [
+      "Enrolled in a Commonwealth Supported Place",
+      "Doing a subject with a compulsory intensive school with confirmed dates"
+    ],
+    "how": [
+      "Complete an online application form"
+    ],
+    "catches": [
+      "Runs in rounds; the latest round closed 11:59pm 10 Aug 2026, so check the page for the next round",
+      "Meeting the criteria does not guarantee an offer due to limited funds"
+    ],
+    "tags": [
+      "csu",
+      "charles sturt",
+      "intensive school",
+      "residential school",
+      "travel",
+      "online study"
+    ],
+    "source": {
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-intensive-school-scholarship",
+      "label": "Charles Sturt University: Pathways to Practice - Intensive School Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Daily amount",
+        "quote": "Value: $80 per day, plus extra support based on distance travelled",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-intensive-school-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Must be in a CSP",
+        "quote": "Enrolled in a Commonwealth Supported Place (CSP).",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-intensive-school-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Intensive school requirement",
+        "quote": "Undertaking a subject that includes a compulsory intensive school, with confirmed dates and details.",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/pathways-to-practice-intensive-school-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "csu-first-nations-education-costs-scholarship",
+    "name": "Charles Sturt First Nations Education Costs Scholarship",
+    "provider": "Charles Sturt University",
+    "category": "uni",
+    "summary": "Scholarship for First Nations Charles Sturt students in financial need to cover study costs like textbooks and laptops.",
+    "key": "Value: up to $5,000.",
+    "who": [
+      "A First Nations Australian citizen",
+      "Studying an enabling, undergraduate, honours or postgraduate award",
+      "Enrolled as a Commonwealth supported student",
+      "Able to show financial need"
+    ],
+    "how": [
+      "Complete an online application form with supporting documents"
+    ],
+    "catches": [
+      "Current round is for session 2 2026 only and closes 16 October 2026, or earlier if funds run out"
+    ],
+    "tags": [
+      "csu",
+      "charles sturt",
+      "first nations",
+      "indigenous",
+      "education costs",
+      "laptop"
+    ],
+    "source": {
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/indigenous-education-costs",
+      "label": "Charles Sturt University: First Nations Education Costs Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "Value: up to $5,000",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/indigenous-education-costs",
+        "page_date": null
+      },
+      {
+        "claim": "First Nations requirement",
+        "quote": "a First Nations Australian citizen;",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/indigenous-education-costs",
+        "page_date": null
+      },
+      {
+        "claim": "Must be in a CSP",
+        "quote": "enrolled in a Charles Sturt course as a Commonwealth supported student in a Commonwealth supported place;",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/indigenous-education-costs",
+        "page_date": null
+      },
+      {
+        "claim": "Current round",
+        "quote": "Session 2 applications will only remain open until funds are exhausted.",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/indigenous-education-costs",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "csu-transgrid-engineering-scholarship",
+    "name": "Transgrid Engineering Scholarship at Charles Sturt",
+    "provider": "Charles Sturt University",
+    "category": "uni",
+    "summary": "Scholarship paid over four years for domestic students starting the Bachelor of Engineering (Honours) at Charles Sturt.",
+    "key": "MAX $20,000 paid in installments twice yearly.",
+    "who": [
+      "Australian or New Zealand citizen, permanent resident or permanent humanitarian visa holder",
+      "Commencing or first-year Bachelor of Engineering (Honours) student",
+      "Applied for or holding a Commonwealth Supported Place in the course"
+    ],
+    "how": [
+      "Complete an online application form through Charles Sturt; you can apply before receiving an offer"
+    ],
+    "catches": [
+      "Session 1 2027 applications close 11:59pm 20 Nov 2026",
+      "Part-time students are paid 50% pro rata",
+      "The page lists conflicting outcome dates, so confirm with scholarships@csu.edu.au"
+    ],
+    "tags": [
+      "csu",
+      "charles sturt",
+      "engineering",
+      "transgrid",
+      "bathurst"
+    ],
+    "source": {
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/transgrid-scholarship",
+      "label": "Charles Sturt University: Transgrid Engineering Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "field": {
+        "yes": [
+          "engineering"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "Value: MAX $20,000 paid in installments twice yearly",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/transgrid-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Course and CSP rule",
+        "quote": "Have applied for or successfully obtained a Commonwealth Supported Place (CSP) in the above course.",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/transgrid-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Closing date",
+        "quote": "Session 1 Applications are OPEN and will close at 11:59pm 20 Nov 2026",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/transgrid-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Can apply before an offer",
+        "quote": "Please note: You are able to apply for this scholarship prior to receiving an offer to study.",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/transgrid-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "csu-rural-pharmacy-student-placement-allowance",
+    "name": "Charles Sturt Rural Pharmacy Student Placement Allowance",
+    "provider": "Charles Sturt University",
+    "category": "uni",
+    "summary": "Help with travel and accommodation for Charles Sturt pharmacy students on rural placements.",
+    "key": "Up to $3,000 per eligible student placement.",
+    "who": [
+      "Full-time Bachelor of Pharmacy student",
+      "Australian citizen or permanent visa holder",
+      "Doing an eligible placement in a Modified Monash Category 3 to 7 location in 2026"
+    ],
+    "how": [
+      "Complete an online application form and attach placement forms signed by your workplace learning officer"
+    ],
+    "catches": [
+      "Closes 11:59pm 4 Dec 2026, or earlier if funds run out",
+      "The page's year labels are inconsistent, so confirm dates with the Scholarships Office"
+    ],
+    "tags": [
+      "csu",
+      "charles sturt",
+      "pharmacy",
+      "rural placement",
+      "wagga wagga",
+      "orange"
+    ],
+    "source": {
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/rural-pharmacy-student-placement-allowance",
+      "label": "Charles Sturt University: Rural Pharmacy Student Placement Allowance"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "field": {
+        "yes": [
+          "care"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "The RPSPA provides financial support of up to $3,000 per eligible student placement",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/rural-pharmacy-student-placement-allowance",
+        "page_date": null
+      },
+      {
+        "claim": "Course rule",
+        "quote": "Enrolled in the Bachelor of Pharmacy;",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/rural-pharmacy-student-placement-allowance",
+        "page_date": null
+      },
+      {
+        "claim": "Location rule",
+        "quote": "Undertake a placement in a Modified Monash (MM) Category 3 to 7 location",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/rural-pharmacy-student-placement-allowance",
+        "page_date": null
+      },
+      {
+        "claim": "Closing date",
+        "quote": "Applications are OPEN for 2025 and will close at 11:59pm 4 Dec 2026",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/rural-pharmacy-student-placement-allowance",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "csu-engineering-bathurst-accommodation-scholarship",
+    "name": "Charles Sturt Engineering Bathurst Campus Accommodation Scholarship",
+    "provider": "Charles Sturt University",
+    "category": "uni",
+    "summary": "A full year of free on-campus accommodation at Bathurst for full-time Bachelor of Engineering (Honours) students.",
+    "key": "Recipients will receive a full year of on-campus accommodation at Bathurst campus.",
+    "who": [
+      "Actively enrolled Charles Sturt student in the session awarded",
+      "Studying full-time in the Bachelor of Engineering (Honours)"
+    ],
+    "how": [
+      "Complete an online application form"
+    ],
+    "catches": [
+      "Closes 11:59pm 18 Dec 2026"
+    ],
+    "tags": [
+      "csu",
+      "charles sturt",
+      "engineering",
+      "bathurst",
+      "accommodation",
+      "nsw"
+    ],
+    "source": {
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/bachelor-of-engineering-honours-bathurst-campus-accommodation-scholarship",
+      "label": "Charles Sturt University: Engineering Bathurst Campus Accommodation Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "field": {
+        "yes": [
+          "engineering"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Benefit",
+        "quote": "Recipients will receive a full year of on-campus accommodation at Bathurst campus,",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/bachelor-of-engineering-honours-bathurst-campus-accommodation-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Course rule",
+        "quote": "studying full-time in the Bachelor of Engineering (Honours)",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/bachelor-of-engineering-honours-bathurst-campus-accommodation-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Closing date",
+        "quote": "Applications are OPEN for 2026 and will close at 11:59pm 18 Dec 2026",
+        "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/bachelor-of-engineering-honours-bathurst-campus-accommodation-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "une-student-emergency-assistance-fund",
+    "name": "UNE Student Emergency Assistance Fund",
+    "provider": "University of New England",
+    "category": "uni",
+    "summary": "Quick-response one-off grants for UNE students whose financial hardship is affecting their studies.",
+    "who": [
+      "Currently enrolled in a degree or course at UNE (not UNE staff)",
+      "Experiencing financial hardship"
+    ],
+    "how": [
+      "Talk with UNE Life Student Advocacy and Welfare, then submit the application form with supporting documents"
+    ],
+    "catches": [
+      "Applications accepted year-round",
+      "One application per student in a 12-month period",
+      "Grants may not cover the full cost of the expense"
+    ],
+    "tags": [
+      "une",
+      "new england",
+      "armidale",
+      "hardship",
+      "emergency grant",
+      "nsw"
+    ],
+    "source": {
+      "url": "https://www.une.edu.au/scholarships/student-emergency-assistance-fund/student-emergency-assistance-funds",
+      "label": "University of New England: Student Emergency Assistance Funds"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr",
+          "intl"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Who it is for",
+        "quote": "quick response grants for UNE students experiencing financial hardship.",
+        "url": "https://www.une.edu.au/scholarships/student-emergency-assistance-fund/student-emergency-assistance-funds",
+        "page_date": null
+      },
+      {
+        "claim": "Open to all enrolled students",
+        "quote": "Open to all students currently enrolled in a degree/course at UNE, excluding UNE staff members.",
+        "url": "https://www.une.edu.au/scholarships/student-emergency-assistance-fund/student-emergency-assistance-funds",
+        "page_date": null
+      },
+      {
+        "claim": "No closing date",
+        "quote": "N/A - Applications may be submitted year-round.",
+        "url": "https://www.une.edu.au/scholarships/student-emergency-assistance-fund/student-emergency-assistance-funds",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "une-life-online-student-textbook-bursary",
+    "name": "UNE Online Student Textbook Bursary",
+    "provider": "UNE Life",
+    "category": "uni",
+    "summary": "Bookshop credit to help continuing online UNE students in financial need afford textbooks.",
+    "key": "Up to $1000 credit with the UNE Life bookshop.",
+    "who": [
+      "Australian citizen or permanent resident",
+      "Continuing student who has completed at least 48 credit points",
+      "Studying online, at least 24 credit points a year",
+      "Able to show financial need",
+      "Minimum GPA of 4.0"
+    ],
+    "tags": [
+      "une",
+      "une life",
+      "textbooks",
+      "online study",
+      "bursary"
+    ],
+    "source": {
+      "url": "https://www.unelife.com.au/advocacy/financial-help/",
+      "label": "UNE Life: Financial Help"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "offers students up to $1000 credit with the UNE Life bookshop – to support students in affording textbooks.",
+        "url": "https://www.unelife.com.au/advocacy/financial-help/",
+        "page_date": null
+      },
+      {
+        "claim": "Online study rule",
+        "quote": "be studying online",
+        "url": "https://www.unelife.com.au/advocacy/financial-help/",
+        "page_date": null
+      },
+      {
+        "claim": "Financial need",
+        "quote": "be able to demonstrate financial need",
+        "url": "https://www.unelife.com.au/advocacy/financial-help/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "une-life-technology-bursary",
+    "name": "UNE Technology Bursary",
+    "provider": "UNE Life",
+    "category": "uni",
+    "summary": "One-off payment to help continuing UNE students in financial need maintain or replace a computer.",
+    "key": "A one-off payment of up to $1,500 to support students in maintaining or replacing a computer.",
+    "who": [
+      "Australian citizen or permanent resident",
+      "Continuing student who has completed at least 48 credit points of an undergraduate degree",
+      "Studying on campus or online, at least 24 credit points a year",
+      "Able to show financial need"
+    ],
+    "tags": [
+      "une",
+      "une life",
+      "laptop",
+      "computer",
+      "technology",
+      "bursary"
+    ],
+    "source": {
+      "url": "https://www.unelife.com.au/advocacy/financial-help/",
+      "label": "UNE Life: Financial Help"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "offers a one-off payment of up to $1,500 to support students in maintaining or replacing a computer.",
+        "url": "https://www.unelife.com.au/advocacy/financial-help/",
+        "page_date": null
+      },
+      {
+        "claim": "Financial need",
+        "quote": "able to demonstrate financial need",
+        "url": "https://www.unelife.com.au/advocacy/financial-help/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "une-commonwealth-accommodation-scholarship",
+    "name": "UNE Commonwealth Accommodation Scholarship",
+    "provider": "University of New England",
+    "category": "uni",
+    "summary": "Accommodation support for Aboriginal and Torres Strait Islander students in financial need who relocate to study at UNE.",
+    "key": "Up to $10,800 (paid pro-rata for part-time and fast-track study).",
+    "who": [
+      "Identifies as an Australian Aboriginal and/or Torres Strait Islander person",
+      "Able to show financial need",
+      "Able to show a planned relocation for the upcoming teaching period"
+    ],
+    "how": [
+      "Complete the application form, including the Financial Need Details section; one application covers multiple scholarships"
+    ],
+    "catches": [
+      "Open until Commonwealth funds are exhausted, and may be first-come, first-served",
+      "Lifetime value capped at $36,000"
+    ],
+    "tags": [
+      "une",
+      "new england",
+      "armidale",
+      "first nations",
+      "indigenous",
+      "accommodation",
+      "relocation"
+    ],
+    "source": {
+      "url": "https://www.une.edu.au/scholarships/new-student-scholarships/commonwealth-accommodation-scholarship",
+      "label": "University of New England: Commonwealth Accommodation Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "away": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "Up to $10,800 (paid pro-rata for part-time and fast-track study)",
+        "url": "https://www.une.edu.au/scholarships/new-student-scholarships/commonwealth-accommodation-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "First Nations rule",
+        "quote": "The applicant must identify as an Australian Aboriginal and/or Torres Strait Islander person",
+        "url": "https://www.une.edu.au/scholarships/new-student-scholarships/commonwealth-accommodation-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Relocation rule",
+        "quote": "Be able to demonstrate a planned relocation for the upcoming teaching period",
+        "url": "https://www.une.edu.au/scholarships/new-student-scholarships/commonwealth-accommodation-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Open until funds run out",
+        "quote": "Open until Commonwealth funds are exhausted",
+        "url": "https://www.une.edu.au/scholarships/new-student-scholarships/commonwealth-accommodation-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "une-cec-spence-memorial-country-scholarship",
+    "name": "Cec Spence Memorial UNE Country Scholarship",
+    "provider": "University of New England",
+    "category": "uni",
+    "summary": "Scholarship for high-achieving regional or remote school leavers in financial need starting a full-time UNE bachelor degree.",
+    "key": "$1,250 per 6 credit points (or equivalent) to a maximum of $10,000.",
+    "who": [
+      "Australian citizen or permanent resident",
+      "Year 12 school leaver or 1 to 2 year gap-year student",
+      "Full-time in a bachelor degree",
+      "ATAR or equivalent of at least 86.3",
+      "Able to show financial need",
+      "Permanent home address in a regional or remote area"
+    ],
+    "how": [
+      "Complete the application form, including the Financial Need Details section"
+    ],
+    "catches": [
+      "The 2026 round closed 4 January 2026; check the page for the next round"
+    ],
+    "tags": [
+      "une",
+      "new england",
+      "regional",
+      "rural",
+      "school leaver",
+      "financial need"
+    ],
+    "source": {
+      "url": "https://www.une.edu.au/scholarships/new-student-scholarships/cec-spence-memorial-une-country-scholarships",
+      "label": "University of New England: Cec Spence Memorial UNE Country Scholarships"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "The student shall receive $1,250 per 6 credit points (or equivalent) to a maximum of $10,000",
+        "url": "https://www.une.edu.au/scholarships/new-student-scholarships/cec-spence-memorial-une-country-scholarships",
+        "page_date": null
+      },
+      {
+        "claim": "Regional rule",
+        "quote": "The applicant's permanent home address is in a Regional or Remote area",
+        "url": "https://www.une.edu.au/scholarships/new-student-scholarships/cec-spence-memorial-une-country-scholarships",
+        "page_date": null
+      },
+      {
+        "claim": "Academic rule",
+        "quote": "Students must have achieved an ATAR/UAC ranking or equivalent mark of at least 86.3",
+        "url": "https://www.une.edu.au/scholarships/new-student-scholarships/cec-spence-memorial-une-country-scholarships",
+        "page_date": null
+      },
+      {
+        "claim": "2026 round closed",
+        "quote": "Applications are no longer being accepted for this scholarship",
+        "url": "https://www.une.edu.au/scholarships/new-student-scholarships/cec-spence-memorial-une-country-scholarships",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "cqu-cqunicares-emergency-grant",
+    "name": "CQUniCares Emergency Grant",
+    "provider": "CQUniversity",
+    "category": "uni",
+    "summary": "Urgent financial help for CQUniversity students hit by unforeseen circumstances or an emergency.",
+    "key": "Considered on a case-by-case basis.",
+    "who": [
+      "In genuine need of urgent financial help because of unforeseen circumstances or an emergency",
+      "Enrolled and actively studying at CQUniversity",
+      "Completed at least one term of study at CQUniversity",
+      "Australian or New Zealand citizen, permanent resident or humanitarian visa holder",
+      "No Emergency Grant received in the last twelve months"
+    ],
+    "how": [
+      "Complete the CQU Cares Emergency Grant Application Form with a personal statement",
+      "Email the form and supporting documents to the Student Scholarships team"
+    ],
+    "catches": [
+      "One grant per twelve months",
+      "Cross-institutional students are not eligible"
+    ],
+    "tags": [
+      "cqu",
+      "cquniversity",
+      "rockhampton",
+      "hardship",
+      "emergency grant",
+      "qld"
+    ],
+    "source": {
+      "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/745954/cqunicares-emergency-grant",
+      "label": "CQUniversity: CQUniCares Emergency Grant"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "Considered on a case-by-case basis",
+        "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/745954/cqunicares-emergency-grant",
+        "page_date": null
+      },
+      {
+        "claim": "Main rule",
+        "quote": "Be in genuine need of urgent financial assistance as a result of unforeseen circumstances or an emergency situation",
+        "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/745954/cqunicares-emergency-grant",
+        "page_date": null
+      },
+      {
+        "claim": "Study history",
+        "quote": "Have successfully completed at least one term of study at CQUniversity.",
+        "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/745954/cqunicares-emergency-grant",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "cqu-cqunicares-study-resource-equity-bursary",
+    "name": "CQUniCares Study Resource Equity Bursary",
+    "provider": "CQUniversity",
+    "category": "uni",
+    "summary": "Bursary for First Nations CQUniversity students to help with study resources.",
+    "key": "Up to $1,000.",
+    "who": [
+      "First Nations student in an undergraduate or postgraduate course",
+      "Studying at least 6 credit points at Term 3, 2026 census",
+      "Australian or New Zealand citizen, permanent resident or humanitarian visa holder",
+      "Not receiving a Needs-based Funding or ISSP scholarship in the current term"
+    ],
+    "how": [
+      "Complete the online Equity Scholarship Application Form"
+    ],
+    "catches": [
+      "Open until funding is exhausted"
+    ],
+    "tags": [
+      "cqu",
+      "cquniversity",
+      "first nations",
+      "indigenous",
+      "bursary",
+      "study resources"
+    ],
+    "source": {
+      "url": "https://www.cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1264475/cqunicares-study-resource-equity-bursary",
+      "label": "CQUniversity: CQUniCares Study Resource Equity Bursary"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "Up to $1,000",
+        "url": "https://www.cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1264475/cqunicares-study-resource-equity-bursary",
+        "page_date": null
+      },
+      {
+        "claim": "First Nations rule",
+        "quote": "Be a First Nations student enrolled in an undergraduate or postgraduate course",
+        "url": "https://www.cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1264475/cqunicares-study-resource-equity-bursary",
+        "page_date": null
+      },
+      {
+        "claim": "Open until funds run out",
+        "quote": "Bursaries are subject to funding availability. Applications will remain open until funding is exhausted.",
+        "url": "https://www.cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1264475/cqunicares-study-resource-equity-bursary",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "cqu-cqunicares-student-success-scholarship",
+    "name": "CQUniCares Student Success Scholarship",
+    "provider": "CQUniversity",
+    "category": "uni",
+    "summary": "Donor-funded scholarship for CQUniversity students whose financial circumstances are affecting their study.",
+    "key": "Up to $5,000, paid per term by study load.",
+    "who": [
+      "Enrolled in a CQUniversity higher education diploma, undergraduate or postgraduate course",
+      "Studying at least 12 credit points at census",
+      "Experiencing financial circumstances affecting participation and success",
+      "Australian or New Zealand citizen, permanent resident or humanitarian visa holder"
+    ],
+    "how": [
+      "Eligible students are emailed instructions on how to apply"
+    ],
+    "catches": [
+      "Offered by targeted email invitation; the Term 2, 2026 round has closed"
+    ],
+    "tags": [
+      "cqu",
+      "cquniversity",
+      "equity",
+      "financial need",
+      "donor-funded"
+    ],
+    "source": {
+      "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1043921/cqunicares-student-success-scholarship-donorfunded",
+      "label": "CQUniversity: CQUniCares Student Success Scholarship"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "Up to $5,000",
+        "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1043921/cqunicares-student-success-scholarship-donorfunded",
+        "page_date": null
+      },
+      {
+        "claim": "Financial rule",
+        "quote": "Be experiencing financial circumstances affecting participation and success",
+        "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1043921/cqunicares-student-success-scholarship-donorfunded",
+        "page_date": null
+      },
+      {
+        "claim": "Invite-only process",
+        "quote": "Eligible enrolled students will receive a direct email to their student account with instructions on how to apply.",
+        "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1043921/cqunicares-student-success-scholarship-donorfunded",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unisq-study-support-grant",
+    "name": "UniSQ Study Support Grant",
+    "provider": "University of Southern Queensland",
+    "category": "uni",
+    "summary": "One-off grant for domestic UniSQ students from low-to-middle income, rural or remote, or First Nations backgrounds.",
+    "key": "Each grant will have a maximum value of $3000 to be paid in one instalment.",
+    "who": [
+      "Domestic student living in Australia",
+      "Continuing students need a GPA of at least 4.0",
+      "Low-to-middle household income, rural or remote residence, or Aboriginal and/or Torres Strait Islander"
+    ],
+    "how": [
+      "Apply through the UniSQ Scholarship Application Management System"
+    ],
+    "catches": [
+      "Runs each trimester; the Trimester 3 2026 round closed 31 August 2026",
+      "Meeting the criteria does not guarantee a grant"
+    ],
+    "tags": [
+      "unisq",
+      "usq",
+      "toowoomba",
+      "equity",
+      "rural",
+      "regional",
+      "grant",
+      "qld"
+    ],
+    "source": {
+      "url": "https://www.unisq.edu.au/scholarships/study-support-grant",
+      "label": "UniSQ: Study Support Grant"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "Each grant will have a maximum value of $3000 to be paid in one instalment.",
+        "url": "https://www.unisq.edu.au/scholarships/study-support-grant",
+        "page_date": null
+      },
+      {
+        "claim": "Main rule",
+        "quote": "meet at least one of the following criteria*:",
+        "url": "https://www.unisq.edu.au/scholarships/study-support-grant",
+        "page_date": null
+      },
+      {
+        "claim": "Limited grants",
+        "quote": "There are a limited number of grants available in 2026.",
+        "url": "https://www.unisq.edu.au/scholarships/study-support-grant",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unisq-indigenous-student-success-program-scholarships",
+    "name": "UniSQ Indigenous Student Success Program Scholarships",
+    "provider": "University of Southern Queensland",
+    "category": "uni",
+    "summary": "Education costs and relocation scholarships for Aboriginal and Torres Strait Islander UniSQ students on low-to-middle incomes.",
+    "key": "Each scholarship will have a maximum value of $4000 to be paid in one instalment.",
+    "who": [
+      "Domestic student living in Australia",
+      "Aboriginal and/or Torres Strait Islander",
+      "Enrolled in at least one unit in the study period",
+      "Low-to-middle annual household income"
+    ],
+    "how": [
+      "Apply through the UniSQ Scholarship Application Management System"
+    ],
+    "catches": [
+      "Opens each trimester; the Trimester 3 2026 round closed 31 August 2026"
+    ],
+    "tags": [
+      "unisq",
+      "usq",
+      "first nations",
+      "indigenous",
+      "relocation",
+      "education costs",
+      "toowoomba"
+    ],
+    "source": {
+      "url": "https://www.unisq.edu.au/scholarships/indigenous-student-success-program-scholarships",
+      "label": "UniSQ: Indigenous Student Success Program Scholarships"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "Each scholarship will have a maximum value of $4000 to be paid in one instalment.",
+        "url": "https://www.unisq.edu.au/scholarships/indigenous-student-success-program-scholarships",
+        "page_date": null
+      },
+      {
+        "claim": "First Nations rule",
+        "quote": "be an Aboriginal and/or Torres Strait Islander person of Australia",
+        "url": "https://www.unisq.edu.au/scholarships/indigenous-student-success-program-scholarships",
+        "page_date": null
+      },
+      {
+        "claim": "Relocation stream",
+        "quote": "to support students with costs associated with relocating from a regional or remote area to study on-campus.",
+        "url": "https://www.unisq.edu.au/scholarships/indigenous-student-success-program-scholarships",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unisq-placement-bursary",
+    "name": "UniSQ Placement Bursary",
+    "provider": "University of Southern Queensland",
+    "category": "uni",
+    "summary": "Help with travel and accommodation costs for UniSQ undergraduates attending mandatory placements.",
+    "key": "The placement bursary value will range from $250 to $1000 and will be paid in one instalment.",
+    "who": [
+      "Domestic student living in Australia",
+      "Low-to-middle annual household income",
+      "Clinical Placement Bursary applicants must attend a placement more than 80 km from their term-time address"
+    ],
+    "how": [
+      "Apply through the UniSQ Scholarship Application Management System"
+    ],
+    "catches": [
+      "Trimester 3 2026 applications close 11:59pm 23 November 2026"
+    ],
+    "tags": [
+      "unisq",
+      "usq",
+      "placement",
+      "prac",
+      "nursing",
+      "education",
+      "travel"
+    ],
+    "source": {
+      "url": "https://www.unisq.edu.au/scholarships/placement-bursary",
+      "label": "UniSQ: Placement Bursary"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "The placement bursary value will range from $250 to $1000 and will be paid in one instalment.",
+        "url": "https://www.unisq.edu.au/scholarships/placement-bursary",
+        "page_date": null
+      },
+      {
+        "claim": "Income rule",
+        "quote": "have a low-to-middle annual household income.",
+        "url": "https://www.unisq.edu.au/scholarships/placement-bursary",
+        "page_date": null
+      },
+      {
+        "claim": "Closing date",
+        "quote": "Close: Monday 23 November 2026 at 11:59pm (AEST)",
+        "url": "https://www.unisq.edu.au/scholarships/placement-bursary",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unisq-residential-school-bursary",
+    "name": "UniSQ Residential School Bursary",
+    "provider": "University of Southern Queensland",
+    "category": "uni",
+    "summary": "Small bursary for lower-income domestic UniSQ students who must attend a mandatory residential school.",
+    "key": "Each bursary will have a maximum value of $250 to be paid in one instalment.",
+    "who": [
+      "Domestic student living in Australia",
+      "Enrolled in a course with a mandatory residential school",
+      "Low-to-middle annual household income"
+    ],
+    "how": [
+      "Apply through the UniSQ Scholarship Application Management System"
+    ],
+    "catches": [
+      "All 2026 rounds have closed (Trimester 3 closed 6 October 2026); check the page for 2027 rounds"
+    ],
+    "tags": [
+      "unisq",
+      "usq",
+      "residential school",
+      "online study",
+      "travel"
+    ],
+    "source": {
+      "url": "https://www.unisq.edu.au/scholarships/residential-school-bursary",
+      "label": "UniSQ: Residential School Bursary"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "Each bursary will have a maximum value of $250 to be paid in one instalment.",
+        "url": "https://www.unisq.edu.au/scholarships/residential-school-bursary",
+        "page_date": null
+      },
+      {
+        "claim": "Residential school rule",
+        "quote": "be enrolled in a course with a mandatory residential school in the study period of application",
+        "url": "https://www.unisq.edu.au/scholarships/residential-school-bursary",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unisq-student-financial-loans",
+    "name": "UniSQ Student Financial Loans",
+    "provider": "University of Southern Queensland",
+    "category": "uni",
+    "summary": "Short-term interest-free loans for enrolled UniSQ students who have no other way to borrow.",
+    "key": "Interest-free loans up to $1000 for continuing students, repayable within 12 months.",
+    "who": [
+      "Enrolled in a current teaching period",
+      "Has exhausted all other ways to get a loan"
+    ],
+    "how": [
+      "Fill out the Student Financial Loan Application Form and book an appointment with a Student Advisor (Wellbeing)"
+    ],
+    "catches": [
+      "First-trimester students can borrow up to $500, repayable within 6 months",
+      "All loans are immediately repayable if you stop being enrolled"
+    ],
+    "tags": [
+      "unisq",
+      "usq",
+      "loan",
+      "interest-free",
+      "hardship",
+      "emergency"
+    ],
+    "source": {
+      "url": "https://www.unisq.edu.au/current-students/services-and-support/financial-support/student-financial-loans",
+      "label": "UniSQ: Student Financial Loans"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Continuing student amount",
+        "quote": "Continuing students (with satisfactory academic progress): Interest-free loans up to $1000, repayable within 12 months.",
+        "url": "https://www.unisq.edu.au/current-students/services-and-support/financial-support/student-financial-loans",
+        "page_date": null
+      },
+      {
+        "claim": "First-year amount",
+        "quote": "First-year, first-trimester students: Interest-free loans up to $500, repayable within 6 months.",
+        "url": "https://www.unisq.edu.au/current-students/services-and-support/financial-support/student-financial-loans",
+        "page_date": null
+      },
+      {
+        "claim": "Last-resort rule",
+        "quote": "The student must have exhausted all other avenues to obtain a loan and a student loan is the only option.",
+        "url": "https://www.unisq.edu.au/current-students/services-and-support/financial-support/student-financial-loans",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "unisc-equity-bursary",
+    "name": "UniSC Equity Bursary",
+    "provider": "University of the Sunshine Coast",
+    "category": "uni",
+    "summary": "One-study-period bursary for full-time UniSC undergraduates from low income or disadvantaged backgrounds.",
+    "key": "A$2,500 for one study period for applicants with the highest level of financial and/or personal hardship (A$1,000 for a high level).",
+    "who": [
+      "Undergraduate from a low income and/or other disadvantaged background",
+      "Domestic student enrolled full-time",
+      "Satisfactory academic progress (minimum GPA of 4.0)",
+      "Australian or New Zealand citizen, permanent humanitarian visa holder or permanent resident"
+    ],
+    "catches": [
+      "Apply 1 September to 30 November for Study Period 1 study, and 1 April to 31 May for Study Period 2",
+      "Preference goes to students without an undergraduate qualification"
+    ],
+    "tags": [
+      "unisc",
+      "usc",
+      "sunshine coast",
+      "equity",
+      "bursary",
+      "hardship",
+      "qld"
+    ],
+    "source": {
+      "url": "https://www.unisc.edu.au/study/scholarships/equity-scholarships/unisc-equity-bursary",
+      "label": "UniSC: UniSC Equity Bursary"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Top amount",
+        "quote": "A$2,500 for one study period for applicants who are assessed as having the highest level of financial and/or personal hardship considerations.",
+        "url": "https://www.unisc.edu.au/study/scholarships/equity-scholarships/unisc-equity-bursary",
+        "page_date": null
+      },
+      {
+        "claim": "Main rule",
+        "quote": "Students in an undergraduate degree from low income and/or other disadvantaged backgrounds.",
+        "url": "https://www.unisc.edu.au/study/scholarships/equity-scholarships/unisc-equity-bursary",
+        "page_date": null
+      },
+      {
+        "claim": "Next round",
+        "quote": "Apply 1 September - 30 November for Study Period 1 study",
+        "url": "https://www.unisc.edu.au/study/scholarships/equity-scholarships/unisc-equity-bursary",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "uon-equity-scholarships-scheme",
+    "name": "Equity Scholarships Scheme University of Newcastle (ESSUN)",
+    "provider": "University of Newcastle",
+    "category": "uni",
+    "summary": "Scholarship for University of Newcastle undergraduates on Centrelink means-tested income support.",
+    "key": "Up to $8,000 for one academic year of study.",
+    "who": [
+      "Enrolled in an undergraduate program (including honours and non-FEE-FREE Uni Ready diplomas)",
+      "Receiving a Centrelink means-tested income support payment",
+      "Australian citizen or permanent resident",
+      "Full-time or part-time",
+      "Not holding another University of Newcastle scholarship that year"
+    ],
+    "how": [
+      "Apply through the online portal (PDF uploads only); apply early as offers can be made at any time"
+    ],
+    "catches": [
+      "Closes 3 March 2027",
+      "Part-time students receive $1,750 per eligible study period"
+    ],
+    "tags": [
+      "uon",
+      "newcastle",
+      "essun",
+      "equity",
+      "centrelink",
+      "callaghan",
+      "nsw"
+    ],
+    "source": {
+      "url": "https://www.newcastle.edu.au/scholarships/ESSUN_3000",
+      "label": "University of Newcastle: Equity Scholarships Scheme (ESSUN)"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "The scholarship provides a benefit of up to $8,000 for one academic year of study and will be paid as:",
+        "url": "https://www.newcastle.edu.au/scholarships/ESSUN_3000",
+        "page_date": null
+      },
+      {
+        "claim": "Centrelink rule",
+        "quote": "Be experiencing financial challenges, demonstrated through receipt of a centrelink means-tested income support payment",
+        "url": "https://www.newcastle.edu.au/scholarships/ESSUN_3000",
+        "page_date": null
+      },
+      {
+        "claim": "Closing date",
+        "quote": "03 March 2027",
+        "url": "https://www.newcastle.edu.au/scholarships/ESSUN_3000",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "uon-indigenous-accommodation-scholarship",
+    "name": "University of Newcastle Indigenous Accommodation Scholarship",
+    "provider": "University of Newcastle",
+    "category": "uni",
+    "summary": "Commonwealth-funded scholarship for Aboriginal and Torres Strait Islander students relocating from remote, rural or regional areas to study at UON.",
+    "key": "A total benefit of up to $5500, paid in two equal instalments of $2750.",
+    "who": [
+      "Enrolled or enrolling in an enabling, undergraduate or postgraduate program at UON",
+      "Of Australian Aboriginal and/or Torres Strait Islander descent",
+      "Relocating from a remote, rural or regional area to study",
+      "Able to show financial hardship"
+    ],
+    "how": [
+      "Apply through the online portal (PDF uploads only)"
+    ],
+    "catches": [
+      "Closes 3 March 2027",
+      "Part-time semesters are paid $1375"
+    ],
+    "tags": [
+      "uon",
+      "newcastle",
+      "first nations",
+      "indigenous",
+      "accommodation",
+      "relocation"
+    ],
+    "source": {
+      "url": "https://www.newcastle.edu.au/scholarships/GOV_ACCOM",
+      "label": "University of Newcastle: Indigenous Accommodation Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "away": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "Offers a total benefit of up to $5500, paid in two equal instalments of $2750 following the Semester 1 and 2 census dates.",
+        "url": "https://www.newcastle.edu.au/scholarships/GOV_ACCOM",
+        "page_date": null
+      },
+      {
+        "claim": "Relocation rule",
+        "quote": "Be relocating from a remote, rural, or regional area to study with UON.",
+        "url": "https://www.newcastle.edu.au/scholarships/GOV_ACCOM",
+        "page_date": null
+      },
+      {
+        "claim": "Open for 2027",
+        "quote": "Applications open for Semester 1 2027.",
+        "url": "https://www.newcastle.edu.au/scholarships/GOV_ACCOM",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "uon-indigenous-education-scholarship",
+    "name": "University of Newcastle Indigenous Education Scholarship",
+    "provider": "University of Newcastle",
+    "category": "uni",
+    "summary": "Commonwealth-funded education costs scholarship for Aboriginal and Torres Strait Islander UON students in financial hardship.",
+    "key": "A total benefit of up to $3000, paid in two equal instalments of $1500.",
+    "who": [
+      "Enrolled or enrolling in an enabling, undergraduate or postgraduate program",
+      "Of Australian Aboriginal and/or Torres Strait Islander descent",
+      "Able to show financial hardship, for example through a means-tested Commonwealth income support payment"
+    ],
+    "how": [
+      "Apply through the online portal (PDF uploads only)"
+    ],
+    "catches": [
+      "Closes 3 March 2027",
+      "Part-time semesters are paid $750"
+    ],
+    "tags": [
+      "uon",
+      "newcastle",
+      "first nations",
+      "indigenous",
+      "education costs"
+    ],
+    "source": {
+      "url": "https://www.newcastle.edu.au/scholarships/GOV_EDU",
+      "label": "University of Newcastle: Indigenous Education Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "Offers a total benefit of up to $3000 paid in two equal instalments of $1500 following the Semester 1 and 2 census dates.",
+        "url": "https://www.newcastle.edu.au/scholarships/GOV_EDU",
+        "page_date": null
+      },
+      {
+        "claim": "First Nations rule",
+        "quote": "Be of Australian Aboriginal and/or Torres Strait Islander descent",
+        "url": "https://www.newcastle.edu.au/scholarships/GOV_EDU",
+        "page_date": null
+      },
+      {
+        "claim": "Hardship rule",
+        "quote": "Demonstrate financial hardship by either being in receipt of a means-tested Commonwealth income support payment",
+        "url": "https://www.newcastle.edu.au/scholarships/GOV_EDU",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "uon-shaping-futures-scholarship",
+    "name": "University of Newcastle Shaping Futures Scholarship",
+    "provider": "University of Newcastle",
+    "category": "uni",
+    "summary": "Lump-sum scholarship for full-time UON undergraduates affected by educational disadvantage.",
+    "key": "A benefit of $5000 to be paid as a lump sum.",
+    "who": [
+      "Enrolled in any year of a UON undergraduate degree",
+      "Studying full-time (minimum 60 units per year)",
+      "GPA of 4.0 for continuing students, or an entry rank for commencing students",
+      "Able to show the impact of educational disadvantage",
+      "Australian citizen or permanent resident"
+    ],
+    "how": [
+      "Apply through the online portal with a one-page personal statement (PDF uploads only)"
+    ],
+    "catches": [
+      "Closes 3 March 2027",
+      "Can't be held with another UON donor-funded or sponsored scholarship"
+    ],
+    "tags": [
+      "uon",
+      "newcastle",
+      "shaping futures",
+      "equity",
+      "disadvantage"
+    ],
+    "source": {
+      "url": "https://www.newcastle.edu.au/scholarships/EXT_140",
+      "label": "University of Newcastle: Shaping Futures Scholarships"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "The scholarship provides a benefit of $5000 to be paid as a lump sum.",
+        "url": "https://www.newcastle.edu.au/scholarships/EXT_140",
+        "page_date": null
+      },
+      {
+        "claim": "Disadvantage rule",
+        "quote": "Demonstrate the impact of educational disadvantage",
+        "url": "https://www.newcastle.edu.au/scholarships/EXT_140",
+        "page_date": null
+      },
+      {
+        "claim": "Closing date",
+        "quote": "03 March 2027",
+        "url": "https://www.newcastle.edu.au/scholarships/EXT_140",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "uon-shaping-futures-full-degree-scholarship",
+    "name": "University of Newcastle Shaping Futures Full Degree Scholarship",
+    "provider": "University of Newcastle",
+    "category": "uni",
+    "summary": "Multi-year scholarship for first-year UON undergraduates facing educational disadvantage such as caring duties or financial hardship.",
+    "key": "A total benefit of up to $25,000, up to a maximum term of 5 years.",
+    "who": [
+      "Enrolled in first year of a UON undergraduate degree",
+      "Studying full-time (minimum 60 units per year)",
+      "Australian citizen or permanent resident",
+      "Able to show educational disadvantage such as caring or sole parent duties, financial hardship or a long-term medical condition"
+    ],
+    "how": [
+      "Apply through the online portal (PDF uploads only)"
+    ],
+    "catches": [
+      "Closes 3 March 2027",
+      "15 scholarships available"
+    ],
+    "tags": [
+      "uon",
+      "newcastle",
+      "shaping futures",
+      "equity",
+      "carers",
+      "sole parents"
+    ],
+    "source": {
+      "url": "https://www.newcastle.edu.au/scholarships/EXT_367",
+      "label": "University of Newcastle: Shaping Futures Full Degree Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "This scholarship provides a total benefit of up to $25,000, up to a maximum term of 5 years.",
+        "url": "https://www.newcastle.edu.au/scholarships/EXT_367",
+        "page_date": null
+      },
+      {
+        "claim": "Annual payment",
+        "quote": "The scholarship provides $5000 annually, paid as a lump sum in Semester 1 each year.",
+        "url": "https://www.newcastle.edu.au/scholarships/EXT_367",
+        "page_date": null
+      },
+      {
+        "claim": "First-year rule",
+        "quote": "Be enrolled in 1st year of an undergraduate degree program with the University of Newcastle.",
+        "url": "https://www.newcastle.edu.au/scholarships/EXT_367",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "uon-greater-charitable-foundation-equity-scholarship",
+    "name": "Greater Charitable Foundation Equity Scholarship",
+    "provider": "University of Newcastle",
+    "category": "uni",
+    "summary": "Multi-year scholarship for UON undergraduates whose study is affected by financial hardship or regional or remote disadvantage.",
+    "key": "A total benefit of up to $31,818, paid as $5,303 each semester.",
+    "who": [
+      "Enrolled in an eligible UON undergraduate degree",
+      "Study affected by financial hardship and/or regional or remote disadvantage",
+      "Australian citizen or permanent resident"
+    ],
+    "how": [
+      "Apply through the online portal (PDF uploads only)"
+    ],
+    "catches": [
+      "Closes 3 March 2027",
+      "Only 2 scholarships available",
+      "Paid for up to 3 years subject to ongoing eligibility"
+    ],
+    "tags": [
+      "uon",
+      "newcastle",
+      "greater charitable foundation",
+      "regional",
+      "rural",
+      "equity"
+    ],
+    "source": {
+      "url": "https://www.newcastle.edu.au/scholarships/EXT_332",
+      "label": "University of Newcastle: Greater Charitable Foundation Equity Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "This scholarship provides a total benefit of up to $31,818, paid as $5,303 each semester",
+        "url": "https://www.newcastle.edu.au/scholarships/EXT_332",
+        "page_date": null
+      },
+      {
+        "claim": "Main rule",
+        "quote": "Demonstrate that your ability to study is affected by financial hardship and/or regional or remote disadvantage.",
+        "url": "https://www.newcastle.edu.au/scholarships/EXT_332",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "uon-helen-maslen-scholarship",
+    "name": "Helen Maslen Scholarship",
+    "provider": "University of Newcastle",
+    "category": "uni",
+    "summary": "Scholarship for UON students who have come to higher education as part of surviving domestic violence.",
+    "key": "A benefit of $5,000, paid as $2,500 each semester.",
+    "who": [
+      "Enrolled or enrolling in an enabling, undergraduate or postgraduate program",
+      "Full-time or part-time",
+      "Accessed higher education as part of surviving domestic violence",
+      "Able to show educational disadvantage and satisfactory academic progress"
+    ],
+    "how": [
+      "Apply through the online portal with a personal statement and a letter of support (PDF uploads only)"
+    ],
+    "catches": [
+      "Closes 3 March 2027"
+    ],
+    "tags": [
+      "uon",
+      "newcastle",
+      "domestic violence",
+      "equity",
+      "women"
+    ],
+    "source": {
+      "url": "https://www.newcastle.edu.au/scholarships/EXT_234",
+      "label": "University of Newcastle: Helen Maslen Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Headline value",
+        "quote": "This scholarship provides a benefit of $5,000, paid as $2,500 each semester.",
+        "url": "https://www.newcastle.edu.au/scholarships/EXT_234",
+        "page_date": null
+      },
+      {
+        "claim": "Main rule",
+        "quote": "Have accessed higher education as part of a process for surviving domestic violence.",
+        "url": "https://www.newcastle.edu.au/scholarships/EXT_234",
+        "page_date": null
+      },
+      {
+        "claim": "Closing date",
+        "quote": "03 March 2027",
+        "url": "https://www.newcastle.edu.au/scholarships/EXT_234",
+        "page_date": null
+      }
+    ]
+  }
+]

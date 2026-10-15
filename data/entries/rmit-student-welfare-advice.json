@@ -1,0 +1,52 @@
+{
+  "id": "rmit-student-welfare-advice",
+  "name": "RMIT Student Welfare financial advice",
+  "provider": "RMIT University",
+  "category": "uni",
+  "summary": "Appointments with a Student Welfare Advisor for help with budgeting, hardship grants, emergency vouchers, fines and government support.",
+  "how": [
+    "Book online, choosing Student Welfare, or call Student Connect on +61 3 9925 5000."
+  ],
+  "catches": [
+    "Funded by SSAF. The page doesn't say whether it's free.",
+    "Appointments are at City campus or by phone."
+  ],
+  "tags": [
+    "rmit",
+    "rmit university",
+    "melbourne",
+    "vic",
+    "financial counselling",
+    "budgeting",
+    "fines",
+    "welfare"
+  ],
+  "source": {
+    "url": "https://rmit.edu.au/students/support-services/financial-legal-support/financial-welfare-advice.html",
+    "label": "RMIT: Financial welfare advice"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "What the service does",
+      "quote": "A Student Welfare Advisor will help you understand what support options are available to you.",
+      "url": "https://rmit.edu.au/students/support-services/financial-legal-support/financial-welfare-advice.html",
+      "page_date": null
+    }
+  ]
+}

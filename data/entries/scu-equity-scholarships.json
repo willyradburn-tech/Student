@@ -1,0 +1,54 @@
+{
+  "id": "scu-equity-scholarships",
+  "name": "SCU Equity Scholarships",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "Up to $4,800 for low-income students in a Commonwealth supported bachelor degree at Southern Cross University.",
+  "tags": [
+    "scu",
+    "southern cross",
+    "scholarship",
+    "low income",
+    "equity",
+    "uac"
+  ],
+  "key": "$800 per unit, up to $4,800.",
+  "who": [
+    "Australian citizens, New Zealand citizens and permanent residents, including humanitarian permanent residents.",
+    "In a Commonwealth supported bachelor degree at any SCU campus.",
+    "Low socio-economic status, for example getting a means-tested Centrelink income support payment, or aged 16 to 20 with a parent getting Family Tax Benefit Part A for you."
+  ],
+  "how": [
+    "Apply online through UAC's Equity Scholarships page."
+  ],
+  "catches": [
+    "SCU usually awards them to students with several disadvantages, such as caring duties, a long-term medical condition or being a sole parent.",
+    "Not for students who already hold a bachelor degree, get another Commonwealth-funded scholarship, or get a non-government scholarship over $6,000 a year.",
+    "The closing dates on SCU's page contradict each other, so check them with the Scholarship Office before applying."
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/scu-equity-scholarships/",
+    "label": "Southern Cross University: SCU Equity Scholarships"
+  },
+  "status": "rechecking",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "cap": "maybe",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "open_questions": [
+    "Closing dates: the page lists Term 3 2026 closing 5 June 2026, but also 'Term 1, 2027 applications closed on 29 January 2027', which is in the future."
+  ]
+}

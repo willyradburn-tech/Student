@@ -1,0 +1,63 @@
+{
+  "id": "griffith-chancellors-scholarship-postgraduate",
+  "name": "Chancellor's Scholarship for Postgraduate (Coursework) Students",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $4,000 for Griffith postgraduate coursework students facing educational disadvantage.",
+  "key": "Maximum $4,000, paid at $500 per 10 credit points each enrolled trimester.",
+  "who": [
+    "Griffith postgraduate (coursework) student, commencing or continuing.",
+    "Demonstrate educational disadvantage based on a comprehensive assessment by the University.",
+    "Australian citizen, permanent resident, permanent humanitarian visa holder or New Zealand citizen."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Rounds close 21 December 2026, 27 January 2027, 15 March 2027 (4pm) and 30 June 2027 (11:59pm).",
+    "Priority goes to commencing students."
+  ],
+  "tags": [
+    "griffith",
+    "equity",
+    "postgraduate",
+    "coursework"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships-postgraduate-students",
+    "label": "Griffith University: Chancellor's Scholarship for Postgraduate (Coursework) Students"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "in instalments of $500 per 10 Credit Points for each enrolled trimester",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships-postgraduate-students",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "demonstrate educational disadvantage based on a comprehensive assessment by the University",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships-postgraduate-students",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-12-21"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "scu-osiecki-clinical-placement-scholarship",
+  "name": "Osiecki Family Foundation Clinical Placement Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "Up to $5,000 for SCU health and lifestyle or naturopathic medicine students doing regional, rural or remote clinical placements.",
+  "key": "Up to $5,000 for regional, rural or remote external placements, or up to $1,000 for travel to SCU clinics.",
+  "who": [
+    "Australian citizen or permanent resident.",
+    "Enrolled in the Bachelor of Health Science (Health and Lifestyle) and/or the Master of Naturopathic Medicine.",
+    "Making satisfactory academic progress.",
+    "Doing an external clinical placement, generally outside major cities."
+  ],
+  "how": [
+    "Apply through the National Centre for Naturopathic Medicine Scholarship Application Form during an open round."
+  ],
+  "catches": [
+    "Next round is open from 8 October to 13 November 2026.",
+    "You pick one tier only.",
+    "Be ready to supply evidence of placement costs."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "placement",
+    "naturopathy",
+    "rural",
+    "ncnm"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/osiecki-family-foundation-clinical-placement-scholarship/",
+    "label": "Southern Cross University: Osiecki Family Foundation Clinical Placement Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "Up to $5,000",
+      "url": "https://www.scu.edu.au/scholarships/osiecki-family-foundation-clinical-placement-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Round dates",
+      "quote": "The next round of scholarship applications will be open from 8 October to 13 November 2026.",
+      "url": "https://www.scu.edu.au/scholarships/osiecki-family-foundation-clinical-placement-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

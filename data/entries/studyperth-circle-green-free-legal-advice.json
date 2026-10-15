@@ -1,0 +1,64 @@
+{
+  "id": "studyperth-circle-green-free-legal-advice",
+  "name": "StudyPerth free legal advice (Circle Green)",
+  "provider": "StudyPerth",
+  "category": "health",
+  "summary": "Free legal information and advice for international students in Perth on employment, workplace rights, housing and tenancy, through Circle Green Community Legal.",
+  "key": "StudyPerth will provide FREE legal advice through our partner Circle Green.",
+  "who": [
+    "International students in Western Australia"
+  ],
+  "how": [
+    "Complete the form on the StudyPerth page and Circle Green will contact you"
+  ],
+  "catches": [
+    "Does not cover disputes with your education provider",
+    "Category is the closest fit: free legal service"
+  ],
+  "tags": [
+    "international",
+    "intl",
+    "wa",
+    "perth",
+    "legal advice",
+    "free legal",
+    "tenancy",
+    "employment",
+    "circle green",
+    "studyperth"
+  ],
+  "source": {
+    "url": "https://www.studyperth.com.au/student-support/supportservices",
+    "label": "StudyPerth: Free Support Services"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "wa"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free legal advice",
+      "quote": "StudyPerth will provide FREE legal advice through our partner Circle Green.",
+      "url": "https://www.studyperth.com.au/student-support/supportservices",
+      "page_date": null
+    },
+    {
+      "claim": "How",
+      "quote": "Complete the form below with your details, and Circle Green will contact you soon.",
+      "url": "https://www.studyperth.com.au/student-support/supportservices",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "deakin-interest-free-student-loan",
+  "name": "Deakin interest-free student loan",
+  "provider": "Deakin University",
+  "category": "uni",
+  "summary": "Interest-free loans of up to $2,000 for Deakin students in financial difficulty, for textbooks, equipment, technology and placement costs.",
+  "key": "Up to $2,000 at any one time.",
+  "who": [
+    "Currently enrolled Deakin student (domestic or international) living in Australia.",
+    "Experiencing financial difficulty affecting your study.",
+    "Progressing satisfactorily and able to repay."
+  ],
+  "how": [
+    "Complete the single financial assistance form with photo ID, three months of bank statements and income and expense details.",
+    "You can expect to hear within 3 business days."
+  ],
+  "catches": [
+    "Loans of $501 to $2,000 need a guarantor. First-year, first-study-period students need one for any loan.",
+    "Must be repaid within two years. Can't be used for tuition."
+  ],
+  "tags": [
+    "deakin",
+    "deakin university",
+    "melbourne",
+    "vic",
+    "loan",
+    "interest-free",
+    "international",
+    "geelong",
+    "burwood",
+    "warrnambool"
+  ],
+  "source": {
+    "url": "https://www.deakin.edu.au/students/enrolment-and-fees/financial-assistance/interest-free-student-loans",
+    "label": "Deakin: Interest-free student loans"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "age": {
+      "min": 18
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Loan limit",
+      "quote": "The maximum loan amount is $2000 at any one time",
+      "url": "https://www.deakin.edu.au/students/enrolment-and-fees/financial-assistance/interest-free-student-loans",
+      "page_date": null
+    },
+    {
+      "claim": "Guarantor rule",
+      "quote": "Loans of $501–$2000 must have a guarantor",
+      "url": "https://www.deakin.edu.au/students/enrolment-and-fees/financial-assistance/interest-free-student-loans",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "qld-blue-card-free-students",
+  "name": "Free blue card for students",
+  "provider": "Queensland Government (Blue Card Services)",
+  "category": "career",
+  "summary": "Students linked to an education provider pay no fee for a Queensland blue card (working with children check) for placements.",
+  "key": "No application fee for students linked to an education provider; the paid-work fee is $108.30 from 1 July 2026.",
+  "who": [
+    "Student linked to an education provider (for example for a placement)"
+  ],
+  "catches": [
+    "Paid work needs a paid application."
+  ],
+  "tags": [
+    "blue card",
+    "working with children",
+    "placement",
+    "prac",
+    "teaching",
+    "nursing",
+    "qld",
+    "Queensland"
+  ],
+  "source": {
+    "url": "https://www.qld.gov.au/jobs/blue-card/applications/payment",
+    "label": "Queensland Government: Pay for your blue card application"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Students pay no fee",
+      "quote": "You do not pay an application fee if you are:",
+      "url": "https://www.qld.gov.au/jobs/blue-card/applications/payment",
+      "page_date": null
+    },
+    {
+      "claim": "Student category",
+      "quote": "a student linked to an education provider",
+      "url": "https://www.qld.gov.au/jobs/blue-card/applications/payment",
+      "page_date": null
+    }
+  ]
+}

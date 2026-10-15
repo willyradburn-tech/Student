@@ -1,0 +1,61 @@
+{
+  "id": "uqu-food-co-op",
+  "name": "UQ Union Food Co-Op",
+  "provider": "UQ Union",
+  "category": "uni",
+  "summary": "Free and low-cost grocery pantry for UQ students at St Lucia, open to free Mates Rates members.",
+  "key": "Food Co-Op is a pantry for UQ students to stock up on a range of free and low-cost grocery items.",
+  "who": [
+    "UQ students with a Mates Rates membership, which is free."
+  ],
+  "how": [
+    "Visit the ground floor of the Union Complex, St Lucia, opposite the pharmacy, Monday to Friday, 9am to 3pm."
+  ],
+  "catches": [
+    "Staples include cereal, pasta, rice, lentils and peanut butter."
+  ],
+  "tags": [
+    "uq",
+    "uq union",
+    "uqu",
+    "food",
+    "pantry",
+    "groceries",
+    "st lucia"
+  ],
+  "source": {
+    "url": "https://uqu.com.au/food-co-op",
+    "label": "UQ Union: Food Co-Op"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free and low-cost groceries",
+      "quote": "Food Co-Op is a pantry for UQ students to stock up on a range of free and low-cost grocery items.",
+      "url": "https://uqu.com.au/food-co-op",
+      "page_date": null
+    },
+    {
+      "claim": "Mates Rates members only",
+      "quote": "this is available exclusively to Mates Rates members.",
+      "url": "https://uqu.com.au/food-co-op",
+      "page_date": null
+    },
+    {
+      "claim": "Opening hours",
+      "quote": "Monday – Friday, 9am-3pm",
+      "url": "https://uqu.com.au/food-co-op",
+      "page_date": null
+    }
+  ]
+}

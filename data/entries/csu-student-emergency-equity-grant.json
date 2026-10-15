@@ -1,0 +1,79 @@
+{
+  "id": "csu-student-emergency-equity-grant",
+  "name": "Charles Sturt Student Emergency Equity Grant",
+  "provider": "Charles Sturt University",
+  "category": "uni",
+  "summary": "One-off grant for Charles Sturt students facing sudden financial hardship, for domestic and international students.",
+  "key": "The amount is determined by the Scholarships and Financial Support team through the assessment process.",
+  "who": [
+    "Currently studying an undergraduate or postgraduate course at Charles Sturt",
+    "Enrolled in one or more subjects in the current session",
+    "Completed at least one session of study, or enrolled after the census date of your first session",
+    "Able to show financial hardship with supporting documents"
+  ],
+  "how": [
+    "Complete the online application form and attach supporting documents"
+  ],
+  "catches": [
+    "2026 applications close 11:59pm 10 Dec 2026",
+    "One grant per study session; funding is limited",
+    "Applications with incorrect or no supporting documentation are deemed ineligible"
+  ],
+  "tags": [
+    "csu",
+    "charles sturt",
+    "hardship",
+    "emergency grant",
+    "nsw"
+  ],
+  "source": {
+    "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/eeg",
+    "label": "Charles Sturt University: Student Emergency Equity Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr",
+        "intl"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount is set by assessment",
+      "quote": "The amount is determined by the Scholarships and Financial Support team through the assessment process",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/eeg",
+      "page_date": null
+    },
+    {
+      "claim": "Open to domestic and international students",
+      "quote": "The Emergency Equity Grant is available to both domestic and international students.",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/eeg",
+      "page_date": null
+    },
+    {
+      "claim": "Must be a current student",
+      "quote": "Are currently studying an undergraduate or postgraduate course at Charles Sturt University",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/eeg",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "11:59pm 10 Dec 2026.",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/eeg",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-12-10"
+}

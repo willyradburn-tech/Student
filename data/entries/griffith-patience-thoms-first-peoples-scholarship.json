@@ -1,0 +1,62 @@
+{
+  "id": "griffith-patience-thoms-first-peoples-scholarship",
+  "name": "Patience Thoms First Peoples (Honours and Postgraduate) Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $4,000 for First Peoples honours and postgraduate coursework students facing educational disadvantage.",
+  "key": "Valued at a maximum of $4,000, payable in instalments.",
+  "who": [
+    "Australian citizen.",
+    "Aboriginal and/or Torres Strait Islander.",
+    "Enrolled or eligible for a one-year honours or postgraduate coursework degree.",
+    "Educational disadvantage and academic merit."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "The page shows 'Currently closed'; the scholarships list gives Monday 15 March 2027, 4pm."
+  ],
+  "tags": [
+    "griffith",
+    "first nations",
+    "indigenous",
+    "honours",
+    "postgraduate"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/patience-thoms-first-peoples-honours-postgraduate-scholarship",
+    "label": "Griffith University: Patience Thoms First Peoples (Honours and Postgraduate) Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "valued at a maximum of $4,000, payable in instalments.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/patience-thoms-first-peoples-honours-postgraduate-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "qut-tmr-women-in-engineering-bursaries",
+  "name": "Department of Transport and Main Roads Women in Engineering Bursaries",
+  "provider": "QUT and Queensland Department of Transport and Main Roads",
+  "category": "uni",
+  "summary": "Bursaries for women in second or third year of a QUT Bachelor of Engineering who live in Queensland.",
+  "key": "$5,000 each, offered to four continuing domestic students (2024 terms).",
+  "who": [
+    "Identify as a woman.",
+    "Full-time in a four-year Washington Accord accredited Bachelor of Engineering.",
+    "Australian citizen or permanent resident and a Queensland resident.",
+    "Second or third year, with a GPA of at least 4.0."
+  ],
+  "how": [
+    "Apply with the application form, a CV and a 300-word statement on your interest in maths and physics and your leadership skills."
+  ],
+  "catches": [
+    "The terms found are from 2024. The QUT listing was updated in September 2026, so check the current round."
+  ],
+  "tags": [
+    "qut",
+    "engineering",
+    "women",
+    "women in stem",
+    "bursary",
+    "tmr"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/women-in-engineering-bursaries",
+    "label": "QUT: TMR Women in Engineering Bursaries"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$5,000 each for four students",
+      "quote": "is a bursary valued at $5,000, offered to four continuing domestic students.",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0013/1235101/terms-conditions-tmr-women-in-engineering-bursaries.pdf",
+      "page_date": null
+    },
+    {
+      "claim": "Must identify as a woman",
+      "quote": "Must identify as a woman",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0013/1235101/terms-conditions-tmr-women-in-engineering-bursaries.pdf",
+      "page_date": null
+    }
+  ]
+}

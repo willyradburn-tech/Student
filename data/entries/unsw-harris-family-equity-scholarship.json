@@ -1,0 +1,54 @@
+{
+  "id": "unsw-harris-family-equity-scholarship",
+  "name": "Harris Family Equity Scholarship",
+  "provider": "UNSW Sydney",
+  "category": "uni",
+  "summary": "Yearly scholarship for commencing UNSW undergraduates from low-SES backgrounds or socio-educationally disadvantaged schools.",
+  "key": "$10,000 per annum for the minimum duration of program.",
+  "who": [
+    "Commencing undergraduate",
+    "Low-SES background and/or socio-educationally disadvantaged school"
+  ],
+  "how": [
+    "Apply through UAC for an Equity Scholarship (ES) or EAS; Gateway applicants are considered automatically"
+  ],
+  "catches": [
+    "2027 rounds: EAS via UAC by 19 Nov 2026, ES by 10 Dec 2026, with later January and February rounds; offers made through to March 2027",
+    "Competitive; meeting the criteria does not guarantee an award"
+  ],
+  "tags": [
+    "unsw",
+    "equity",
+    "scholarship",
+    "low-ses"
+  ],
+  "source": {
+    "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+    "label": "UNSW Scholarships: UNSW Equity Scholarships for 2027"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$10,000 per year",
+      "quote": "$10,000 per annum for the minimum duration of program",
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

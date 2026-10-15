@@ -1,0 +1,64 @@
+{
+  "id": "uq-business-analytics-financial-hardship-scholarship",
+  "name": "UQ Master of Business Analytics Financial Hardship Scholarship",
+  "provider": "University of Queensland, Business School",
+  "category": "uni",
+  "summary": "Living-cost scholarship for UQ Graduate Certificate or Master of Business Analytics students facing financial hardship.",
+  "key": "$5000 towards living costs.",
+  "who": [
+    "Enrolled or intending to enrol in the Graduate Certificate in Business Analytics or Master of Business Analytics in the semester of the award.",
+    "Can provide documentary evidence of financial hardship.",
+    "No similar scholarship."
+  ],
+  "how": [
+    "Apply using the online form with evidence such as a current health care card or recent ATO statement, and a personal statement of up to 500 words."
+  ],
+  "catches": [
+    "Opens November 2026 and closes August 2027.",
+    "Postgraduate coursework only."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "business analytics",
+    "postgraduate",
+    "financial hardship",
+    "health care card"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/master-business-analytics-financial-hardship-scholarship",
+    "label": "UQ Scholarships: Master of Business Analytics Financial Hardship Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "field": {
+      "yes": [
+        "business",
+        "it"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$5000 towards living costs",
+      "quote": "$5000 towards living costs",
+      "url": "https://scholarships.uq.edu.au/scholarship/master-business-analytics-financial-hardship-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Financial hardship evidence",
+      "quote": "can provide documentary evidence of financial hardship",
+      "url": "https://scholarships.uq.edu.au/scholarship/master-business-analytics-financial-hardship-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

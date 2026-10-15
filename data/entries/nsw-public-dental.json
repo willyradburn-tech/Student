@@ -1,0 +1,62 @@
+{
+  "id": "nsw-public-dental",
+  "name": "Free public dental care (NSW)",
+  "provider": "NSW Health",
+  "category": "health",
+  "summary": "Free dental care at NSW public clinics for adults holding a Health Care Card or other eligible concession card.",
+  "key": "Eligible adults can receive free dental care from NSW public dental clinics.",
+  "who": [
+    "Hold, or be listed as a dependant on, a Health Care Card, Pensioner Concession Card or Commonwealth Seniors Health Card"
+  ],
+  "how": [
+    "Call 1800 679 336 with your postcode, Medicare and concession card details ready"
+  ],
+  "catches": [
+    "Waiting lists apply."
+  ],
+  "tags": [
+    "dental",
+    "dentist",
+    "teeth",
+    "health care card",
+    "nsw",
+    "New South Wales"
+  ],
+  "source": {
+    "url": "https://www.health.nsw.gov.au/oralhealth/Pages/info-patients.aspx",
+    "label": "NSW Health: Public dental services - information for patients"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free care",
+      "quote": "Eligible adults can receive free dental care from NSW public dental clinics.",
+      "url": "https://www.health.nsw.gov.au/oralhealth/Pages/info-patients.aspx",
+      "page_date": null
+    },
+    {
+      "claim": "Health Care Card eligible",
+      "quote": "hold, or are listed as a dependent on, one of the following valid Australian Government concession cards:",
+      "url": "https://www.health.nsw.gov.au/oralhealth/Pages/info-patients.aspx",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "aila-student-membership",
+  "name": "AILA Student Membership",
+  "provider": "Australian Institute of Landscape Architects",
+  "category": "career",
+  "summary": "Free Australian Institute of Landscape Architects membership for landscape architecture students.",
+  "key": "Free for current students of Landscape Architecture.",
+  "who": [
+    "Students of landscape architecture"
+  ],
+  "how": [
+    "Use the Join Free button; applications are open year-round."
+  ],
+  "tags": [
+    "landscape architecture",
+    "architecture",
+    "design",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.aila.org.au/Web/Membership/Student.aspx",
+    "label": "AILA: Student"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Available to current students of Landscape Architecture",
+      "url": "https://www.aila.org.au/Web/Membership/Student.aspx",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Applications for Student Membership (University) are invited from students of landscape architecture.",
+      "url": "https://www.aila.org.au/Web/Membership/Student.aspx",
+      "page_date": null
+    }
+  ]
+}

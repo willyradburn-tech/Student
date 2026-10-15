@@ -1,0 +1,44 @@
+{
+  "id": "griffith-student-home-use-software",
+  "name": "Griffith Student Home Use Software Library",
+  "provider": "Griffith University",
+  "category": "software",
+  "summary": "Study software such as EndNote, NVivo, SAS and discounted SPSS through your Griffith student account.",
+  "how": [
+    "Open the Student Home Use Software Library with your Griffith student account."
+  ],
+  "catches": [
+    "SPSS and Amos are vendor-discounted, not free.",
+    "Adobe Creative Cloud is staff-only."
+  ],
+  "tags": [
+    "griffith",
+    "software",
+    "endnote",
+    "nvivo",
+    "spss"
+  ],
+  "source": {
+    "url": "https://student.griffith.edu.au/student-support/digital-services/software",
+    "label": "Griffith University: Software"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "how to get it",
+      "quote": "This software is accessible through your Griffith student account via SharePoint.",
+      "url": "https://student.griffith.edu.au/student-support/digital-services/software",
+      "page_date": null
+    }
+  ]
+}

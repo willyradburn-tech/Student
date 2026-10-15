@@ -1,0 +1,62 @@
+{
+  "id": "monash-resident-scholarship",
+  "name": "Monash Resident Scholarship",
+  "provider": "Monash University",
+  "category": "uni",
+  "summary": "Covers a year of standard room fees in the Clayton or Peninsula residential village for undergraduates in hardship, Indigenous, remote or asylum-seeking students.",
+  "key": "One year of standard room fees at Clayton or Peninsula, with 50 available.",
+  "who": [
+    "Commencing or continuing undergraduate at a Monash campus in Australia.",
+    "Experiencing financial hardship, Indigenous, from a remote area, or seeking asylum."
+  ],
+  "how": [
+    "Apply to Monash University Accommodation for a room, and apply through VTAC SEAS or directly to Monash."
+  ],
+  "catches": [
+    "One year only. It can't be deferred."
+  ],
+  "tags": [
+    "monash",
+    "monash university",
+    "melbourne",
+    "vic",
+    "accommodation",
+    "housing",
+    "regional",
+    "asylum seeker"
+  ],
+  "source": {
+    "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-resident-scholarships-7003",
+    "label": "Monash: Monash Resident Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "away": {
+      "maybe": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Accommodation fees to the value of a standard room in the Clayton or Peninsula Residential Village, for one year only.",
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-resident-scholarships-7003",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

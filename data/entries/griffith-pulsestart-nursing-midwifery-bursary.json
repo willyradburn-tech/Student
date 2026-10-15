@@ -1,0 +1,73 @@
+{
+  "id": "griffith-pulsestart-nursing-midwifery-bursary",
+  "name": "Pulsestart Nursing and Midwifery Bursary",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $2,500 for full-time Griffith nursing and midwifery students facing educational disadvantage.",
+  "key": "Maximum value is $2,500, payable in a single instalment.",
+  "who": [
+    "Australian citizen or permanent resident.",
+    "Bachelor of Nursing or Bachelor of Midwifery student who has completed at least 40 CP.",
+    "Studying full-time.",
+    "Demonstrate educational disadvantage."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "The 2026 round closed 17 August 2026. Griffith lists applications opening 1 July 2027 for Trimester 2, 2027."
+  ],
+  "tags": [
+    "griffith",
+    "nursing",
+    "midwifery",
+    "equity"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/pulsestart-nursing-midwifery-bursary",
+    "label": "Griffith University: Pulsestart Nursing and Midwifery Bursary"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value is $2,500, payable in a single instalment.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/pulsestart-nursing-midwifery-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "be a Griffith Bachelor of Nursing or Bachelor of Midwifery program student and completed a minimum of 40CP (credit points)",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/pulsestart-nursing-midwifery-bursary",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

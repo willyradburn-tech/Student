@@ -1,0 +1,41 @@
+{
+  "id": "xmind-education",
+  "name": "Xmind education discount",
+  "provider": "Xmind",
+  "category": "software",
+  "summary": "30% off any Xmind mind-mapping plan for verified students.",
+  "key": "All verified education users get 30% off any plan.",
+  "catches": [
+    "Valid for one year; reapply annually with updated proof of enrolment."
+  ],
+  "tags": [
+    "mind map",
+    "study",
+    "notes",
+    "xmind",
+    "productivity"
+  ],
+  "source": {
+    "url": "https://xmind.com/education",
+    "label": "Xmind: Education"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "30% off",
+      "quote": "All verified education users get 30% off any plan.",
+      "url": "https://xmind.com/education",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Students, educators, and academic staff at accredited institutions (universities, colleges, and K–12 schools) are eligible.",
+      "url": "https://xmind.com/education",
+      "page_date": null
+    }
+  ]
+}

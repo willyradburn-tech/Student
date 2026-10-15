@@ -1,0 +1,48 @@
+{
+  "id": "greyhound-student-discount",
+  "name": "Greyhound Australia student discount",
+  "provider": "Greyhound Australia",
+  "category": "transport",
+  "summary": "10% off standard adult Greyhound coach fares for high school and tertiary students with a valid student card.",
+  "key": "High school and tertiary students can receive 10% off the standard adult fare when travelling with Greyhound.",
+  "who": [
+    "High school and tertiary students.",
+    "You need a valid Australian student card or International Student Identity Card (ISIC)."
+  ],
+  "how": [
+    "Enter your student card number during the booking process."
+  ],
+  "catches": [
+    "Greyhound's page also says Australian UNiDAYS members can get discounts on Travel Passes and Flexible fares."
+  ],
+  "tags": [
+    "greyhound",
+    "coach",
+    "bus",
+    "long distance",
+    "isic"
+  ],
+  "source": {
+    "url": "https://help.greyhound.com.au/support/solutions/articles/51000512618-are-student-discounts-available-on-greyhound-services-",
+    "label": "Greyhound Australia: Are student discounts available?"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "10% off for students",
+      "quote": "Yes. High school and tertiary students can receive 10% off the standard adult fare when travelling with Greyhound.",
+      "url": "https://help.greyhound.com.au/support/solutions/articles/51000512618-are-student-discounts-available-on-greyhound-services-",
+      "page_date": null
+    },
+    {
+      "claim": "Card needed",
+      "quote": "To be eligible, you'll need a valid Australian student card or International Student Identity Card (ISIC).",
+      "url": "https://help.greyhound.com.au/support/solutions/articles/51000512618-are-student-discounts-available-on-greyhound-services-",
+      "page_date": null
+    }
+  ]
+}

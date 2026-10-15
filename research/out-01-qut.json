@@ -1,0 +1,1765 @@
+[
+  {
+    "id": "qut-child-care-bursary",
+    "name": "QUT Child Care Bursary",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "A once-off payment to help QUT students who are parents or guardians cover childcare costs.",
+    "key": "Valued at AU$500 per eligible child, paid as a once-off payment.",
+    "who": [
+      "Australian or NZ citizens, permanent residents, permanent humanitarian visa holders, and international students.",
+      "Admitted and enrolled in an undergraduate, postgraduate or research degree.",
+      "Your child is currently attending an early childhood education and care service in Australia."
+    ],
+    "how": [
+      "Apply with the application form.",
+      "Include at least one document confirming your child's enrolment and attendance, such as a child care tax invoice or proof of Child Care Subsidy."
+    ],
+    "catches": [
+      "Offered from Semester 2, 2026. The terms do not state the closing date.",
+      "Must meet QUT's scholarship, bursary and prize concurrency conditions."
+    ],
+    "tags": [
+      "qut",
+      "childcare",
+      "parents",
+      "bursary",
+      "carers"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-child-care-bursary",
+      "label": "QUT: Child Care Bursary"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$500 per eligible child",
+        "quote": "valued at AU$500.00 per eligible child and are paid as once-off payments",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0004/1583914/qut-child-care-bursary-terms-2026.pdf",
+        "page_date": null
+      },
+      {
+        "claim": "Child must attend an early childhood service",
+        "quote": "currently attending an early childhood education and care service in Australia",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0004/1583914/qut-child-care-bursary-terms-2026.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-equity-wil-bursaries",
+    "name": "QUT Equity Work Integrated Learning (WIL) Bursaries",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "Help with the costs of a mandatory placement for QUT students in financial hardship, including a relocation bursary.",
+    "key": "Valued at up to AU$3,000, paid once, with the amount depending on the bursary type.",
+    "who": [
+      "Domestic or international students admitted in a QUT award course and enrolled in a mandatory placement unit.",
+      "Have a confirmed placement for that unit.",
+      "Show sudden or extraordinary financial hardship and no access to savings or other support."
+    ],
+    "how": [
+      "Apply with the application form before your placement ends.",
+      "Include at least two months of bank statements for all accounts, proof of income, independent evidence of hardship and placement cost quotes."
+    ],
+    "catches": [
+      "Offered from Semester 1, 2026.",
+      "The Relocation Bursary needs evidence of relocation."
+    ],
+    "tags": [
+      "qut",
+      "placement",
+      "prac",
+      "wil",
+      "hardship",
+      "relocation",
+      "bursary"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/equity-work-integrated-learning-wil-bursaries",
+      "label": "QUT: Equity WIL Bursaries"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      },
+      "prac": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Up to $3,000",
+        "quote": "is an equity bursary valued at up to AU$3,000.00, offered to commencing or continuing international or domestic students.",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0003/1557093/qut-equity-work-integrated-learning-bursaries-terms-and-conditions.pdf",
+        "page_date": null
+      },
+      {
+        "claim": "Must be in a mandatory placement unit",
+        "quote": "Must be admitted in a QUT award course and enrolled in a placement unit that is mandatory for that QUT award course",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0003/1557093/qut-equity-work-integrated-learning-bursaries-terms-and-conditions.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-forrester-family-placement-bursary",
+    "name": "Forrester Family Nursing and Teaching Practical Placement Bursary",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "A placement bursary for Aboriginal and Torres Strait Islander QUT students on a work integrated learning placement.",
+    "key": "$250, $500 or $750.",
+    "who": [
+      "Australian or NZ citizen or Australian permanent resident.",
+      "Aboriginal and/or Torres Strait Islander, confirmed by the Oodgeroo Unit or Carumba Institute.",
+      "Confirmed in a work integrated learning placement when awarded."
+    ],
+    "how": [
+      "Apply with the application form, with your transcript, a response to the selection criteria and proof of descent."
+    ],
+    "catches": [
+      "The terms found are the 2025 terms. Check the current round.",
+      "Not available if you already get a similar placement bursary."
+    ],
+    "tags": [
+      "qut",
+      "indigenous",
+      "first nations",
+      "placement",
+      "nursing",
+      "teaching",
+      "bursary"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/forrester-family-nursing-and-teaching-practical-placement-bursary",
+      "label": "QUT: Forrester Family Practical Placement Bursary"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "prac": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$250, $500 or $750",
+        "quote": "is a bursary valued at either $250, $500 or $750, offered to continuing domestic students.",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0010/1407619/2025-Forrester-Family-Nursing-and-Teaching-Practical-Placement-Bursary-Terms-and-Condition.pdf",
+        "page_date": null
+      },
+      {
+        "claim": "Must be on a WIL placement",
+        "quote": "Must be confirmed in a work integrated learning (WIL) placement at time of being awarded the Bursary.",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0010/1407619/2025-Forrester-Family-Nursing-and-Teaching-Practical-Placement-Bursary-Terms-and-Condition.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-geoffrey-cynthia-taylor-bursary",
+    "name": "Geoffrey and Cynthia Taylor Bursary",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "A bursary for continuing Aboriginal and Torres Strait Islander QUT students studying full time.",
+    "key": "Valued at $1,000.",
+    "who": [
+      "Australian citizen.",
+      "Aboriginal and/or Torres Strait Islander, confirmed through QUT's CATSID procedure.",
+      "Full-time (36 credit points or more) and completed at least 96 credit points of an eligible course."
+    ],
+    "how": [
+      "Apply with the application form, with a CV, transcript, a response to the selection criteria and proof of descent.",
+      "Questions go to information.oodgeroo@qut.edu.au."
+    ],
+    "catches": [
+      "The terms found are the 2025 terms. Check the current round.",
+      "A separate Higher Degree by Research version exists."
+    ],
+    "tags": [
+      "qut",
+      "indigenous",
+      "first nations",
+      "bursary"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/geoffrey-and-cynthia-taylor-bursary",
+      "label": "QUT: Geoffrey and Cynthia Taylor Bursary"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$1,000",
+        "quote": "is a bursary valued at $1,000, offered to continuing Aboriginal and Torres Strait Islander students",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0005/1407623/2025-Geoffrey-and-Cynthia-Taylor-Bursary-Terms-and-Conditions.pdf",
+        "page_date": null
+      },
+      {
+        "claim": "Full-time",
+        "quote": "Must be enrolled in a standard full-time enrolment program (36 credit points or more)",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0005/1407623/2025-Geoffrey-and-Cynthia-Taylor-Bursary-Terms-and-Conditions.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-tmr-women-in-engineering-bursaries",
+    "name": "Department of Transport and Main Roads Women in Engineering Bursaries",
+    "provider": "QUT and Queensland Department of Transport and Main Roads",
+    "category": "uni",
+    "summary": "Bursaries for women in second or third year of a QUT Bachelor of Engineering who live in Queensland.",
+    "key": "$5,000 each, offered to four continuing domestic students (2024 terms).",
+    "who": [
+      "Identify as a woman.",
+      "Full-time in a four-year Washington Accord accredited Bachelor of Engineering.",
+      "Australian citizen or permanent resident and a Queensland resident.",
+      "Second or third year, with a GPA of at least 4.0."
+    ],
+    "how": [
+      "Apply with the application form, a CV and a 300-word statement on your interest in maths and physics and your leadership skills."
+    ],
+    "catches": [
+      "The terms found are from 2024. The QUT listing was updated in September 2026, so check the current round."
+    ],
+    "tags": [
+      "qut",
+      "engineering",
+      "women",
+      "women in stem",
+      "bursary",
+      "tmr"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/women-in-engineering-bursaries",
+      "label": "QUT: TMR Women in Engineering Bursaries"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      },
+      "field": {
+        "yes": [
+          "engineering"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$5,000 each for four students",
+        "quote": "is a bursary valued at $5,000, offered to four continuing domestic students.",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0013/1235101/terms-conditions-tmr-women-in-engineering-bursaries.pdf",
+        "page_date": null
+      },
+      {
+        "claim": "Must identify as a woman",
+        "quote": "Must identify as a woman",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0013/1235101/terms-conditions-tmr-women-in-engineering-bursaries.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-imed-medical-imaging-bursary",
+    "name": "I-MED Radiology Network Medical Imaging Bursary",
+    "provider": "QUT and I-MED Radiology Network",
+    "category": "uni",
+    "summary": "A bursary for QUT Medical Imaging students willing to do a third-year placement at a regional I-MED site.",
+    "key": "Valued at $5,000.",
+    "who": [
+      "Domestic or international students in CS48 Bachelor of Medical Imaging (Honours), in Year 2 when applying.",
+      "GPA of at least 5.0.",
+      "Willing to do a Year 3 placement at an eligible I-MED regional site."
+    ],
+    "how": [
+      "Apply with the application form, a CV and a response to the selection criteria."
+    ],
+    "catches": [
+      "The terms found cover the Semester 2, 2025 round. Check the current round with health.engage@qut.edu.au."
+    ],
+    "tags": [
+      "qut",
+      "medical imaging",
+      "radiography",
+      "regional",
+      "placement",
+      "bursary",
+      "health"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/i-med-radiology-network-medical-imaging-bursary",
+      "label": "QUT: I-MED Medical Imaging Bursary"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      },
+      "field": {
+        "yes": [
+          "care"
+        ]
+      },
+      "prac": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$5,000",
+        "quote": "is a bursary valued at $5,000",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0006/1255938/imed-radiology-network-medical-imaging-bursary-terms-and-conditions.pdf",
+        "page_date": null
+      },
+      {
+        "claim": "GPA 5.0",
+        "quote": "Must hold a minimum course (cumulative) grade point average (GPA) of 5.0 at the time of application",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0006/1255938/imed-radiology-network-medical-imaging-bursary-terms-and-conditions.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-gender-affirmation-bursary",
+    "name": "QUT Gender Affirmation Bursary",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "Financial help for trans and gender diverse QUT students to access gender-affirming care.",
+    "who": [
+      "Trans and gender diverse QUT students."
+    ],
+    "catches": [
+      "The amount and dates were not shown on the page. Check the listing."
+    ],
+    "tags": [
+      "qut",
+      "trans",
+      "gender diverse",
+      "lgbtiqa",
+      "bursary",
+      "health"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/gender-affirmation-bursary",
+      "label": "QUT: Gender Affirmation Bursary"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Purpose and who it's for",
+        "quote": "This bursary provides trans and gender diverse students with financial assistance to access gender-affirming care",
+        "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/gender-affirmation-bursary",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-legal-name-change-bursary",
+    "name": "QUT Legal Name and Birth Certificate Change Bursary",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "Financial help for trans and gender diverse QUT students to change their name and sex on legal documents.",
+    "who": [
+      "Trans and gender diverse QUT students."
+    ],
+    "catches": [
+      "The amount and dates were not shown on the page. Check the listing."
+    ],
+    "tags": [
+      "qut",
+      "trans",
+      "gender diverse",
+      "lgbtiqa",
+      "name change",
+      "bursary"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/legal-name-change-bursary-for-trans-and-gender-diverse-students",
+      "label": "QUT: Legal Name and Birth Certificate Change Bursary"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Purpose and who it's for",
+        "quote": "This bursary provides trans and gender diverse students with financial assistance to change names and sex on legal documents.",
+        "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/legal-name-change-bursary-for-trans-and-gender-diverse-students",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-asylum-seeker-tuition-fee-scholarship",
+    "name": "QUT Asylum Seeker Tuition Fee Scholarship",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "A full tuition fee waiver plus an equity scholarship for asylum seekers starting a QUT undergraduate degree.",
+    "key": "A full tuition fee waiver, plus a guaranteed Equity Scholarship of $2,100 (2024 terms).",
+    "who": [
+      "Starting a university undergraduate degree for the first time.",
+      "Hold a Bridging Visa E (050), Temporary Protection Visa (785) or Safe Haven Enterprise Visa (790).",
+      "Accepted into a QUT undergraduate degree."
+    ],
+    "how": [
+      "Apply with the application form, with evidence of visa status, your financial situation and a financial impact statement."
+    ],
+    "catches": [
+      "The terms found are from 2024. QUT runs a 2026 application form, so check the current round."
+    ],
+    "tags": [
+      "qut",
+      "asylum seeker",
+      "refugee",
+      "tuition waiver",
+      "scholarship"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-asylum-seeker-tuition-fee-scholarship",
+      "label": "QUT: Asylum Seeker Tuition Fee Scholarship"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Equity Scholarship $2,100",
+        "quote": "The Scholarship recipient will receive a guaranteed Equity Scholarship to the value of $2100 for Semester 2, 2024.",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0014/1360022/asylum-seeker-tuition-fee-scholarship-terms-and-conditions.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-michael-roche-scholarship",
+    "name": "Michael Roche Scholarship",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "A one-year research scholarship for domestic QUT research students and early career researchers.",
+    "key": "Valued at $20,000 for a maximum of one year.",
+    "who": [
+      "Australian or NZ citizen, permanent resident or permanent humanitarian visa holder.",
+      "Domestic research student at QUT in an MPhil, PhD or Professional Doctorate, or an early career researcher within five years of a PhD."
+    ],
+    "how": [
+      "Apply with the application form, a transcript and a statement on the project, its suitability, the use of funds and your suitability."
+    ],
+    "catches": [
+      "Offered from Semester 2, 2026. The terms don't give a closing date."
+    ],
+    "tags": [
+      "qut",
+      "research",
+      "phd",
+      "mphil",
+      "hdr",
+      "scholarship"
+    ],
+    "source": {
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0007/1580065/michael-roche-scholarship-terms-and-conditions.pdf",
+      "label": "QUT: Michael Roche Scholarship terms and conditions"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$20,000 for one year",
+        "quote": "The Scholarship is valued at $20,000 for a maximum of one (1) year.",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0007/1580065/michael-roche-scholarship-terms-and-conditions.pdf",
+        "page_date": null
+      },
+      {
+        "claim": "Domestic research student",
+        "quote": "Must be a domestic research student at QUT",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0007/1580065/michael-roche-scholarship-terms-and-conditions.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-qic-first-nations-tertiary-scholarship",
+    "name": "QIC First Nations Tertiary Scholarship",
+    "provider": "QUT and QIC",
+    "category": "uni",
+    "summary": "An industry scholarship for Aboriginal and Torres Strait Islander students in business, law, IT, data science or software engineering at QUT.",
+    "key": "Valued at $10,000, paid as $5,000 per teaching period.",
+    "who": [
+      "Australian citizen or permanent resident.",
+      "Aboriginal and/or Torres Strait Islander, confirmed through QUT's CATSID procedure.",
+      "Enrolled in an eligible course such as Business, Laws (Honours), Engineering (Honours) (Computer and Software Systems), IT or Data Science.",
+      "Current QUT students need a GPA of 4.0 or above."
+    ],
+    "how": [
+      "Apply with the application form, a transcript, a CV and a response to the selection criteria. You may be interviewed."
+    ],
+    "catches": [
+      "Offered from Semester 1, 2027. The terms don't give the closing date.",
+      "Not if you have already received the QIC Indigenous Tertiary Scholarship."
+    ],
+    "tags": [
+      "qut",
+      "indigenous",
+      "first nations",
+      "business",
+      "law",
+      "it",
+      "scholarship",
+      "qic"
+    ],
+    "source": {
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0004/1531705/qic-first-nations-tertiary-scholarship-terms-conditions.pdf",
+      "label": "QUT: QIC First Nations Tertiary Scholarship terms"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "field": {
+        "yes": [
+          "business",
+          "it"
+        ],
+        "maybe": [
+          "engineering",
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$10,000",
+        "quote": "valued at $10,000, offered to commencing and continuing Aboriginal and/or Torres Strait Islander students.",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0004/1531705/qic-first-nations-tertiary-scholarship-terms-conditions.pdf",
+        "page_date": null
+      },
+      {
+        "claim": "Citizen or PR",
+        "quote": "Must be an Australian citizen OR an Australian permanent resident.",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0004/1531705/qic-first-nations-tertiary-scholarship-terms-conditions.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-joan-penridge-commemorative-award",
+    "name": "Joan Penridge Commemorative Award",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "A scholarship for full-time domestic QUT nursing students in their final year.",
+    "key": "Valued at $3,000, paid as $1,500 per teaching period for up to one year.",
+    "who": [
+      "Australian or NZ citizen or Australian permanent resident.",
+      "Full-time (36 credit points or more).",
+      "In the final year of the Bachelor of Nursing (NS42) or an eligible combined nursing degree."
+    ],
+    "how": [
+      "Apply with the application form and a response to the selection criteria. You may be interviewed."
+    ],
+    "catches": [
+      "Offered from Semester 2, 2026. Ask health.engage@qut.edu.au for the closing date."
+    ],
+    "tags": [
+      "qut",
+      "nursing",
+      "health",
+      "scholarship"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/joan-penridge-commemorative-award",
+      "label": "QUT: Joan Penridge Commemorative Award"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      },
+      "field": {
+        "yes": [
+          "care"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$3,000",
+        "quote": "The Joan Penridge Commemorative Award ('the Scholarship'), valued at $3,000, is offered to continuing domestic students.",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0006/1528710/joan-penridge-commemorative-award-terms-and-conditions-2026.pdf",
+        "page_date": null
+      },
+      {
+        "claim": "Full-time",
+        "quote": "Must be enrolled as a full-time student at QUT (36 credit points or above).",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0006/1528710/joan-penridge-commemorative-award-terms-and-conditions-2026.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-oodgeroo-noonuccal-scholarship",
+    "name": "Oodgeroo Noonuccal Undergraduate and Postgraduate Scholarship",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "A scholarship for Aboriginal and Torres Strait Islander students in QUT undergraduate or postgraduate courses.",
+    "key": "$7,500 for undergraduate students and $10,000 for postgraduate students.",
+    "who": [
+      "Australian or NZ citizen.",
+      "Aboriginal and/or Torres Strait Islander.",
+      "Undergraduates must be full time (36 credit points); postgraduates can be part time or full time.",
+      "Not in your final semester, and not a past recipient."
+    ],
+    "how": [
+      "Apply with the application form, your transcript, two referee statements (one academic, one from an Aboriginal and/or Torres Strait Islander person) and a response to the selection criteria."
+    ],
+    "catches": [
+      "Offered from Semester 1, 2027. The terms don't give the closing date.",
+      "Paid in two instalments a year, after each census date."
+    ],
+    "tags": [
+      "qut",
+      "indigenous",
+      "first nations",
+      "oodgeroo",
+      "scholarship",
+      "postgraduate"
+    ],
+    "source": {
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0006/1407624/oodgeroo-noonuccal-undergraduate-and-postgraduate-scholarship-terms-and-conditions.pdf",
+      "label": "QUT: Oodgeroo Noonuccal Scholarship terms"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$7,500 UG / $10,000 PG",
+        "quote": "valued at $7,500 for the undergraduate students, and $10,000 for the postgraduate students",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0006/1407624/oodgeroo-noonuccal-undergraduate-and-postgraduate-scholarship-terms-and-conditions.pdf",
+        "page_date": null
+      },
+      {
+        "claim": "Must be ATSI",
+        "quote": "Must be an Aboriginal and/or Torres Strait Islander Person as defined",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0006/1407624/oodgeroo-noonuccal-undergraduate-and-postgraduate-scholarship-terms-and-conditions.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-cs-energy-indigenous-scholarship",
+    "name": "QUT CS Energy Indigenous Scholarship",
+    "provider": "QUT and CS Energy",
+    "category": "uni",
+    "summary": "An industry scholarship for Aboriginal and Torres Strait Islander undergraduates in business, science, engineering or technology from a low-income background.",
+    "key": "Valued at $10,000, paid in two $5,000 instalments.",
+    "who": [
+      "Australian citizen.",
+      "Aboriginal and/or Torres Strait Islander, confirmed through QUT's CATSID procedure.",
+      "Full-time in a bachelor course in Business, Science, Engineering or Technology.",
+      "From a low socio-economic background."
+    ],
+    "how": [
+      "Apply with the application form, a transcript, a CV and a response to the selection criteria. You may be interviewed."
+    ],
+    "catches": [
+      "Offered from Semester 1, 2027. The terms don't give the closing date.",
+      "Not for past recipients."
+    ],
+    "tags": [
+      "qut",
+      "indigenous",
+      "first nations",
+      "engineering",
+      "stem",
+      "low income",
+      "scholarship",
+      "cs energy"
+    ],
+    "source": {
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0007/1407616/qut-cs-energy-indigneous-scholarship-terms-conditions.pdf",
+      "label": "QUT: CS Energy Indigenous Scholarship terms"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      },
+      "field": {
+        "yes": [
+          "business",
+          "engineering",
+          "it"
+        ],
+        "maybe": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$10,000",
+        "quote": "an industry scholarship valued at $10,000.",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0007/1407616/qut-cs-energy-indigneous-scholarship-terms-conditions.pdf",
+        "page_date": null
+      },
+      {
+        "claim": "Low SES",
+        "quote": "Must come from a low socio-economic background.",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0007/1407616/qut-cs-energy-indigneous-scholarship-terms-conditions.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-indigenous-australian-accommodation-scholarship",
+    "name": "QUT Indigenous Australian Accommodation Scholarship",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "Paid student accommodation for Aboriginal and Torres Strait Islander students relocating to start a QUT undergraduate degree.",
+    "key": "The 2024 full scholarship was an accommodation package with a rental value of $31,100.",
+    "who": [
+      "Australian citizen of Aboriginal and/or Torres Strait Islander descent.",
+      "Starting an undergraduate degree for the first time at QUT.",
+      "Listed a QUT undergraduate degree as QTAC preference 1 to 3."
+    ],
+    "how": [
+      "Apply with the application form, written responses, evidence of relocation, recommendation letters and transcripts."
+    ],
+    "catches": [
+      "The terms found are from 2024. Check the current round."
+    ],
+    "tags": [
+      "qut",
+      "indigenous",
+      "first nations",
+      "accommodation",
+      "relocation",
+      "scholarship"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-indigenous-australian-accommodation-program",
+      "label": "QUT: Indigenous Australian Accommodation Scholarship"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen"
+        ]
+      },
+      "away": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$31,100 accommodation package",
+        "quote": "the current rental market value of this accommodation package is $31,100.",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0010/1283374/qut-indigenous-australian-accommodation-scholarship-terms-and-conditions-2024.pdf",
+        "page_date": null
+      },
+      {
+        "claim": "Citizen",
+        "quote": "Must be an Australian citizen.",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0010/1283374/qut-indigenous-australian-accommodation-scholarship-terms-and-conditions-2024.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-garawa-nursing-scholarship",
+    "name": "Garawa Nursing Scholarship",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "Covers the costs of a rural or remote Northern Territory nursing placement for Aboriginal and Torres Strait Islander QUT students.",
+    "key": "Awarded to the value of $5,000, spent first on placement travel and accommodation.",
+    "who": [
+      "Identify as Aboriginal and/or Torres Strait Islander.",
+      "Starting third year of the Bachelor of Nursing (NS42) or final year of the Master of Nursing Entry to Practice (NS89).",
+      "Willing to do a primary health care placement in a rural or remote Aboriginal and/or Torres Strait Islander community in the NT."
+    ],
+    "how": [
+      "Contact health.engage@qut.edu.au."
+    ],
+    "catches": [
+      "The terms found were updated in June 2023. Check the current round."
+    ],
+    "tags": [
+      "qut",
+      "indigenous",
+      "first nations",
+      "nursing",
+      "placement",
+      "northern territory",
+      "scholarship"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/garawa-nursing-scholarship",
+      "label": "QUT: Garawa Nursing Scholarship"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "field": {
+        "yes": [
+          "care"
+        ]
+      },
+      "prac": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$5,000",
+        "quote": "awarded to the value of $5,000.",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0019/1250155/ns42-ns89-nursing-garawanursingscholarship-terms-conditions.pdf",
+        "page_date": null
+      },
+      {
+        "claim": "ATSI",
+        "quote": "identify as Aboriginal and/or Torres Strait Islander.",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0019/1250155/ns42-ns89-nursing-garawanursingscholarship-terms-conditions.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-rotary-feros-health-student-grants",
+    "name": "Rotary Feros Health Student Grants",
+    "provider": "QUT and Rotary",
+    "category": "uni",
+    "summary": "Grants towards rural, regional or remote clinical placements for full-time QUT health students.",
+    "key": "$1,650 each, paid when the approved clinical placement starts.",
+    "who": [
+      "Australian or NZ citizen, permanent resident or permanent humanitarian visa holder.",
+      "Full-time at QUT.",
+      "Enrolled or on track to enrol in an eligible clinical unit, such as Paramedic Science, Radiation Therapy, Nutrition and Dietetics, Exercise Physiology, Podiatry, Optometry or Medical Imaging."
+    ],
+    "how": [
+      "Apply with the application form, a CV and a written response of up to 1,000 words on yourself and your intended learning outcomes."
+    ],
+    "catches": [
+      "One grant per student over your time at QUT.",
+      "The terms don't give the closing date. Ask health.engage@qut.edu.au."
+    ],
+    "tags": [
+      "qut",
+      "health",
+      "placement",
+      "rural",
+      "regional",
+      "paramedic",
+      "grant"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/rotary-feros-health-grants",
+      "label": "QUT: Rotary Feros Health Student Grants"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      },
+      "field": {
+        "yes": [
+          "care"
+        ]
+      },
+      "prac": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "$1,650 each",
+        "quote": "The Rotary Feros Health Student Grants are valued at $1,650 each",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0011/1253756/rotary-feros-health-grant-terms-conditions.pdf",
+        "page_date": null
+      },
+      {
+        "claim": "Full-time",
+        "quote": "Must be studying at QUT full-time,",
+        "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0011/1253756/rotary-feros-health-grant-terms-conditions.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-australian-south-sea-islander-scholarship",
+    "name": "Australian South Sea Islander Community Foundation Scholarship",
+    "provider": "QUT and Australian South Sea Islander Community Foundation",
+    "category": "uni",
+    "summary": "An equity scholarship for Australian South Sea Islander students in QUT undergraduate study, applied for through the Equity Scholarships Scheme.",
+    "key": "Valued at up to $5,000, offered only in the Semester 1 round each year.",
+    "who": [
+      "Australian South Sea Islanders who meet QUT's entry requirements for undergraduate study."
+    ],
+    "how": [
+      "Apply through the QUT Equity Scholarships Scheme in the Semester 1 round."
+    ],
+    "catches": [
+      "You can get only one award from the Equity Scholarships Scheme each year."
+    ],
+    "tags": [
+      "qut",
+      "south sea islander",
+      "equity",
+      "low income",
+      "scholarship"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/australian-south-sea-islander-community-foundation-scholarship",
+      "label": "QUT: Australian South Sea Islander Community Foundation Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Up to $5,000",
+        "quote": "Australian South Sea Islander Community Foundation Scholarships, valued at up to $5,000 (offered only in the Semester 1 application round, each year).",
+        "url": "https://www.qut.edu.au/about/equity/equity-scholarships-scheme",
+        "page_date": null
+      },
+      {
+        "claim": "Who it's for",
+        "quote": "Australian South Sea Islanders who satisfy university entry requirements for undergraduate studies at QUT.",
+        "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/australian-south-sea-islander-community-foundation-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-q-step-scholarships",
+    "name": "QTAC Educational Access Scheme (Q-Step) Scholarships",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "Equity scholarships at QUT for students who applied through QTAC's Educational Access Scheme.",
+    "key": "Valued at up to $4,200.",
+    "how": [
+      "Considered through the QUT Equity Scholarships Scheme."
+    ],
+    "catches": [
+      "You can get only one award from the Equity Scholarships Scheme each year."
+    ],
+    "tags": [
+      "qut",
+      "q-step",
+      "qtac",
+      "eas",
+      "equity",
+      "scholarship"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/about/equity/equity-scholarships-scheme",
+      "label": "QUT: Equity Scholarships Scheme"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Up to $4,200",
+        "quote": "QTAC Educational Access Scheme (Q-Step) Scholarships, valued at up to $4,200.",
+        "url": "https://www.qut.edu.au/about/equity/equity-scholarships-scheme",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-guild-food-bank",
+    "name": "QUT Guild Food Bank",
+    "provider": "QUT Guild",
+    "category": "uni",
+    "summary": "Free groceries for QUT students facing financial hardship, once a week at Kelvin Grove.",
+    "who": [
+      "All QUT students facing financial hardship."
+    ],
+    "how": [
+      "Arrive at 10 AM or earlier. No appointment needed."
+    ],
+    "catches": [
+      "One visit per week.",
+      "QUT Kelvin Grove, C Block, Level 4, C406. Open Tuesday to Thursday, 10 AM to 2 PM, unless capacity is reached."
+    ],
+    "tags": [
+      "qut",
+      "guild",
+      "food",
+      "groceries",
+      "hardship",
+      "free",
+      "kelvin grove"
+    ],
+    "source": {
+      "url": "https://qutguild.com/foodbank/",
+      "label": "QUT Guild: Food Bank"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Available to all QUT students",
+        "quote": "QUT Guild Food Bank is available to all QUT students to help you get through till your next payday.",
+        "url": "https://qutguild.com/foodbank/",
+        "page_date": null
+      },
+      {
+        "claim": "One visit a week",
+        "quote": "Students are limited to one visit per week.",
+        "url": "https://qutguild.com/foodbank/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-guild-free-legal-advice",
+    "name": "QUT Guild Free Legal Advice",
+    "provider": "QUT Guild and McInnes Wilson Lawyers",
+    "category": "uni",
+    "summary": "Free legal advice for enrolled QUT students on personal injury, family and estates law.",
+    "who": [
+      "All students currently enrolled at QUT."
+    ],
+    "how": [
+      "Submit an enquiry through the Guild's legal advice page."
+    ],
+    "catches": [
+      "Covers personal injury, family and estates law only.",
+      "Advice only: no court representation, letters, negotiation or document drafting or review."
+    ],
+    "tags": [
+      "qut",
+      "guild",
+      "legal",
+      "lawyer",
+      "free",
+      "family law"
+    ],
+    "source": {
+      "url": "https://qutguild.com/legal-advice/",
+      "label": "QUT Guild: Free Legal Advice"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free for enrolled students",
+        "quote": "We offer free legal services to all students currently enrolled at QUT.",
+        "url": "https://qutguild.com/legal-advice/",
+        "page_date": null
+      },
+      {
+        "claim": "Provider",
+        "quote": "This service is proudly offered by McInnes Wilson Lawyers",
+        "url": "https://qutguild.com/legal-advice/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-guild-student-advocacy",
+    "name": "QUT Guild Student Advocacy",
+    "provider": "QUT Guild",
+    "category": "uni",
+    "summary": "Free, independent help with academic issues, university policies and misconduct matters for QUT students.",
+    "who": [
+      "All QUT students with academic or university-related issues."
+    ],
+    "how": [
+      "Book an appointment with an Advocacy Officer on the Guild website, ideally before any misconduct meeting."
+    ],
+    "tags": [
+      "qut",
+      "guild",
+      "advocacy",
+      "appeal",
+      "misconduct",
+      "free"
+    ],
+    "source": {
+      "url": "https://qutguild.com/advocacy/",
+      "label": "QUT Guild: Student Advocacy"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free",
+        "quote": "Student Advocacy is a free student support service.",
+        "url": "https://qutguild.com/advocacy/",
+        "page_date": null
+      },
+      {
+        "claim": "Who",
+        "quote": "available to all QUT students experiencing academic or university-related issues.",
+        "url": "https://qutguild.com/advocacy/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-counselling",
+    "name": "QUT Counselling",
+    "provider": "QUT",
+    "category": "health",
+    "summary": "Free, confidential professional counselling for QUT students through Student Services.",
+    "who": [
+      "QUT students."
+    ],
+    "how": [
+      "Contact Student Services on 3138 2019, or request a call back online."
+    ],
+    "tags": [
+      "qut",
+      "counselling",
+      "mental health",
+      "free",
+      "wellbeing"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/student-life/support",
+      "label": "QUT: Student support"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free counselling",
+        "quote": "Student Services and our counsellors can provide you with free, professional and confidential services",
+        "url": "https://www.qut.edu.au/study/student-life/support",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-student-services-financial-help",
+    "name": "QUT Student Services financial help",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "QUT welfare officers help students manage money and access financial support such as Equity Emergency Bursaries.",
+    "who": [
+      "QUT students, domestic and international."
+    ],
+    "how": [
+      "Call Student Services on 3138 2019 or email welfare@qut.edu.au."
+    ],
+    "catches": [
+      "The page does not say this is formal financial counselling."
+    ],
+    "tags": [
+      "qut",
+      "financial counselling",
+      "budgeting",
+      "welfare",
+      "hardship"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/student-life/support",
+      "label": "QUT: Student support"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Help with finances",
+        "quote": "Student Services can help you manage your finances and access financial support, such as Equity Emergency Bursaries",
+        "url": "https://www.qut.edu.au/study/student-life/support",
+        "page_date": null
+      },
+      {
+        "claim": "Welfare officers",
+        "quote": "Our welfare officers can help you manage your finances and access financial support.",
+        "url": "https://www.qut.edu.au/study/international/support",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-student-ombudsman",
+    "name": "QUT Student Ombudsman",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "A free, confidential and independent service that investigates QUT student complaints.",
+    "how": [
+      "Make a complaint or seek advice through QUT Virtual, or the page for people without a QUT login."
+    ],
+    "tags": [
+      "qut",
+      "ombudsman",
+      "complaint",
+      "free"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/student-life/support/student-ombudsman",
+      "label": "QUT: Student Ombudsman"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "low",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free and independent",
+        "quote": "provides a free, confidential, and independent service to investigate student complaints",
+        "url": "https://www.qut.edu.au/study/student-life/support/student-ombudsman",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-disability-accessibility-services",
+    "name": "QUT Disability and Accessibility Services",
+    "provider": "QUT",
+    "category": "health",
+    "summary": "Free disability advisers who arrange study adjustments, plus assistive technology rooms, for QUT students with a disability, injury or health condition.",
+    "who": [
+      "Domestic or international, internal or external students with a disability, injury or health condition."
+    ],
+    "how": [
+      "Contact reception on 3138 2019 or student.disability@qut.edu.au and book with your faculty's adviser, ideally before or early in your studies.",
+      "Provide current supporting documentation to receive adjustments."
+    ],
+    "tags": [
+      "qut",
+      "disability",
+      "accessibility",
+      "adjustments",
+      "assistive technology",
+      "free"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/student-life/support/disability-accessibility-services",
+      "label": "QUT: Disability and Accessibility Services"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "low",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free appointments",
+        "quote": "There is no cost for appointments with a disability adviser.",
+        "url": "https://www.qut.edu.au/study/student-life/support/disability-accessibility-services",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "available to all students – domestic or international, internal or external.",
+        "url": "https://www.qut.edu.au/study/student-life/support/disability-accessibility-services",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-health-clinics-nutrition",
+    "name": "QUT Health Clinics nutrition and dietetics",
+    "provider": "QUT",
+    "category": "health",
+    "summary": "Free or low-cost nutrition and dietetics appointments at QUT Health Clinics.",
+    "catches": [
+      "The page doesn't say which appointments are free and which are low cost."
+    ],
+    "tags": [
+      "qut",
+      "health clinic",
+      "nutrition",
+      "dietitian",
+      "low cost"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/student-life/support",
+      "label": "QUT: Student support"
+    },
+    "status": "unverified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free or low-cost",
+        "quote": "QUT Health Clinics also offers free or low-cost appointments in nutrition and dietetics",
+        "url": "https://www.qut.edu.au/study/student-life/support",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-medical-centre-hiv-self-testing",
+    "name": "QUT Medical Centre free HIV self-testing",
+    "provider": "QUT Medical Centre",
+    "category": "health",
+    "summary": "Free, confidential HIV self-testing at QUT's on-campus medical centre.",
+    "catches": [
+      "The medical centre has Gardens Point and Kelvin Grove clinics."
+    ],
+    "tags": [
+      "qut",
+      "sexual health",
+      "hiv",
+      "free",
+      "medical centre"
+    ],
+    "source": {
+      "url": "https://www.medical-centre.qut.edu.au/",
+      "label": "QUT Medical Centre"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free HIV self-testing",
+        "quote": "Free, confidential HIV self-testing now available at QUT.",
+        "url": "https://www.medical-centre.qut.edu.au/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-airport-reception",
+    "name": "QUT free airport reception",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "A free 24-hour airport pick-up and transfer to your accommodation for new QUT international students arriving in Brisbane.",
+    "who": [
+      "Newly commencing international students new to Brisbane, study abroad and exchange students, and QUT College students."
+    ],
+    "how": [
+      "Accept your offer, get your CoE and visa, and book accommodation first, then book online."
+    ],
+    "catches": [
+      "Book at least three working days before you arrive.",
+      "Extra people and luggage cost extra, paid to Bel-Air Limos."
+    ],
+    "tags": [
+      "qut",
+      "international",
+      "airport",
+      "pick-up",
+      "free",
+      "brisbane"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/student-life/support/airport-reception",
+      "label": "QUT: Airport reception"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      },
+      "res": {
+        "yes": [
+          "intl"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free airport pick-up",
+        "quote": "a free 24-hour airport reception and transfer service for new international students.",
+        "url": "https://www.qut.edu.au/study/student-life/support/airport-reception",
+        "page_date": null
+      },
+      {
+        "claim": "Booking deadline",
+        "quote": "Airport reception bookings must be made at least three working days before your planned arrival date into Brisbane.",
+        "url": "https://www.qut.edu.au/study/student-life/support/airport-reception",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-free-study-coaching",
+    "name": "QUT free one-on-one study coaching",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "Free one-on-one coaching for QUT students, alongside study support in writing, maths, science and IT.",
+    "who": [
+      "QUT students."
+    ],
+    "tags": [
+      "qut",
+      "study support",
+      "coaching",
+      "writing",
+      "maths",
+      "free"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/student-life/support/student-success-study-and-career-support",
+      "label": "QUT: Student Success study and career support"
+    },
+    "status": "verified",
+    "verified": "2026-10-14",
+    "cadence": "low",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Free coaching",
+        "quote": "As a QUT student, you'll have access to free, one-on-one coaching in a flexible, low-pressure environment.",
+        "url": "https://www.qut.edu.au/study/student-life/support/student-success-study-and-career-support",
+        "page_date": null
+      }
+    ]
+  }
+]

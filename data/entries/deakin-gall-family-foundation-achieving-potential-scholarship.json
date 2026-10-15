@@ -1,0 +1,64 @@
+{
+  "id": "deakin-gall-family-foundation-achieving-potential-scholarship",
+  "name": "Gall Family Foundation Achieving Potential Scholarship (Deakin Warrnambool)",
+  "provider": "Deakin University",
+  "category": "uni",
+  "summary": "Up to $30,000 for domestic students facing hardship who start a bachelor degree on campus at Deakin Warrnambool.",
+  "key": "$10,000 a year for three years or $7,500 a year for four, $30,000 in total.",
+  "who": [
+    "Domestic student commencing an on-campus bachelor degree at Warrnambool in Trimester/Semester 1, 2027.",
+    "Full-time in a CSP unless circumstances prevent it.",
+    "Experiencing hardship that affects study."
+  ],
+  "how": [
+    "Automatic if you submitted a VTAC equity schemes and scholarships application; otherwise apply in the Scholarship Application Portal."
+  ],
+  "catches": [
+    "Applications close 5pm Wednesday 16 December 2026, re-offer round 20 January 2027."
+  ],
+  "tags": [
+    "deakin",
+    "deakin university",
+    "melbourne",
+    "vic",
+    "warrnambool",
+    "regional",
+    "equity"
+  ],
+  "source": {
+    "url": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/gall-family-foundation-achieving-potential-scholarship",
+    "label": "Deakin: Gall Family Foundation Achieving Potential Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Cash payments of up to $10,000 per year for three years or $7500 per year for four years.",
+      "url": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/gall-family-foundation-achieving-potential-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-12-16"
+}

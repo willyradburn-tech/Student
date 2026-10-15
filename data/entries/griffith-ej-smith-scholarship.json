@@ -1,0 +1,79 @@
+{
+  "id": "griffith-ej-smith-scholarship",
+  "name": "EJ Smith Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $20,000 for Griffith undergraduates from Jimboomba facing educational disadvantage.",
+  "key": "$15,000 for a single degree and $20,000 for a double degree.",
+  "who": [
+    "Commencing or continuing undergraduate, enrolled full-time.",
+    "Demonstrate educational disadvantage.",
+    "Live in, or be relocating for study from, the Jimboomba community in Queensland.",
+    "Australian citizen, permanent resident, permanent humanitarian visa holder or New Zealand citizen."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Apply by Monday 15 March 2027, 4pm."
+  ],
+  "tags": [
+    "griffith",
+    "jimboomba",
+    "logan",
+    "equity",
+    "regional"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/ej-smith-scholarship",
+    "label": "Griffith University: EJ Smith Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "$20,000 for a double degree (320 CP (credit points)).",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/ej-smith-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "single degree value",
+      "quote": "$15,000 for a single degree (240 CP (credit points))",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/ej-smith-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "reside in, or be relocating for study from, the Jimboomba community in Queensland.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/ej-smith-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

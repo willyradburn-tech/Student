@@ -1,0 +1,71 @@
+{
+  "id": "rmit-sam-nina-narodowski-migrants-refugees-scholarship",
+  "name": "Sam and Nina Narodowski Undergraduate Scholarship for Migrants and Refugees",
+  "provider": "RMIT University",
+  "category": "uni",
+  "summary": "$3,500 a semester for recently migrated RMIT undergraduates from non-English speaking backgrounds in education, health or social studies.",
+  "key": "$3,500 a semester. One offered.",
+  "who": [
+    "Australian citizen, permanent resident or permanent humanitarian visa holder.",
+    "Born overseas, recently migrated and from a non-English speaking background.",
+    "Enrolling full-time in an Education, Health Sciences, Medical Sciences or Global, Urban and Social Studies degree."
+  ],
+  "how": [
+    "Apply direct to RMIT online (preferred) or through VTAC."
+  ],
+  "catches": [
+    "Semester 1 2027 applications close 2pm Tuesday 20 October 2026."
+  ],
+  "tags": [
+    "rmit",
+    "rmit university",
+    "melbourne",
+    "vic",
+    "migrant",
+    "refugee",
+    "education",
+    "health"
+  ],
+  "source": {
+    "url": "https://www.rmit.edu.au/scholarships/coursework/sam-nina-narodowski",
+    "label": "RMIT: Sam and Nina Narodowski Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "This scholarship provides $3,500 per semester for up to the standard full-time duration of your program.",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/sam-nina-narodowski",
+      "page_date": null
+    },
+    {
+      "claim": "Background rule",
+      "quote": "be born overseas, recently migrated to Australia and from a non-English speaking background",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/sam-nina-narodowski",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-10-20"
+}

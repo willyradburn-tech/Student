@@ -1,0 +1,58 @@
+{
+  "id": "qut-child-care-bursary",
+  "name": "QUT Child Care Bursary",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "A once-off payment to help QUT students who are parents or guardians cover childcare costs.",
+  "key": "Valued at AU$500 per eligible child, paid as a once-off payment.",
+  "who": [
+    "Australian or NZ citizens, permanent residents, permanent humanitarian visa holders, and international students.",
+    "Admitted and enrolled in an undergraduate, postgraduate or research degree.",
+    "Your child is currently attending an early childhood education and care service in Australia."
+  ],
+  "how": [
+    "Apply with the application form.",
+    "Include at least one document confirming your child's enrolment and attendance, such as a child care tax invoice or proof of Child Care Subsidy."
+  ],
+  "catches": [
+    "Offered from Semester 2, 2026. The terms do not state the closing date.",
+    "Must meet QUT's scholarship, bursary and prize concurrency conditions."
+  ],
+  "tags": [
+    "qut",
+    "childcare",
+    "parents",
+    "bursary",
+    "carers"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-child-care-bursary",
+    "label": "QUT: Child Care Bursary"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$500 per eligible child",
+      "quote": "valued at AU$500.00 per eligible child and are paid as once-off payments",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0004/1583914/qut-child-care-bursary-terms-2026.pdf",
+      "page_date": null
+    },
+    {
+      "claim": "Child must attend an early childhood service",
+      "quote": "currently attending an early childhood education and care service in Australia",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0004/1583914/qut-child-care-bursary-terms-2026.pdf",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

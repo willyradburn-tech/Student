@@ -1,0 +1,46 @@
+{
+  "id": "act-ambulance-fee-waiver",
+  "name": "ACT Ambulance fee waiver for concession cardholders",
+  "provider": "ACT Emergency Services Agency",
+  "category": "health",
+  "summary": "Most Health Care Card holders aren't charged for ACT Ambulance services, which otherwise cost over $1,000 for emergency transport.",
+  "key": "Most aged pension and health care concession card holders will be entitled to free of charge ambulances services.",
+  "who": [
+    "Most Health Care Card and pension concession card holders"
+  ],
+  "how": [
+    "If you receive an ambulance account, send copies of both sides of your card to the address on the account."
+  ],
+  "catches": [
+    "Emergency treatment and transport otherwise costs $1,180 plus $15 per km outside the ACT."
+  ],
+  "tags": [
+    "ACT",
+    "Canberra",
+    "ambulance",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://esa.act.gov.au/about-esa-emergency-services/ambulance/fees-and-charges",
+    "label": "ACT ESA: Ambulance fees and charges"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "act"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free for most concession cardholders",
+      "quote": "Most aged pension and health care concession card holders will be entitled to free of charge ambulances services",
+      "url": "https://esa.act.gov.au/about-esa-emergency-services/ambulance/fees-and-charges",
+      "page_date": null
+    }
+  ]
+}

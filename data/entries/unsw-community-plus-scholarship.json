@@ -1,0 +1,61 @@
+{
+  "id": "unsw-community-plus-scholarship",
+  "name": "UNSW Community Plus Scholarship",
+  "provider": "UNSW Sydney",
+  "category": "uni",
+  "summary": "Accommodation scholarship paying residential college fees for commencing low-SES UNSW students living on campus.",
+  "key": "Up to $25,000 per annum towards residential fees for minimum program duration.",
+  "who": [
+    "Commencing undergraduate from a low socioeconomic background",
+    "Living in on-campus accommodation"
+  ],
+  "how": [
+    "Complete the separate Accommodation Scholarship Application Form; an approved UNSW Accommodation place is required"
+  ],
+  "catches": [
+    "Paid directly to the college as accommodation fees",
+    "2027 rounds: EAS via UAC by 19 Nov 2026, ES by 10 Dec 2026, with later January and February rounds; offers made through to March 2027",
+    "Competitive; meeting the criteria does not guarantee an award"
+  ],
+  "tags": [
+    "unsw",
+    "equity",
+    "scholarship",
+    "accommodation",
+    "low-ses"
+  ],
+  "source": {
+    "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+    "label": "UNSW Scholarships: UNSW Equity Scholarships for 2027"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Up to $25,000 a year towards residential fees",
+      "quote": "Up to $25,000 per annum towards residential fees for minimum program duration",
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "chsa-placement-childcare-subsidy",
+  "name": "CHSA Placement Childcare Subsidy (Coffs Harbour)",
+  "provider": "CHSA (Coffs Harbour Students Association)",
+  "category": "uni",
+  "summary": "Up to $200 per placement towards out-of-pocket childcare costs for CHSA members living in the Coffs Harbour region.",
+  "key": "You can claim up to $200 per placement, per student!",
+  "who": [
+    "Current CHSA members who live in the Coffs Harbour Greater Region."
+  ],
+  "how": [
+    "Send your placement certificate, childcare statement and proof of address to CHSA."
+  ],
+  "catches": [
+    "CHSA membership costs $5 to join, then $1 to renew."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "chsa",
+    "coffs harbour",
+    "childcare",
+    "placement",
+    "parents"
+  ],
+  "source": {
+    "url": "https://scuchsa.com.au/membership-perks/",
+    "label": "CHSA: Membership perks"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "You can claim up to $200 per placement, per student!",
+      "url": "https://scuchsa.com.au/membership-perks/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Available to current CHSA Members who reside in the Coffs Harbour Greater Region.",
+      "url": "https://scuchsa.com.au/membership-perks/",
+      "page_date": null
+    }
+  ]
+}

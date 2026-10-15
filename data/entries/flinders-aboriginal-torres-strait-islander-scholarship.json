@@ -1,0 +1,69 @@
+{
+  "id": "flinders-aboriginal-torres-strait-islander-scholarship",
+  "name": "Flinders Aboriginal and Torres Strait Islander Student Scholarship",
+  "provider": "Flinders University",
+  "category": "uni",
+  "summary": "Ten awards a year of $6,000 a year for up to four years for commencing First Nations undergraduates with financial need.",
+  "key": "Each scholarship will be valued at $6,000 per year for up to four years.",
+  "who": [
+    "Be of Australian Aboriginal or Torres Strait Islander descent and accepted as such by community",
+    "Be in receipt of means-tested government payments or be able to demonstrate financial hardship",
+    "Commencing an undergraduate degree, full-time in a Commonwealth Supported Place"
+  ],
+  "how": [
+    "Apply online through the Flinders University Student System by the closing date"
+  ],
+  "catches": [
+    "Latest listed round opened 27-07-2026 and closed 19-08-2026"
+  ],
+  "tags": [
+    "flinders",
+    "adelaide",
+    "sa",
+    "aboriginal",
+    "torres strait islander",
+    "first nations",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.flinders.edu.au/scholarships/aboriginal_and_torres_strait_islander_student_scholarship",
+    "label": "Flinders University: Aboriginal and Torres Strait Islander Student Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Each scholarship will be valued at $6,000 per year for up to four years.",
+      "url": "https://www.flinders.edu.au/scholarships/aboriginal_and_torres_strait_islander_student_scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Financial need",
+      "quote": "be in receipt of means-tested government payments or be able to demonstrate financial hardship.",
+      "url": "https://www.flinders.edu.au/scholarships/aboriginal_and_torres_strait_islander_student_scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

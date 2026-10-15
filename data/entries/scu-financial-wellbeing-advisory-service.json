@@ -1,0 +1,44 @@
+{
+  "id": "scu-financial-wellbeing-advisory-service",
+  "name": "SCU Financial Wellbeing Advisory Service",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "Free, confidential one-on-one financial wellbeing advice and monthly budgeting webinars for SCU students.",
+  "key": "Free and confidential financial wellbeing advisory service.",
+  "who": [
+    "SCU students."
+  ],
+  "how": [
+    "Book a one-on-one appointment through UniHub, or email financial.support@scu.edu.au."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "budgeting",
+    "financial counselling",
+    "money"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/current-students/services-and-support/financial-support/",
+    "label": "Southern Cross University: Financial support"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free service",
+      "quote": "Free and confidential financial wellbeing advisory service",
+      "url": "https://www.scu.edu.au/current-students/services-and-support/financial-support/",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "qso-student-tickets",
+  "name": "Queensland Symphony Orchestra $35 student tickets",
+  "provider": "Queensland Symphony Orchestra",
+  "category": "streaming",
+  "summary": "$35 tickets to QSO concerts at QPAC Concert Hall and QSO Studio for full-time tertiary students who join the student list.",
+  "key": "$35 tickets are available for full-time, tertiary students.",
+  "who": [
+    "Full-time tertiary students.",
+    "Student card must show a clear expiry date."
+  ],
+  "how": [
+    "Sign up to the QSO student list using the form on the page.",
+    "Book by phone to avoid the $7.20 online booking fee."
+  ],
+  "catches": [
+    "B and C Reserve only, two tickets per transaction, until allocation is exhausted.",
+    "Not available at live movie events or featured events.",
+    "The page sits under a 2025 web address; confirm it still applies for the current season."
+  ],
+  "tags": [
+    "qso",
+    "orchestra",
+    "brisbane",
+    "qpac",
+    "classical music"
+  ],
+  "source": {
+    "url": "https://qso.com.au/events/2025/for-students",
+    "label": "Queensland Symphony Orchestra: For Students"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$35 for full-time tertiary students",
+      "quote": "$35 tickets are available for full-time, tertiary students.",
+      "url": "https://qso.com.au/events/2025/for-students",
+      "page_date": null
+    },
+    {
+      "claim": "Where it applies",
+      "quote": "Available at all QSO performances in the QPAC Concert Hall and the QSO Studio.",
+      "url": "https://qso.com.au/events/2025/for-students",
+      "page_date": null
+    },
+    {
+      "claim": "Reserves",
+      "quote": "Available in B & C Reserve only",
+      "url": "https://qso.com.au/events/2025/for-students",
+      "page_date": null
+    }
+  ]
+}

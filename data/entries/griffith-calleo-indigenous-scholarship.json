@@ -1,0 +1,71 @@
+{
+  "id": "griffith-calleo-indigenous-scholarship",
+  "name": "Calleo Indigenous Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $7,000 a year (or $10,000 at the excellence rate) for full-time Aboriginal and Torres Strait Islander undergraduates.",
+  "key": "Maximum value is $7,000 (base rate) or $10,000 (academic excellence rate).",
+  "who": [
+    "Australian citizen.",
+    "Aboriginal and/or Torres Strait Islander, with a Confirmation of Heritage.",
+    "Full-time in any Griffith undergraduate degree.",
+    "Minimum GPA of 4 for continuing students."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Opening soon for 2027; no closing date published yet.",
+    "May continue up to $21,000 (base) or $30,000 (excellence) overall, subject to donor approval."
+  ],
+  "tags": [
+    "griffith",
+    "first nations",
+    "indigenous"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/calleo-indigenous-scholarship",
+    "label": "Griffith University: Calleo Indigenous Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value is $7,000* (base rate) or $10,000* (academic excellence rate)",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/calleo-indigenous-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "be Aboriginal and/or Torres Strait Islander",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/calleo-indigenous-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

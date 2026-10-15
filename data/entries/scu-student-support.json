@@ -1,0 +1,60 @@
+{
+  "id": "scu-student-support",
+  "name": "Southern Cross University student support",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "Free Microsoft Office and Grammarly Premium, plus food, childcare and hardship help through SCU and its student associations.",
+  "tags": [
+    "scu",
+    "southern cross",
+    "lismore",
+    "gold coast",
+    "coffs harbour",
+    "grammarly",
+    "office"
+  ],
+  "key": "Free Microsoft Office on up to five personal devices, and a free Grammarly Premium account.",
+  "who": [
+    "Students enrolled at Southern Cross University."
+  ],
+  "numbers": [
+    [
+      "Software",
+      "Microsoft Office on up to 5 devices, and Grammarly Premium"
+    ],
+    [
+      "Food",
+      "Free and discounted food through CoastRs (Gold Coast), LEXSA (Lismore and online) and CHSA (Coffs Harbour)"
+    ],
+    [
+      "Childcare",
+      "LEXSA runs a fortnightly Childcare Assistance Rebate for its members"
+    ],
+    [
+      "Printing",
+      "Discounted for student association members"
+    ]
+  ],
+  "how": [
+    "Call SCU student support on 1800 72 4357 to ask about financial help and student loans."
+  ],
+  "catches": [
+    "The one-off $150 Hardship Payment is closed for now."
+  ],
+  "cadence": "medium",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    }
+  },
+  "verified": "2026-10-13",
+  "review": "pending",
+  "status": "verified",
+  "source": {
+    "url": "https://www.scu.edu.au/current-students/services-and-support/financial-support/financial-hardship/",
+    "label": "Southern Cross University: financial hardship and cost-of-living help"
+  },
+  "closes": "closed"
+}

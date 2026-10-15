@@ -1,0 +1,74 @@
+{
+  "id": "sa-cost-of-living-concession",
+  "name": "SA Cost of Living Concession",
+  "provider": "ConcessionsSA (Government of South Australia)",
+  "category": "payments",
+  "summary": "Yearly cash payment for South Australian renters and homeowners on Youth Allowance, Austudy, ABSTUDY or with a Low Income Health Care Card.",
+  "key": "$270.60 for the 2026-27 financial year.",
+  "who": [
+    "Live at the property",
+    "Hold an eligible card (such as a Low Income Health Care Card), receive an eligible payment such as Youth Allowance, Austudy or ABSTUDY, or meet the low income provisions",
+    "Tenants must hold a written rental agreement"
+  ],
+  "how": [
+    "Apply with the online household concessions form, a paper form, or by calling ConcessionsSA on 1800 307 758.",
+    "If you received it before and nothing has changed, you don't need to reapply."
+  ],
+  "catches": [
+    "You must apply by 31 December to get the COLC for that financial year.",
+    "Payments are made between August and December by EFT."
+  ],
+  "tags": [
+    "SA",
+    "Adelaide",
+    "cost of living",
+    "COLC",
+    "renters",
+    "Health Care Card",
+    "Youth Allowance",
+    "Austudy"
+  ],
+  "source": {
+    "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/cost-of-living-concessions",
+    "label": "SA.GOV.AU: Cost of living concessions"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$270.60 for the 2026-27 financial year.",
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/cost-of-living-concessions",
+      "page_date": null
+    },
+    {
+      "claim": "Deadline",
+      "quote": "You must apply by 31 December to get the COLC for that financial year.",
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/cost-of-living-concessions",
+      "page_date": null
+    },
+    {
+      "claim": "Eligible card",
+      "quote": "Low Income Health Care Card",
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/cost-of-living-concessions",
+      "page_date": null
+    }
+  ]
+}

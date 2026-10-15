@@ -1,0 +1,50 @@
+{
+  "id": "acm-student-membership",
+  "name": "Australian College of Midwives student membership",
+  "provider": "Australian College of Midwives",
+  "category": "career",
+  "summary": "Free membership of the Australian College of Midwives for the length of your midwifery course.",
+  "key": "Student Members – Complimentary for the duration of your study ($0 membership fee).",
+  "who": [
+    "Students studying to gain initial midwifery registration"
+  ],
+  "catches": [
+    "Student members do not have voting rights."
+  ],
+  "tags": [
+    "midwifery",
+    "midwife",
+    "acm",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.midwives.org.au/join",
+    "label": "Australian College of Midwives: Membership Types"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Student Members – Complimentary for the duration of your study",
+      "url": "https://www.midwives.org.au/join",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "For students who are studying to gain initial midwifery registration.",
+      "url": "https://www.midwives.org.au/join",
+      "page_date": null
+    }
+  ]
+}

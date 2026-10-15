@@ -1,0 +1,50 @@
+{
+  "id": "qut-asylum-seeker-tuition-fee-scholarship",
+  "name": "QUT Asylum Seeker Tuition Fee Scholarship",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "A full tuition fee waiver plus an equity scholarship for asylum seekers starting a QUT undergraduate degree.",
+  "key": "A full tuition fee waiver, plus a guaranteed Equity Scholarship of $2,100 (2024 terms).",
+  "who": [
+    "Starting a university undergraduate degree for the first time.",
+    "Hold a Bridging Visa E (050), Temporary Protection Visa (785) or Safe Haven Enterprise Visa (790).",
+    "Accepted into a QUT undergraduate degree."
+  ],
+  "how": [
+    "Apply with the application form, with evidence of visa status, your financial situation and a financial impact statement."
+  ],
+  "catches": [
+    "The terms found are from 2024. QUT runs a 2026 application form, so check the current round."
+  ],
+  "tags": [
+    "qut",
+    "asylum seeker",
+    "refugee",
+    "tuition waiver",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-asylum-seeker-tuition-fee-scholarship",
+    "label": "QUT: Asylum Seeker Tuition Fee Scholarship"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Equity Scholarship $2,100",
+      "quote": "The Scholarship recipient will receive a guaranteed Equity Scholarship to the value of $2100 for Semester 2, 2024.",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0014/1360022/asylum-seeker-tuition-fee-scholarship-terms-and-conditions.pdf",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

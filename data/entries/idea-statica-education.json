@@ -1,0 +1,40 @@
+{
+  "id": "idea-statica-education",
+  "name": "IDEA StatiCa free educational licence",
+  "provider": "IDEA StatiCa",
+  "category": "software",
+  "summary": "Free 12-month educational licence of IDEA StatiCa for students' coursework and thesis projects.",
+  "key": "Free 12-month educational licence.",
+  "catches": [
+    "Non-commercial, includes watermarks and limited reporting."
+  ],
+  "tags": [
+    "structural",
+    "steel connections",
+    "concrete",
+    "civil engineering"
+  ],
+  "source": {
+    "url": "https://www.ideastatica.com/pricing/students-universities",
+    "label": "IDEA StatiCa: Students and universities"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free 12 months",
+      "quote": "Students and teachers can apply for a free 12-month educational license of IDEA StatiCa.",
+      "url": "https://www.ideastatica.com/pricing/students-universities",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "usyd-src-emergency-loan",
+  "name": "Sydney Uni SRC Emergency Loan",
+  "provider": "University of Sydney Students' Representative Council",
+  "category": "uni",
+  "summary": "Small emergency cash loan from the SRC for undergraduate University of Sydney students.",
+  "key": "Emergency loans of $50 are available to students in need of financial assistance.",
+  "who": [
+    "Currently enrolled undergraduate student at the University of Sydney"
+  ],
+  "how": [
+    "Apply online via the Emergency Loan Form"
+  ],
+  "catches": [
+    "30-day loan term; must be repaid"
+  ],
+  "tags": [
+    "usyd",
+    "loan",
+    "emergency",
+    "src",
+    "student-union",
+    "sydney"
+  ],
+  "source": {
+    "url": "https://srcusyd.net.au/src-help/src-loans/",
+    "label": "USyd SRC: SRC Loans"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$50 emergency loans",
+      "quote": "Emergency loans of $50 are available to students in need of financial assistance.",
+      "url": "https://srcusyd.net.au/src-help/src-loans/",
+      "page_date": null
+    }
+  ]
+}

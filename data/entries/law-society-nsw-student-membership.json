@@ -1,0 +1,53 @@
+{
+  "id": "law-society-nsw-student-membership",
+  "name": "Law Society of NSW student membership",
+  "provider": "The Law Society of NSW",
+  "category": "career",
+  "summary": "Free student membership of the Law Society of NSW for anyone studying law or who has completed a law course.",
+  "key": "Student membership with the Law Society of NSW is complimentary.",
+  "who": [
+    "Studying law or has successfully completed a course in law at any university",
+    "Not already eligible for Associate Membership"
+  ],
+  "how": [
+    "Sign up to LawID.",
+    "Apply for student membership once your LawID is verified."
+  ],
+  "tags": [
+    "law",
+    "nsw",
+    "sydney",
+    "lawyer",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.lawsociety.com.au/legal-communities/law-students/student-membership",
+    "label": "The Law Society of NSW: Student Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Student membership with the Law Society of NSW is complimentary.",
+      "url": "https://www.lawsociety.com.au/legal-communities/law-students/student-membership",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "is studying law or has successfully completed a course in law at any university",
+      "url": "https://www.lawsociety.com.au/legal-communities/law-students/student-membership",
+      "page_date": null
+    }
+  ]
+}

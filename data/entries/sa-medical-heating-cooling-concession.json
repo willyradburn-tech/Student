@@ -1,0 +1,55 @@
+{
+  "id": "sa-medical-heating-cooling-concession",
+  "name": "SA medical heating and cooling concession",
+  "provider": "Government of South Australia",
+  "category": "health",
+  "summary": "Yearly energy concession for South Australians with a medical condition severely worsened by hot or cold weather.",
+  "key": "The current concession amount is $291.27 a year.",
+  "who": [
+    "Have, or be the parent of a child with, a qualifying medical condition certified by a doctor",
+    "Use an air conditioner at the address for medical heating or cooling",
+    "Have an eligible concession card or Centrelink payment"
+  ],
+  "how": [
+    "Download the application form, complete it with your doctor, and email it to MHC@sa.gov.au."
+  ],
+  "catches": [
+    "The page does not name which concession cards are eligible; check before relying on a Health Care Card."
+  ],
+  "tags": [
+    "SA",
+    "medical",
+    "air conditioning",
+    "energy",
+    "concession"
+  ],
+  "source": {
+    "url": "https://www.sa.gov.au/topics/care-and-support/concessions/health-concessions/medical-heating-and-cooling-concession",
+    "label": "SA.GOV.AU: Medical heating and cooling concession"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "The current concession amount is $291.27 a year.",
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/health-concessions/medical-heating-and-cooling-concession",
+      "page_date": null
+    },
+    {
+      "claim": "Card requirement",
+      "quote": "have an eligible concession card or Centrelink payment",
+      "url": "https://www.sa.gov.au/topics/care-and-support/concessions/health-concessions/medical-heating-and-cooling-concession",
+      "page_date": null
+    }
+  ]
+}

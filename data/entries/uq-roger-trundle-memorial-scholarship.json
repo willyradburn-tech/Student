@@ -1,0 +1,74 @@
+{
+  "id": "uq-roger-trundle-memorial-scholarship",
+  "name": "Roger Trundle Memorial Scholarship (UQ)",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "Two-year scholarship for UQ civil engineering students facing financial, educational, geographic or cultural disadvantage.",
+  "key": "$15,000 per year for up to 2 years.",
+  "who": [
+    "Domestic student with documentary evidence of financial and/or educational disadvantage, geographic isolation and/or cultural disadvantage.",
+    "Enrolled full-time in the BE(Hons), BE(Hons)/Master of Engineering, or an engineering dual.",
+    "Has completed at least 12 but not more than 34 units in civil engineering.",
+    "No similar scholarship."
+  ],
+  "how": [
+    "Apply through the UQ application portal with a cover letter, resume, mySI-net studies report, evidence of financial hardship and short written answers."
+  ],
+  "catches": [
+    "Opens January 2027 and closes March 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "civil engineering",
+    "engineering",
+    "equity",
+    "regional"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/roger-trundle-memorial-scholarship",
+    "label": "UQ Scholarships: Roger Trundle Memorial Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$15,000 per year",
+      "quote": "$15,000 per year",
+      "url": "https://scholarships.uq.edu.au/scholarship/roger-trundle-memorial-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Disadvantage evidence required",
+      "quote": "can provide documentary evidence of financial and/or educational disadvantage",
+      "url": "https://scholarships.uq.edu.au/scholarship/roger-trundle-memorial-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

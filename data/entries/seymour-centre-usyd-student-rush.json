@@ -1,0 +1,58 @@
+{
+  "id": "seymour-centre-usyd-student-rush",
+  "name": "Seymour Centre Student Rush for University of Sydney students",
+  "provider": "Seymour Centre",
+  "category": "streaming",
+  "summary": "Heavily discounted last-minute theatre tickets emailed to University of Sydney students who sign up to the Seymour Student Rush.",
+  "who": [
+    "Current University of Sydney students registered with their University email address."
+  ],
+  "how": [
+    "Sign up through the Student Rush form; offers are emailed as they become available."
+  ],
+  "catches": [
+    "No price is stated.",
+    "Offers can be on the day of the performance or a few days before."
+  ],
+  "tags": [
+    "seymour centre",
+    "usyd",
+    "university of sydney",
+    "theatre",
+    "sydney"
+  ],
+  "source": {
+    "url": "https://seymourcentre.com/more/university-of-sydney-students",
+    "label": "Seymour Centre: University of Sydney Students"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Discounted tickets for USYD students",
+      "quote": "Our Student Rush Program aims to provide heavily discounted tickets for University of Sydney students.",
+      "url": "https://seymourcentre.com/more/university-of-sydney-students",
+      "page_date": null
+    },
+    {
+      "claim": "USYD email required",
+      "quote": "The Seymour Student Rush is only available for University of Sydney students with a valid University of Sydney email address.",
+      "url": "https://seymourcentre.com/more/university-of-sydney-students",
+      "page_date": null
+    }
+  ]
+}

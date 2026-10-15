@@ -1,0 +1,52 @@
+{
+  "id": "uqu-disability-bursary",
+  "name": "UQ Union Disability Bursary",
+  "provider": "UQ Union",
+  "category": "uni",
+  "summary": "One-off UQ Union bursary for UQ students with disability facing financial difficulty.",
+  "who": [
+    "UQ students with disability facing financial difficulty."
+  ],
+  "catches": [
+    "Applications are open and close Friday 21 November 2026 at 9am.",
+    "Amounts are decided case by case and not published."
+  ],
+  "tags": [
+    "uq",
+    "uq union",
+    "uqu",
+    "disability",
+    "bursary"
+  ],
+  "source": {
+    "url": "https://uqu.com.au/student-advocacy-and-support",
+    "label": "UQ Union: Student Advocacy and Support"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Bursaries for students in financial difficulty",
+      "quote": "Each year, UQU and SAS offer bursaries to students facing financial difficulty.",
+      "url": "https://uqu.com.au/student-advocacy-and-support",
+      "page_date": null
+    },
+    {
+      "claim": "Closes 21 November",
+      "quote": "Applications are currently open and will close on Friday 21 November at 9am.",
+      "url": "https://uqu.com.au/student-advocacy-and-support",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-11-21"
+}

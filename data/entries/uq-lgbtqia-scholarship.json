@@ -1,0 +1,58 @@
+{
+  "id": "uq-lgbtqia-scholarship",
+  "name": "UQ LGBTQIA+ Scholarship",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "Scholarship for UQ students who identify as LGBTQIA+, show commitment to the community, and face financial hardship.",
+  "who": [
+    "Identify as a member of the LGBTQIA+ community.",
+    "Enrolled, or will be, in an approved program in the semester of the award.",
+    "Can demonstrate financial hardship with documents.",
+    "Can demonstrate commitment to the LGBTQIA+ community, and haven't received it before."
+  ],
+  "how": [
+    "Apply with supporting documents such as references, your Centrelink statement or ATO notice, and your academic transcript."
+  ],
+  "catches": [
+    "Value varies. UQ doesn't publish a fixed amount.",
+    "Opens December 2026 and closes February 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "lgbtqia+",
+    "queer",
+    "equity",
+    "financial hardship"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/uq-lgbtqia-scholarship",
+    "label": "UQ Scholarships: UQ LGBTQIA+ Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Identify as LGBTQIA+",
+      "quote": "identify as a member of the LGBTQIA+ community",
+      "url": "https://scholarships.uq.edu.au/scholarship/uq-lgbtqia-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Financial hardship",
+      "quote": "can demonstrate financial hardship by providing documentary evidence",
+      "url": "https://scholarships.uq.edu.au/scholarship/uq-lgbtqia-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

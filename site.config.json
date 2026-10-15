@@ -1,0 +1,62 @@
+{
+  "name": "Student Concessions Hub",
+  "tagline": "Every concession you can claim as an Australian uni student, checked against the official source.",
+  "coverage": "National, plus fares in Qld, NSW, Vic, WA and the ACT",
+  "siteUrl": "",
+  "ownerName": "",
+  "ownerBlurb": "a final-year engineering student at QUT",
+  "contactEmail": "",
+  "reportForm": "netlify",
+  "analytics": {
+    "provider": "",
+    "domain": "",
+    "token": ""
+  },
+  "collections": [
+    {
+      "id": "moving-out",
+      "name": "Moving out for uni",
+      "blurb": "Rent help, relocation grants and accommodation scholarships.",
+      "any": [
+        "relocation",
+        "accommodation",
+        "rent",
+        "away from home",
+        "residential"
+      ]
+    },
+    {
+      "id": "placement",
+      "name": "On placement",
+      "blurb": "Payments and bursaries for unpaid placements.",
+      "any": [
+        "placement",
+        "prac",
+        "work integrated"
+      ]
+    },
+    {
+      "id": "short-on-cash",
+      "name": "Short on cash",
+      "blurb": "Emergency grants, loans, food help and bills relief.",
+      "any": [
+        "emergency",
+        "hardship",
+        "food",
+        "grocery",
+        "bulk billing",
+        "rebate",
+        "concession card"
+      ]
+    },
+    {
+      "id": "set-up-tech",
+      "name": "Set up your tech",
+      "blurb": "Free software and education pricing on laptops.",
+      "cats": [
+        "software",
+        "tech"
+      ]
+    }
+  ]
+}

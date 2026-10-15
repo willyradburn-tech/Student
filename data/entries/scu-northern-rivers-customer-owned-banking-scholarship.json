@@ -1,0 +1,77 @@
+{
+  "id": "scu-northern-rivers-customer-owned-banking-scholarship",
+  "name": "Northern Rivers Customer-Owned Banking Scholarship (SCU)",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$15,000 over three years for a first-year SCU business student who lived in an area hit by the 2022 Northern NSW floods.",
+  "key": "$15,000 over three years.",
+  "who": [
+    "Lived in a 2022 flood-affected postcode: 2480, 2470, 2471, 2472, 2477, 2478, 2484, 2482, 2483, 2485, 2486, 2487 or 2488.",
+    "Australian or New Zealand citizen, or permanent resident.",
+    "Starting the first year of the Bachelor of Business full-time, Gold Coast or online."
+  ],
+  "how": [
+    "Apply through SCU's applying for a scholarship page with a 100 to 200 word statement."
+  ],
+  "catches": [
+    "Applications close 14 February 2027.",
+    "One scholarship each year.",
+    "The page names both Bachelor of Business and Bachelor of Business and Enterprise, so check which course with the Scholarship Office."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "floods",
+    "northern rivers",
+    "lismore",
+    "business",
+    "gold coast"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/northern-rivers-customer-owned-banking-scholarship/",
+    "label": "Southern Cross University: Northern Rivers Customer-Owned Banking Scholarship"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "field": {
+      "yes": [
+        "business"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Flood rule",
+      "quote": "must have resided in an area that was affected by the 2022 Northern NSW floods",
+      "url": "https://www.scu.edu.au/scholarships/northern-rivers-customer-owned-banking-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/northern-rivers-customer-owned-banking-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-02-14"
+}

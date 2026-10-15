@@ -1,0 +1,39 @@
+{
+  "id": "qut-student-ombudsman",
+  "name": "QUT Student Ombudsman",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "A free, confidential and independent service that investigates QUT student complaints.",
+  "how": [
+    "Make a complaint or seek advice through QUT Virtual, or the page for people without a QUT login."
+  ],
+  "tags": [
+    "qut",
+    "ombudsman",
+    "complaint",
+    "free"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/student-life/support/student-ombudsman",
+    "label": "QUT: Student Ombudsman"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "low",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free and independent",
+      "quote": "provides a free, confidential, and independent service to investigate student complaints",
+      "url": "https://www.qut.edu.au/study/student-life/support/student-ombudsman",
+      "page_date": null
+    }
+  ]
+}

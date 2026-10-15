@@ -1,0 +1,57 @@
+{
+  "id": "uwa-guild-emergency-loan",
+  "name": "UWA Guild Emergency Loan",
+  "provider": "UWA Student Guild",
+  "category": "uni",
+  "summary": "Interest-free on-the-spot loan of up to $200 for UWA students who are Guild members.",
+  "key": "Borrow up to $200 on the spot.",
+  "who": [
+    "To be eligible, you must be a current UWA student and a Guild member."
+  ],
+  "how": [
+    "Complete the Emergency Loan Application Form"
+  ],
+  "catches": [
+    "Up to six emergency loans per year",
+    "Repay $0-$50 in 2 weeks, $51-$100 in 4 weeks, $101-$200 in 8 weeks"
+  ],
+  "tags": [
+    "uwa",
+    "uwa guild",
+    "perth",
+    "wa",
+    "loan",
+    "interest-free",
+    "emergency",
+    "student union"
+  ],
+  "source": {
+    "url": "https://www.uwastudentguild.com/support/topic/loans",
+    "label": "UWA Student Guild: Loans"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "borrow up to $200 on the spot,",
+      "url": "https://www.uwastudentguild.com/support/topic/loans",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "To be eligible, you must be a current UWA student and a Guild member.",
+      "url": "https://www.uwastudentguild.com/support/topic/loans",
+      "page_date": null
+    }
+  ]
+}

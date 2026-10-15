@@ -1,0 +1,47 @@
+{
+  "id": "dietitians-australia-student-membership",
+  "name": "Dietitians Australia student membership",
+  "provider": "Dietitians Australia",
+  "category": "career",
+  "summary": "Free Dietitians Australia membership for students in accredited dietetics courses.",
+  "key": "Student membership is free.",
+  "who": [
+    "Enrolled in an Australian accredited dietetics course or a course with Program Qualification"
+  ],
+  "tags": [
+    "dietetics",
+    "dietitian",
+    "nutrition",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://member.dietitiansaustralia.org.au/Portal/Content/About/Membership-Hub/Categories.aspx",
+    "label": "Dietitians Australia: Categories and fees"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Student Free Free Free Free Free N/A N/A N/A",
+      "url": "https://member.dietitiansaustralia.org.au/Portal/Content/About/Membership-Hub/Categories.aspx",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Enrolled in an Australian accredited dietetics course or a course with Program Qualification (PQ)",
+      "url": "https://member.dietitiansaustralia.org.au/Portal/Content/About/Membership-Hub/Categories.aspx",
+      "page_date": null
+    }
+  ]
+}

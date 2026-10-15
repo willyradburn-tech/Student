@@ -1,0 +1,51 @@
+{
+  "id": "tas-taswater-concession",
+  "name": "TasWater water and sewerage concession",
+  "provider": "Tasmanian Government",
+  "category": "health",
+  "summary": "Government-funded discount on TasWater bills for concession cardholders who are responsible for the account.",
+  "key": "Eligible TasWater customers can receive a Tasmanian Government funded discount of up to $249.43 ($124.72 for water charges and $124.72 for sewerage charges) for the 2026-27 financial year.",
+  "who": [
+    "Hold an eligible concession card; the Services Australia Health Care Card is shown as eligible",
+    "Must be legally responsible for the TasWater account",
+    "Live at the property as your principal place of residence"
+  ],
+  "catches": [
+    "Renters whose landlord holds the TasWater account won't qualify."
+  ],
+  "tags": [
+    "Tasmania",
+    "water",
+    "TasWater",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://www.concessions.tas.gov.au/browse-categories/property,-water-and-land-tax",
+    "label": "Tasmanian Concessions: Property, water and land tax"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "Eligible TasWater customers can receive a Tasmanian Government funded discount of up to $249.43",
+      "url": "https://www.concessions.tas.gov.au/browse-categories/property,-water-and-land-tax",
+      "page_date": null
+    },
+    {
+      "claim": "Account responsibility",
+      "quote": "Must be legally responsible for the TasWater account.",
+      "url": "https://www.concessions.tas.gov.au/browse-categories/property,-water-and-land-tax",
+      "page_date": null
+    }
+  ]
+}

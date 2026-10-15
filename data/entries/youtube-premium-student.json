@@ -1,0 +1,36 @@
+{
+  "id": "youtube-premium-student",
+  "name": "YouTube Premium Student",
+  "provider": "YouTube",
+  "category": "streaming",
+  "summary": "A discounted YouTube Premium membership for verified university students in Australia.",
+  "tags": [
+    "youtube",
+    "music",
+    "video",
+    "streaming",
+    "ad-free"
+  ],
+  "who": [
+    "Students at a SheerID-approved higher education institution in a country with student plans, including Australia."
+  ],
+  "how": [
+    "Go to youtube.com/premium/student and select Get Premium.",
+    "Verify with SheerID. If it isn't instant, upload documents for a manual check.",
+    "Add a payment method and buy."
+  ],
+  "catches": [
+    "You can keep it for up to four years, re-verifying each year.",
+    "Cancel any paid YouTube membership before switching.",
+    "We couldn't confirm the Australian price, so none is shown."
+  ],
+  "cadence": "high",
+  "match": {},
+  "verified": "2026-10-13",
+  "review": "approved",
+  "status": "verified",
+  "source": {
+    "url": "https://support.google.com/youtube/answer/9158808?hl=en-AU",
+    "label": "YouTube Help: student memberships"
+  }
+}

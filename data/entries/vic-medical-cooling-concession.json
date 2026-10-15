@@ -1,0 +1,52 @@
+{
+  "id": "vic-medical-cooling-concession",
+  "name": "Victorian medical cooling concession",
+  "provider": "Victorian Department of Families, Fairness and Housing",
+  "category": "health",
+  "summary": "17.5% off summer electricity costs for Victorian Health Care Card holders with a medical condition affecting temperature regulation.",
+  "key": "17.5% of electricity usage and service costs between 1 November and 30 April.",
+  "who": [
+    "Electricity account holder with a Pensioner Concession Card, Health Care Card or Veterans' Affairs Gold Card",
+    "You or a household member has a medical condition that affects the body's ability to self-regulate temperature"
+  ],
+  "how": [
+    "For an application form, phone your electricity retailer or the Concessions information line on 1800 658 521 (toll free).",
+    "Have your doctor complete and sign the form."
+  ],
+  "tags": [
+    "Victoria",
+    "medical",
+    "electricity",
+    "summer",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://services.dffh.vic.gov.au/medical-cooling-concession",
+    "label": "DFFH Victoria: Medical cooling concession"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "17.5% of electricity usage and service costs between 1 November and 30 April.",
+      "url": "https://services.dffh.vic.gov.au/medical-cooling-concession",
+      "page_date": null
+    },
+    {
+      "claim": "Eligible cards",
+      "quote": "(Pensioner Concession Card, Health Care Card, Veterans' Affairs Gold Card)",
+      "url": "https://services.dffh.vic.gov.au/medical-cooling-concession",
+      "page_date": null
+    }
+  ]
+}

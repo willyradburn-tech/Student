@@ -1,0 +1,83 @@
+{
+  "id": "griffith-ramen-danbo-business-scholarship",
+  "name": "Griffith Ramen Danbo Business Scholarship (Japanese students)",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "$5,000 tuition scholarship for a continuing Japanese international student in Griffith's Bachelor of Business or International Tourism and Hotel Management.",
+  "key": "$5,000",
+  "who": [
+    "International student with Japanese citizenship",
+    "Full-time continuing student in Bachelor of Business or Bachelor of International Tourism and Hotel Management in Trimester 1 2027",
+    "Minimum GPA of 4.0 in current Griffith program",
+    "Not holding another international scholarship"
+  ],
+  "how": [
+    "Apply by the closing date with a personal statement of up to 500 words"
+  ],
+  "catches": [
+    "Apply by 5 March 2027",
+    "Outcome by 19 March 2027"
+  ],
+  "tags": [
+    "griffith",
+    "business",
+    "tourism",
+    "japan",
+    "japanese",
+    "qld",
+    "international",
+    "intl",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/ramen-danbo-business-scholarship",
+    "label": "Griffith University: Ramen Danbo Business Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "field": {
+      "yes": [
+        "business"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Citizenship",
+      "quote": "Be an International student with Japanese citizenship.",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/ramen-danbo-business-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "GPA",
+      "quote": "Have a minimum GPA (Grade point average) in current program of study at Griffith of 4.0 or above",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/ramen-danbo-business-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Apply by: 5 March 2027",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/ramen-danbo-business-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

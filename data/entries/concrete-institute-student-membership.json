@@ -1,0 +1,56 @@
+{
+  "id": "concrete-institute-student-membership",
+  "name": "Concrete Institute of Australia student membership",
+  "provider": "Concrete Institute of Australia",
+  "category": "career",
+  "summary": "Complimentary Concrete Institute of Australia membership for full-time undergraduate and postgraduate students.",
+  "key": "Complimentary Student Membership.",
+  "who": [
+    "Undergraduate and postgraduate students studying full-time"
+  ],
+  "how": [
+    "Use the Join Now button on the Concrete Institute site."
+  ],
+  "tags": [
+    "concrete",
+    "civil engineering",
+    "structural engineering",
+    "construction",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://concreteinstitute.com.au/membership/academic",
+    "label": "Concrete Institute of Australia: Academic Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "a complimentary Student Membership with the Concrete Institute of Australia",
+      "url": "https://concreteinstitute.com.au/membership/academic",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Both Undergraduate and Post Graduate Students that are studying full-time",
+      "url": "https://concreteinstitute.com.au/membership/academic",
+      "page_date": null
+    }
+  ]
+}

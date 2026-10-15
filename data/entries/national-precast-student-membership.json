@@ -1,0 +1,45 @@
+{
+  "id": "national-precast-student-membership",
+  "name": "National Precast student membership",
+  "provider": "National Precast Concrete Association Australia",
+  "category": "career",
+  "summary": "Free National Precast student membership for full-time students in courses related to the precast concrete industry.",
+  "key": "Professional Associate student Member – Free.",
+  "how": [
+    "Download and submit the application form."
+  ],
+  "tags": [
+    "precast",
+    "concrete",
+    "engineering",
+    "architecture",
+    "building",
+    "quantity surveying",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://nationalprecast.com.au/students/",
+    "label": "National Precast: Students"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering",
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Professional Associate student Member – Free",
+      "url": "https://nationalprecast.com.au/students/",
+      "page_date": null
+    }
+  ]
+}

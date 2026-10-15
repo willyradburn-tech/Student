@@ -1,0 +1,66 @@
+{
+  "id": "curtin-peter-bradford-scholarship",
+  "name": "Curtin Peter Bradford Scholarship",
+  "provider": "Curtin University",
+  "category": "uni",
+  "summary": "One-off $2,500 for WA-based Curtin bachelor students from a low socioeconomic background in financial hardship.",
+  "key": "A one-off cash payment of $2,500.",
+  "who": [
+    "Australian citizen or permanent resident, based in Western Australia",
+    "Enrolled in an undergraduate bachelor degree with at least 50 credits",
+    "From a low socioeconomic background and experiencing financial hardship",
+    "Current students need a course weighted average of at least 60; commencing students an ATAR of 75"
+  ],
+  "how": [
+    "Apply through the Equity Scholarship Program form in OASIS (My Studies tab)"
+  ],
+  "catches": [
+    "The 2026 Semester 1 round opened 21/01/2026 and closed 25/02/2026; check for the next round",
+    "Preference for students who moved from remote or regional areas"
+  ],
+  "tags": [
+    "curtin",
+    "perth",
+    "wa",
+    "equity",
+    "low ses",
+    "regional",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://scholarships.curtin.edu.au/Scholarship/?id=7755",
+    "label": "Curtin University: Peter Bradford Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "state": {
+      "yes": [
+        "wa"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "A one-off cash payment of $2,500.",
+      "url": "https://scholarships.curtin.edu.au/Scholarship/?id=7755",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

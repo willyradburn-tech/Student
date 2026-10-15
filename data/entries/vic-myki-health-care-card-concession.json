@@ -1,0 +1,52 @@
+{
+  "id": "vic-myki-health-care-card-concession",
+  "name": "Victorian public transport concession for Health Care Card holders",
+  "provider": "Transport Victoria",
+  "category": "transport",
+  "summary": "Half-price myki fares on Victorian public transport for Health Care Card holders, separate from the student concession.",
+  "key": "Most concession fares are 50% of the full fare.",
+  "who": [
+    "Health Care Card holders"
+  ],
+  "catches": [
+    "You must carry your valid concession card and/or proof of age card when you travel.",
+    "For contactless payment you need to link your concession entitlement to your card or device."
+  ],
+  "tags": [
+    "Victoria",
+    "Melbourne",
+    "myki",
+    "PTV",
+    "Health Care Card",
+    "concession"
+  ],
+  "source": {
+    "url": "https://transport.vic.gov.au/tickets-and-payments/myki/myki-types/concession",
+    "label": "Transport Victoria: Concession myki"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "Most concession fares are 50% of the full fare.",
+      "url": "https://transport.vic.gov.au/tickets-and-payments/myki/myki-types/concession",
+      "page_date": null
+    },
+    {
+      "claim": "Health Care Card holders included",
+      "quote": "carers and Health Care Card holders",
+      "url": "https://transport.vic.gov.au/tickets-and-payments/myki/myki-types/concession",
+      "page_date": null
+    }
+  ]
+}

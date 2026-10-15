@@ -1,0 +1,40 @@
+{
+  "id": "student-start-up-loan",
+  "name": "Student Start-up Loan",
+  "provider": "Services Australia",
+  "category": "loans",
+  "summary": "A voluntary, tax-free loan for study costs. You repay it with indexation.",
+  "tags": [
+    "ssl",
+    "loan",
+    "textbooks",
+    "laptop"
+  ],
+  "who": [
+    "People getting Youth Allowance, Austudy or ABSTUDY Living Allowance."
+  ],
+  "key": "$1,349, which you can borrow up to twice a year. Applications are open for the July to December 2026 period.",
+  "how": [
+    "Apply through Services Australia while you are getting an eligible payment."
+  ],
+  "catches": [
+    "You pay it back with indexation, so it can add up over time.",
+    "The page we checked gives no closing date. Check Services Australia."
+  ],
+  "status": "verified",
+  "verified": "2026-10-12",
+  "cadence": "high",
+  "review": "approved",
+  "cap": "maybe",
+  "match": {
+    "payment": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "source": {
+    "url": "https://www.servicesaustralia.gov.au/student-start-up-loan-ssl-applications-are-now-open-for-july-december-2026",
+    "label": "Services Australia: Student Start-up Loan applications"
+  }
+}

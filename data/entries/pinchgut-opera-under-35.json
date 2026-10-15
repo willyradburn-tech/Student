@@ -1,0 +1,54 @@
+{
+  "id": "pinchgut-opera-under-35",
+  "name": "Pinchgut Opera under 35s and concession tickets",
+  "provider": "Pinchgut Opera",
+  "category": "streaming",
+  "summary": "Pinchgut Opera in Sydney offers concession prices to people under 35 and to Health Care Card holders.",
+  "who": [
+    "People under 35 with proof of age.",
+    "Centrelink Health Care Card holders."
+  ],
+  "how": [
+    "Email proof of eligibility to ticketing@pinchgutopera.com.au."
+  ],
+  "catches": [
+    "The page does not list prices or a student rush scheme.",
+    "A $7.80 transaction fee applies."
+  ],
+  "tags": [
+    "pinchgut",
+    "opera",
+    "sydney",
+    "under 35",
+    "baroque"
+  ],
+  "source": {
+    "url": "https://www.pinchgutopera.com.au/frequently-asked-questions",
+    "label": "Pinchgut Opera: Frequently Asked Questions"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Under 35 proof",
+      "quote": "Valid proof of age ID if you are under 35 years old.",
+      "url": "https://www.pinchgutopera.com.au/frequently-asked-questions",
+      "page_date": null
+    },
+    {
+      "claim": "Proof before issue",
+      "quote": "Proof of eligibility for Pensioner Concessions and Under 35s will need to be provided to Pinchgut Opera Ticketing on request, before tickets are issued.",
+      "url": "https://www.pinchgutopera.com.au/frequently-asked-questions",
+      "page_date": null
+    }
+  ]
+}

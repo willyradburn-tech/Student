@@ -1,0 +1,57 @@
+{
+  "id": "aibs-student-membership",
+  "name": "AIBS Student Membership",
+  "provider": "Australian Institute of Building Surveyors",
+  "category": "career",
+  "summary": "Free AIBS membership for students in accredited building surveying courses; students in other courses pay a reduced fee.",
+  "key": "Free for students in AIBS-accredited courses; students in non-accredited courses pay $77 per year.",
+  "who": [
+    "Enrolled in your first building surveying qualification at a recognised university, TAFE or training provider"
+  ],
+  "how": [
+    "Check eligibility, confirm whether your course is AIBS-accredited, then apply online with proof of enrolment."
+  ],
+  "tags": [
+    "building surveying",
+    "building certification",
+    "construction",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://aibs.com.au/student",
+    "label": "AIBS: Student Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering",
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "your membership is completely free.",
+      "url": "https://aibs.com.au/student",
+      "page_date": null
+    },
+    {
+      "claim": "Non-accredited",
+      "quote": "Students in non-accredited courses pay just $77 per year.",
+      "url": "https://aibs.com.au/student",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "you must be enrolled in your first building surveying course.",
+      "url": "https://aibs.com.au/student",
+      "page_date": null
+    }
+  ]
+}

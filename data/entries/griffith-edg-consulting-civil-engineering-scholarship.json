@@ -1,0 +1,72 @@
+{
+  "id": "griffith-edg-consulting-civil-engineering-scholarship",
+  "name": "EDG Consulting Civil Engineering Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $8,500 for penultimate or final-year Griffith civil engineering students, with priority for geotechnical interest.",
+  "key": "Maximum value is $8,500, paid in instalments of $4,250 in trimester 1 and trimester 2.",
+  "who": [
+    "Australian citizen, permanent resident or permanent humanitarian visa holder.",
+    "Full-time in the penultimate or final year of the Bachelor of Engineering (Honours).",
+    "Minimum GPA of 5."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Apply by Monday 22 March 2027, 4pm for Trimester 1, 2027.",
+    "Priority for students committed to geotechnical engineering."
+  ],
+  "tags": [
+    "griffith",
+    "engineering",
+    "civil engineering",
+    "geotechnical"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/edg-consulting-civil-engineering-scholarship",
+    "label": "Griffith University: EDG Consulting Civil Engineering Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value is $8,500, paid in instalments of $4,250 in trimester 1 and trimester 2 only, provided conditions are met.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/edg-consulting-civil-engineering-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "be full-time enrolled in the penultimate or final year of the Bachelor of Engineering (Honours),",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/edg-consulting-civil-engineering-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "qut-cs-energy-indigenous-scholarship",
+  "name": "QUT CS Energy Indigenous Scholarship",
+  "provider": "QUT and CS Energy",
+  "category": "uni",
+  "summary": "An industry scholarship for Aboriginal and Torres Strait Islander undergraduates in business, science, engineering or technology from a low-income background.",
+  "key": "Valued at $10,000, paid in two $5,000 instalments.",
+  "who": [
+    "Australian citizen.",
+    "Aboriginal and/or Torres Strait Islander, confirmed through QUT's CATSID procedure.",
+    "Full-time in a bachelor course in Business, Science, Engineering or Technology.",
+    "From a low socio-economic background."
+  ],
+  "how": [
+    "Apply with the application form, a transcript, a CV and a response to the selection criteria. You may be interviewed."
+  ],
+  "catches": [
+    "Offered from Semester 1, 2027. The terms don't give the closing date.",
+    "Not for past recipients."
+  ],
+  "tags": [
+    "qut",
+    "indigenous",
+    "first nations",
+    "engineering",
+    "stem",
+    "low income",
+    "scholarship",
+    "cs energy"
+  ],
+  "source": {
+    "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0007/1407616/qut-cs-energy-indigneous-scholarship-terms-conditions.pdf",
+    "label": "QUT: CS Energy Indigenous Scholarship terms"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "field": {
+      "yes": [
+        "business",
+        "engineering",
+        "it"
+      ],
+      "maybe": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$10,000",
+      "quote": "an industry scholarship valued at $10,000.",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0007/1407616/qut-cs-energy-indigneous-scholarship-terms-conditions.pdf",
+      "page_date": null
+    },
+    {
+      "claim": "Low SES",
+      "quote": "Must come from a low socio-economic background.",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0007/1407616/qut-cs-energy-indigneous-scholarship-terms-conditions.pdf",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

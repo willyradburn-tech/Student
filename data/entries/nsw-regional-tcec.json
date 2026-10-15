@@ -1,0 +1,74 @@
+{
+  "id": "nsw-regional-tcec",
+  "name": "NSW regional student concession (TCEC)",
+  "provider": "Transport for NSW",
+  "category": "transport",
+  "summary": "Outside the Opal network, full-time students need a Transport Concession Entitlement Card to get concession fares.",
+  "tags": [
+    "regional nsw",
+    "northern rivers",
+    "trainlink",
+    "regional bus",
+    "tcec",
+    "nsw"
+  ],
+  "key": "Free to get and free to renew each year.",
+  "who": [
+    "Australian citizens or permanent residents who live in NSW.",
+    "Enrolled full-time, on campus, in an accredited higher education or VET course."
+  ],
+  "how": [
+    "Apply on the Transport for NSW tertiary students page. Your uni doesn't issue the card.",
+    "Show the card when you buy a concession ticket from a regional bus, train or coach operator."
+  ],
+  "catches": [
+    "In regional NSW, your uni student ID is not accepted as proof. Only the TCEC is.",
+    "Where you live is judged by where you sleep on class days.",
+    "We haven't confirmed how big the discount is, so no figure is shown.",
+    "A replacement card may cost a fee."
+  ],
+  "extra_sources": [
+    {
+      "url": "https://transportnsw.info/tertiary-students",
+      "label": "Transport for NSW: tertiary students"
+    }
+  ],
+  "cadence": "medium",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ],
+      "maybe": [
+        "qld",
+        "vic",
+        "wa",
+        "act",
+        "other"
+      ]
+    }
+  },
+  "verified": "2026-10-13",
+  "review": "pending",
+  "status": "verified",
+  "source": {
+    "url": "https://transportnsw.info/document/581/Guidelines-for-Issuing-NSW-Tertiary-Student-Concessions.pdf",
+    "label": "Transport for NSW: guidelines for tertiary student concessions (May 2026)"
+  }
+}

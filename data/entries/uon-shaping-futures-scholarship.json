@@ -1,0 +1,77 @@
+{
+  "id": "uon-shaping-futures-scholarship",
+  "name": "University of Newcastle Shaping Futures Scholarship",
+  "provider": "University of Newcastle",
+  "category": "uni",
+  "summary": "Lump-sum scholarship for full-time UON undergraduates affected by educational disadvantage.",
+  "key": "A benefit of $5000 to be paid as a lump sum.",
+  "who": [
+    "Enrolled in any year of a UON undergraduate degree",
+    "Studying full-time (minimum 60 units per year)",
+    "GPA of 4.0 for continuing students, or an entry rank for commencing students",
+    "Able to show the impact of educational disadvantage",
+    "Australian citizen or permanent resident"
+  ],
+  "how": [
+    "Apply through the online portal with a one-page personal statement (PDF uploads only)"
+  ],
+  "catches": [
+    "Closes 3 March 2027",
+    "Can't be held with another UON donor-funded or sponsored scholarship"
+  ],
+  "tags": [
+    "uon",
+    "newcastle",
+    "shaping futures",
+    "equity",
+    "disadvantage"
+  ],
+  "source": {
+    "url": "https://www.newcastle.edu.au/scholarships/EXT_140",
+    "label": "University of Newcastle: Shaping Futures Scholarships"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "The scholarship provides a benefit of $5000 to be paid as a lump sum.",
+      "url": "https://www.newcastle.edu.au/scholarships/EXT_140",
+      "page_date": null
+    },
+    {
+      "claim": "Disadvantage rule",
+      "quote": "Demonstrate the impact of educational disadvantage",
+      "url": "https://www.newcastle.edu.au/scholarships/EXT_140",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "03 March 2027",
+      "url": "https://www.newcastle.edu.au/scholarships/EXT_140",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-03-03"
+}

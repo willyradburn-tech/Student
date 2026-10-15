@@ -1,0 +1,56 @@
+{
+  "id": "uqu-emergency-financial-support",
+  "name": "UQ Union emergency financial support payment",
+  "provider": "UQ Union",
+  "category": "uni",
+  "summary": "One-off UQ Union payment for current UQ students whose financial stability is hit by extenuating circumstances.",
+  "who": [
+    "Current UQ student.",
+    "Facing extenuating circumstances that affect your financial stability, with evidence of the hardship."
+  ],
+  "how": [
+    "Book a Welfare appointment with a SAS advocate, who assesses you and gives you the form if you're eligible."
+  ],
+  "catches": [
+    "No amount is published. A panel decides after assessment.",
+    "Separate from UQ's own hardship grant."
+  ],
+  "tags": [
+    "uq",
+    "uq union",
+    "uqu",
+    "emergency",
+    "hardship",
+    "one-off payment"
+  ],
+  "source": {
+    "url": "https://uqu.com.au/student-advocacy-and-support",
+    "label": "UQ Union: Student Advocacy and Support"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "cap": "maybe",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Once-off payment",
+      "quote": "Students can apply for an emergency financial support payment for the purposes of obtaining a once-off payment",
+      "url": "https://uqu.com.au/student-advocacy-and-support",
+      "page_date": null
+    },
+    {
+      "claim": "How to apply",
+      "quote": "by booking a Welfare appointment with a SAS advocate.",
+      "url": "https://uqu.com.au/student-advocacy-and-support",
+      "page_date": null
+    }
+  ]
+}

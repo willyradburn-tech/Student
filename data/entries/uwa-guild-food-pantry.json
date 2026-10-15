@@ -1,0 +1,56 @@
+{
+  "id": "uwa-guild-food-pantry",
+  "name": "UWA Guild Food Pantry",
+  "provider": "UWA Student Guild",
+  "category": "uni",
+  "summary": "Free non-perishable food and hygiene items for enrolled UWA students, weekday mornings at the Guild Student Centre.",
+  "key": "FREE non-perishable essential food items (like rice, pasta, UHT milk, cereal, soup, chickpeas and tuna)",
+  "who": [
+    "The Guild Food Pantry is available only to UWA students that are enrolled in a current unit."
+  ],
+  "how": [
+    "Bring your student ID and check in at reception, Monday to Friday 9:00 AM to 11:00 AM"
+  ],
+  "catches": [
+    "Up to three items per week, one of each item"
+  ],
+  "tags": [
+    "uwa",
+    "uwa guild",
+    "perth",
+    "wa",
+    "food",
+    "pantry",
+    "free",
+    "student union"
+  ],
+  "source": {
+    "url": "https://www.uwastudentguild.com/support/topic/food-pantry",
+    "label": "UWA Student Guild: Food Pantry"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "What",
+      "quote": "FREE non-perishable essential food items (like rice, pasta, UHT milk, cereal, soup, chickpeas and tuna)",
+      "url": "https://www.uwastudentguild.com/support/topic/food-pantry",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "The Guild Food Pantry is available only to UWA students that are enrolled in a current unit.",
+      "url": "https://www.uwastudentguild.com/support/topic/food-pantry",
+      "page_date": null
+    }
+  ]
+}

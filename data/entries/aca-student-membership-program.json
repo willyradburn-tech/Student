@@ -1,0 +1,65 @@
+{
+  "id": "aca-student-membership-program",
+  "name": "ACA Student Membership Program",
+  "provider": "Australasian Corrosion Association",
+  "category": "career",
+  "summary": "Free one-year Australasian Corrosion Association membership for full-time undergraduate and postgraduate students, with limited places per branch.",
+  "key": "Free Membership Program, valid for one year.",
+  "who": [
+    "Full-time students, from undergraduate to postgraduate level"
+  ],
+  "how": [
+    "Register your interest through the online form."
+  ],
+  "catches": [
+    "A limited number of places per branch.",
+    "Renewal depends on engagement with ACA activities."
+  ],
+  "tags": [
+    "corrosion",
+    "materials engineering",
+    "chemical engineering",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.corrosion.com.au/?p=12773",
+    "label": "Australasian Corrosion Association: ACA Student Membership Program"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free, one year",
+      "quote": "is valid for one year and may be renewed based on your engagement with ACA activities",
+      "url": "https://www.corrosion.com.au/?p=12773",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "designed for full-time students, from undergraduate to postgraduate level",
+      "url": "https://www.corrosion.com.au/?p=12773",
+      "page_date": null
+    },
+    {
+      "claim": "Places",
+      "quote": "a limited number of placements available per branch",
+      "url": "https://www.corrosion.com.au/?p=12773",
+      "page_date": null
+    }
+  ]
+}

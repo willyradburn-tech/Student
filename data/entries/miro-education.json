@@ -1,0 +1,41 @@
+{
+  "id": "miro-education",
+  "name": "Miro for Education",
+  "provider": "Miro",
+  "category": "software",
+  "summary": "A free Miro education plan for students and educators, running for two years.",
+  "key": "Free Miro education plan for 2 years.",
+  "how": [
+    "Use Apply as student to open the education form."
+  ],
+  "tags": [
+    "whiteboard",
+    "collaboration",
+    "group work",
+    "miro",
+    "productivity"
+  ],
+  "source": {
+    "url": "https://miro.com/education-whiteboard/",
+    "label": "Miro: Education"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "If you're a student, an educator, or a school, you can apply for a Miro account.",
+      "url": "https://miro.com/education-whiteboard/",
+      "page_date": null
+    },
+    {
+      "claim": "Duration",
+      "quote": "2 years",
+      "url": "https://miro.com/education-whiteboard/",
+      "page_date": null
+    }
+  ]
+}

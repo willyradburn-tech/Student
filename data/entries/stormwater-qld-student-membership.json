@@ -1,0 +1,61 @@
+{
+  "id": "stormwater-qld-student-membership",
+  "name": "Stormwater Queensland student membership",
+  "provider": "Stormwater Queensland",
+  "category": "career",
+  "summary": "Free Stormwater Queensland membership for full-time undergraduate students.",
+  "key": "Student Membership of Stormwater Queensland at no charge.",
+  "who": [
+    "Currently undertaking full-time undergraduate tertiary study"
+  ],
+  "how": [
+    "Register through the Stormwater Queensland membership portal."
+  ],
+  "catches": [
+    "Not available for postgraduate, masters or PhD study."
+  ],
+  "tags": [
+    "stormwater",
+    "water",
+    "civil engineering",
+    "qld",
+    "queensland",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://stormwaterqueensland.asn.au/about/membership/",
+    "label": "Stormwater Queensland: Membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering",
+        "other"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Student Membership of Stormwater Queensland at no charge",
+      "url": "https://stormwaterqueensland.asn.au/about/membership/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Student members must be currently undertaking full time tertiary study (undergraduate).",
+      "url": "https://stormwaterqueensland.asn.au/about/membership/",
+      "page_date": null
+    }
+  ]
+}

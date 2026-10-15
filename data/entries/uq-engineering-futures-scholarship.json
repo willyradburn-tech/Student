@@ -1,0 +1,72 @@
+{
+  "id": "uq-engineering-futures-scholarship",
+  "name": "UQ Engineering Futures Scholarship",
+  "provider": "University of Queensland",
+  "category": "uni",
+  "summary": "Scholarship for commencing full-time domestic UQ engineering students who can show financial hardship.",
+  "key": "Up to $30,000.",
+  "who": [
+    "Can demonstrate financial hardship.",
+    "Domestic student.",
+    "Commencing and enrolled full-time in the Bachelor of Engineering (Honours), BE(Hons)/Master of Engineering, or an engineering dual."
+  ],
+  "how": [
+    "Apply through the application portal with a cover letter, resume, studies report from mySI-net and evidence of financial hardship."
+  ],
+  "catches": [
+    "Applications open January 2027 and close March 2027."
+  ],
+  "tags": [
+    "uq",
+    "university of queensland",
+    "engineering",
+    "equity",
+    "first year"
+  ],
+  "source": {
+    "url": "https://scholarships.uq.edu.au/scholarship/engineering-futures-scholarship",
+    "label": "UQ Scholarships: Engineering Futures Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Up to $30,000",
+      "quote": "Up to $30,000",
+      "url": "https://scholarships.uq.edu.au/scholarship/engineering-futures-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Financial hardship",
+      "quote": "can demonstrate financial hardship",
+      "url": "https://scholarships.uq.edu.au/scholarship/engineering-futures-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

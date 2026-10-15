@@ -1,0 +1,38 @@
+{
+  "id": "dell-student-discount",
+  "name": "Dell student discount",
+  "provider": "Dell",
+  "category": "tech",
+  "summary": "Up to 15% off selected Dell laptops and desktops for students in Australia.",
+  "tags": [
+    "laptop",
+    "dell",
+    "xps",
+    "computer"
+  ],
+  "key": "15% off selected Dell and XPS laptops, 10% off selected Dell Pro laptops and desktops.",
+  "who": [
+    "Current or newly accepted full-time or part-time students at accredited Australian institutions."
+  ],
+  "need": [
+    "Proof of enrolment, such as a student ID, timetable or fee receipt."
+  ],
+  "how": [
+    "Verify through SheerID on Dell's student page. It's usually instant.",
+    "The discount comes off automatically at checkout on Dell.com."
+  ],
+  "catches": [
+    "Up to 2 discounted items per order and 4 items a year.",
+    "Can't be combined with other coupons, and excludes clearance and limited-quantity deals.",
+    "The current offer ends on 30 October 2026."
+  ],
+  "cadence": "high",
+  "match": {},
+  "verified": "2026-10-13",
+  "review": "approved",
+  "status": "verified",
+  "source": {
+    "url": "https://www.dell.com/en-au/lp/students",
+    "label": "Dell: student discounts"
+  }
+}

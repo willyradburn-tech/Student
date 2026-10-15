@@ -1,0 +1,54 @@
+{
+  "id": "qut-guild-free-legal-advice",
+  "name": "QUT Guild Free Legal Advice",
+  "provider": "QUT Guild and McInnes Wilson Lawyers",
+  "category": "uni",
+  "summary": "Free legal advice for enrolled QUT students on personal injury, family and estates law.",
+  "who": [
+    "All students currently enrolled at QUT."
+  ],
+  "how": [
+    "Submit an enquiry through the Guild's legal advice page."
+  ],
+  "catches": [
+    "Covers personal injury, family and estates law only.",
+    "Advice only: no court representation, letters, negotiation or document drafting or review."
+  ],
+  "tags": [
+    "qut",
+    "guild",
+    "legal",
+    "lawyer",
+    "free",
+    "family law"
+  ],
+  "source": {
+    "url": "https://qutguild.com/legal-advice/",
+    "label": "QUT Guild: Free Legal Advice"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free for enrolled students",
+      "quote": "We offer free legal services to all students currently enrolled at QUT.",
+      "url": "https://qutguild.com/legal-advice/",
+      "page_date": null
+    },
+    {
+      "claim": "Provider",
+      "quote": "This service is proudly offered by McInnes Wilson Lawyers",
+      "url": "https://qutguild.com/legal-advice/",
+      "page_date": null
+    }
+  ]
+}

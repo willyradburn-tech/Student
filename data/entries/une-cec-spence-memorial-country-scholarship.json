@@ -1,0 +1,84 @@
+{
+  "id": "une-cec-spence-memorial-country-scholarship",
+  "name": "Cec Spence Memorial UNE Country Scholarship",
+  "provider": "University of New England",
+  "category": "uni",
+  "summary": "Scholarship for high-achieving regional or remote school leavers in financial need starting a full-time UNE bachelor degree.",
+  "key": "$1,250 per 6 credit points (or equivalent) to a maximum of $10,000.",
+  "who": [
+    "Australian citizen or permanent resident",
+    "Year 12 school leaver or 1 to 2 year gap-year student",
+    "Full-time in a bachelor degree",
+    "ATAR or equivalent of at least 86.3",
+    "Able to show financial need",
+    "Permanent home address in a regional or remote area"
+  ],
+  "how": [
+    "Complete the application form, including the Financial Need Details section"
+  ],
+  "catches": [
+    "The 2026 round closed 4 January 2026; check the page for the next round"
+  ],
+  "tags": [
+    "une",
+    "new england",
+    "regional",
+    "rural",
+    "school leaver",
+    "financial need"
+  ],
+  "source": {
+    "url": "https://www.une.edu.au/scholarships/new-student-scholarships/cec-spence-memorial-une-country-scholarships",
+    "label": "University of New England: Cec Spence Memorial UNE Country Scholarships"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "The student shall receive $1,250 per 6 credit points (or equivalent) to a maximum of $10,000",
+      "url": "https://www.une.edu.au/scholarships/new-student-scholarships/cec-spence-memorial-une-country-scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Regional rule",
+      "quote": "The applicant's permanent home address is in a Regional or Remote area",
+      "url": "https://www.une.edu.au/scholarships/new-student-scholarships/cec-spence-memorial-une-country-scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Academic rule",
+      "quote": "Students must have achieved an ATAR/UAC ranking or equivalent mark of at least 86.3",
+      "url": "https://www.une.edu.au/scholarships/new-student-scholarships/cec-spence-memorial-une-country-scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "2026 round closed",
+      "quote": "Applications are no longer being accepted for this scholarship",
+      "url": "https://www.une.edu.au/scholarships/new-student-scholarships/cec-spence-memorial-une-country-scholarships",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "closed"
+}

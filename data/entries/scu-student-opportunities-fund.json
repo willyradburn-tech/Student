@@ -1,0 +1,59 @@
+{
+  "id": "scu-student-opportunities-fund",
+  "name": "Southern Cross Student Opportunities Fund",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "Up to $7,500 towards travel, accommodation and activities for an almost-confirmed career or skills opportunity, for SCU undergraduates past first year.",
+  "key": "Worth up to $7,500 each.",
+  "who": [
+    "Current undergraduate students in second year or later.",
+    "First-year students and past recipients can't apply."
+  ],
+  "how": [
+    "Apply through the online form with a proposal, timeline, correspondence and a detailed budget."
+  ],
+  "catches": [
+    "Applications close 16 December 2026.",
+    "Job interviews and international travel are generally not funded.",
+    "The project must finish at least two months before you graduate."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "travel",
+    "career",
+    "opportunity",
+    "conference"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/current-students/opportunities/student-opportunities-fund/",
+    "label": "Southern Cross University: Student Opportunities Fund"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "worth up to $7,500 each",
+      "url": "https://www.scu.edu.au/current-students/opportunities/student-opportunities-fund/",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications close 16 December 2026.",
+      "url": "https://www.scu.edu.au/current-students/opportunities/student-opportunities-fund/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-12-16"
+}

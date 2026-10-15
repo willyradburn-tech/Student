@@ -1,0 +1,40 @@
+{
+  "id": "anusa-parents-carers-grant",
+  "name": "ANUSA Parents and Carers' Grant",
+  "provider": "ANU Students' Association (ANUSA)",
+  "category": "uni",
+  "summary": "ANUSA grant for ANU students with a dependant in their care who are experiencing financial hardship.",
+  "tags": [
+    "anu",
+    "anusa",
+    "canberra",
+    "act",
+    "parents",
+    "carers",
+    "grant"
+  ],
+  "source": {
+    "url": "https://anusa.com.au/student-assistance/financial/",
+    "label": "ANUSA: Financial assistance"
+  },
+  "status": "unverified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Purpose",
+      "quote": "Parents and Carers' Grant",
+      "url": "https://anusa.com.au/student-assistance/financial/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

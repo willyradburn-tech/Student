@@ -1,0 +1,63 @@
+{
+  "id": "qld-public-dental",
+  "name": "Free public dental care (Queensland)",
+  "provider": "Queensland Health",
+  "category": "health",
+  "summary": "Free public dental care for Queensland adults with a Health Care Card or other eligible concession card.",
+  "key": "Public dental services are provided free to eligible people.",
+  "who": [
+    "Queensland resident",
+    "Receive benefits from an eligible concession card, including the Health Care Card"
+  ],
+  "how": [
+    "Contact your local public dental service to check eligibility, book or join the waiting list"
+  ],
+  "catches": [
+    "Waiting lists apply; you pay your own transport to the clinic."
+  ],
+  "tags": [
+    "dental",
+    "dentist",
+    "teeth",
+    "health care card",
+    "qld",
+    "Queensland"
+  ],
+  "source": {
+    "url": "https://www.qld.gov.au/health/services/oral-eye-ear/dental-services",
+    "label": "Queensland Government: Public dental services"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free for eligible people",
+      "quote": "Public dental services in Queensland are funded by the government and are provided free to eligible people.",
+      "url": "https://www.qld.gov.au/health/services/oral-eye-ear/dental-services",
+      "page_date": null
+    },
+    {
+      "claim": "Residency",
+      "quote": "For adults and their dependants to be eligible for free public dental care they must be a Queensland resident",
+      "url": "https://www.qld.gov.au/health/services/oral-eye-ear/dental-services",
+      "page_date": null
+    }
+  ]
+}

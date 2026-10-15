@@ -1,0 +1,64 @@
+{
+  "id": "uon-helen-maslen-scholarship",
+  "name": "Helen Maslen Scholarship",
+  "provider": "University of Newcastle",
+  "category": "uni",
+  "summary": "Scholarship for UON students who have come to higher education as part of surviving domestic violence.",
+  "key": "A benefit of $5,000, paid as $2,500 each semester.",
+  "who": [
+    "Enrolled or enrolling in an enabling, undergraduate or postgraduate program",
+    "Full-time or part-time",
+    "Accessed higher education as part of surviving domestic violence",
+    "Able to show educational disadvantage and satisfactory academic progress"
+  ],
+  "how": [
+    "Apply through the online portal with a personal statement and a letter of support (PDF uploads only)"
+  ],
+  "catches": [
+    "Closes 3 March 2027"
+  ],
+  "tags": [
+    "uon",
+    "newcastle",
+    "domestic violence",
+    "equity",
+    "women"
+  ],
+  "source": {
+    "url": "https://www.newcastle.edu.au/scholarships/EXT_234",
+    "label": "University of Newcastle: Helen Maslen Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Headline value",
+      "quote": "This scholarship provides a benefit of $5,000, paid as $2,500 each semester.",
+      "url": "https://www.newcastle.edu.au/scholarships/EXT_234",
+      "page_date": null
+    },
+    {
+      "claim": "Main rule",
+      "quote": "Have accessed higher education as part of a process for surviving domestic violence.",
+      "url": "https://www.newcastle.edu.au/scholarships/EXT_234",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "03 March 2027",
+      "url": "https://www.newcastle.edu.au/scholarships/EXT_234",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2027-03-03"
+}

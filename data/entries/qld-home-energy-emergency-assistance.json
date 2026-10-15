@@ -1,0 +1,65 @@
+{
+  "id": "qld-home-energy-emergency-assistance",
+  "name": "Home Energy Emergency Assistance Scheme (HEEAS)",
+  "provider": "Queensland Government",
+  "category": "payments",
+  "summary": "One-off help paying an electricity or gas bill for Queenslanders hit by an emergency or short-term financial crisis.",
+  "key": "The scheme pays up to $720 once every 2 years.",
+  "who": [
+    "Responsible for the outstanding bill",
+    "Hold a current concession card, have income at or below the part-age pension maximum, or be on your provider's hardship program or payment plan",
+    "Faced an unforeseen emergency or short-term financial crisis in the past 12 months"
+  ],
+  "how": [
+    "Contact your energy provider to check eligibility and get an application number",
+    "Complete the online application form"
+  ],
+  "catches": [
+    "Payment goes to your energy provider, not to you."
+  ],
+  "tags": [
+    "electricity",
+    "gas",
+    "hardship",
+    "emergency",
+    "qld",
+    "Queensland"
+  ],
+  "source": {
+    "url": "https://www.qld.gov.au/community/cost-of-living-support/concessions/energy-concessions/home-energy-emergency-assistance-scheme",
+    "label": "Queensland Government: Home Energy Emergency Assistance Scheme"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "pays up to $720 once every 2 years.",
+      "url": "https://www.qld.gov.au/community/cost-of-living-support/concessions/energy-concessions/home-energy-emergency-assistance-scheme",
+      "page_date": null
+    },
+    {
+      "claim": "Crisis requirement",
+      "quote": "an unforeseen emergency or a short-term financial crisis",
+      "url": "https://www.qld.gov.au/community/cost-of-living-support/concessions/energy-concessions/home-energy-emergency-assistance-scheme",
+      "page_date": null
+    }
+  ]
+}

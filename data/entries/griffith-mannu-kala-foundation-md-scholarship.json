@@ -1,0 +1,62 @@
+{
+  "id": "griffith-mannu-kala-foundation-md-scholarship",
+  "name": "Mannu Kala Foundation MD Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Full tuition for students facing educational disadvantage starting Griffith's Doctor of Medicine.",
+  "key": "100% tuition fees for the duration of degree.",
+  "who": [
+    "Australian citizen, permanent resident, permanent humanitarian visa holder or New Zealand citizen.",
+    "Demonstrate educational disadvantage.",
+    "Applied for and accepted into the Doctor of Medicine at Griffith."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "The scholarships list gives Monday 1 February 2027, 4pm for Trimester 1 2027; the page body still shows a January 2026 date."
+  ],
+  "tags": [
+    "griffith",
+    "medicine",
+    "md",
+    "equity",
+    "tuition"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/mannu-kala-foundation-md-scholarship",
+    "label": "Griffith University: Mannu Kala Foundation MD Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "100% tuition fees for the duration of degree.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/mannu-kala-foundation-md-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "demonstrate educational disadvantage based on a comprehensive assessment by the University",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/mannu-kala-foundation-md-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

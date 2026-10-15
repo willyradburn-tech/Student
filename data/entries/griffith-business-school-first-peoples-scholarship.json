@@ -1,0 +1,73 @@
+{
+  "id": "griffith-business-school-first-peoples-scholarship",
+  "name": "Griffith Business School Aboriginal and Torres Strait Islander Peoples Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "$15,000 to $20,000 for First Peoples students starting a Griffith Business School undergraduate degree.",
+  "key": "$15,000 for a single degree and $20,000 for a double degree.",
+  "who": [
+    "Australian citizen.",
+    "Aboriginal and/or Torres Strait Islander.",
+    "Commencing university for the first time.",
+    "Applying for an undergraduate degree hosted by Griffith Business School."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process.",
+    "You may be asked for a Confirmation of Heritage."
+  ],
+  "catches": [
+    "Apply by Monday 9 November 2026, 4pm.",
+    "Not available with another Griffith-funded scholarship."
+  ],
+  "tags": [
+    "griffith",
+    "first nations",
+    "indigenous",
+    "business"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/Griffith-Business-School-first-peoples-scholarship",
+    "label": "Griffith University: GBS Aboriginal and Torres Strait Islander Peoples Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "field": {
+      "yes": [
+        "business"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "$15,000 for a single degree",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/Griffith-Business-School-first-peoples-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "double degree value",
+      "quote": "$20,000 for a double degree",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/Griffith-Business-School-first-peoples-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

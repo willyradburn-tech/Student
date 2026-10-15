@@ -1,0 +1,61 @@
+{
+  "id": "latrobe-su-legal-service",
+  "name": "La Trobe Student Union free legal service",
+  "provider": "La Trobe Student Union",
+  "category": "uni",
+  "summary": "Free, confidential advice from a qualified lawyer for La Trobe students, on renting, work, fines, debts and more.",
+  "who": [
+    "All La Trobe students on any campus."
+  ],
+  "how": [
+    "Contact the Student Union at hello@LaTrobeSU.org.au or (03) 7054 2090."
+  ],
+  "catches": [
+    "A free financial counselling service is listed too, but appointments weren't open yet."
+  ],
+  "tags": [
+    "latrobe",
+    "la trobe university",
+    "melbourne",
+    "vic",
+    "legal",
+    "free",
+    "financial counselling",
+    "student union",
+    "bundoora"
+  ],
+  "source": {
+    "url": "https://www.latrobesu.org.au/support/legalfinancialadvice/",
+    "label": "La Trobe Student Union: Legal and financial advice"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Cost",
+      "quote": "Nothing. $0. Free.",
+      "url": "https://www.latrobesu.org.au/support/legalfinancialadvice/",
+      "page_date": null
+    },
+    {
+      "claim": "Who can use it",
+      "quote": "All La Trobe students on any campus",
+      "url": "https://www.latrobesu.org.au/support/legalfinancialadvice/",
+      "page_date": null
+    }
+  ]
+}

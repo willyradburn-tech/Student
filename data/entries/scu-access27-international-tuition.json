@@ -1,0 +1,70 @@
+{
+  "id": "scu-access27-international-tuition",
+  "name": "SCU Access27 international tuition fee",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "Reduced flat 2027 annual tuition fee of $27,000 for most SCU courses, offered automatically to all international students.",
+  "key": "Annual international tuition for most courses is set at an accessible $27,000 in 2027.",
+  "who": [
+    "All international students, on student or non-student visas, at all SCU and The Hotel School campuses"
+  ],
+  "how": [
+    "No application: you are automatically offered the Access27 fee when you apply"
+  ],
+  "catches": [
+    "Excludes Master of Nursing, veterinary degrees, Study Abroad, English language programs, research degrees, non-award and offshore courses",
+    "Based on a full-time load of 8 units; fewer units charged pro-rata",
+    "2028 fees will be indexed"
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "lismore",
+    "gold coast",
+    "coffs harbour",
+    "international",
+    "intl",
+    "tuition",
+    "fees"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/study/international-study/access27/",
+    "label": "Southern Cross University: Access27"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Fee",
+      "quote": "set at an accessible $27,000",
+      "url": "https://www.scu.edu.au/study/international-study/access27/",
+      "page_date": null
+    },
+    {
+      "claim": "All international students",
+      "quote": "Yes, this will apply to all international students.",
+      "url": "https://www.scu.edu.au/study/international-study/access27/",
+      "page_date": null
+    },
+    {
+      "claim": "Automatic",
+      "quote": "will be automatically offered the Access27 tuition fee.",
+      "url": "https://www.scu.edu.au/study/international-study/access27/",
+      "page_date": null
+    }
+  ]
+}

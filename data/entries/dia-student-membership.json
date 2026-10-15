@@ -1,0 +1,48 @@
+{
+  "id": "dia-student-membership",
+  "name": "Design Institute of Australia student membership",
+  "provider": "Design Institute of Australia",
+  "category": "career",
+  "summary": "Discounted concessional membership of the Design Institute of Australia for design students.",
+  "key": "DIA Membership for Students is $45 + GST per year.",
+  "how": [
+    "Go to the Membership Application page, upload proof of concession (student card or enrolment) and select DIA General Membership (Concessional - annual)."
+  ],
+  "tags": [
+    "design",
+    "graphic design",
+    "interior design",
+    "industrial design",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.design.org.au/students",
+    "label": "Design Institute of Australia: Students"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Price",
+      "quote": "DIA Membership for Students is now only $45 + GST per year",
+      "url": "https://www.design.org.au/students",
+      "page_date": null
+    },
+    {
+      "claim": "Proof",
+      "quote": "Upload proof of concession (valid student card, proof of enrolment)",
+      "url": "https://www.design.org.au/students",
+      "page_date": null
+    }
+  ]
+}

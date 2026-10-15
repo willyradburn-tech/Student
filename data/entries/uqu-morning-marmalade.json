@@ -1,0 +1,52 @@
+{
+  "id": "uqu-morning-marmalade",
+  "name": "UQ Union Morning Marmalade free breakfast",
+  "provider": "UQ Union",
+  "category": "uni",
+  "summary": "Free breakfast for UQ students at St Lucia and Dutton Park.",
+  "who": [
+    "UQ students. Have your student ID ready to scan."
+  ],
+  "how": [
+    "St Lucia: ground floor of the Union Complex, next to Boost Juice, 8am to 9:30am.",
+    "Dutton Park: Level 5, Susan Tett Building (Building 870), Tuesdays 8am to 9am."
+  ],
+  "tags": [
+    "uq",
+    "uq union",
+    "uqu",
+    "free food",
+    "breakfast",
+    "st lucia",
+    "dutton park"
+  ],
+  "source": {
+    "url": "https://uqu.com.au/food-co-op",
+    "label": "UQ Union: Food Co-Op, Morning Marmalade and Kampus Kitchen"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free breakfasts and dinners for UQ students",
+      "quote": "providing free breakfasts and dinners to UQ students across campuses.",
+      "url": "https://uqu.com.au/food-co-op",
+      "page_date": null
+    },
+    {
+      "claim": "Named services",
+      "quote": "Morning Marmalade & Kampus Kitchen serve up free breakfasts and dinners.",
+      "url": "https://uqu.com.au/student-advocacy-and-support",
+      "page_date": null
+    }
+  ]
+}

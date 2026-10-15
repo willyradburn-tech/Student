@@ -1,0 +1,63 @@
+{
+  "id": "wsu-opportunity-scholarship",
+  "name": "Western Sydney University Opportunity Scholarship",
+  "provider": "Western Sydney University",
+  "category": "uni",
+  "summary": "Equity scholarship for Western Sydney undergraduates facing hardship who show academic potential.",
+  "key": "$7,500 per year up to three years (full-time, or part-time equivalent).",
+  "who": [
+    "Australian citizen, permanent resident or eligible NZ citizen",
+    "New or continuing undergraduate student",
+    "Financial or other hardship",
+    "Live in or did the HSC in Western Sydney",
+    "Minimum ATAR of 80 (current students GPA of 5)"
+  ],
+  "how": [
+    "Apply through UAC; shortlisted applicants may need to submit a written statement"
+  ],
+  "catches": [
+    "Must maintain a GPA of 4",
+    "No dates on the page; see the WSU Equity Scholarship page"
+  ],
+  "tags": [
+    "wsu",
+    "equity",
+    "scholarship",
+    "western-sydney"
+  ],
+  "source": {
+    "url": "https://www.westernsydney.edu.au/scholarships/all-scholarships/opprtunty",
+    "label": "Western Sydney University: Opportunity Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$7,500 per year up to three years",
+      "quote": "$7,500 per year up to three years",
+      "url": "https://www.westernsydney.edu.au/scholarships/all-scholarships/opprtunty",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

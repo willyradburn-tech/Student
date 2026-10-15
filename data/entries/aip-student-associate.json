@@ -1,0 +1,59 @@
+{
+  "id": "aip-student-associate",
+  "name": "AIP Student Associate",
+  "provider": "Australian Institute of Physics",
+  "category": "career",
+  "summary": "Free online-only Student Associate membership of the Australian Institute of Physics for full-time physics students.",
+  "key": "Free online-only membership for Australian full-time students; postgraduates can upgrade for $60.",
+  "who": [
+    "Australian full-time students in physics (undergraduate, Honours, Masters or PhD)"
+  ],
+  "how": [
+    "Enter your email address in the sign-up field on the page."
+  ],
+  "catches": [
+    "No voting rights.",
+    "Runs for one year from 1 March, with no automatically recurring payments."
+  ],
+  "tags": [
+    "physics",
+    "science",
+    "aip",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://physics.org.au/Student-Associate",
+    "label": "Australian Institute of Physics: Student Associate"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "other"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "Free online-only membership, without voting rights, for Australian full-time students",
+      "url": "https://physics.org.au/Student-Associate",
+      "page_date": null
+    },
+    {
+      "claim": "Upgrade",
+      "quote": "a greatly reduced student fee ($ 60)",
+      "url": "https://physics.org.au/Student-Associate",
+      "page_date": null
+    }
+  ]
+}

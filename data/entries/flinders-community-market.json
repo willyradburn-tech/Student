@@ -1,0 +1,61 @@
+{
+  "id": "flinders-community-market",
+  "name": "Flinders Community Market (free food)",
+  "provider": "Flinders University",
+  "category": "uni",
+  "summary": "Free fruit, vegetables and bread plus low-cost pantry items for all Flinders students every Thursday in semester.",
+  "key": "Free and low-cost food.",
+  "who": [
+    "A community market for all students"
+  ],
+  "how": [
+    "No need to register or book, just turn up to the Oasis Common Room (J7) on Thursdays 11 AM to 1 PM"
+  ],
+  "catches": [
+    "Closes during the mid-year and end-year breaks"
+  ],
+  "tags": [
+    "flinders",
+    "adelaide",
+    "sa",
+    "food",
+    "free",
+    "pantry",
+    "bedford park"
+  ],
+  "source": {
+    "url": "https://oasis.flinders.edu.au/flinders-community-market",
+    "label": "Flinders University Oasis: Flinders Community Market"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free food",
+      "quote": "free and low-cost food",
+      "url": "https://oasis.flinders.edu.au/flinders-community-market",
+      "page_date": null
+    },
+    {
+      "claim": "All students",
+      "quote": "a community market for all students",
+      "url": "https://oasis.flinders.edu.au/flinders-community-market",
+      "page_date": null
+    },
+    {
+      "claim": "No booking",
+      "quote": "No need to register or book, just turn up!",
+      "url": "https://oasis.flinders.edu.au/flinders-community-market",
+      "page_date": null
+    }
+  ]
+}

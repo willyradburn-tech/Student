@@ -1,0 +1,71 @@
+{
+  "id": "qut-joan-penridge-commemorative-award",
+  "name": "Joan Penridge Commemorative Award",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "A scholarship for full-time domestic QUT nursing students in their final year.",
+  "key": "Valued at $3,000, paid as $1,500 per teaching period for up to one year.",
+  "who": [
+    "Australian or NZ citizen or Australian permanent resident.",
+    "Full-time (36 credit points or more).",
+    "In the final year of the Bachelor of Nursing (NS42) or an eligible combined nursing degree."
+  ],
+  "how": [
+    "Apply with the application form and a response to the selection criteria. You may be interviewed."
+  ],
+  "catches": [
+    "Offered from Semester 2, 2026. Ask health.engage@qut.edu.au for the closing date."
+  ],
+  "tags": [
+    "qut",
+    "nursing",
+    "health",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/joan-penridge-commemorative-award",
+    "label": "QUT: Joan Penridge Commemorative Award"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$3,000",
+      "quote": "The Joan Penridge Commemorative Award ('the Scholarship'), valued at $3,000, is offered to continuing domestic students.",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0006/1528710/joan-penridge-commemorative-award-terms-and-conditions-2026.pdf",
+      "page_date": null
+    },
+    {
+      "claim": "Full-time",
+      "quote": "Must be enrolled as a full-time student at QUT (36 credit points or above).",
+      "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0006/1528710/joan-penridge-commemorative-award-terms-and-conditions-2026.pdf",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

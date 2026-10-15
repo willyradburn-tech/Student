@@ -1,0 +1,63 @@
+{
+  "id": "unimelb-housing-bursary",
+  "name": "University of Melbourne Housing Bursary",
+  "provider": "University of Melbourne",
+  "category": "uni",
+  "summary": "Up to $4,000 for University of Melbourne students paying rent or board who are in financial need.",
+  "key": "Up to $4,000, about 400 awarded.",
+  "who": [
+    "Enrolled in a course at the University of Melbourne.",
+    "Paying rent or board (not a mortgage).",
+    "Selected on financial need."
+  ],
+  "how": [
+    "You're considered automatically when you apply for the Student Bursaries."
+  ],
+  "catches": [
+    "Paid in two instalments in April and September."
+  ],
+  "tags": [
+    "unimelb",
+    "university of melbourne",
+    "melbourne",
+    "vic",
+    "rent",
+    "housing",
+    "bursary"
+  ],
+  "source": {
+    "url": "https://scholarships.unimelb.edu.au/awards/housing-bursary",
+    "label": "University of Melbourne: Housing Bursary"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Up to $4,000",
+      "url": "https://scholarships.unimelb.edu.au/awards/housing-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "Automatic consideration",
+      "quote": "If you have submitted an application for the Student Bursaries you will be automatically considered for this bursary.",
+      "url": "https://scholarships.unimelb.edu.au/awards/housing-bursary",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

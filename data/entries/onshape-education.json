@@ -1,0 +1,35 @@
+{
+  "id": "onshape-education",
+  "name": "Onshape Education Plan",
+  "provider": "Onshape (PTC)",
+  "category": "software",
+  "summary": "Free cloud-based CAD for students and educators through Onshape's Education Plan.",
+  "key": "Onshape's Education Plan is free.",
+  "how": [
+    "Select Sign Up Now and fill out the form."
+  ],
+  "tags": [
+    "cad",
+    "3d",
+    "cloud",
+    "engineering",
+    "onshape"
+  ],
+  "source": {
+    "url": "https://www.onshape.com/en/education/",
+    "label": "Onshape: Education"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Free plan",
+      "quote": "Sign up for Onshape’s free Education Plan.",
+      "url": "https://www.onshape.com/en/education/",
+      "page_date": null
+    }
+  ]
+}

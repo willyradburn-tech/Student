@@ -1,0 +1,63 @@
+{
+  "id": "uqu-student-advocacy-legal",
+  "name": "UQ Union Student Advocacy and Support (free solicitor and Centrelink help)",
+  "provider": "UQ Union",
+  "category": "uni",
+  "summary": "Free, independent UQ Union service with a solicitor plus help with Centrelink, finances, tenancy and other welfare matters.",
+  "who": [
+    "Currently enrolled UQ undergraduate and postgraduate students."
+  ],
+  "how": [
+    "Book an appointment through the UQU SAS booking portal."
+  ],
+  "catches": [
+    "Legal topics include residential tenancy, consumer complaints, civil disputes and family law.",
+    "SAS doesn't offer counselling."
+  ],
+  "tags": [
+    "uq",
+    "uq union",
+    "uqu",
+    "legal",
+    "solicitor",
+    "centrelink",
+    "tenancy",
+    "advocacy",
+    "free"
+  ],
+  "source": {
+    "url": "https://uqu.com.au/student-advocacy-and-support",
+    "label": "UQ Union: Student Advocacy and Support"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "uq"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free service",
+      "quote": "SAS is a free, independent hub of support for you",
+      "url": "https://uqu.com.au/student-advocacy-and-support",
+      "page_date": null
+    },
+    {
+      "claim": "Solicitor",
+      "quote": "SAS can help, with our solicitor ready to assist you.",
+      "url": "https://uqu.com.au/student-advocacy-and-support",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Only currently enrolled UQ undergraduate and postgraduate students are eligible for this service.",
+      "url": "https://uqu.com.au/student-advocacy-and-support",
+      "page_date": null
+    }
+  ]
+}

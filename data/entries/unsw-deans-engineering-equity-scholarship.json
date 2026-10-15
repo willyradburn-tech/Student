@@ -1,0 +1,59 @@
+{
+  "id": "unsw-deans-engineering-equity-scholarship",
+  "name": "UNSW Dean's Engineering Equity Scholarship",
+  "provider": "UNSW Sydney",
+  "category": "uni",
+  "summary": "Yearly scholarship for disadvantaged, under-represented, Indigenous and low-SES students starting a UNSW engineering degree.",
+  "key": "$15,000 per annum for minimum program duration (up to 5 years).",
+  "who": [
+    "Commencing an eligible UNSW undergraduate engineering degree",
+    "Disadvantaged, under-represented, Indigenous or low socio-economic background"
+  ],
+  "how": [
+    "Apply through UAC for an Equity Scholarship (ES) or EAS; Gateway applicants are considered automatically"
+  ],
+  "catches": [
+    "2027 rounds: EAS via UAC by 19 Nov 2026, ES by 10 Dec 2026, with later January and February rounds; offers made through to March 2027",
+    "Competitive; meeting the criteria does not guarantee an award"
+  ],
+  "tags": [
+    "unsw",
+    "equity",
+    "scholarship",
+    "engineering"
+  ],
+  "source": {
+    "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+    "label": "UNSW Scholarships: UNSW Equity Scholarships for 2027"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$15,000 per year up to 5 years",
+      "quote": "$15,000 per annum for minimum program duration(up to 5 years)",
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

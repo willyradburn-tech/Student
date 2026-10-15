@@ -1,0 +1,68 @@
+{
+  "id": "scu-vice-chancellors-scholarship",
+  "name": "SCU Vice Chancellor's Scholarship",
+  "provider": "Southern Cross University",
+  "category": "uni",
+  "summary": "$50,000 offered automatically to the top 10 school leavers with an ATAR of 95 or more starting full-time at SCU.",
+  "key": "$50,000.",
+  "who": [
+    "ATAR of 95 or above.",
+    "Commonwealth supported place.",
+    "Starting a full-time bachelor degree at SCU in 2027."
+  ],
+  "how": [
+    "No application. Students do not have to apply for merit-based scholarships."
+  ],
+  "catches": [
+    "Offered to the top 10 eligible students.",
+    "Can't be combined with another merit-based scholarship."
+  ],
+  "tags": [
+    "scu",
+    "southern cross",
+    "merit",
+    "atar",
+    "school leaver"
+  ],
+  "source": {
+    "url": "https://www.scu.edu.au/scholarships/southern-cross-university-vice-chancellors-scholarship/",
+    "label": "Southern Cross University: Vice Chancellor's Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "scu"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "ATAR rule",
+      "quote": "Have achieved an ATAR of 95 or above.",
+      "url": "https://www.scu.edu.au/scholarships/southern-cross-university-vice-chancellors-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Number",
+      "quote": "Offers will be made to the top 10 highest achieving eligible students with an ATAR 95 or above.",
+      "url": "https://www.scu.edu.au/scholarships/southern-cross-university-vice-chancellors-scholarship/",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

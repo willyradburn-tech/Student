@@ -1,0 +1,54 @@
+{
+  "id": "qnmu-student-membership",
+  "name": "QNMU free student membership",
+  "provider": "Queensland Nurses and Midwives' Union",
+  "category": "career",
+  "summary": "Free QNMU union membership for undergraduate nursing and midwifery students in Queensland.",
+  "key": "Undergraduate student (nursing or midwifery) membership is $0.",
+  "who": [
+    "Undertaking an accredited undergraduate nursing and/or midwifery course",
+    "Not engaged in nursing/midwifery work",
+    "No nursing or midwifery qualifications (diploma or higher)"
+  ],
+  "how": [
+    "Join at qnmu.org.au/join."
+  ],
+  "tags": [
+    "nursing",
+    "midwifery",
+    "qld",
+    "queensland",
+    "union",
+    "student membership",
+    "professional body"
+  ],
+  "source": {
+    "url": "https://www.qnmu.org.au/Web/Membership/Membership_and_Fees.aspx",
+    "label": "QNMU: Membership and Fees"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "is undertaking an accredited undergraduate nursing and/or midwifery course",
+      "url": "https://www.qnmu.org.au/Web/Membership/Membership_and_Fees.aspx",
+      "page_date": null
+    },
+    {
+      "claim": "Not working",
+      "quote": "is not engaged in nursing/midwifery work; and",
+      "url": "https://www.qnmu.org.au/Web/Membership/Membership_and_Fees.aspx",
+      "page_date": null
+    }
+  ]
+}

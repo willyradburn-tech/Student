@@ -1,0 +1,54 @@
+{
+  "id": "uwa-sos-it-equipment-scheme",
+  "name": "UWA SOS IT Equipment Scheme",
+  "provider": "University of Western Australia",
+  "category": "uni",
+  "summary": "Laptop loan for a teaching semester for UWA students facing financial hardship or unexpected misadventure.",
+  "key": "A loan laptop granted for the duration of a teaching semester.",
+  "who": [
+    "Demonstrated financial hardship or unexpected misadventure"
+  ],
+  "how": [
+    "Submit the Online Referral Form"
+  ],
+  "catches": [
+    "First-semester students are normally not eligible but are assessed case by case"
+  ],
+  "tags": [
+    "uwa",
+    "perth",
+    "wa",
+    "laptop",
+    "it equipment",
+    "loan"
+  ],
+  "source": {
+    "url": "https://www.uwa.edu.au/students/support/financial-assistance",
+    "label": "UWA: Financial support"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Duration",
+      "quote": "granted for the duration of a teaching semester.",
+      "url": "https://www.uwa.edu.au/students/support/financial-assistance",
+      "page_date": null
+    },
+    {
+      "claim": "First semester",
+      "quote": "normally not eligible",
+      "url": "https://www.uwa.edu.au/students/support/financial-assistance",
+      "page_date": null
+    }
+  ]
+}

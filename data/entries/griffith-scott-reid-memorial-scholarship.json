@@ -1,0 +1,82 @@
+{
+  "id": "griffith-scott-reid-memorial-scholarship",
+  "name": "Griffith Scott Reid Memorial Scholarship (PNG law students)",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "$5,000 plus a paid law clerkship for a Papua New Guinean student starting a Bachelor of Laws (Hons) or Juris Doctor at Griffith.",
+  "key": "The scholarship is valued at $5,000 in total.",
+  "who": [
+    "Citizen of Papua New Guinea or demonstrated affinity with the PNG community",
+    "Applied for an eligible Griffith law program",
+    "Full-time student starting in Trimester 1 2027"
+  ],
+  "how": [
+    "Apply for the law program, then submit a scholarship application with academic records and a personal statement; shortlisted applicants are interviewed"
+  ],
+  "catches": [
+    "Apply by 1 November 2026",
+    "Outcome by 13 November 2026"
+  ],
+  "tags": [
+    "griffith",
+    "law",
+    "juris doctor",
+    "papua new guinea",
+    "png",
+    "qld",
+    "international",
+    "intl",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/scott-reid-memorial-scholarship",
+    "label": "Griffith University: Scott Reid Memorial Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "field": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "The scholarship is valued at $5,000 in total.",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/scott-reid-memorial-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Citizenship",
+      "quote": "Be a citizen of Papua New Guinea or demonstrate affinity with the Papua New Guinea community.",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/scott-reid-memorial-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Apply by: 1 November 2026",
+      "url": "https://www.griffith.edu.au/international/scholarships-finance/scholarships/scott-reid-memorial-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}

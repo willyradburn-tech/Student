@@ -1,0 +1,73 @@
+{
+  "id": "csu-engineering-bathurst-accommodation-scholarship",
+  "name": "Charles Sturt Engineering Bathurst Campus Accommodation Scholarship",
+  "provider": "Charles Sturt University",
+  "category": "uni",
+  "summary": "A full year of free on-campus accommodation at Bathurst for full-time Bachelor of Engineering (Honours) students.",
+  "key": "Recipients will receive a full year of on-campus accommodation at Bathurst campus.",
+  "who": [
+    "Actively enrolled Charles Sturt student in the session awarded",
+    "Studying full-time in the Bachelor of Engineering (Honours)"
+  ],
+  "how": [
+    "Complete an online application form"
+  ],
+  "catches": [
+    "Closes 11:59pm 18 Dec 2026"
+  ],
+  "tags": [
+    "csu",
+    "charles sturt",
+    "engineering",
+    "bathurst",
+    "accommodation",
+    "nsw"
+  ],
+  "source": {
+    "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/bachelor-of-engineering-honours-bathurst-campus-accommodation-scholarship",
+    "label": "Charles Sturt University: Engineering Bathurst Campus Accommodation Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Benefit",
+      "quote": "Recipients will receive a full year of on-campus accommodation at Bathurst campus,",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/bachelor-of-engineering-honours-bathurst-campus-accommodation-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Course rule",
+      "quote": "studying full-time in the Bachelor of Engineering (Honours)",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/bachelor-of-engineering-honours-bathurst-campus-accommodation-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications are OPEN for 2026 and will close at 11:59pm 18 Dec 2026",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/bachelor-of-engineering-honours-bathurst-campus-accommodation-scholarship",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe",
+  "closes": "2026-12-18"
+}

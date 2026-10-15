@@ -1,0 +1,55 @@
+{
+  "id": "tas-annual-electricity-concession",
+  "name": "Tasmanian annual electricity concession",
+  "provider": "Tasmanian Government",
+  "category": "health",
+  "summary": "Daily discount on electricity bills for Tasmanian concession cardholders, including Health Care Card holders.",
+  "key": "184.347 cents per day.",
+  "who": [
+    "Eligible concession card holders; the Services Australia Health Care Card is shown as an eligible card"
+  ],
+  "how": [
+    "To apply for the annual electricity concession, eligible customers should contact their electricity retailer."
+  ],
+  "tags": [
+    "Tasmania",
+    "electricity",
+    "Aurora",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://www.concessions.tas.gov.au/browse-categories/electricity",
+    "label": "Tasmanian Concessions: Electricity"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "184.347 cents per day",
+      "url": "https://www.concessions.tas.gov.au/browse-categories/electricity",
+      "page_date": null
+    },
+    {
+      "claim": "How to apply",
+      "quote": "To apply for the annual electricity concession, eligible customers should contact their electricity retailer.",
+      "url": "https://www.concessions.tas.gov.au/browse-categories/electricity",
+      "page_date": null
+    },
+    {
+      "claim": "Health Care Card shown as eligible card",
+      "quote": "Services Australia Health Care Card",
+      "url": "https://www.concessions.tas.gov.au/browse-categories/electricity",
+      "page_date": null
+    }
+  ]
+}

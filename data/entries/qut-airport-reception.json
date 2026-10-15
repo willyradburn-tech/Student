@@ -1,0 +1,59 @@
+{
+  "id": "qut-airport-reception",
+  "name": "QUT free airport reception",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "A free 24-hour airport pick-up and transfer to your accommodation for new QUT international students arriving in Brisbane.",
+  "who": [
+    "Newly commencing international students new to Brisbane, study abroad and exchange students, and QUT College students."
+  ],
+  "how": [
+    "Accept your offer, get your CoE and visa, and book accommodation first, then book online."
+  ],
+  "catches": [
+    "Book at least three working days before you arrive.",
+    "Extra people and luggage cost extra, paid to Bel-Air Limos."
+  ],
+  "tags": [
+    "qut",
+    "international",
+    "airport",
+    "pick-up",
+    "free",
+    "brisbane"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/student-life/support/airport-reception",
+    "label": "QUT: Airport reception"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "medium",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free airport pick-up",
+      "quote": "a free 24-hour airport reception and transfer service for new international students.",
+      "url": "https://www.qut.edu.au/study/student-life/support/airport-reception",
+      "page_date": null
+    },
+    {
+      "claim": "Booking deadline",
+      "quote": "Airport reception bookings must be made at least three working days before your planned arrival date into Brisbane.",
+      "url": "https://www.qut.edu.au/study/student-life/support/airport-reception",
+      "page_date": null
+    }
+  ]
+}

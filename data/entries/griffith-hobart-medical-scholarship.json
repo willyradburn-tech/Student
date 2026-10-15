@@ -1,0 +1,66 @@
+{
+  "id": "griffith-hobart-medical-scholarship",
+  "name": "Rotary Club of Southport Peter and Jenny Hobart Medical Scholarship",
+  "provider": "Griffith University",
+  "category": "uni",
+  "summary": "Up to $2,000 for full-time third-year Griffith Doctor of Medicine students.",
+  "key": "Maximum value is $2,000. Instalments of $1,000 are payable in Trimester 1 and 2.",
+  "who": [
+    "Australian citizen, permanent resident or humanitarian visa holder.",
+    "Enrolled full-time in your third year of the Doctor of Medicine at Griffith."
+  ],
+  "how": [
+    "Apply through Griffith's online scholarship application process."
+  ],
+  "catches": [
+    "Apply by Monday 19 April 2027, 4pm, for Trimester 1 2027.",
+    "Targeted at students experiencing financial difficulties."
+  ],
+  "tags": [
+    "griffith",
+    "medicine",
+    "md",
+    "gold coast"
+  ],
+  "source": {
+    "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/peter-and-jenny-hobart-medical-bursary",
+    "label": "Griffith University: Peter and Jenny Hobart Medical Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-14",
+  "cadence": "high",
+  "review": "approved",
+  "match": {
+    "uni": {
+      "yes": [
+        "griffith"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "the key figure",
+      "quote": "Maximum value is $2,000. Instalments of $1,000 are payable in Trimester 1 and 2.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/peter-and-jenny-hobart-medical-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "main eligibility rule",
+      "quote": "enrolled full-time in your third year of study in the Doctor of Medicine at Griffith University",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/peter-and-jenny-hobart-medical-bursary",
+      "page_date": null
+    }
+  ],
+  "cap": "maybe"
+}
