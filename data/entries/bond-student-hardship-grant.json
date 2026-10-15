@@ -1,0 +1,44 @@
+{
+  "id": "bond-student-hardship-grant",
+  "name": "Bond University Student Hardship Grant",
+  "provider": "Bond University",
+  "category": "uni",
+  "summary": "One-off grant of up to $2,000 for Bond students facing short-term, unexpected financial hardship.",
+  "key": "Up to a maximum of $2,000.",
+  "who": [
+    "Bond students experiencing short-term, temporary and unexpected financial hardship."
+  ],
+  "catches": [
+    "A one-off payment, not ongoing support. Check the page for full criteria and documents."
+  ],
+  "tags": [
+    "bond",
+    "gold coast",
+    "qld",
+    "hardship",
+    "grant"
+  ],
+  "source": {
+    "url": "https://bond.edu.au/current-students/opportunities/grants-scholarships/student-hardship-grant",
+    "label": "Bond University: Student Hardship Grant"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "available to students who may be experiencing short-term, temporary and unexpected financial hardship to a maximum of $2000",
+      "url": "https://bond.edu.au/current-students/opportunities/grants-scholarships/student-hardship-grant",
+      "page_date": null
+    }
+  ]
+}

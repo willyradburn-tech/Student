@@ -1,0 +1,57 @@
+{
+  "id": "vu-thrive-grant",
+  "name": "VU Thrive Grant",
+  "provider": "Victoria University",
+  "category": "uni",
+  "summary": "Grant for current VU students struggling with study costs such as books, equipment or travel, sized to your evidence.",
+  "who": [
+    "Current onshore VU student in a higher education or TAFE course with at least 48 credit points or 270 hours.",
+    "Experiencing financial hardship related to study expenses (not tuition or SSAF).",
+    "Not already received the grant this academic year."
+  ],
+  "how": [
+    "Apply through VU's application portal with bank statements, invoices or quotes."
+  ],
+  "catches": [
+    "The amount depends on the evidence you provide.",
+    "Not available for the same period if you got a Commonwealth Prac Payment in the past 12 months."
+  ],
+  "tags": [
+    "vu",
+    "victoria university",
+    "melbourne",
+    "footscray",
+    "vic",
+    "hardship",
+    "study costs"
+  ],
+  "source": {
+    "url": "https://www.vu.edu.au/apply-to-study/scholarships/vu-thrive-grant",
+    "label": "VU: VU Thrive Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "experiencing financial hardship related to your study expenses",
+      "url": "https://www.vu.edu.au/apply-to-study/scholarships/vu-thrive-grant",
+      "page_date": null
+    },
+    {
+      "claim": "Value",
+      "quote": "The value of the grant will be determined based on the evidence provided in your application.",
+      "url": "https://www.vu.edu.au/apply-to-study/scholarships/vu-thrive-grant",
+      "page_date": null
+    }
+  ]
+}

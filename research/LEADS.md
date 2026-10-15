@@ -23,3 +23,11 @@ The shared search and fetch limits ran out during the run, so these were found b
 - Entertainment: HOTA, QPAC, Opera Queensland, La Boite, Brisbane Powerhouse, Gold Coast and Northern Rivers venues and pools.
 - Travel: V/Line, Flexicar, Etihad, Garuda, United, Rex.
 - International: QUT International Talent Scholarship, Tuition Protection Service, WEstjustice, JCU legal advice, international scholarships at Monash, Deakin, USyd, ANU, UNSW, UWA and Curtin.
+
+# Leads from the 15 Oct 2026 second run (done in chat, 30 entries added)
+
+- Not reached: UTAS (hardship fund page is donor-only), UNE (emergency fund page has no amounts), ACU (donor page only), Federation (scholarship search only), UOW (no grant listed), La Trobe, CQU, UniSC.
+- State: WA Energy Assistance Payment (wa.gov.au page did not load), NSW Life Support Rebate, Qld ambulance and Traveltrain, NT concessions (Health Care Card alone doesn't qualify).
+- Everyday: phone and internet student plans, Palace Cinemas $9 student Mondays (only a guild page found), Cinema Nova, Kino, Dendy student tickets.
+- Software and bodies: NVivo, Toon Boom, 12d, SPACE GASS (no public student offer found), EIANZ student fee, FINSIA, MEAA, AIB.
+- Travel: V/Line student concessions, Flexicar student rates (mentioned but no rates published).

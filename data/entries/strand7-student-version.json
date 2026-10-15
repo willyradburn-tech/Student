@@ -1,0 +1,47 @@
+{
+  "id": "strand7-student-version",
+  "name": "Strand7 Student Version",
+  "provider": "Strand7",
+  "category": "software",
+  "summary": "Full Strand7 finite element analysis software for engineering students for coursework, at a low monthly fee.",
+  "key": "Student access to Strand7 costs AU$10 per month, plus GST (if applicable).",
+  "who": [
+    "Students enrolled in an approved university course, confirmed by a lecturer."
+  ],
+  "how": [
+    "Email the Student Version Application Form to student@strand7.com. Access usually arrives within 1 to 3 business days."
+  ],
+  "catches": [
+    "Coursework only, one computer at a time, internet connection required, no technical support. All modules except the API."
+  ],
+  "tags": [
+    "strand7",
+    "fea",
+    "structural",
+    "engineering",
+    "civil"
+  ],
+  "source": {
+    "url": "https://strand7.com/student",
+    "label": "Strand7: Student Version"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Price",
+      "quote": "Student access to Strand7 costs AU$10 per month, plus GST (if applicable).",
+      "url": "https://strand7.com/student",
+      "page_date": null
+    }
+  ]
+}

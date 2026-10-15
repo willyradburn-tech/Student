@@ -1,0 +1,67 @@
+{
+  "id": "swinburne-indigenous-financial-assistance-grant",
+  "name": "Swinburne Indigenous Financial Assistance Grant",
+  "provider": "Swinburne University",
+  "category": "uni",
+  "summary": "A $1,000 one-off grant for Aboriginal and Torres Strait Islander Swinburne students facing an emergency or hardship.",
+  "key": "$1,000 (one-off payment).",
+  "who": [
+    "Australian citizen of Aboriginal and/or Torres Strait Islander heritage.",
+    "A Swinburne student in 2026 who has completed at least one semester, full-time or part-time.",
+    "Assessed on the emergency or hardship and its impact on study."
+  ],
+  "how": [
+    "Submit the online form with a personal statement (up to 500 words), proof of heritage and evidence of the hardship."
+  ],
+  "catches": [
+    "Applications close 31 December 2026."
+  ],
+  "tags": [
+    "swinburne",
+    "indigenous",
+    "first nations",
+    "aboriginal",
+    "torres strait islander",
+    "vic"
+  ],
+  "source": {
+    "url": "https://www.swinburne.edu.au/courses/scholarships/indigenous-financial-assistance-grant",
+    "label": "Swinburne: Indigenous Financial Assistance Grant"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$1,000 (one-off payment )",
+      "url": "https://www.swinburne.edu.au/courses/scholarships/indigenous-financial-assistance-grant",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "be of Australian Aboriginal and/or Torres Strait Islander heritage",
+      "url": "https://www.swinburne.edu.au/courses/scholarships/indigenous-financial-assistance-grant",
+      "page_date": null
+    }
+  ],
+  "closes": "2026-12-31"
+}

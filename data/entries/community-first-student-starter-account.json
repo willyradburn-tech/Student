@@ -1,0 +1,54 @@
+{
+  "id": "community-first-student-starter-account",
+  "name": "Community First Student Starter Account",
+  "provider": "Community First Bank",
+  "category": "payments",
+  "summary": "Everyday bank account with no monthly fee for full-time students and young apprentices.",
+  "key": "A monthly account keeping fee does not apply.",
+  "who": [
+    "Full-time students, including tertiary and university students.",
+    "Apprentices or trainees aged 17 to 24."
+  ],
+  "how": [
+    "Apply online, by phone or in store."
+  ],
+  "catches": [
+    "Other ATM owners may charge a fee.",
+    "Fees may apply for specially requested services."
+  ],
+  "tags": [
+    "bank account",
+    "no fee",
+    "banking",
+    "community first"
+  ],
+  "source": {
+    "url": "https://communityfirst.com.au/products/student-starter-account",
+    "label": "Community First: Student Starter Account"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "No monthly fee",
+      "quote": "A monthly account keeping fee does not apply.",
+      "url": "https://communityfirst.com.au/products/student-starter-account",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "An everyday account for full time students (including high school, tertiary, college or university)",
+      "url": "https://communityfirst.com.au/products/student-starter-account",
+      "page_date": null
+    }
+  ]
+}

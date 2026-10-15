@@ -1,0 +1,49 @@
+{
+  "id": "cdu-student-assistance-grant",
+  "name": "CDU Student Assistance Grant",
+  "provider": "Charles Darwin University",
+  "category": "uni",
+  "summary": "A one-off $150 payment each semester for CDU award-course students who explain their financial need.",
+  "key": "$150 one-off payment.",
+  "who": [
+    "Enrolled in a CDU award course (enabling, TAFE, higher education or research) with at least one unit in the current teaching period.",
+    "Not open to short course, study abroad or exchange students."
+  ],
+  "how": [
+    "Submit the Scholarship Application Form with a statement of 250 words or fewer on your financial situation."
+  ],
+  "catches": [
+    "Covers one semester. Paid by transfer within 7 days of a complete form."
+  ],
+  "tags": [
+    "cdu",
+    "charles darwin",
+    "darwin",
+    "nt",
+    "hardship",
+    "grant"
+  ],
+  "source": {
+    "url": "https://www.cdu.edu.au/files/2026-06/Student%20Assistance%20Grant%20T%26Cs-%20Semester%201%202026.pdf",
+    "label": "CDU: Student Assistance Grant terms, Semester 1 2026"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$150 one-off payment",
+      "url": "https://www.cdu.edu.au/files/2026-06/Student%20Assistance%20Grant%20T%26Cs-%20Semester%201%202026.pdf",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "nsw-toll-relief",
+  "name": "NSW Toll Relief weekly cap",
+  "provider": "Service NSW",
+  "category": "transport",
+  "summary": "NSW drivers on a personal toll account can claim back weekly toll spending between $50 and $400, every three months.",
+  "key": "Claim a $50 cap toll relief rebate every 3 months.",
+  "who": [
+    "NSW residents with a personal toll account making personal trips in a privately registered vehicle."
+  ],
+  "how": [
+    "Link your toll account to your MyServiceNSW Account, then apply on the Service NSW toll relief page."
+  ],
+  "catches": [
+    "Covers weekly toll spend between $50 and $400, and personal trips up to $350 a week per tag and plate."
+  ],
+  "tags": [
+    "toll",
+    "nsw",
+    "sydney",
+    "driving",
+    "car"
+  ],
+  "source": {
+    "url": "https://www.service.nsw.gov.au/toll-relief-faqs",
+    "label": "Service NSW: Toll relief program"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Rebate",
+      "quote": "claim a $50 cap toll relief rebate every 3 months",
+      "url": "https://www.service.nsw.gov.au/toll-relief-faqs",
+      "page_date": null
+    }
+  ]
+}

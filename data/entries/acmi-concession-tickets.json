@@ -1,0 +1,38 @@
+{
+  "id": "acmi-concession-tickets",
+  "name": "ACMI concession tickets",
+  "provider": "ACMI",
+  "category": "streaming",
+  "summary": "Concession prices on ACMI film programs and ticketed exhibitions in Melbourne for students with a card.",
+  "who": [
+    "Holders of Australian or international student cards, or a Health Care Card."
+  ],
+  "how": [
+    "Show your card at the venue entrance, even when buying online."
+  ],
+  "tags": [
+    "acmi",
+    "melbourne",
+    "film",
+    "museum",
+    "vic",
+    "cinema"
+  ],
+  "source": {
+    "url": "https://www.acmi.net.au/contact/frequently-asked-questions-ticketing",
+    "label": "ACMI: Ticketing FAQs"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "On presentation of the following valid cards, a customer is eligible to purchase a concession ticket for ACMI programs.",
+      "url": "https://www.acmi.net.au/contact/frequently-asked-questions-ticketing",
+      "page_date": null
+    }
+  ]
+}

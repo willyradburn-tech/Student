@@ -1,0 +1,40 @@
+{
+  "id": "ama-medical-student-membership",
+  "name": "AMA medical student membership",
+  "provider": "Australian Medical Association",
+  "category": "career",
+  "summary": "Free AMA membership for the whole of your medical degree, with intern guides, career resources and member discounts.",
+  "key": "Free membership for the duration of your medical degree.",
+  "who": [
+    "Medical students."
+  ],
+  "tags": [
+    "ama",
+    "medicine",
+    "medical student",
+    "doctor"
+  ],
+  "source": {
+    "url": "https://www.ama.com.au/members/medical-students",
+    "label": "AMA: Medical students"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Price",
+      "quote": "AMA membership is free for students",
+      "url": "https://www.ama.com.au/members/medical-students",
+      "page_date": null
+    }
+  ]
+}

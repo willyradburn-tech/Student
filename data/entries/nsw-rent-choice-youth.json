@@ -1,0 +1,60 @@
+{
+  "id": "nsw-rent-choice-youth",
+  "name": "Rent Choice Youth",
+  "provider": "Homes NSW",
+  "category": "payments",
+  "summary": "NSW rent subsidy and support for 16 to 24 year olds at risk of homelessness who are studying, training or working.",
+  "key": "Pays a portion of your rent for up to 36 months.",
+  "who": [
+    "Aged 16 to 24 and homeless or at risk of homelessness.",
+    "Eligible for social housing and within its income limits; you may qualify if on low income or enrolled in studies.",
+    "Committed to education, training or employment and working with a support provider."
+  ],
+  "how": [
+    "A support provider completes a Rent Choice referral form and sends it to your local Homes NSW office."
+  ],
+  "catches": [
+    "Need is reviewed every three months."
+  ],
+  "tags": [
+    "rent",
+    "housing",
+    "nsw",
+    "homes nsw",
+    "youth",
+    "rent subsidy"
+  ],
+  "source": {
+    "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rent-choice-youth",
+    "label": "NSW Government: Rent Choice Youth"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "age": {
+      "min": 16,
+      "max": 24
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Duration",
+      "quote": "paying a portion of your rent for up to 36 months",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rent-choice-youth",
+      "page_date": null
+    },
+    {
+      "claim": "Age",
+      "quote": "16-24 years old",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rent-choice-youth",
+      "page_date": null
+    }
+  ]
+}

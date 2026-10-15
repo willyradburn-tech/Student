@@ -1,0 +1,59 @@
+{
+  "id": "jcu-rotary-9560-accommodation-scholarship",
+  "name": "Rotary Districts 9560 JCU Accommodation Scholarship",
+  "provider": "James Cook University",
+  "category": "uni",
+  "summary": "$4,000 for final-year JCU students from north Queensland or the NT postcodes who are in financial hardship.",
+  "key": "$4,000 paid in one lump sum after census date of study period two.",
+  "who": [
+    "Australian citizen or permanent resident in the final year of a degree (24 credit points or fewer left).",
+    "Full-time, with a GPA of at least 4.0.",
+    "Home address in Queensland postcodes 4630 to 4895 or NT postcodes 0800 to 0860, and in financial hardship."
+  ],
+  "catches": [
+    "The 2026 round closed at midday on 29 May 2026. Check for the next round."
+  ],
+  "tags": [
+    "jcu",
+    "rotary",
+    "accommodation",
+    "regional",
+    "qld",
+    "nt"
+  ],
+  "source": {
+    "url": "https://www.jcu.edu.au/scholarships/search/rotary-districts-9560-dg-23-24-grants-programjcu-accommodation-scholarship",
+    "label": "JCU: Rotary Districts 9560 Accommodation Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$4,000 paid in one lump sum after census date of study period two",
+      "url": "https://www.jcu.edu.au/scholarships/search/rotary-districts-9560-dg-23-24-grants-programjcu-accommodation-scholarship",
+      "page_date": null
+    }
+  ],
+  "closes": "closed"
+}

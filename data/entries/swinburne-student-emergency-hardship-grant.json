@@ -1,0 +1,58 @@
+{
+  "id": "swinburne-student-emergency-hardship-grant",
+  "name": "Swinburne Student Emergency Hardship Grant",
+  "provider": "Swinburne University",
+  "category": "uni",
+  "summary": "One-off grant of up to $1,000 for full-time Swinburne undergraduates from low-income backgrounds hit by an unexpected event.",
+  "key": "Up to $1,000.",
+  "who": [
+    "Local student enrolled full-time in an undergraduate, associate degree or UniLink course.",
+    "From a low socio-economic background and facing an unexpected event causing significant financial hardship.",
+    "Previous recipients can't apply again."
+  ],
+  "catches": [
+    "Applications are currently closed. Check the page for the next round."
+  ],
+  "tags": [
+    "swinburne",
+    "melbourne",
+    "vic",
+    "hardship",
+    "emergency grant"
+  ],
+  "source": {
+    "url": "https://www.swinburne.edu.au/study/options/scholarships/362/student-emergency-hardship-grants",
+    "label": "Swinburne: Student emergency hardship grants"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Up to $1,000",
+      "url": "https://www.swinburne.edu.au/study/options/scholarships/362/student-emergency-hardship-grants",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "an unexpected event that is causing you significant financial hardship",
+      "url": "https://www.swinburne.edu.au/study/options/scholarships/362/student-emergency-hardship-grants",
+      "page_date": null
+    }
+  ],
+  "closes": "closed"
+}

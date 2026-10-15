@@ -1,0 +1,40 @@
+{
+  "id": "national-portrait-gallery-concession",
+  "name": "National Portrait Gallery concession tickets",
+  "provider": "National Portrait Gallery",
+  "category": "streaming",
+  "summary": "Concession prices on ticketed exhibitions at the National Portrait Gallery in Canberra for full-time students.",
+  "who": [
+    "Full-time university, TAFE and international students with a valid student card."
+  ],
+  "tags": [
+    "portrait gallery",
+    "canberra",
+    "act",
+    "gallery",
+    "exhibition"
+  ],
+  "source": {
+    "url": "https://portrait.gov.au/content/concession-discount-policy",
+    "label": "National Portrait Gallery: Concession discount policy"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Full-time students at high school, TAFE, CIT, university and international students, with a valid student card.",
+      "url": "https://portrait.gov.au/content/concession-discount-policy",
+      "page_date": null
+    }
+  ]
+}

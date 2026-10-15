@@ -1,0 +1,68 @@
+{
+  "id": "jcu-access-fund",
+  "name": "JCU Access Fund (scholarship, bursary and support grant)",
+  "provider": "James Cook University",
+  "category": "uni",
+  "summary": "Up to $5,000 for new full-time JCU undergraduates facing ongoing financial hardship, with smaller awards for second-years.",
+  "key": "The JCU Access Scholarship is valued at $5,000, the Access Bursary at $2,000 and the Support Grant at $1,000.",
+  "who": [
+    "Not an international student.",
+    "A new commencing first-year student in an undergraduate diploma or bachelor course, or a second-year bachelor student for the Support Grant.",
+    "Enrolled full-time and experiencing ongoing financial hardship."
+  ],
+  "how": [
+    "Apply online and upload proof of income and at least two months of bank statements."
+  ],
+  "catches": [
+    "The 2026 round opened 25 August and closed at midday on 2 October 2026. Check for the next round."
+  ],
+  "tags": [
+    "jcu",
+    "james cook",
+    "access fund",
+    "equity",
+    "hardship",
+    "qld"
+  ],
+  "source": {
+    "url": "https://www.jcu.edu.au/scholarships-@-jcu/search/jcu-access-fund",
+    "label": "JCU: JCU Access Fund"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Access Scholarship value",
+      "quote": "is valued at $5,000 or such amount as the Selection Committee may determine from time to time.",
+      "url": "https://www.jcu.edu.au/scholarships-@-jcu/search/jcu-access-fund",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "I am a new commencing student in 2026 enrolled as a first year student in an undergraduate diploma or bachelor course;",
+      "url": "https://www.jcu.edu.au/scholarships-@-jcu/search/jcu-access-fund",
+      "page_date": null
+    }
+  ],
+  "closes": "closed"
+}

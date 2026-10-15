@@ -1,0 +1,65 @@
+{
+  "id": "monash-international-leadership-scholarship",
+  "name": "Monash International Leadership Scholarship",
+  "provider": "Monash University",
+  "category": "uni",
+  "summary": "Full tuition fees covered for four new international undergraduates each year at Monash in Australia.",
+  "key": "100% course fees paid.",
+  "who": [
+    "International student with an unconditional full Monash undergraduate offer, studying full-time at an Australian campus.",
+    "Not for current Monash students, Australian Year 12 completers, Monash Pathway or MD students."
+  ],
+  "how": [
+    "No application needed. Students with an undergraduate offer are considered automatically."
+  ],
+  "catches": [
+    "Four awards a year. Excludes OSHC, accommodation and living costs."
+  ],
+  "tags": [
+    "monash",
+    "international",
+    "tuition",
+    "scholarship",
+    "melbourne",
+    "vic"
+  ],
+  "source": {
+    "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-international-leadership-scholarship-5571Z",
+    "label": "Monash: International Leadership Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "100% course fees paid",
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-international-leadership-scholarship-5571Z",
+      "page_date": null
+    },
+    {
+      "claim": "Number",
+      "quote": "Four per year",
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-international-leadership-scholarship-5571Z",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "ecu-cost-of-living-support-bursary",
+  "name": "ECU Cost of Living Support Bursary",
+  "provider": "Edith Cowan University",
+  "category": "uni",
+  "summary": "An automatic cost-of-living bursary ECU offers to domestic students it identifies as likely to need support.",
+  "who": [
+    "Currently enrolled domestic student.",
+    "Meets Australian Government eligibility criteria and is identified by ECU from equity indicators."
+  ],
+  "how": [
+    "You can't apply. Eligible students are notified by 16 October 2026 and accept in the student portal."
+  ],
+  "catches": [
+    "Accept before the offer expires (closes 31 December 2026). The amount varies between students."
+  ],
+  "tags": [
+    "ecu",
+    "edith cowan",
+    "perth",
+    "joondalup",
+    "wa",
+    "cost of living",
+    "bursary"
+  ],
+  "source": {
+    "url": "https://www.ecu.edu.au/scholarships/details/ecu-cost-of-living-support-bursary",
+    "label": "ECU: Cost of Living Support Bursary"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "How it works",
+      "quote": "You cannot apply for this bursary.",
+      "url": "https://www.ecu.edu.au/scholarships/details/ecu-cost-of-living-support-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "Notification",
+      "quote": "If you are eligible to receive this bursary, you will be notified by 16 October 2026.",
+      "url": "https://www.ecu.edu.au/scholarships/details/ecu-cost-of-living-support-bursary",
+      "page_date": null
+    }
+  ],
+  "closes": "2026-12-31"
+}

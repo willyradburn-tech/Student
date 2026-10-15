@@ -3,6 +3,7 @@ ableton-education
 abstudy
 aca-student-membership-program
 acm-student-membership
+acmi-concession-tickets
 acn-undergraduate-membership
 acp-student-connect
 acrrm-student-membership
@@ -33,6 +34,8 @@ aip-student-associate
 aipm-student-membership
 airah-student-membership
 aisa-student-membership
+ama-medical-student-membership
+ama-victoria-student-membership
 ami-student-membership
 ansys-student
 anu-basic-needs-sport-membership
@@ -67,9 +70,11 @@ aws-educate
 azure-for-students
 belvoir-student-saver
 bentley-education
+bond-student-hardship-grant
 brisbane-festival-concession
 ca-anz-achiever-program
 cathay-pacific-student-fares
+cdu-student-assistance-grant
 china-southern-international-student-fares
 chsa-first-aid-cpr-rebate
 chsa-free-lunches-printing
@@ -82,6 +87,7 @@ coastrs-free-food-lunch-vouchers
 codecademy-student
 commonwealth-ombudsman-overseas-students
 commonwealth-prac-payment
+community-first-student-starter-account
 concrete-institute-student-membership
 cpa-student-network
 cqu-cqunicares-emergency-grant
@@ -109,6 +115,7 @@ dell-student-discount
 dia-student-membership
 dietitians-australia-student-membership
 dlubal-student-licence
+ecu-cost-of-living-support-bursary
 education-entry-payment
 emirates-student-fares
 endnote-student
@@ -121,6 +128,7 @@ fares-allowance
 fee-help
 figma-education
 fine-geo5-student
+fitness-first-student-discount
 flinders-aboriginal-torres-strait-islander-scholarship
 flinders-community-market
 flinders-disability-scholarship
@@ -133,6 +141,7 @@ fusa-emergency-financial-assistance
 fusa-free-tax-returns
 github-student-pack
 goget-student-membership
+goodlife-student-discount
 google-ai-plus-students
 google-cloud-skills-students
 governance-institute-student-subscription
@@ -212,6 +221,9 @@ hp-student-store
 idea-statica-education
 ieu-nsw-act-student-membership
 ieu-qnt-university-student-membership
+jcu-access-fund
+jcu-ellucian-foundation-path-grant
+jcu-rotary-9560-accommodation-scholarship
 jetbrains-student-pack
 jmp-student-edition
 latrobe-su-feed-la-trobe
@@ -241,6 +253,7 @@ monash-commonwealth-indigenous-relocation-scholarship
 monash-commonwealth-indigenous-support-scholarship
 monash-equity-diversity-inclusion-scholarship
 monash-interest-free-student-loan
+monash-international-leadership-scholarship
 monash-mada-equity-scholarship
 monash-mga-welfare-assistance-program
 monash-mnhs-scholars-grant
@@ -258,12 +271,15 @@ mq-student-loan
 mtc-concession-rush
 mtc-seat-savers
 mtc-under-30
+murdoch-senate-bursary
 murrays-student-fare
 museums-victoria-immigration-museum-free-student-entry
 museums-victoria-melbourne-museum-free-student-entry
 museums-victoria-scienceworks-free-student-entry
+national-portrait-gallery-concession
 national-precast-student-membership
 notion-education
+notre-dame-student-hardship-assistance-fund
 nsw-advance-rent
 nsw-ambulance-fee-exemption
 nsw-energy-accounts-payment-assistance
@@ -273,9 +289,11 @@ nsw-low-income-household-rebate
 nsw-medical-energy-rebate
 nsw-public-dental
 nsw-regional-tcec
+nsw-rent-choice-youth
 nsw-rentstart-bond-loan
 nsw-spectacles-program
 nsw-tertiary-opal
+nsw-toll-relief
 nsw-wwcc-free-students
 nswnma-student-membership
 nt-free-public-buses
@@ -294,6 +312,7 @@ pinchgut-opera-under-35
 premier-motor-service-student-fares
 psa-student-membership
 ptc-creo-education
+ptc-mathcad-prime-student
 qagoma-student-concession
 qantas-hong-kong-student-offer
 qatar-airways-student-club
@@ -340,6 +359,7 @@ qut-health-clinics-nutrition
 qut-imed-medical-imaging-bursary
 qut-indigenous-australian-accommodation-scholarship
 qut-international-merit-scholarship
+qut-international-talent-scholarship
 qut-joan-penridge-commemorative-award
 qut-legal-name-change-bursary
 qut-medical-centre-hiv-self-testing
@@ -354,6 +374,7 @@ qut-tmr-women-in-engineering-bursaries
 raci-student-membership
 relocation-scholarship
 rent-assistance
+rhino-education-licence
 rlc-international-student-legal-service-nsw
 rmit-accommodation-scholarship
 rmit-career-success-wil-grant
@@ -437,10 +458,15 @@ sidefx-houdini-education
 singapore-airlines-student-privileges
 sketch-education
 solidworks-students
+specsavers-student-discount
+speech-pathology-australia-student-membership
 spotify-premium-student
+ssa-student-membership
 stata-student
+state-opera-sa-under-30
 steinberg-education
 stormwater-qld-student-membership
+strand7-student-version
 student-start-up-loan
 study-melbourne-hub-welfare-support
 study-melbourne-isealp-legal-advice
@@ -448,6 +474,8 @@ study-melbourne-work-ready-program
 study-queensland-1800qstudy-hotline
 studyperth-circle-green-free-legal-advice
 studyperth-sonder-wellbeing-support
+swinburne-indigenous-financial-assistance-grant
+swinburne-student-emergency-hardship-grant
 sydney-symphony-student-pricing
 sydney-symphony-student-rush
 sydney-symphony-under-35
@@ -601,6 +629,7 @@ uwa-workplace-qualification-reimbursement
 vectorworks-education
 vic-ambulance-concession
 vic-annual-electricity-concession
+vic-excess-electricity-concession
 vic-medical-cooling-concession
 vic-myki-health-care-card-concession
 vic-student-concession
@@ -609,6 +638,7 @@ vic-water-sewerage-concession
 vic-winter-gas-concession
 vicroads-registration-concession
 virgin-australia-student-fares
+vu-thrive-grant
 wa-hardship-utility-grant-scheme
 wa-tertiary-smartrider
 wolfram-mathematica-student

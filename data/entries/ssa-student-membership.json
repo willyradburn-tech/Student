@@ -1,0 +1,52 @@
+{
+  "id": "ssa-student-membership",
+  "name": "Statistical Society of Australia student membership",
+  "provider": "Statistical Society of Australia",
+  "category": "career",
+  "summary": "Cheap SSA membership for full-time students with no income, with journal access and industry connections.",
+  "key": "Full-time student membership ($25 AUD incl GST).",
+  "who": [
+    "Engaged in full-time studies and without an income."
+  ],
+  "how": [
+    "Join online, then email proof of full-time enrolment to the SSA Office within 14 days."
+  ],
+  "catches": [
+    "Applications without proof are refunded minus a $10 admin fee."
+  ],
+  "tags": [
+    "statistics",
+    "ssa",
+    "data science",
+    "maths"
+  ],
+  "source": {
+    "url": "https://statsoc.org.au/Membership-Types",
+    "label": "SSA: Membership Types"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Price",
+      "quote": "Full-time student membership ($25 AUD incl GST)",
+      "url": "https://statsoc.org.au/Membership-Types",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Student membership of SSA is available to those who are engaged in full-time studies and do not have an income.",
+      "url": "https://statsoc.org.au/Membership-Types",
+      "page_date": null
+    }
+  ]
+}

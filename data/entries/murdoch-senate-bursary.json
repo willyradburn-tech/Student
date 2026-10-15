@@ -1,0 +1,67 @@
+{
+  "id": "murdoch-senate-bursary",
+  "name": "Murdoch Senate Bursary",
+  "provider": "Murdoch University",
+  "category": "uni",
+  "summary": "$3,000 over two semesters for new full-time Murdoch undergraduates in financial or personal hardship.",
+  "key": "$3,000, paid as $1,500 in the semester you are awarded and $1,500 the next.",
+  "who": [
+    "Australian citizen, permanent resident, NZ citizen or humanitarian visa holder.",
+    "Enrolled in your first undergraduate course at Murdoch, full-time (at least 9 credit points).",
+    "In financial and/or personal hardship."
+  ],
+  "how": [
+    "Complete the online application and upload evidence of hardship."
+  ],
+  "catches": [
+    "Applications close 7 March 2027."
+  ],
+  "tags": [
+    "murdoch",
+    "perth",
+    "wa",
+    "bursary",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://murdoch.edu.au/study/scholarship/murdoch-senate-bursary",
+    "label": "Murdoch: Murdoch Senate Bursary"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$1,500 in the semester you are awarded",
+      "url": "https://murdoch.edu.au/study/scholarship/murdoch-senate-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "be in financial and/or personal hardship",
+      "url": "https://murdoch.edu.au/study/scholarship/murdoch-senate-bursary",
+      "page_date": null
+    }
+  ],
+  "closes": "2027-03-07"
+}

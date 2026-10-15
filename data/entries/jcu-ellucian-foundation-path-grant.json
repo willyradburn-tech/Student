@@ -1,0 +1,64 @@
+{
+  "id": "jcu-ellucian-foundation-path-grant",
+  "name": "Ellucian Foundation PATH Grant (JCU)",
+  "provider": "James Cook University",
+  "category": "uni",
+  "summary": "A $1,500 grant for full-time JCU bachelor students at risk of dropping out after recent financial hardship.",
+  "key": "The grant value is $1,500.",
+  "who": [
+    "Enrolled full-time in a bachelor-level degree and in good academic standing.",
+    "At risk of withdrawing due to financial need after recent hardship, such as loss of income, a family crisis or a natural disaster.",
+    "Must consent to application data being shared with the Ellucian Foundation."
+  ],
+  "how": [
+    "Apply online through the JCU scholarships page."
+  ],
+  "catches": [
+    "Applications close at midday on 30 October 2026.",
+    "Paid as a one-off lump sum once accepted."
+  ],
+  "tags": [
+    "jcu",
+    "james cook",
+    "townsville",
+    "cairns",
+    "hardship",
+    "grant",
+    "qld"
+  ],
+  "source": {
+    "url": "https://www.jcu.edu.au/scholarships/search/ellucian-foundation-path-grants",
+    "label": "JCU: Ellucian Foundation PATH Grants"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "The grant value is $1,500.",
+      "url": "https://www.jcu.edu.au/scholarships/search/ellucian-foundation-path-grants",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "30 October 2026 - Midday",
+      "url": "https://www.jcu.edu.au/scholarships/search/ellucian-foundation-path-grants",
+      "page_date": null
+    }
+  ],
+  "closes": "2026-10-30"
+}

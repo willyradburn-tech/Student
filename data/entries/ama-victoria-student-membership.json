@@ -1,0 +1,47 @@
+{
+  "id": "ama-victoria-student-membership",
+  "name": "AMA Victoria student membership",
+  "provider": "AMA Victoria",
+  "category": "career",
+  "summary": "Free AMA Victoria membership for medical students, including career coaching and free tax return services.",
+  "key": "AMA Victoria student membership is free.",
+  "who": [
+    "Medical students. No Ahpra number needed."
+  ],
+  "tags": [
+    "ama",
+    "ama victoria",
+    "medicine",
+    "medical student",
+    "vic",
+    "tax return"
+  ],
+  "source": {
+    "url": "https://amavic.com.au/membership/students",
+    "label": "AMA Victoria: Student membership"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "field": {
+      "yes": [
+        "care"
+      ]
+    },
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Price",
+      "quote": "AMA Victoria student membership is free.",
+      "url": "https://amavic.com.au/membership/students",
+      "page_date": null
+    }
+  ]
+}

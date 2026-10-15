@@ -1,0 +1,46 @@
+{
+  "id": "ptc-mathcad-prime-student",
+  "name": "PTC Mathcad Prime Student Edition",
+  "provider": "PTC",
+  "category": "software",
+  "summary": "Yearly Mathcad Prime licence for current students to use for personal learning.",
+  "who": [
+    "Current students using it for personal learning, with a valid university email.",
+    "Verified through Proxi.id. One licence per student."
+  ],
+  "how": [
+    "Buy online from the PTC store after academic verification."
+  ],
+  "catches": [
+    "One-year term, paid annually. Not for teaching or research."
+  ],
+  "tags": [
+    "mathcad",
+    "ptc",
+    "engineering",
+    "calculations"
+  ],
+  "source": {
+    "url": "https://www.ptc.com/en/store/products/mathcad/ptc-mathcad-prime-student",
+    "label": "PTC: Mathcad Prime Student"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "field": {
+      "yes": [
+        "engineering"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "available to current students whose intended use is for personal learning",
+      "url": "https://www.ptc.com/en/store/products/mathcad/ptc-mathcad-prime-student",
+      "page_date": null
+    }
+  ]
+}

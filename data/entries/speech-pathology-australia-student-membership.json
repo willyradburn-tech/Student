@@ -1,0 +1,42 @@
+{
+  "id": "speech-pathology-australia-student-membership",
+  "name": "Speech Pathology Australia student membership",
+  "provider": "Speech Pathology Australia",
+  "category": "career",
+  "summary": "Free Speech Pathology Australia membership for speech pathology students past their first year.",
+  "key": "Student (non 1st year): Free.",
+  "who": [
+    "Currently studying an accredited Australian entry-level speech pathology course."
+  ],
+  "catches": [
+    "The page lists no fee for first-year students."
+  ],
+  "tags": [
+    "speech pathology",
+    "allied health",
+    "spa"
+  ],
+  "source": {
+    "url": "https://speechpathologyaustralia.org.au/Public/join/fees/Membership-categories-fees.aspx",
+    "label": "Speech Pathology Australia: Membership categories and fees"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "field": {
+      "yes": [
+        "care"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "A person currently studying an accredited Australian entry level speech pathology course",
+      "url": "https://speechpathologyaustralia.org.au/Public/join/fees/Membership-categories-fees.aspx",
+      "page_date": null
+    }
+  ]
+}

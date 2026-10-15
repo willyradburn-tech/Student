@@ -1,0 +1,52 @@
+{
+  "id": "notre-dame-student-hardship-assistance-fund",
+  "name": "Notre Dame Student Hardship Assistance Fund",
+  "provider": "University of Notre Dame Australia",
+  "category": "uni",
+  "summary": "One-off grants of $250 to $1,000 for Notre Dame students hit by an unforeseen hardship.",
+  "key": "Grants of between $250 and $1000 are available to eligible students.",
+  "who": [
+    "Enrolled in a degree, VET award or the Tertiary Pathway Program, full-time or at least half-time, past census date.",
+    "Experienced an unforeseen hardship that caused financial difficulty.",
+    "Not already helped by the fund earlier in the calendar year."
+  ],
+  "how": [
+    "Complete the Student Hardship Application Form with at least one supporting document."
+  ],
+  "catches": [
+    "Outcome within five working days. Paid as a lump sum, instalments or in kind, such as a prepaid card."
+  ],
+  "tags": [
+    "notre dame",
+    "nd",
+    "fremantle",
+    "sydney",
+    "hardship",
+    "grant",
+    "wa",
+    "nsw"
+  ],
+  "source": {
+    "url": "https://www.notredame.edu.au/study/fees-costs-and-scholarships/financial-assistance/financial-hardship-support",
+    "label": "Notre Dame: Financial hardship support"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Grants of between $250 and $1000 are available to eligible students.",
+      "url": "https://www.notredame.edu.au/study/fees-costs-and-scholarships/financial-assistance/financial-hardship-support",
+      "page_date": null
+    }
+  ]
+}

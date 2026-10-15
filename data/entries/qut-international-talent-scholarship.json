@@ -1,0 +1,60 @@
+{
+  "id": "qut-international-talent-scholarship",
+  "name": "QUT International Talent Scholarship",
+  "provider": "QUT",
+  "category": "uni",
+  "summary": "Automatic 20% tuition reduction every semester for high-achieving new international students at QUT.",
+  "key": "You'll receive an ongoing scholarship to cover 20% of your tuition fees per semester of study at QUT.",
+  "who": [
+    "New international student with an offer for an eligible course and an eligible nationality.",
+    "Meets the minimum academic standard for your qualification, such as an ATAR of 80.00.",
+    "Can't hold another QUT academic scholarship."
+  ],
+  "how": [
+    "You don't need to apply. The offer comes with your admission letter."
+  ],
+  "catches": [
+    "Continues only while you meet your course conditions."
+  ],
+  "tags": [
+    "qut",
+    "international",
+    "tuition",
+    "scholarship",
+    "brisbane"
+  ],
+  "source": {
+    "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/international-talent-scholarship",
+    "label": "QUT: International Talent Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "qut"
+      ]
+    },
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "You'll receive an ongoing scholarship to cover 20% of your tuition fees per semester of study at QUT.",
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/international-talent-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "How to apply",
+      "quote": "You don't need to apply for this scholarship.",
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/international-talent-scholarship",
+      "page_date": null
+    }
+  ]
+}

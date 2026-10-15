@@ -1,0 +1,40 @@
+{
+  "id": "specsavers-student-discount",
+  "name": "Specsavers student discount",
+  "provider": "Specsavers",
+  "category": "tech",
+  "summary": "25% off one pair of glasses in store for students, from the $149 range up.",
+  "key": "25% off one pair of glasses from the $149 range or above, in store.",
+  "who": [
+    "Students with a current student card."
+  ],
+  "how": [
+    "Show your student card when you buy."
+  ],
+  "catches": [
+    "One pair only. Excludes safety eyewear. Can't be combined with other offers. Lenses beyond single vision cost extra."
+  ],
+  "tags": [
+    "glasses",
+    "eyewear",
+    "optometrist",
+    "specsavers"
+  ],
+  "source": {
+    "url": "https://www.specsavers.com.au/special-offers/student-discount",
+    "label": "Specsavers: Student discount"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Condition",
+      "quote": "Current student card",
+      "url": "https://www.specsavers.com.au/special-offers/student-discount",
+      "page_date": null
+    }
+  ]
+}

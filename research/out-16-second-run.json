@@ -1,0 +1,1551 @@
+[
+  {
+    "id": "jcu-ellucian-foundation-path-grant",
+    "name": "Ellucian Foundation PATH Grant (JCU)",
+    "provider": "James Cook University",
+    "category": "uni",
+    "summary": "A $1,500 grant for full-time JCU bachelor students at risk of dropping out after recent financial hardship.",
+    "key": "The grant value is $1,500.",
+    "who": [
+      "Enrolled full-time in a bachelor-level degree and in good academic standing.",
+      "At risk of withdrawing due to financial need after recent hardship, such as loss of income, a family crisis or a natural disaster.",
+      "Must consent to application data being shared with the Ellucian Foundation."
+    ],
+    "how": [
+      "Apply online through the JCU scholarships page."
+    ],
+    "catches": [
+      "Applications close at midday on 30 October 2026.",
+      "Paid as a one-off lump sum once accepted."
+    ],
+    "tags": [
+      "jcu",
+      "james cook",
+      "townsville",
+      "cairns",
+      "hardship",
+      "grant",
+      "qld"
+    ],
+    "source": {
+      "url": "https://www.jcu.edu.au/scholarships/search/ellucian-foundation-path-grants",
+      "label": "JCU: Ellucian Foundation PATH Grants"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Value",
+        "quote": "The grant value is $1,500.",
+        "url": "https://www.jcu.edu.au/scholarships/search/ellucian-foundation-path-grants",
+        "page_date": null
+      },
+      {
+        "claim": "Closing date",
+        "quote": "30 October 2026 - Midday",
+        "url": "https://www.jcu.edu.au/scholarships/search/ellucian-foundation-path-grants",
+        "page_date": null
+      }
+    ],
+    "closes": "2026-10-30"
+  },
+  {
+    "id": "jcu-access-fund",
+    "name": "JCU Access Fund (scholarship, bursary and support grant)",
+    "provider": "James Cook University",
+    "category": "uni",
+    "summary": "Up to $5,000 for new full-time JCU undergraduates facing ongoing financial hardship, with smaller awards for second-years.",
+    "key": "The JCU Access Scholarship is valued at $5,000, the Access Bursary at $2,000 and the Support Grant at $1,000.",
+    "who": [
+      "Not an international student.",
+      "A new commencing first-year student in an undergraduate diploma or bachelor course, or a second-year bachelor student for the Support Grant.",
+      "Enrolled full-time and experiencing ongoing financial hardship."
+    ],
+    "how": [
+      "Apply online and upload proof of income and at least two months of bank statements."
+    ],
+    "catches": [
+      "The 2026 round opened 25 August and closed at midday on 2 October 2026. Check for the next round."
+    ],
+    "tags": [
+      "jcu",
+      "james cook",
+      "access fund",
+      "equity",
+      "hardship",
+      "qld"
+    ],
+    "source": {
+      "url": "https://www.jcu.edu.au/scholarships-@-jcu/search/jcu-access-fund",
+      "label": "JCU: JCU Access Fund"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Access Scholarship value",
+        "quote": "is valued at $5,000 or such amount as the Selection Committee may determine from time to time.",
+        "url": "https://www.jcu.edu.au/scholarships-@-jcu/search/jcu-access-fund",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "I am a new commencing student in 2026 enrolled as a first year student in an undergraduate diploma or bachelor course;",
+        "url": "https://www.jcu.edu.au/scholarships-@-jcu/search/jcu-access-fund",
+        "page_date": null
+      }
+    ],
+    "closes": "closed"
+  },
+  {
+    "id": "jcu-rotary-9560-accommodation-scholarship",
+    "name": "Rotary Districts 9560 JCU Accommodation Scholarship",
+    "provider": "James Cook University",
+    "category": "uni",
+    "summary": "$4,000 for final-year JCU students from north Queensland or the NT postcodes who are in financial hardship.",
+    "key": "$4,000 paid in one lump sum after census date of study period two.",
+    "who": [
+      "Australian citizen or permanent resident in the final year of a degree (24 credit points or fewer left).",
+      "Full-time, with a GPA of at least 4.0.",
+      "Home address in Queensland postcodes 4630 to 4895 or NT postcodes 0800 to 0860, and in financial hardship."
+    ],
+    "catches": [
+      "The 2026 round closed at midday on 29 May 2026. Check for the next round."
+    ],
+    "tags": [
+      "jcu",
+      "rotary",
+      "accommodation",
+      "regional",
+      "qld",
+      "nt"
+    ],
+    "source": {
+      "url": "https://www.jcu.edu.au/scholarships/search/rotary-districts-9560-dg-23-24-grants-programjcu-accommodation-scholarship",
+      "label": "JCU: Rotary Districts 9560 Accommodation Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Value",
+        "quote": "$4,000 paid in one lump sum after census date of study period two",
+        "url": "https://www.jcu.edu.au/scholarships/search/rotary-districts-9560-dg-23-24-grants-programjcu-accommodation-scholarship",
+        "page_date": null
+      }
+    ],
+    "closes": "closed"
+  },
+  {
+    "id": "cdu-student-assistance-grant",
+    "name": "CDU Student Assistance Grant",
+    "provider": "Charles Darwin University",
+    "category": "uni",
+    "summary": "A one-off $150 payment each semester for CDU award-course students who explain their financial need.",
+    "key": "$150 one-off payment.",
+    "who": [
+      "Enrolled in a CDU award course (enabling, TAFE, higher education or research) with at least one unit in the current teaching period.",
+      "Not open to short course, study abroad or exchange students."
+    ],
+    "how": [
+      "Submit the Scholarship Application Form with a statement of 250 words or fewer on your financial situation."
+    ],
+    "catches": [
+      "Covers one semester. Paid by transfer within 7 days of a complete form."
+    ],
+    "tags": [
+      "cdu",
+      "charles darwin",
+      "darwin",
+      "nt",
+      "hardship",
+      "grant"
+    ],
+    "source": {
+      "url": "https://www.cdu.edu.au/files/2026-06/Student%20Assistance%20Grant%20T%26Cs-%20Semester%201%202026.pdf",
+      "label": "CDU: Student Assistance Grant terms, Semester 1 2026"
+    },
+    "status": "unverified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Value",
+        "quote": "$150 one-off payment",
+        "url": "https://www.cdu.edu.au/files/2026-06/Student%20Assistance%20Grant%20T%26Cs-%20Semester%201%202026.pdf",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-rent-choice-youth",
+    "name": "Rent Choice Youth",
+    "provider": "Homes NSW",
+    "category": "payments",
+    "summary": "NSW rent subsidy and support for 16 to 24 year olds at risk of homelessness who are studying, training or working.",
+    "key": "Pays a portion of your rent for up to 36 months.",
+    "who": [
+      "Aged 16 to 24 and homeless or at risk of homelessness.",
+      "Eligible for social housing and within its income limits; you may qualify if on low income or enrolled in studies.",
+      "Committed to education, training or employment and working with a support provider."
+    ],
+    "how": [
+      "A support provider completes a Rent Choice referral form and sends it to your local Homes NSW office."
+    ],
+    "catches": [
+      "Need is reviewed every three months."
+    ],
+    "tags": [
+      "rent",
+      "housing",
+      "nsw",
+      "homes nsw",
+      "youth",
+      "rent subsidy"
+    ],
+    "source": {
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rent-choice-youth",
+      "label": "NSW Government: Rent Choice Youth"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "age": {
+        "min": 16,
+        "max": 24
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Duration",
+        "quote": "paying a portion of your rent for up to 36 months",
+        "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rent-choice-youth",
+        "page_date": null
+      },
+      {
+        "claim": "Age",
+        "quote": "16-24 years old",
+        "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rent-choice-youth",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "community-first-student-starter-account",
+    "name": "Community First Student Starter Account",
+    "provider": "Community First Bank",
+    "category": "payments",
+    "summary": "Everyday bank account with no monthly fee for full-time students and young apprentices.",
+    "key": "A monthly account keeping fee does not apply.",
+    "who": [
+      "Full-time students, including tertiary and university students.",
+      "Apprentices or trainees aged 17 to 24."
+    ],
+    "how": [
+      "Apply online, by phone or in store."
+    ],
+    "catches": [
+      "Other ATM owners may charge a fee.",
+      "Fees may apply for specially requested services."
+    ],
+    "tags": [
+      "bank account",
+      "no fee",
+      "banking",
+      "community first"
+    ],
+    "source": {
+      "url": "https://communityfirst.com.au/products/student-starter-account",
+      "label": "Community First: Student Starter Account"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "No monthly fee",
+        "quote": "A monthly account keeping fee does not apply.",
+        "url": "https://communityfirst.com.au/products/student-starter-account",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "An everyday account for full time students (including high school, tertiary, college or university)",
+        "url": "https://communityfirst.com.au/products/student-starter-account",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "swinburne-student-emergency-hardship-grant",
+    "name": "Swinburne Student Emergency Hardship Grant",
+    "provider": "Swinburne University",
+    "category": "uni",
+    "summary": "One-off grant of up to $1,000 for full-time Swinburne undergraduates from low-income backgrounds hit by an unexpected event.",
+    "key": "Up to $1,000.",
+    "who": [
+      "Local student enrolled full-time in an undergraduate, associate degree or UniLink course.",
+      "From a low socio-economic background and facing an unexpected event causing significant financial hardship.",
+      "Previous recipients can't apply again."
+    ],
+    "catches": [
+      "Applications are currently closed. Check the page for the next round."
+    ],
+    "tags": [
+      "swinburne",
+      "melbourne",
+      "vic",
+      "hardship",
+      "emergency grant"
+    ],
+    "source": {
+      "url": "https://www.swinburne.edu.au/study/options/scholarships/362/student-emergency-hardship-grants",
+      "label": "Swinburne: Student emergency hardship grants"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Value",
+        "quote": "Up to $1,000",
+        "url": "https://www.swinburne.edu.au/study/options/scholarships/362/student-emergency-hardship-grants",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "an unexpected event that is causing you significant financial hardship",
+        "url": "https://www.swinburne.edu.au/study/options/scholarships/362/student-emergency-hardship-grants",
+        "page_date": null
+      }
+    ],
+    "closes": "closed"
+  },
+  {
+    "id": "swinburne-indigenous-financial-assistance-grant",
+    "name": "Swinburne Indigenous Financial Assistance Grant",
+    "provider": "Swinburne University",
+    "category": "uni",
+    "summary": "A $1,000 one-off grant for Aboriginal and Torres Strait Islander Swinburne students facing an emergency or hardship.",
+    "key": "$1,000 (one-off payment).",
+    "who": [
+      "Australian citizen of Aboriginal and/or Torres Strait Islander heritage.",
+      "A Swinburne student in 2026 who has completed at least one semester, full-time or part-time.",
+      "Assessed on the emergency or hardship and its impact on study."
+    ],
+    "how": [
+      "Submit the online form with a personal statement (up to 500 words), proof of heritage and evidence of the hardship."
+    ],
+    "catches": [
+      "Applications close 31 December 2026."
+    ],
+    "tags": [
+      "swinburne",
+      "indigenous",
+      "first nations",
+      "aboriginal",
+      "torres strait islander",
+      "vic"
+    ],
+    "source": {
+      "url": "https://www.swinburne.edu.au/courses/scholarships/indigenous-financial-assistance-grant",
+      "label": "Swinburne: Indigenous Financial Assistance Grant"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Value",
+        "quote": "$1,000 (one-off payment )",
+        "url": "https://www.swinburne.edu.au/courses/scholarships/indigenous-financial-assistance-grant",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "be of Australian Aboriginal and/or Torres Strait Islander heritage",
+        "url": "https://www.swinburne.edu.au/courses/scholarships/indigenous-financial-assistance-grant",
+        "page_date": null
+      }
+    ],
+    "closes": "2026-12-31"
+  },
+  {
+    "id": "notre-dame-student-hardship-assistance-fund",
+    "name": "Notre Dame Student Hardship Assistance Fund",
+    "provider": "University of Notre Dame Australia",
+    "category": "uni",
+    "summary": "One-off grants of $250 to $1,000 for Notre Dame students hit by an unforeseen hardship.",
+    "key": "Grants of between $250 and $1000 are available to eligible students.",
+    "who": [
+      "Enrolled in a degree, VET award or the Tertiary Pathway Program, full-time or at least half-time, past census date.",
+      "Experienced an unforeseen hardship that caused financial difficulty.",
+      "Not already helped by the fund earlier in the calendar year."
+    ],
+    "how": [
+      "Complete the Student Hardship Application Form with at least one supporting document."
+    ],
+    "catches": [
+      "Outcome within five working days. Paid as a lump sum, instalments or in kind, such as a prepaid card."
+    ],
+    "tags": [
+      "notre dame",
+      "nd",
+      "fremantle",
+      "sydney",
+      "hardship",
+      "grant",
+      "wa",
+      "nsw"
+    ],
+    "source": {
+      "url": "https://www.notredame.edu.au/study/fees-costs-and-scholarships/financial-assistance/financial-hardship-support",
+      "label": "Notre Dame: Financial hardship support"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Value",
+        "quote": "Grants of between $250 and $1000 are available to eligible students.",
+        "url": "https://www.notredame.edu.au/study/fees-costs-and-scholarships/financial-assistance/financial-hardship-support",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "vu-thrive-grant",
+    "name": "VU Thrive Grant",
+    "provider": "Victoria University",
+    "category": "uni",
+    "summary": "Grant for current VU students struggling with study costs such as books, equipment or travel, sized to your evidence.",
+    "who": [
+      "Current onshore VU student in a higher education or TAFE course with at least 48 credit points or 270 hours.",
+      "Experiencing financial hardship related to study expenses (not tuition or SSAF).",
+      "Not already received the grant this academic year."
+    ],
+    "how": [
+      "Apply through VU's application portal with bank statements, invoices or quotes."
+    ],
+    "catches": [
+      "The amount depends on the evidence you provide.",
+      "Not available for the same period if you got a Commonwealth Prac Payment in the past 12 months."
+    ],
+    "tags": [
+      "vu",
+      "victoria university",
+      "melbourne",
+      "footscray",
+      "vic",
+      "hardship",
+      "study costs"
+    ],
+    "source": {
+      "url": "https://www.vu.edu.au/apply-to-study/scholarships/vu-thrive-grant",
+      "label": "VU: VU Thrive Grant"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Eligibility",
+        "quote": "experiencing financial hardship related to your study expenses",
+        "url": "https://www.vu.edu.au/apply-to-study/scholarships/vu-thrive-grant",
+        "page_date": null
+      },
+      {
+        "claim": "Value",
+        "quote": "The value of the grant will be determined based on the evidence provided in your application.",
+        "url": "https://www.vu.edu.au/apply-to-study/scholarships/vu-thrive-grant",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "murdoch-senate-bursary",
+    "name": "Murdoch Senate Bursary",
+    "provider": "Murdoch University",
+    "category": "uni",
+    "summary": "$3,000 over two semesters for new full-time Murdoch undergraduates in financial or personal hardship.",
+    "key": "$3,000, paid as $1,500 in the semester you are awarded and $1,500 the next.",
+    "who": [
+      "Australian citizen, permanent resident, NZ citizen or humanitarian visa holder.",
+      "Enrolled in your first undergraduate course at Murdoch, full-time (at least 9 credit points).",
+      "In financial and/or personal hardship."
+    ],
+    "how": [
+      "Complete the online application and upload evidence of hardship."
+    ],
+    "catches": [
+      "Applications close 7 March 2027."
+    ],
+    "tags": [
+      "murdoch",
+      "perth",
+      "wa",
+      "bursary",
+      "hardship"
+    ],
+    "source": {
+      "url": "https://murdoch.edu.au/study/scholarship/murdoch-senate-bursary",
+      "label": "Murdoch: Murdoch Senate Bursary"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Value",
+        "quote": "$1,500 in the semester you are awarded",
+        "url": "https://murdoch.edu.au/study/scholarship/murdoch-senate-bursary",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "be in financial and/or personal hardship",
+        "url": "https://murdoch.edu.au/study/scholarship/murdoch-senate-bursary",
+        "page_date": null
+      }
+    ],
+    "closes": "2027-03-07"
+  },
+  {
+    "id": "ecu-cost-of-living-support-bursary",
+    "name": "ECU Cost of Living Support Bursary",
+    "provider": "Edith Cowan University",
+    "category": "uni",
+    "summary": "An automatic cost-of-living bursary ECU offers to domestic students it identifies as likely to need support.",
+    "who": [
+      "Currently enrolled domestic student.",
+      "Meets Australian Government eligibility criteria and is identified by ECU from equity indicators."
+    ],
+    "how": [
+      "You can't apply. Eligible students are notified by 16 October 2026 and accept in the student portal."
+    ],
+    "catches": [
+      "Accept before the offer expires (closes 31 December 2026). The amount varies between students."
+    ],
+    "tags": [
+      "ecu",
+      "edith cowan",
+      "perth",
+      "joondalup",
+      "wa",
+      "cost of living",
+      "bursary"
+    ],
+    "source": {
+      "url": "https://www.ecu.edu.au/scholarships/details/ecu-cost-of-living-support-bursary",
+      "label": "ECU: Cost of Living Support Bursary"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "How it works",
+        "quote": "You cannot apply for this bursary.",
+        "url": "https://www.ecu.edu.au/scholarships/details/ecu-cost-of-living-support-bursary",
+        "page_date": null
+      },
+      {
+        "claim": "Notification",
+        "quote": "If you are eligible to receive this bursary, you will be notified by 16 October 2026.",
+        "url": "https://www.ecu.edu.au/scholarships/details/ecu-cost-of-living-support-bursary",
+        "page_date": null
+      }
+    ],
+    "closes": "2026-12-31"
+  },
+  {
+    "id": "bond-student-hardship-grant",
+    "name": "Bond University Student Hardship Grant",
+    "provider": "Bond University",
+    "category": "uni",
+    "summary": "One-off grant of up to $2,000 for Bond students facing short-term, unexpected financial hardship.",
+    "key": "Up to a maximum of $2,000.",
+    "who": [
+      "Bond students experiencing short-term, temporary and unexpected financial hardship."
+    ],
+    "catches": [
+      "A one-off payment, not ongoing support. Check the page for full criteria and documents."
+    ],
+    "tags": [
+      "bond",
+      "gold coast",
+      "qld",
+      "hardship",
+      "grant"
+    ],
+    "source": {
+      "url": "https://bond.edu.au/current-students/opportunities/grants-scholarships/student-hardship-grant",
+      "label": "Bond University: Student Hardship Grant"
+    },
+    "status": "unverified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Value",
+        "quote": "available to students who may be experiencing short-term, temporary and unexpected financial hardship to a maximum of $2000",
+        "url": "https://bond.edu.au/current-students/opportunities/grants-scholarships/student-hardship-grant",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "strand7-student-version",
+    "name": "Strand7 Student Version",
+    "provider": "Strand7",
+    "category": "software",
+    "summary": "Full Strand7 finite element analysis software for engineering students for coursework, at a low monthly fee.",
+    "key": "Student access to Strand7 costs AU$10 per month, plus GST (if applicable).",
+    "who": [
+      "Students enrolled in an approved university course, confirmed by a lecturer."
+    ],
+    "how": [
+      "Email the Student Version Application Form to student@strand7.com. Access usually arrives within 1 to 3 business days."
+    ],
+    "catches": [
+      "Coursework only, one computer at a time, internet connection required, no technical support. All modules except the API."
+    ],
+    "tags": [
+      "strand7",
+      "fea",
+      "structural",
+      "engineering",
+      "civil"
+    ],
+    "source": {
+      "url": "https://strand7.com/student",
+      "label": "Strand7: Student Version"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "field": {
+        "yes": [
+          "engineering"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Price",
+        "quote": "Student access to Strand7 costs AU$10 per month, plus GST (if applicable).",
+        "url": "https://strand7.com/student",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "rhino-education-licence",
+    "name": "Rhino 8 education licence",
+    "provider": "Robert McNeel & Associates",
+    "category": "software",
+    "summary": "Full Rhino 3D modelling software at an education price for students, the same as the commercial version but not transferable.",
+    "key": "US$195 for a single-user Rhino 8 education licence.",
+    "who": [
+      "Students and educators buying an educational licence."
+    ],
+    "how": [
+      "Buy from an Australian Rhino reseller."
+    ],
+    "catches": [
+      "International prices may vary, so check the Australian reseller price."
+    ],
+    "tags": [
+      "rhino",
+      "rhino3d",
+      "cad",
+      "3d modelling",
+      "architecture",
+      "design",
+      "grasshopper"
+    ],
+    "source": {
+      "url": "https://www.rhino3d.com/sales/pacific/Australia/QLD",
+      "label": "Rhino: Australian resellers and pricing"
+    },
+    "status": "unverified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Licence terms",
+        "quote": "The educational versions are the same as the commercial versions, except that they are not transferable to another user.",
+        "url": "https://www.rhino3d.com/sales/pacific/Australia/QLD",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "ptc-mathcad-prime-student",
+    "name": "PTC Mathcad Prime Student Edition",
+    "provider": "PTC",
+    "category": "software",
+    "summary": "Yearly Mathcad Prime licence for current students to use for personal learning.",
+    "who": [
+      "Current students using it for personal learning, with a valid university email.",
+      "Verified through Proxi.id. One licence per student."
+    ],
+    "how": [
+      "Buy online from the PTC store after academic verification."
+    ],
+    "catches": [
+      "One-year term, paid annually. Not for teaching or research."
+    ],
+    "tags": [
+      "mathcad",
+      "ptc",
+      "engineering",
+      "calculations"
+    ],
+    "source": {
+      "url": "https://www.ptc.com/en/store/products/mathcad/ptc-mathcad-prime-student",
+      "label": "PTC: Mathcad Prime Student"
+    },
+    "status": "unverified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "field": {
+        "yes": [
+          "engineering"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Eligibility",
+        "quote": "available to current students whose intended use is for personal learning",
+        "url": "https://www.ptc.com/en/store/products/mathcad/ptc-mathcad-prime-student",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "ssa-student-membership",
+    "name": "Statistical Society of Australia student membership",
+    "provider": "Statistical Society of Australia",
+    "category": "career",
+    "summary": "Cheap SSA membership for full-time students with no income, with journal access and industry connections.",
+    "key": "Full-time student membership ($25 AUD incl GST).",
+    "who": [
+      "Engaged in full-time studies and without an income."
+    ],
+    "how": [
+      "Join online, then email proof of full-time enrolment to the SSA Office within 14 days."
+    ],
+    "catches": [
+      "Applications without proof are refunded minus a $10 admin fee."
+    ],
+    "tags": [
+      "statistics",
+      "ssa",
+      "data science",
+      "maths"
+    ],
+    "source": {
+      "url": "https://statsoc.org.au/Membership-Types",
+      "label": "SSA: Membership Types"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Price",
+        "quote": "Full-time student membership ($25 AUD incl GST)",
+        "url": "https://statsoc.org.au/Membership-Types",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "Student membership of SSA is available to those who are engaged in full-time studies and do not have an income.",
+        "url": "https://statsoc.org.au/Membership-Types",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "speech-pathology-australia-student-membership",
+    "name": "Speech Pathology Australia student membership",
+    "provider": "Speech Pathology Australia",
+    "category": "career",
+    "summary": "Free Speech Pathology Australia membership for speech pathology students past their first year.",
+    "key": "Student (non 1st year): Free.",
+    "who": [
+      "Currently studying an accredited Australian entry-level speech pathology course."
+    ],
+    "catches": [
+      "The page lists no fee for first-year students."
+    ],
+    "tags": [
+      "speech pathology",
+      "allied health",
+      "spa"
+    ],
+    "source": {
+      "url": "https://speechpathologyaustralia.org.au/Public/join/fees/Membership-categories-fees.aspx",
+      "label": "Speech Pathology Australia: Membership categories and fees"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "field": {
+        "yes": [
+          "care"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Eligibility",
+        "quote": "A person currently studying an accredited Australian entry level speech pathology course",
+        "url": "https://speechpathologyaustralia.org.au/Public/join/fees/Membership-categories-fees.aspx",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "ama-medical-student-membership",
+    "name": "AMA medical student membership",
+    "provider": "Australian Medical Association",
+    "category": "career",
+    "summary": "Free AMA membership for the whole of your medical degree, with intern guides, career resources and member discounts.",
+    "key": "Free membership for the duration of your medical degree.",
+    "who": [
+      "Medical students."
+    ],
+    "tags": [
+      "ama",
+      "medicine",
+      "medical student",
+      "doctor"
+    ],
+    "source": {
+      "url": "https://www.ama.com.au/members/medical-students",
+      "label": "AMA: Medical students"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "field": {
+        "yes": [
+          "care"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Price",
+        "quote": "AMA membership is free for students",
+        "url": "https://www.ama.com.au/members/medical-students",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "ama-victoria-student-membership",
+    "name": "AMA Victoria student membership",
+    "provider": "AMA Victoria",
+    "category": "career",
+    "summary": "Free AMA Victoria membership for medical students, including career coaching and free tax return services.",
+    "key": "AMA Victoria student membership is free.",
+    "who": [
+      "Medical students. No Ahpra number needed."
+    ],
+    "tags": [
+      "ama",
+      "ama victoria",
+      "medicine",
+      "medical student",
+      "vic",
+      "tax return"
+    ],
+    "source": {
+      "url": "https://amavic.com.au/membership/students",
+      "label": "AMA Victoria: Student membership"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "field": {
+        "yes": [
+          "care"
+        ]
+      },
+      "campus": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Price",
+        "quote": "AMA Victoria student membership is free.",
+        "url": "https://amavic.com.au/membership/students",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-toll-relief",
+    "name": "NSW Toll Relief weekly cap",
+    "provider": "Service NSW",
+    "category": "transport",
+    "summary": "NSW drivers on a personal toll account can claim back weekly toll spending between $50 and $400, every three months.",
+    "key": "Claim a $50 cap toll relief rebate every 3 months.",
+    "who": [
+      "NSW residents with a personal toll account making personal trips in a privately registered vehicle."
+    ],
+    "how": [
+      "Link your toll account to your MyServiceNSW Account, then apply on the Service NSW toll relief page."
+    ],
+    "catches": [
+      "Covers weekly toll spend between $50 and $400, and personal trips up to $350 a week per tag and plate."
+    ],
+    "tags": [
+      "toll",
+      "nsw",
+      "sydney",
+      "driving",
+      "car"
+    ],
+    "source": {
+      "url": "https://www.service.nsw.gov.au/toll-relief-faqs",
+      "label": "Service NSW: Toll relief program"
+    },
+    "status": "unverified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Rebate",
+        "quote": "claim a $50 cap toll relief rebate every 3 months",
+        "url": "https://www.service.nsw.gov.au/toll-relief-faqs",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "vic-excess-electricity-concession",
+    "name": "Victorian excess electricity concession",
+    "provider": "Victorian Department of Families, Fairness and Housing",
+    "category": "health",
+    "summary": "17.5% off the part of your yearly electricity costs above a high threshold, for Victorian Health Care Card holders.",
+    "key": "17.5% of electricity usage and service costs above the annual threshold.",
+    "who": [
+      "Electricity account holder in Victoria with annual electricity costs above $4,217.85.",
+      "Holds a Health Care Card, Pensioner Concession Card or DVA Gold Card."
+    ],
+    "how": [
+      "Your retailer identifies eligible customers and sends a form. Sign it with a witness and return it."
+    ],
+    "catches": [
+      "The threshold is reviewed each year. Processing takes up to four weeks."
+    ],
+    "tags": [
+      "electricity",
+      "energy",
+      "concession",
+      "health care card",
+      "vic",
+      "bills"
+    ],
+    "source": {
+      "url": "https://services.dffh.vic.gov.au/node/156",
+      "label": "Victorian Government: Excess electricity concession"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "vic"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Eligibility",
+        "quote": "An electricity account holder whose annual electricity costs are above $4,217.85",
+        "url": "https://services.dffh.vic.gov.au/node/156",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "goodlife-student-discount",
+    "name": "Goodlife Health Clubs student discount",
+    "provider": "Goodlife Health Clubs",
+    "category": "streaming",
+    "summary": "20% off full-priced Goodlife gym memberships for current students at any Australian institution.",
+    "key": "Goodlife offers students 20% off on full priced month to month, 12 and 18 month memberships.",
+    "who": [
+      "Current student at an Australian institution with a valid student ID.",
+      "Aged 14 or over, and not a Goodlife member in the previous 90 days."
+    ],
+    "how": [
+      "Fill in the form on the page or visit a club, and bring your student ID."
+    ],
+    "catches": [
+      "Subject to the membership contract and terms."
+    ],
+    "tags": [
+      "gym",
+      "fitness",
+      "goodlife",
+      "health club"
+    ],
+    "source": {
+      "url": "https://www.goodlife.com.au/memberships/student-discount/",
+      "label": "Goodlife: Student discount"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Discount",
+        "quote": "Goodlife offers students 20% off on full priced month to month, 12 and 18 month memberships.",
+        "url": "https://www.goodlife.com.au/memberships/student-discount/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "fitness-first-student-discount",
+    "name": "Fitness First student discount",
+    "provider": "Fitness First",
+    "category": "streaming",
+    "summary": "20% off full-priced Fitness First memberships for current students at any Australian institution.",
+    "key": "Fitness First offers students 20% off on full priced 3 month, 12- and 18-month memberships.",
+    "who": [
+      "Current student at an Australian institution with a valid student ID.",
+      "Aged 14 or over, and not a Fitness First member in the previous 90 days."
+    ],
+    "how": [
+      "Fill in the form on the page or visit a club, and bring your student ID."
+    ],
+    "catches": [
+      "Subject to the membership contract and terms."
+    ],
+    "tags": [
+      "gym",
+      "fitness",
+      "fitness first"
+    ],
+    "source": {
+      "url": "https://www.fitnessfirst.com.au/memberships/student-discount/",
+      "label": "Fitness First: Student discount gym memberships"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Discount",
+        "quote": "Fitness First offers students 20% off on full priced 3 month, 12- and 18-month memberships.",
+        "url": "https://www.fitnessfirst.com.au/memberships/student-discount/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "specsavers-student-discount",
+    "name": "Specsavers student discount",
+    "provider": "Specsavers",
+    "category": "tech",
+    "summary": "25% off one pair of glasses in store for students, from the $149 range up.",
+    "key": "25% off one pair of glasses from the $149 range or above, in store.",
+    "who": [
+      "Students with a current student card."
+    ],
+    "how": [
+      "Show your student card when you buy."
+    ],
+    "catches": [
+      "One pair only. Excludes safety eyewear. Can't be combined with other offers. Lenses beyond single vision cost extra."
+    ],
+    "tags": [
+      "glasses",
+      "eyewear",
+      "optometrist",
+      "specsavers"
+    ],
+    "source": {
+      "url": "https://www.specsavers.com.au/special-offers/student-discount",
+      "label": "Specsavers: Student discount"
+    },
+    "status": "unverified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Condition",
+        "quote": "Current student card",
+        "url": "https://www.specsavers.com.au/special-offers/student-discount",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "acmi-concession-tickets",
+    "name": "ACMI concession tickets",
+    "provider": "ACMI",
+    "category": "streaming",
+    "summary": "Concession prices on ACMI film programs and ticketed exhibitions in Melbourne for students with a card.",
+    "who": [
+      "Holders of Australian or international student cards, or a Health Care Card."
+    ],
+    "how": [
+      "Show your card at the venue entrance, even when buying online."
+    ],
+    "tags": [
+      "acmi",
+      "melbourne",
+      "film",
+      "museum",
+      "vic",
+      "cinema"
+    ],
+    "source": {
+      "url": "https://www.acmi.net.au/contact/frequently-asked-questions-ticketing",
+      "label": "ACMI: Ticketing FAQs"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Eligibility",
+        "quote": "On presentation of the following valid cards, a customer is eligible to purchase a concession ticket for ACMI programs.",
+        "url": "https://www.acmi.net.au/contact/frequently-asked-questions-ticketing",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "national-portrait-gallery-concession",
+    "name": "National Portrait Gallery concession tickets",
+    "provider": "National Portrait Gallery",
+    "category": "streaming",
+    "summary": "Concession prices on ticketed exhibitions at the National Portrait Gallery in Canberra for full-time students.",
+    "who": [
+      "Full-time university, TAFE and international students with a valid student card."
+    ],
+    "tags": [
+      "portrait gallery",
+      "canberra",
+      "act",
+      "gallery",
+      "exhibition"
+    ],
+    "source": {
+      "url": "https://portrait.gov.au/content/concession-discount-policy",
+      "label": "National Portrait Gallery: Concession discount policy"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Eligibility",
+        "quote": "Full-time students at high school, TAFE, CIT, university and international students, with a valid student card.",
+        "url": "https://portrait.gov.au/content/concession-discount-policy",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "state-opera-sa-under-30",
+    "name": "State Opera South Australia under 30 and student tickets",
+    "provider": "State Opera South Australia",
+    "category": "streaming",
+    "summary": "$35 tickets to selected State Opera SA productions for under 30s, plus concession prices for full-time students.",
+    "key": "If you're under 30 years old, you can access specially priced tickets to selected State Opera productions for just $35.",
+    "who": [
+      "Under 30 with proof of age, or a full-time student for concession prices."
+    ],
+    "how": [
+      "Book early, as availability is limited."
+    ],
+    "catches": [
+      "Selected performances only, usually in designated seating."
+    ],
+    "tags": [
+      "opera",
+      "adelaide",
+      "sa",
+      "theatre",
+      "under 30"
+    ],
+    "source": {
+      "url": "https://www.stateopera.com.au/your-visit/ticketing/great-value-opera",
+      "label": "State Opera SA: Great value opera"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "age": {
+        "max": 29
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Under 30 price",
+        "quote": "If you're under 30 years old, you can access specially priced tickets to selected State Opera productions for just $35.",
+        "url": "https://www.stateopera.com.au/your-visit/ticketing/great-value-opera",
+        "page_date": null
+      },
+      {
+        "claim": "Students",
+        "quote": "If you're studying full-time, you can access concession pricing on many State Opera performances.",
+        "url": "https://www.stateopera.com.au/your-visit/ticketing/great-value-opera",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qut-international-talent-scholarship",
+    "name": "QUT International Talent Scholarship",
+    "provider": "QUT",
+    "category": "uni",
+    "summary": "Automatic 20% tuition reduction every semester for high-achieving new international students at QUT.",
+    "key": "You'll receive an ongoing scholarship to cover 20% of your tuition fees per semester of study at QUT.",
+    "who": [
+      "New international student with an offer for an eligible course and an eligible nationality.",
+      "Meets the minimum academic standard for your qualification, such as an ATAR of 80.00.",
+      "Can't hold another QUT academic scholarship."
+    ],
+    "how": [
+      "You don't need to apply. The offer comes with your admission letter."
+    ],
+    "catches": [
+      "Continues only while you meet your course conditions."
+    ],
+    "tags": [
+      "qut",
+      "international",
+      "tuition",
+      "scholarship",
+      "brisbane"
+    ],
+    "source": {
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/international-talent-scholarship",
+      "label": "QUT: International Talent Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "qut"
+        ]
+      },
+      "res": {
+        "yes": [
+          "intl"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Value",
+        "quote": "You'll receive an ongoing scholarship to cover 20% of your tuition fees per semester of study at QUT.",
+        "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/international-talent-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "How to apply",
+        "quote": "You don't need to apply for this scholarship.",
+        "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/international-talent-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "monash-international-leadership-scholarship",
+    "name": "Monash International Leadership Scholarship",
+    "provider": "Monash University",
+    "category": "uni",
+    "summary": "Full tuition fees covered for four new international undergraduates each year at Monash in Australia.",
+    "key": "100% course fees paid.",
+    "who": [
+      "International student with an unconditional full Monash undergraduate offer, studying full-time at an Australian campus.",
+      "Not for current Monash students, Australian Year 12 completers, Monash Pathway or MD students."
+    ],
+    "how": [
+      "No application needed. Students with an undergraduate offer are considered automatically."
+    ],
+    "catches": [
+      "Four awards a year. Excludes OSHC, accommodation and living costs."
+    ],
+    "tags": [
+      "monash",
+      "international",
+      "tuition",
+      "scholarship",
+      "melbourne",
+      "vic"
+    ],
+    "source": {
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-international-leadership-scholarship-5571Z",
+      "label": "Monash: International Leadership Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "intl"
+        ]
+      },
+      "load": {
+        "yes": [
+          "full"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Value",
+        "quote": "100% course fees paid",
+        "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-international-leadership-scholarship-5571Z",
+        "page_date": null
+      },
+      {
+        "claim": "Number",
+        "quote": "Four per year",
+        "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-international-leadership-scholarship-5571Z",
+        "page_date": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "id": "goodlife-student-discount",
+  "name": "Goodlife Health Clubs student discount",
+  "provider": "Goodlife Health Clubs",
+  "category": "streaming",
+  "summary": "20% off full-priced Goodlife gym memberships for current students at any Australian institution.",
+  "key": "Goodlife offers students 20% off on full priced month to month, 12 and 18 month memberships.",
+  "who": [
+    "Current student at an Australian institution with a valid student ID.",
+    "Aged 14 or over, and not a Goodlife member in the previous 90 days."
+  ],
+  "how": [
+    "Fill in the form on the page or visit a club, and bring your student ID."
+  ],
+  "catches": [
+    "Subject to the membership contract and terms."
+  ],
+  "tags": [
+    "gym",
+    "fitness",
+    "goodlife",
+    "health club"
+  ],
+  "source": {
+    "url": "https://www.goodlife.com.au/memberships/student-discount/",
+    "label": "Goodlife: Student discount"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Discount",
+      "quote": "Goodlife offers students 20% off on full priced month to month, 12 and 18 month memberships.",
+      "url": "https://www.goodlife.com.au/memberships/student-discount/",
+      "page_date": null
+    }
+  ]
+}

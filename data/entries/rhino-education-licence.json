@@ -1,0 +1,43 @@
+{
+  "id": "rhino-education-licence",
+  "name": "Rhino 8 education licence",
+  "provider": "Robert McNeel & Associates",
+  "category": "software",
+  "summary": "Full Rhino 3D modelling software at an education price for students, the same as the commercial version but not transferable.",
+  "key": "US$195 for a single-user Rhino 8 education licence.",
+  "who": [
+    "Students and educators buying an educational licence."
+  ],
+  "how": [
+    "Buy from an Australian Rhino reseller."
+  ],
+  "catches": [
+    "International prices may vary, so check the Australian reseller price."
+  ],
+  "tags": [
+    "rhino",
+    "rhino3d",
+    "cad",
+    "3d modelling",
+    "architecture",
+    "design",
+    "grasshopper"
+  ],
+  "source": {
+    "url": "https://www.rhino3d.com/sales/pacific/Australia/QLD",
+    "label": "Rhino: Australian resellers and pricing"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Licence terms",
+      "quote": "The educational versions are the same as the commercial versions, except that they are not transferable to another user.",
+      "url": "https://www.rhino3d.com/sales/pacific/Australia/QLD",
+      "page_date": null
+    }
+  ]
+}

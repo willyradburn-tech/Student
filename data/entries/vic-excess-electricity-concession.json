@@ -1,0 +1,49 @@
+{
+  "id": "vic-excess-electricity-concession",
+  "name": "Victorian excess electricity concession",
+  "provider": "Victorian Department of Families, Fairness and Housing",
+  "category": "health",
+  "summary": "17.5% off the part of your yearly electricity costs above a high threshold, for Victorian Health Care Card holders.",
+  "key": "17.5% of electricity usage and service costs above the annual threshold.",
+  "who": [
+    "Electricity account holder in Victoria with annual electricity costs above $4,217.85.",
+    "Holds a Health Care Card, Pensioner Concession Card or DVA Gold Card."
+  ],
+  "how": [
+    "Your retailer identifies eligible customers and sends a form. Sign it with a witness and return it."
+  ],
+  "catches": [
+    "The threshold is reviewed each year. Processing takes up to four weeks."
+  ],
+  "tags": [
+    "electricity",
+    "energy",
+    "concession",
+    "health care card",
+    "vic",
+    "bills"
+  ],
+  "source": {
+    "url": "https://services.dffh.vic.gov.au/node/156",
+    "label": "Victorian Government: Excess electricity concession"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "An electricity account holder whose annual electricity costs are above $4,217.85",
+      "url": "https://services.dffh.vic.gov.au/node/156",
+      "page_date": null
+    }
+  ]
+}

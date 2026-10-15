@@ -1,0 +1,51 @@
+{
+  "id": "state-opera-sa-under-30",
+  "name": "State Opera South Australia under 30 and student tickets",
+  "provider": "State Opera South Australia",
+  "category": "streaming",
+  "summary": "$35 tickets to selected State Opera SA productions for under 30s, plus concession prices for full-time students.",
+  "key": "If you're under 30 years old, you can access specially priced tickets to selected State Opera productions for just $35.",
+  "who": [
+    "Under 30 with proof of age, or a full-time student for concession prices."
+  ],
+  "how": [
+    "Book early, as availability is limited."
+  ],
+  "catches": [
+    "Selected performances only, usually in designated seating."
+  ],
+  "tags": [
+    "opera",
+    "adelaide",
+    "sa",
+    "theatre",
+    "under 30"
+  ],
+  "source": {
+    "url": "https://www.stateopera.com.au/your-visit/ticketing/great-value-opera",
+    "label": "State Opera SA: Great value opera"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "age": {
+      "max": 29
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Under 30 price",
+      "quote": "If you're under 30 years old, you can access specially priced tickets to selected State Opera productions for just $35.",
+      "url": "https://www.stateopera.com.au/your-visit/ticketing/great-value-opera",
+      "page_date": null
+    },
+    {
+      "claim": "Students",
+      "quote": "If you're studying full-time, you can access concession pricing on many State Opera performances.",
+      "url": "https://www.stateopera.com.au/your-visit/ticketing/great-value-opera",
+      "page_date": null
+    }
+  ]
+}
