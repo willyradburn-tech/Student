@@ -1,4 +1,4 @@
-# Student Concessions Hub
+# StudentStack (studentstack.com.au)
 
 A static website listing concessions for Australian uni students. Every entry is checked against an official source. It has no framework and no dependencies, so the only thing you need is Node 18 or newer.
 
