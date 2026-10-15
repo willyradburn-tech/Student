@@ -34,6 +34,8 @@ function nextCheck(e) {
 const due = entries
   .map((e) => Object.assign({}, e, { nextCheck: nextCheck(e) }))
   .filter((e) => flag("--all") || e.nextCheck <= today || e.status !== "verified" || extraIds.includes(e.id))
+  // Entries parked for a manual check (their site blocks automated reading) sit out until their next cycle.
+  .filter((e) => flag("--all") || !e.manual_check || nextCheck(Object.assign({}, e, { verified: e.manual_check })) <= today || extraIds.includes(e.id))
   .sort((a, b) => a.nextCheck.localeCompare(b.nextCheck));
 // --limit N keeps a scheduled run small: only the N most overdue entries.
 const limitArg = args.indexOf("--limit");

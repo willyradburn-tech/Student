@@ -10,10 +10,11 @@ Follow these steps exactly. Keep the run small and cheap: one fetch per entry, n
    - `confirmed`: the page still states the same figure and eligibility. Put the quoted sentence in `quote`, and any future closing date in `closes`.
    - `closed`: the page says the current round has closed and gives no future date.
    - `changed`: the page states a different figure, different eligibility, or the offer has ended. Put what differs in `note` and the page's sentence in `quote`.
-   - `gone`: the page failed to load twice, redirected somewhere unrelated, or no longer mentions the offer.
+   - `blocked`: the fetch was refused or blocked (for example a 403, "access denied", or a tool message that the site can't be fetched). Services Australia pages often do this. This is not a sign the offer changed.
+   - `gone`: the page loaded but redirected somewhere unrelated or no longer mentions the offer, or it returned a 404 twice.
    Only use text the fetched page showed. Never write a quote from memory. When unsure, choose `changed`, because a person will look at it.
 4. Write the results as a JSON array to `research/recheck-results.json`, for example:
    `[{"id":"...","result":"confirmed","quote":"...","closes":"2026-11-30"}]`
 5. Run `node scripts/recheck.js research/recheck-results.json --write`, then `node build.js`. If either reports an error, fix the results file and run them again.
 6. Delete `research/recheck-results.json`. Commit everything with the message `Scheduled recheck <date>` and push to `main`. Netlify publishes the update automatically.
-7. Finish with a short summary of at most 6 lines: how many entries were confirmed, closed, changed and gone, and the ids of any changed or gone entries. Those entries stay on the site as "Might apply" until a person reviews them. The full list is in `research/recheck-log.md`.
+7. Finish with a short summary of at most 6 lines: how many entries were confirmed, closed, changed, gone and blocked, and the ids of any changed, gone or blocked entries. Those entries stay on the site as "Might apply" until a person reviews them. The full list is in `research/recheck-log.md`.

@@ -14,6 +14,8 @@
                 the note and quote go into open_questions for a person to review.
    - closed:    closes set to "closed" and the verified date refreshed.
    - gone:      status "rechecking", note recorded. The page moved or no longer exists.
+   - blocked:   the site refused automated reading (for example Services Australia). The entry is
+                left unchanged, marked manual_check, and skipped by due.js until its next cycle.
    Every run is logged in research/recheck-log.md. */
 "use strict";
 const fs = require("fs");
@@ -32,8 +34,9 @@ let text = fs.readFileSync(file, "utf8");
 const fence = text.match(/```json\s*([\s\S]*?)```/);
 if (fence) text = fence[1];
 const results = JSON.parse(text);
-const OK = ["confirmed", "changed", "closed", "gone"];
-const counts = { confirmed: 0, changed: 0, closed: 0, gone: 0 };
+const OK = ["confirmed", "changed", "closed", "gone", "blocked"];
+const counts = { confirmed: 0, changed: 0, closed: 0, gone: 0, blocked: 0 };
+const manual = [];
 const flagged = [];
 
 for (const r of results) {
@@ -50,6 +53,11 @@ for (const r of results) {
   } else if (r.result === "closed") {
     e.verified = today; e.closes = "closed";
     if (r.quote) e.evidence = (e.evidence || []).concat(ev).slice(-6);
+  } else if (r.result === "blocked") {
+    // The site refused automated reading. Leave the entry as it is and park it for a person,
+    // so it doesn't lose its status or keep taking a slot in every run.
+    e.manual_check = today;
+    manual.push("- " + e.id + ": " + e.source.url);
   } else {
     e.status = "rechecking";
     e.open_questions = (e.open_questions || []).concat(today + " " + r.result + ": " + (r.note || "") + (r.quote ? ' Page says: "' + r.quote + '"' : "")).slice(-5);
@@ -59,7 +67,7 @@ for (const r of results) {
   if (WRITE) fs.writeFileSync(p, JSON.stringify(e, null, 2) + "\n");
 }
 
-const summary = `\n## ${today}\n${results.length} checked: ${counts.confirmed} confirmed, ${counts.closed} closed, ${counts.changed} changed, ${counts.gone} gone.\n` + (flagged.length ? "Needs a person:\n" + flagged.join("\n") + "\n" : "");
+const summary = `\n## ${today}\n${results.length} checked: ${counts.confirmed} confirmed, ${counts.closed} closed, ${counts.changed} changed, ${counts.gone} gone, ${counts.blocked} blocked.\n` + (flagged.length ? "Needs a person:\n" + flagged.join("\n") + "\n" : "") + (manual.length ? "Site blocks automated reading, check by hand:\n" + manual.join("\n") + "\n" : "");
 console.log(summary);
 if (WRITE) fs.appendFileSync(path.join(root, "research", "recheck-log.md"), summary);
 else console.log("Dry run. Add --write to save.");
