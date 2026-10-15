@@ -1,0 +1,53 @@
+{
+  "id": "nsw-smart-and-skilled-disability-fee-free",
+  "name": "Smart and Skilled fee-free training for students with disability",
+  "provider": "NSW Government (Skills NSW)",
+  "category": "loans",
+  "summary": "NSW students who meet the disability criteria, and their dependants, pay no Smart and Skilled fees.",
+  "key": "You and your dependants won't pay fees for your training under Smart and Skilled.",
+  "who": [
+    "Meet the NSW disability eligibility criteria (TAFE NSW lists evidence such as the Disability Support Pension)."
+  ],
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "smart and skilled",
+    "fee-free",
+    "disability"
+  ],
+  "source": {
+    "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students.html",
+    "label": "Skills NSW: Fee-free training for disadvantaged students"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Rule",
+      "quote": "you and your dependants won't pay fees for your training under Smart and Skilled.",
+      "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students.html",
+      "page_date": null
+    },
+    {
+      "claim": "TAFE NSW",
+      "quote": "If you have a disability, you may be eligible for fee-free Smart and Skilled training.",
+      "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "qld-free-apprenticeships-under-25s",
+  "name": "Queensland Free Apprenticeships for Under 25s",
+  "provider": "Queensland Government",
+  "category": "loans",
+  "summary": "Free training for Queensland apprentices and trainees under 25 in high priority qualifications.",
+  "key": "Covers the cost of your training in a high priority apprenticeship or traineeship.",
+  "who": [
+    "Aged under 25",
+    "Employed as a Queensland apprentice or trainee in a high priority qualification",
+    "Training with a Skills Assure Supplier"
+  ],
+  "catches": [
+    "Must start between 1 January 2021 and 30 June 2027; funding continues to completion.",
+    "Uniforms, resources and travel may still cost extra."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "qld",
+    "queensland",
+    "tafe queensland",
+    "fee free",
+    "under 25"
+  ],
+  "source": {
+    "url": "https://www.qld.gov.au/education/apprenticeships/about/types/free-apprenticeships-for-under-25s",
+    "label": "Queensland Government: Free Apprenticeships for Under 25s"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "age": {
+      "max": 24
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "closes": "2027-06-30",
+  "evidence": [
+    {
+      "claim": "What is free",
+      "quote": "covers the cost of your training when you choose a high priority apprenticeship or traineeship.",
+      "url": "https://www.qld.gov.au/education/apprenticeships/about/types/free-apprenticeships-for-under-25s",
+      "page_date": null
+    },
+    {
+      "claim": "Age",
+      "quote": "aged under 25",
+      "url": "https://www.qld.gov.au/education/apprenticeships/about/types/free-apprenticeships-for-under-25s",
+      "page_date": null
+    }
+  ]
+}

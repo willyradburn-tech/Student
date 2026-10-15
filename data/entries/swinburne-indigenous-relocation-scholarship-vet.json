@@ -1,0 +1,85 @@
+{
+  "id": "swinburne-indigenous-relocation-scholarship-vet",
+  "name": "Swinburne Indigenous Relocation Scholarship (VET)",
+  "provider": "Swinburne University of Technology (TAFE)",
+  "category": "uni",
+  "summary": "A one-off $2,500 for Aboriginal and Torres Strait Islander students relocating to start a Swinburne diploma or advanced diploma.",
+  "key": "Valued at $2,500 as a one-off payment.",
+  "who": [
+    "Australian citizen of Aboriginal and/or Torres Strait Islander heritage",
+    "Commencing first-year full-time Swinburne diploma (including UniLink) or advanced diploma student in 2026",
+    "Selection considers hardship and regional, rural or remote origin"
+  ],
+  "how": [
+    "Online application with personal statement, proof of heritage and one reference",
+    "Connect with an Indigenous Student Advisor at the Moondani Toombadool Centre"
+  ],
+  "catches": [
+    "Closes 31 December 2026"
+  ],
+  "tags": [
+    "tafe",
+    "swinburne",
+    "swinburne tafe",
+    "melbourne",
+    "vic",
+    "indigenous",
+    "relocation",
+    "diploma"
+  ],
+  "source": {
+    "url": "https://www.swinburne.edu.au/courses/scholarships/indigenous-relocation-scholarship-vet",
+    "label": "Swinburne: Indigenous Relocation Scholarship (VET)"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "closes": "2026-12-31",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "valued at $2,500",
+      "url": "https://www.swinburne.edu.au/courses/scholarships/indigenous-relocation-scholarship-vet",
+      "page_date": null
+    },
+    {
+      "claim": "Heritage rule",
+      "quote": "be of Australian Aboriginal and/or Torres Strait Islander heritage",
+      "url": "https://www.swinburne.edu.au/courses/scholarships/indigenous-relocation-scholarship-vet",
+      "page_date": null
+    }
+  ]
+}

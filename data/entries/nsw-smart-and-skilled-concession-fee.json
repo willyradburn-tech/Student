@@ -1,0 +1,72 @@
+{
+  "id": "nsw-smart-and-skilled-concession-fee",
+  "name": "Smart and Skilled concession fee (Centrelink recipients)",
+  "provider": "NSW Government (Skills NSW)",
+  "category": "loans",
+  "summary": "NSW students on a Commonwealth benefit, and their dependants, pay a capped concession fee for Smart and Skilled certificate courses.",
+  "key": "The concession fee varies up to $240, depending on the qualification level.",
+  "who": [
+    "Receive a Commonwealth Government benefit, or are a recognised dependant of a recipient.",
+    "Meet Smart and Skilled eligibility."
+  ],
+  "how": [
+    "Give your training provider a current Centrelink income statement or Pensioner Concession Card; TAFE NSW can check with your CRN."
+  ],
+  "catches": [
+    "No concession fees apply to Diplomas and Advanced Diplomas."
+  ],
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "smart and skilled",
+    "concession",
+    "centrelink",
+    "fees"
+  ],
+  "source": {
+    "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students/commonwealth-government-benefits",
+    "label": "Skills NSW: Commonwealth Government benefit recipients"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "The concession fee varies up to $240, depending on the qualification level.",
+      "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students/commonwealth-government-benefits",
+      "page_date": null
+    },
+    {
+      "claim": "Exclusion",
+      "quote": "No concession fees apply to Diplomas and Advanced Diplomas.",
+      "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students/commonwealth-government-benefits",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "You may be eligible for a concession fee if you receive a Commonwealth Government benefit payment",
+      "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
+      "page_date": null
+    }
+  ]
+}

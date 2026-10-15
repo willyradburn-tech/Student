@@ -1,0 +1,50 @@
+{
+  "id": "tastafe-free-counselling",
+  "name": "TasTAFE free student counselling",
+  "provider": "TasTAFE",
+  "category": "uni",
+  "summary": "Free, confidential counselling for TasTAFE students when personal matters affect their training.",
+  "key": "Our service is free and confidential.",
+  "who": [
+    "TasTAFE students"
+  ],
+  "how": [
+    "Call 1300 655 307 or book online with a Student Support staff member."
+  ],
+  "tags": [
+    "tafe",
+    "Tasmania",
+    "TasTAFE",
+    "counselling",
+    "mental health",
+    "free"
+  ],
+  "source": {
+    "url": "https://www.tastafe.tas.edu.au/students/support/counselling-support",
+    "label": "TasTAFE: Counselling support"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "other"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free and confidential",
+      "quote": "Our service is free and confidential.",
+      "url": "https://www.tastafe.tas.edu.au/students/support/counselling-support",
+      "page_date": null
+    }
+  ]
+}

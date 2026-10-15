@@ -1,0 +1,56 @@
+{
+  "id": "tafe-sa-free-counselling",
+  "name": "TAFE SA free counselling and wellbeing support",
+  "provider": "TAFE SA",
+  "category": "uni",
+  "summary": "Free, confidential counselling for enrolled TAFE SA students, on campus, by phone or online.",
+  "key": "A free and confidential Counselling and Wellbeing support to all enrolled students.",
+  "who": [
+    "Enrolled TAFE SA students"
+  ],
+  "how": [
+    "Book online, or call TAFE SA Customer Support on 1800 882 661."
+  ],
+  "tags": [
+    "tafe",
+    "SA",
+    "TAFE SA",
+    "counselling",
+    "mental health",
+    "free"
+  ],
+  "source": {
+    "url": "https://students.tafesa.edu.au/getting-help/counselling",
+    "label": "TAFE SA: Student Counselling & Wellbeing"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "other"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free for enrolled students",
+      "quote": "a free and confidential Counselling and Wellbeing support to all enrolled students",
+      "url": "https://students.tafesa.edu.au/getting-help/counselling",
+      "page_date": null
+    },
+    {
+      "claim": "Booking options",
+      "quote": "Enrolled students can book an on campus, telephone or online (Microsoft Teams) appointment.",
+      "url": "https://students.tafesa.edu.au/getting-help/counselling",
+      "page_date": null
+    }
+  ]
+}

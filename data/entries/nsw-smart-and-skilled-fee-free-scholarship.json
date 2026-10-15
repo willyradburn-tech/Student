@@ -1,0 +1,67 @@
+{
+  "id": "nsw-smart-and-skilled-fee-free-scholarship",
+  "name": "Smart and Skilled Fee-Free Scholarship",
+  "provider": "NSW Government (Skills NSW)",
+  "category": "loans",
+  "summary": "Fee-free training up to Certificate IV for young NSW people aged 15 to 30 on a government payment, and other eligible groups.",
+  "key": "If you're eligible, you can receive up to 2 fee-free scholarships over 4 years.",
+  "who": [
+    "Aged 15 to 30 and receiving a government payment or benefit, and meet Smart and Skilled eligibility.",
+    "Also people who have experienced domestic or family violence, or who are or were in out-of-home care."
+  ],
+  "how": [
+    "Eligibility is confirmed at enrolment; domestic violence and out-of-home care applicants provide supporting documents."
+  ],
+  "catches": [
+    "Courses up to and including Certificate IV."
+  ],
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "smart and skilled",
+    "fee-free",
+    "scholarship",
+    "young people",
+    "out-of-home care",
+    "domestic violence"
+  ],
+  "source": {
+    "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
+    "label": "TAFE NSW: Government funded training"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "age": {
+      "min": 15,
+      "max": 30
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Limit",
+      "quote": "If you're eligible, you can receive up to 2 fee-free scholarships over 4 years.",
+      "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
+      "page_date": null
+    },
+    {
+      "claim": "Age rule",
+      "quote": "be between 15 and 30 years old",
+      "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
+      "page_date": null
+    }
+  ]
+}

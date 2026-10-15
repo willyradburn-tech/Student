@@ -1,0 +1,54 @@
+{
+  "id": "qld-free-construction-apprenticeships-over-25s",
+  "name": "Free Construction Apprenticeships for Over 25s",
+  "provider": "Queensland Government",
+  "category": "loans",
+  "summary": "Queensland covers TAFE training costs for people 25 and over who take an eligible construction apprenticeship.",
+  "key": "We cover the cost of TAFE training when you choose an eligible construction-related apprenticeship.",
+  "who": [
+    "Aged 25 or older.",
+    "Doing an eligible construction-related apprenticeship."
+  ],
+  "tags": [
+    "tafe",
+    "tafe queensland",
+    "tafe qld",
+    "qld",
+    "queensland",
+    "apprentice",
+    "construction",
+    "free apprenticeship",
+    "trades"
+  ],
+  "source": {
+    "url": "https://www.qld.gov.au/education/training/funded/freeapprenticeships",
+    "label": "Queensland Government: Free Apprenticeships"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "age": {
+      "min": 25
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "What it covers",
+      "quote": "We cover the cost of TAFE training when you choose an eligible construction-related apprenticeship.",
+      "url": "https://www.qld.gov.au/education/training/funded/freeapprenticeships",
+      "page_date": null
+    }
+  ]
+}

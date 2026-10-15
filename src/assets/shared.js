@@ -32,7 +32,7 @@
   var QUESTIONS = [
     { key: "state", step: 1, short: "Where you live", label: "Which state do you live in?", options: STATES },
     { key: "campus", step: 1, short: "Where you study", label: "Which state is your campus in?", options: STATES },
-    { key: "uni", step: 1, short: "Your uni", label: "Your university", options: [["qut", "QUT"], ["uq", "University of Queensland"], ["griffith", "Griffith University"], ["scu", "Southern Cross University"], ["other", "Another uni"]] },
+    { key: "uni", step: 1, short: "Where you study", label: "Where do you study?", options: [["qut", "QUT"], ["uq", "University of Queensland"], ["griffith", "Griffith University"], ["scu", "Southern Cross University"], ["other", "Another uni"], ["tafe", "TAFE, or an apprenticeship"]] },
     { key: "res", step: 1, short: "Residency", label: "Residency", options: [["citizen", "Australian citizen"], ["pr", "Permanent resident"], ["intl", "International student"]] },
     { key: "age", step: 2, short: "Age", label: "Your age", type: "number" },
     { key: "load", step: 2, short: "Study load", label: "Study load", options: [["full", "Full-time"], ["part", "Part-time"]] },

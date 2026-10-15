@@ -1,0 +1,64 @@
+{
+  "id": "nsw-fee-free-training",
+  "name": "NSW Fee-Free TAFE and Fee Free training",
+  "provider": "NSW Government (Skills NSW) and TAFE NSW",
+  "category": "loans",
+  "summary": "Tuition-free priority courses at TAFE NSW and other Smart and Skilled providers for eligible NSW residents.",
+  "key": "Skills NSW provides fully subsidised training to gain skills in Australia's growing industries.",
+  "who": [
+    "15 years or over and no longer at school.",
+    "Live or work in NSW.",
+    "Australian citizen, permanent resident, humanitarian visa holder or NZ citizen.",
+    "Enrolling in a priority course."
+  ],
+  "how": [
+    "Contact a training provider such as TAFE NSW to check a fee-free place is available."
+  ],
+  "catches": [
+    "Places are limited and not guaranteed.",
+    "TAFE NSW: one Fee-free course per semester.",
+    "Semester 2, 2026 courses start between 1 July and 31 December 2026."
+  ],
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "fee-free tafe",
+    "free tafe",
+    "smart and skilled"
+  ],
+  "source": {
+    "url": "https://skills.education.nsw.gov.au/nsw-fee-free",
+    "label": "Skills NSW: NSW Fee Free"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "What it is",
+      "quote": "Skills NSW provides fully subsidised training to gain skills in Australia's growing industries.",
+      "url": "https://skills.education.nsw.gov.au/nsw-fee-free",
+      "page_date": null
+    },
+    {
+      "claim": "Limit at TAFE NSW",
+      "quote": "Students can enrol in one Fee-free course per semester.",
+      "url": "https://www.tafensw.edu.au/fee-free",
+      "page_date": null
+    }
+  ]
+}

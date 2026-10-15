@@ -1,0 +1,58 @@
+{
+  "id": "tafe-qld-payment-plan",
+  "name": "TAFE Queensland fee payment plan",
+  "provider": "TAFE Queensland",
+  "category": "uni",
+  "summary": "Domestic students with tuition fees of $300 or more can pay in instalments instead of upfront.",
+  "key": "TAFE Queensland will provide the option for deferred payment of Tuition Fees through a Payment Plan.",
+  "who": [
+    "Domestic student.",
+    "Tuition fees of $300 or more.",
+    "Not FEE-HELP eligible and no outstanding debt with TAFE Queensland."
+  ],
+  "how": [
+    "Request the plan at enrolment or before your study start date."
+  ],
+  "catches": [
+    "Two consecutive missed instalments cancel the plan and the full balance becomes payable."
+  ],
+  "tags": [
+    "tafe",
+    "tafe queensland",
+    "tafe qld",
+    "qld",
+    "queensland",
+    "fees",
+    "payment plan",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://tafeqld.edu.au/about/policy-and-governance/student-rules-and-policies/student-fees",
+    "label": "TAFE Queensland: Student fees policy"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Payment plan",
+      "quote": "TAFE Queensland will provide the option for deferred payment of Tuition Fees through a Payment Plan.",
+      "url": "https://tafeqld.edu.au/about/policy-and-governance/student-rules-and-policies/student-fees",
+      "page_date": null
+    },
+    {
+      "claim": "Timing",
+      "quote": "Payment Plans must be requested at the time of enrolment or prior to the start of study date",
+      "url": "https://tafeqld.edu.au/about/policy-and-governance/student-rules-and-policies/student-fees",
+      "page_date": null
+    }
+  ]
+}

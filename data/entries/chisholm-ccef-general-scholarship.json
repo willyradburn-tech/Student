@@ -1,0 +1,77 @@
+{
+  "id": "chisholm-ccef-general-scholarship",
+  "name": "Caroline Chisholm Education Foundation General Scholarship",
+  "provider": "Caroline Chisholm Education Foundation (Chisholm Institute)",
+  "category": "uni",
+  "summary": "Fee help for Chisholm VET students with a Health Care Card: up to $1,000 for Free TAFE courses or $800 for other courses.",
+  "key": "In 2026, the limit is $1,000 for Free TAFE courses and $800 for non-Free TAFE courses; foundation courses and VCE are fully funded.",
+  "who": [
+    "Studying at Chisholm Institute",
+    "Current Centrelink Health Care Card holder",
+    "Australian citizen or permanent resident",
+    "Government-subsidised place (Certificate IV and below) or VET Student Loan (Diploma and above)"
+  ],
+  "how": [
+    "Download the General Scholarship form and email it to ccefscholarships@chisholm.edu.au"
+  ],
+  "catches": [
+    "Applications open all year",
+    "Does not cover apprenticeships, traineeships or short courses",
+    "Only one course at a time under a CCEF scholarship"
+  ],
+  "tags": [
+    "tafe",
+    "chisholm",
+    "dandenong",
+    "frankston",
+    "vic",
+    "health care card",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://chisholm.edu.au/about-us/caroline-chisholm-education-foundation/scholarships",
+    "label": "Chisholm: CCEF Scholarships"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free TAFE course limit",
+      "quote": "the limit will be $1000",
+      "url": "https://chisholm.edu.au/about-us/caroline-chisholm-education-foundation/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Non-Free TAFE limit",
+      "quote": "the limit will be $800",
+      "url": "https://chisholm.edu.au/about-us/caroline-chisholm-education-foundation/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Open all year",
+      "quote": "Scholarship applications are open throughout the year.",
+      "url": "https://chisholm.edu.au/about-us/caroline-chisholm-education-foundation/scholarships",
+      "page_date": null
+    }
+  ]
+}

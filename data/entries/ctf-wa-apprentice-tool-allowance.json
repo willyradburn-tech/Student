@@ -1,0 +1,63 @@
+{
+  "id": "ctf-wa-apprentice-tool-allowance",
+  "name": "WA construction apprentice tool allowance",
+  "provider": "Construction Training Fund WA",
+  "category": "tech",
+  "summary": "WA construction apprentices and trainees can claim back money spent on tools and safety gear at the start and end of training.",
+  "key": "Up to $1,000 reimbursement at commencement and up to $1,000 at completion for tools or safety equipment.",
+  "who": [
+    "WA construction apprentices and trainees who start between 1 July 2024 and 30 June 2029"
+  ],
+  "how": [
+    "Register and claim through the CTF Portal with your tax invoice and bank details."
+  ],
+  "catches": [
+    "Commencement claim within 11 months of starting; completion claim within 6 months of finishing.",
+    "Program window runs to 30 June 2029."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "wa",
+    "western australia",
+    "construction",
+    "tools",
+    "ctf"
+  ],
+  "source": {
+    "url": "https://ctf.wa.gov.au/funding/apprentice-tool-allowance",
+    "label": "Construction Training Fund: Apprentice tool allowance"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "wa"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "closes": "2029-06-30",
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "Receive up to $1,000 reimbursement for the purchase of work-related tools",
+      "url": "https://ctf.wa.gov.au/funding/apprentice-tool-allowance",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Apprentices and trainees who commence their construction related apprenticeship between 1 July 2024 and 30 June 2029 may be eligible.",
+      "url": "https://ctf.wa.gov.au/funding/apprentice-tool-allowance",
+      "page_date": null
+    }
+  ]
+}

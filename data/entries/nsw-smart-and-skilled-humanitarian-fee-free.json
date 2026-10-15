@@ -1,0 +1,55 @@
+{
+  "id": "nsw-smart-and-skilled-humanitarian-fee-free",
+  "name": "Smart and Skilled fee-free training for refugees and asylum seekers",
+  "provider": "NSW Government (Skills NSW)",
+  "category": "loans",
+  "summary": "Refugees, asylum seekers and partners of humanitarian visa holders may study Certificate I to IV fee-free in NSW.",
+  "who": [
+    "Refugees or asylum seekers doing a Smart and Skilled Certificate I to IV course.",
+    "Eligible partners of humanitarian visa holders, for training from 1 July 2021."
+  ],
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "smart and skilled",
+    "fee-free",
+    "refugee",
+    "asylum seeker",
+    "humanitarian"
+  ],
+  "source": {
+    "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students.html",
+    "label": "Skills NSW: Fee-free training for disadvantaged students"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Partners",
+      "quote": "This now includes eligible partners of humanitarian visa holders, for any training that commences from 1 July 2021 onwards.",
+      "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students.html",
+      "page_date": null
+    },
+    {
+      "claim": "Rule",
+      "quote": "you may be eligible for fee-free training under Smart and Skilled",
+      "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students.html",
+      "page_date": null
+    }
+  ]
+}

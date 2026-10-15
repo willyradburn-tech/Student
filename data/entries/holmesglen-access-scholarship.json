@@ -1,0 +1,63 @@
+{
+  "id": "holmesglen-access-scholarship",
+  "name": "Holmesglen Access Scholarship",
+  "provider": "Holmesglen Institute",
+  "category": "uni",
+  "summary": "Up to $2,000 towards tuition fees for Holmesglen VET students facing financial hardship, disability or other disadvantage.",
+  "key": "Up to $2,000 per scholarship - to be used for tuition fees only.",
+  "who": [
+    "VET students (Certificate, Diploma, Advanced Diploma) at Holmesglen",
+    "Facing financial hardship, disability or other disadvantage",
+    "Not eligible for VET Student Loans, FEE-HELP or Free TAFE, and not receiving another scholarship"
+  ],
+  "how": [
+    "Download and complete the application form from the Holmesglen page, with supporting documents"
+  ],
+  "catches": [
+    "Committee meets monthly; funds subject to availability",
+    "Incomplete applications are not considered"
+  ],
+  "tags": [
+    "tafe",
+    "holmesglen",
+    "melbourne",
+    "vic",
+    "hardship",
+    "scholarship",
+    "disability"
+  ],
+  "source": {
+    "url": "https://holmesglen.edu.au/Students/Fees/Help-with-fees/Scholarships/Holmesglen-Access-Scholarship",
+    "label": "Holmesglen: Holmesglen Access Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Up to $2,000 per scholarship - to be used for tuition fees only.",
+      "url": "https://holmesglen.edu.au/Students/Fees/Help-with-fees/Scholarships/Holmesglen-Access-Scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Assessment",
+      "quote": "The Scholarship Committee meets monthly to assess applications, and funds are subject to availability.",
+      "url": "https://holmesglen.edu.au/Students/Fees/Help-with-fees/Scholarships/Holmesglen-Access-Scholarship",
+      "page_date": null
+    }
+  ]
+}

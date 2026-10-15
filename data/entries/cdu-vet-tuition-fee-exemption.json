@@ -1,0 +1,80 @@
+{
+  "id": "cdu-vet-tuition-fee-exemption",
+  "name": "CDU TAFE tuition fee exemption for Centrelink recipients",
+  "provider": "Charles Darwin University",
+  "category": "loans",
+  "summary": "CDU TAFE students on a Centrelink or Veterans' Affairs payment, or holding humanitarian or refugee visas, pay no tuition on NT Government subsidised courses.",
+  "key": "Students who receive a Centrelink or Veteran's Affairs payment will be exempt from paying tuition fees.",
+  "who": [
+    "Receive a Centrelink or Veterans' Affairs payment",
+    "Hold a Permanent Resident Visa (Humanitarian) or Permanent Resident Visa (Refugee)",
+    "Secondary school students",
+    "Some courses delivered in NT Remote 2 locations"
+  ],
+  "how": [
+    "Provide valid proof of concession at enrolment; contact Student Central about exemptions."
+  ],
+  "catches": [
+    "Applies to NTG subsidised courses only.",
+    "Exemption applies from the teaching period the form is submitted if documents come late."
+  ],
+  "tags": [
+    "tafe",
+    "NT",
+    "Darwin",
+    "CDU",
+    "Charles Darwin University",
+    "VET",
+    "Centrelink",
+    "fee exemption",
+    "refugee"
+  ],
+  "source": {
+    "url": "https://www.cdu.edu.au/current-students/student-admin/fees-payments/tafevet-fees",
+    "label": "CDU: TAFE/VET fees"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "other"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Centrelink exemption",
+      "quote": "students who receive a Centrelink or Veteran's Affairs payment will be exempt from paying tuition fees",
+      "url": "https://www.cdu.edu.au/current-students/student-admin/fees-payments/tafevet-fees",
+      "page_date": null
+    },
+    {
+      "claim": "Subsidised courses only",
+      "quote": "An exemption applies to CDU TAFE tuition fees for NTG subsidised courses only.",
+      "url": "https://www.cdu.edu.au/current-students/student-admin/fees-payments/tafevet-fees",
+      "page_date": null
+    },
+    {
+      "claim": "Proof needed",
+      "quote": "To claim the fee exemption, a student must provide valid proof of concession at the time of enrolment, or fees will be charged.",
+      "url": "https://www.cdu.edu.au/current-students/student-admin/fees-payments/tafevet-fees",
+      "page_date": null
+    }
+  ]
+}

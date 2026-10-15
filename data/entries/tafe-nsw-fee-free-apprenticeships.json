@@ -1,0 +1,54 @@
+{
+  "id": "tafe-nsw-fee-free-apprenticeships",
+  "name": "NSW fee-free apprenticeships",
+  "provider": "NSW Government and TAFE NSW",
+  "category": "loans",
+  "summary": "The NSW Government pays the student fee for new apprentices in Smart and Skilled funded training.",
+  "key": "The NSW Government covers the student fee for new apprentices.",
+  "who": [
+    "New apprentices, including school-based, in Smart and Skilled funded training",
+    "Apprenticeship must commence before 30 June 2027"
+  ],
+  "catches": [
+    "Apprenticeship must start before 30 June 2027.",
+    "Fee-free places are subject to availability; limit of three fee-free apprenticeships."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "nsw",
+    "tafe nsw",
+    "fee free",
+    "smart and skilled"
+  ],
+  "source": {
+    "url": "https://www.tafensw.edu.au/courses/fee-free-apprenticeships",
+    "label": "TAFE NSW: Fee-free apprenticeships"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "closes": "2027-06-30",
+  "evidence": [
+    {
+      "claim": "What is covered",
+      "quote": "the NSW Government will cover your student fee for new apprentices",
+      "url": "https://www.tafensw.edu.au/courses/fee-free-apprenticeships",
+      "page_date": null
+    }
+  ]
+}

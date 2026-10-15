@@ -1,0 +1,49 @@
+{
+  "id": "dewr-australian-apprentice-training-support-payment",
+  "name": "Australian Apprentice Training Support Payment (AATSP)",
+  "provider": "Department of Employment and Workplace Relations",
+  "category": "payments",
+  "summary": "Commonwealth payment made to apprentices in priority occupations, paid in instalments over the first two years.",
+  "key": "Full-time apprentices get $625 at each of 6, 12, 18 and 24 months; part-time apprentices get $310 to $315 per instalment.",
+  "catches": [
+    "Amounts come from the payments table in the DEWR overview; eligibility is set out in the Australian Apprenticeships Incentive System Program Guidelines (22 Dec 2025 to 31 Dec 2026).",
+    "Not paid on top of the Key Apprenticeship Program apprentice incentive for the same apprenticeship."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "commonwealth",
+    "priority list",
+    "aatsp"
+  ],
+  "source": {
+    "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+    "label": "DEWR: Australian Apprenticeships Incentive System payments overview"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Payment schedule",
+      "quote": "Payments at 6 months 12 months 18 months 24 months",
+      "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+      "page_date": "2026-07-01"
+    },
+    {
+      "claim": "Rules effective date",
+      "quote": "Effective as of 1 July 2026",
+      "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+      "page_date": "2026-07-01"
+    }
+  ]
+}

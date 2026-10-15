@@ -1,0 +1,76 @@
+{
+  "id": "tastafe-fee-concession",
+  "name": "TasTAFE fee concession",
+  "provider": "TasTAFE",
+  "category": "loans",
+  "summary": "Reduced TasTAFE tuition fees on subsidised courses for students on Centrelink payments, Health Care Card holders and listed dependants.",
+  "who": [
+    "Receiving certain Centrelink allowances or pensions, such as Youth Allowance",
+    "Listed as a dependant on a current Centrelink card",
+    "Holding a current Health Care Card or DVA Pensioner Concession Card"
+  ],
+  "how": [
+    "Produce Centrelink evidence relevant to your benefit or allowance at enrolment."
+  ],
+  "catches": [
+    "Not available for commercial or unsubsidised courses.",
+    "Concession fees are only payable once in a 12-month period for each course.",
+    "Textbooks, workbooks and protective clothing are not covered."
+  ],
+  "tags": [
+    "tafe",
+    "Tasmania",
+    "TasTAFE",
+    "concession",
+    "Centrelink",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://www.tastafe.tas.edu.au/students/fees/fee-guide",
+    "label": "TasTAFE: Fees and payment guide"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "other"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Based on Centrelink status",
+      "quote": "Fee concessions are offered based on your (or your family’s) Centrelink status.",
+      "url": "https://www.tastafe.tas.edu.au/students/fees/fee-guide",
+      "page_date": null
+    },
+    {
+      "claim": "Not for commercial courses",
+      "quote": "concessions are not available for commercial/unsubsidised courses",
+      "url": "https://www.tastafe.tas.edu.au/students/fees/fee-guide",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility (Tas Government)",
+      "quote": "are receiving a Centrelink allowance such as Newstart, Youth Allowance",
+      "url": "https://www.concessions.tas.gov.au/concessions/education/tasmanian_polytechnic/tuition_fee_concession",
+      "page_date": null
+    }
+  ]
+}

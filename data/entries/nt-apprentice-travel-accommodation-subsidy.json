@@ -1,0 +1,68 @@
+{
+  "id": "nt-apprentice-travel-accommodation-subsidy",
+  "name": "NT apprentice travel and accommodation subsidy",
+  "provider": "NT Department of Education",
+  "category": "payments",
+  "summary": "Partial subsidy for NT apprentices and trainees who live more than 50 km from the training provider for their off-the-job training.",
+  "key": "50 cents per km by road and $700 per full week of accommodation plus $100 per extra day.",
+  "who": [
+    "NT-registered apprentices and trainees funded under User Choice",
+    "Live more than 50 km one way from the nearest RTO offering the training"
+  ],
+  "how": [
+    "Claim through your Apprentice Connect Australia provider."
+  ],
+  "catches": [
+    "Maximum of four travel claims per calendar year.",
+    "Policy signed 5 June 2023; check rates are still current."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "nt",
+    "northern territory",
+    "travel allowance",
+    "block release"
+  ],
+  "source": {
+    "url": "https://education.nt.gov.au/policies/skills-nt/apprenticeship-and-traineeship-travel-and-accommodation-subsidy-scheme-policy",
+    "label": "NT Department of Education: Apprenticeship and traineeship travel and accommodation subsidy scheme policy"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Road rate",
+      "quote": "Road - 50 cents per kilometre (>50km one way).",
+      "url": "https://education.nt.gov.au/policies/skills-nt/apprenticeship-and-traineeship-travel-and-accommodation-subsidy-scheme-policy",
+      "page_date": "2023-06-05"
+    },
+    {
+      "claim": "Accommodation",
+      "quote": "An apprentice may claim an accommodation subsidy of $700 for a full week (seven days) and $100 for each extra day.",
+      "url": "https://education.nt.gov.au/policies/skills-nt/apprenticeship-and-traineeship-travel-and-accommodation-subsidy-scheme-policy",
+      "page_date": "2023-06-05"
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "All apprentices and trainees registered in the NT whose training is funded under user choice",
+      "url": "https://education.nt.gov.au/policies/skills-nt/apprenticeship-and-traineeship-travel-and-accommodation-subsidy-scheme-policy",
+      "page_date": "2023-06-05"
+    }
+  ]
+}

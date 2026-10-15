@@ -1,0 +1,50 @@
+{
+  "id": "melbourne-polytechnic-wellbeing-counselling",
+  "name": "Melbourne Polytechnic Student Wellbeing and Counselling",
+  "provider": "Melbourne Polytechnic",
+  "category": "uni",
+  "summary": "Free, short-term, confidential counselling and wellbeing support for all enrolled Melbourne Polytechnic students.",
+  "who": [
+    "All enrolled Melbourne Polytechnic students"
+  ],
+  "how": [
+    "Call the Student Hub on 1300 635 276 (press 2) or submit a request through the Student Portal"
+  ],
+  "tags": [
+    "tafe",
+    "melbourne polytechnic",
+    "melbourne",
+    "vic",
+    "counselling",
+    "free",
+    "mental health"
+  ],
+  "source": {
+    "url": "https://www.melbournepolytechnic.edu.au/students/services-and-support/counselling/",
+    "label": "Melbourne Polytechnic: Counselling"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free counselling for enrolled students",
+      "quote": "Our Student Wellbeing & Counselling Service provides free, short term, and confidential support for all enrolled students.",
+      "url": "https://www.melbournepolytechnic.edu.au/students/services-and-support/counselling/",
+      "page_date": null
+    }
+  ]
+}

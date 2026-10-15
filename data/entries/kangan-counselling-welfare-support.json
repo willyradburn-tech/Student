@@ -1,0 +1,51 @@
+{
+  "id": "kangan-counselling-welfare-support",
+  "name": "Kangan Institute free counselling and welfare support",
+  "provider": "Kangan Institute (Bendigo Kangan Institute)",
+  "category": "uni",
+  "summary": "Free confidential counselling plus welfare officers who help with fees, Centrelink, budgeting and emergency relief.",
+  "who": [
+    "Kangan Institute students"
+  ],
+  "how": [
+    "Call 13 TAFE (13 8233) or email studentsupport@kangan.edu.au"
+  ],
+  "tags": [
+    "tafe",
+    "kangan",
+    "bendigo kangan",
+    "vic",
+    "counselling",
+    "welfare",
+    "emergency relief",
+    "free"
+  ],
+  "source": {
+    "url": "https://www.kangan.edu.au/students/student-support/personal-counselling",
+    "label": "Kangan Institute: Counselling and Peer Support"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free counselling",
+      "quote": "Kangan Institute offers free and confidential counselling.",
+      "url": "https://www.kangan.edu.au/students/student-support/personal-counselling",
+      "page_date": null
+    }
+  ]
+}

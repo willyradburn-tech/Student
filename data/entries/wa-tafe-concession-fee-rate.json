@@ -1,0 +1,76 @@
+{
+  "id": "wa-tafe-concession-fee-rate",
+  "name": "WA TAFE concession fee rate (30% of tuition)",
+  "provider": "South Metropolitan TAFE (WA TAFE colleges)",
+  "category": "loans",
+  "summary": "Eligible WA TAFE students on JobSeeker, Youth Allowance, Austudy or ABSTUDY, or aged 15 to 24, pay a reduced concession rate on tuition.",
+  "key": "If you're eligible, you will pay 30% of the tuition fees.",
+  "who": [
+    "Students receiving JobSeeker, Youth Allowance, Austudy or ABSTUDY with a valid concession card",
+    "Students aged 15 to 24 enrolled in a certificate course, or a Lower Fees, Local Skills diploma or advanced diploma",
+    "Dependants of a Health Care Card, Pensioner Concession Card or DVA Repatriation Health Benefits Card holder"
+  ],
+  "how": [
+    "Show a valid concession card when you enrol."
+  ],
+  "catches": [
+    "No concession is given for resource or other fees."
+  ],
+  "tags": [
+    "tafe",
+    "WA",
+    "concession",
+    "South Metropolitan TAFE",
+    "SM TAFE",
+    "Health Care Card",
+    "youth allowance"
+  ],
+  "source": {
+    "url": "https://southmetrotafe.wa.edu.au/concessions",
+    "label": "South Metropolitan TAFE: Concessions"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "wa"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Concession rate is 30% of tuition",
+      "quote": "If you're eligible, you will pay 30% of the tuition fees.",
+      "url": "https://southmetrotafe.wa.edu.au/concessions",
+      "page_date": null
+    },
+    {
+      "claim": "Card needed at enrolment",
+      "quote": "To claim the concession rate, you must provide a valid concession card at the time you enrol.",
+      "url": "https://southmetrotafe.wa.edu.au/concessions",
+      "page_date": null
+    },
+    {
+      "claim": "Age 15 to 24 eligibility",
+      "quote": "If you're 15 to 24 years old you may be entitled to a concession once enrolled in a certificate level course",
+      "url": "https://southmetrotafe.wa.edu.au/concessions",
+      "page_date": null
+    }
+  ]
+}

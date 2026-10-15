@@ -1,0 +1,51 @@
+{
+  "id": "cfmeu-wa-apprentice-membership",
+  "name": "CFMEU WA apprentice membership",
+  "provider": "CFMEU WA",
+  "category": "career",
+  "summary": "Construction union membership for WA apprentices at a reduced apprentice rate with no joining fee.",
+  "key": "Apprentice rate listed at $150.00 for each apprentice year, with no $65 joining fee.",
+  "who": [
+    "Apprentices working in the WA construction industry"
+  ],
+  "catches": [
+    "The fee table on the page is partly garbled; confirm the apprentice rate with the union on (08) 9228 6900."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "wa",
+    "union",
+    "construction",
+    "cfmeu"
+  ],
+  "source": {
+    "url": "https://wa.cfmeu.org/join",
+    "label": "CFMEU WA: Join"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "wa"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "No joining fee for apprentices",
+      "quote": "$65.00 Joining Fee applicable for all trades except apprentices",
+      "url": "https://wa.cfmeu.org/join",
+      "page_date": null
+    }
+  ]
+}

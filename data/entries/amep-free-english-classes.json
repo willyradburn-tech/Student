@@ -1,0 +1,67 @@
+{
+  "id": "amep-free-english-classes",
+  "name": "Adult Migrant English Program (AMEP)",
+  "provider": "Department of Home Affairs (via Services Australia)",
+  "category": "loans",
+  "summary": "Free English classes for eligible migrants who speak little or no English, run by providers including many TAFEs.",
+  "key": "This is a free course.",
+  "who": [
+    "Aged 18 or over and speak little or no English.",
+    "Permanent residents, holders of an eligible temporary visa, and some citizens who held an eligible visa before.",
+    "People aged 15 to 17 may be able to do AMEP, even if they go to school."
+  ],
+  "how": [
+    "Find an AMEP provider on the Department of Home Affairs website and register with them."
+  ],
+  "catches": [
+    "If you arrived after 1 October 2020 and are 18 or older, you must register with an AMEP provider within 6 months.",
+    "If you have children under school age, you may get free child care while you attend face-to-face classes."
+  ],
+  "tags": [
+    "tafe",
+    "english",
+    "migrants",
+    "free course",
+    "amep",
+    "national"
+  ],
+  "source": {
+    "url": "https://servicesaustralia.gov.au/adult-migrant-english-program",
+    "label": "Services Australia: Adult Migrant English Program"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "res": {
+      "yes": [
+        "pr"
+      ],
+      "maybe": [
+        "intl",
+        "citizen"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "This is a free course.",
+      "url": "https://servicesaustralia.gov.au/adult-migrant-english-program",
+      "page_date": null
+    },
+    {
+      "claim": "Age and English level",
+      "quote": "If you are 18 or over, you can do AMEP if you speak little or no English.",
+      "url": "https://servicesaustralia.gov.au/adult-migrant-english-program",
+      "page_date": null
+    },
+    {
+      "claim": "Free child care",
+      "quote": "If you have children under school age, you may get free child care while you attend face to face classes.",
+      "url": "https://servicesaustralia.gov.au/adult-migrant-english-program",
+      "page_date": null
+    }
+  ]
+}

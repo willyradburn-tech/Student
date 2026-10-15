@@ -1,0 +1,41 @@
+{
+  "id": "tafe-nsw-jobs-connect",
+  "name": "TAFE NSW Jobs Connect",
+  "provider": "TAFE NSW",
+  "category": "uni",
+  "summary": "A free TAFE NSW service that connects students with employers.",
+  "who": [
+    "TAFE NSW students."
+  ],
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "jobs",
+    "employment",
+    "career"
+  ],
+  "source": {
+    "url": "https://www.tafensw.edu.au/study/support-services",
+    "label": "TAFE NSW: Support services"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Service",
+      "quote": "Students can access Jobs Connect, a free TAFE NSW service that connects students with employers.",
+      "url": "https://www.tafensw.edu.au/study/support-services",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "tafe-sa-fee-free-tafe",
+  "name": "TAFE SA Fee Free TAFE courses",
+  "provider": "TAFE SA",
+  "category": "loans",
+  "summary": "Tuition-free TAFE SA places for students new to the course, jointly funded by the Australian and South Australian governments.",
+  "key": "Fee Free TAFE covers the tuition fee of the course.",
+  "who": [
+    "Students need to be new to the course, not new to TAFE SA"
+  ],
+  "catches": [
+    "Some courses may include additional fees such as a Resource Fee.",
+    "Tourism courses are not included as part of Fee Free TAFE.",
+    "The page lists 2026 offerings; 2027 places are not yet stated."
+  ],
+  "tags": [
+    "tafe",
+    "SA",
+    "Adelaide",
+    "TAFE SA",
+    "fee-free"
+  ],
+  "source": {
+    "url": "https://www.tafesa.edu.au/courses/fee-free-tafe-courses",
+    "label": "TAFE SA: Fee Free TAFE courses"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "other"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Covers tuition",
+      "quote": "Please note, Fee Free TAFE covers the tuition fee of the course.",
+      "url": "https://www.tafesa.edu.au/courses/fee-free-tafe-courses",
+      "page_date": null
+    },
+    {
+      "claim": "New to course",
+      "quote": "Students need to be new to the course, not new to TAFE SA.",
+      "url": "https://www.tafesa.edu.au/courses/fee-free-tafe-courses",
+      "page_date": null
+    },
+    {
+      "claim": "Exclusions",
+      "quote": "Tourism courses are not included as part of Fee Free TAFE.",
+      "url": "https://www.tafesa.edu.au/courses/fee-free-tafe-courses",
+      "page_date": null
+    }
+  ]
+}

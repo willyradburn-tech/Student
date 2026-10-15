@@ -1,0 +1,48 @@
+{
+  "id": "south-metro-tafe-free-student-services",
+  "name": "South Metropolitan TAFE free student support services",
+  "provider": "South Metropolitan TAFE",
+  "category": "uni",
+  "summary": "Free support at SM TAFE for Aboriginal and Torres Strait Islander students, students with disability or mental health conditions, enrolment and international students.",
+  "who": [
+    "South Metropolitan TAFE students"
+  ],
+  "tags": [
+    "tafe",
+    "WA",
+    "Perth",
+    "SM TAFE",
+    "South Metropolitan TAFE",
+    "disability",
+    "Aboriginal",
+    "free"
+  ],
+  "source": {
+    "url": "https://www.southmetrotafe.wa.edu.au/study-us/student-support",
+    "label": "South Metropolitan TAFE: Student support"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "wa"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free student services",
+      "quote": "free student services",
+      "url": "https://www.southmetrotafe.wa.edu.au/study-us/student-support",
+      "page_date": null
+    }
+  ]
+}

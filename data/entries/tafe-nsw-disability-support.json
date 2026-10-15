@@ -1,0 +1,41 @@
+{
+  "id": "tafe-nsw-disability-support",
+  "name": "TAFE NSW disability support",
+  "provider": "TAFE NSW",
+  "category": "uni",
+  "summary": "Tailored study support for TAFE NSW students living with disability.",
+  "who": [
+    "TAFE NSW students living with disability."
+  ],
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "disability",
+    "accessibility",
+    "equity"
+  ],
+  "source": {
+    "url": "https://www.tafensw.edu.au/study/support-services",
+    "label": "TAFE NSW: Support services"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Service",
+      "quote": "If you are living with disability, we can offer tailored support to help you meet your study and career goals.",
+      "url": "https://www.tafensw.edu.au/study/support-services",
+      "page_date": null
+    }
+  ]
+}

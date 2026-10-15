@@ -1,0 +1,64 @@
+{
+  "id": "tafe-nsw-equity-scholarship",
+  "name": "TAFE NSW Equity Scholarship",
+  "provider": "TAFE NSW",
+  "category": "uni",
+  "summary": "$1,000 scholarships for TAFE NSW students facing hardship, such as First Nations students, people with disability or Centrelink recipients.",
+  "key": "Eight scholarships each valued at $1,000.",
+  "who": [
+    "Identify with an equity group: Aboriginal and Torres Strait Islander, disability or chronic illness, unemployed 6+ months, Centrelink recipient, at-risk youth, or domestic and family violence.",
+    "Australian citizen, permanent resident, humanitarian visa holder or NZ citizen living in NSW.",
+    "Studying or planning to study an accredited VET course at TAFE NSW."
+  ],
+  "how": [
+    "Apply with a statement of circumstances, evidence of hardship and a signed referee statement."
+  ],
+  "catches": [
+    "Applications are currently closed; the page lists eight scholarships per semester, so check for the next round."
+  ],
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "equity",
+    "hardship",
+    "scholarship",
+    "first nations",
+    "disability"
+  ],
+  "source": {
+    "url": "https://www.tafensw.edu.au/scholarships/equity-scholarship",
+    "label": "TAFE NSW: Equity Scholarship"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "each valued at $1,000.",
+      "url": "https://www.tafensw.edu.au/scholarships/equity-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Status",
+      "quote": "Applications for Equity Scholarships is now closed.",
+      "url": "https://www.tafensw.edu.au/scholarships/equity-scholarship",
+      "page_date": null
+    }
+  ],
+  "closes": "closed"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "apprenticeships-victoria-employee-assistance-program",
+  "name": "Apprentice Employee Assistance Program (free counselling)",
+  "provider": "Apprenticeships Victoria",
+  "category": "health",
+  "summary": "Free, confidential short-term counselling for apprentices and trainees employed by Victorian businesses, delivered by Converge.",
+  "key": "Up to four free short-term counselling sessions for each issue.",
+  "who": [
+    "Apprentices and trainees employed by Victorian businesses"
+  ],
+  "how": [
+    "Call Converge on 1300 687 327 and use organisation code APPRENTV, or book through the Converge website or app."
+  ],
+  "catches": [
+    "No doctor's referral needed."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "vic",
+    "victoria",
+    "counselling",
+    "mental health",
+    "eap"
+  ],
+  "source": {
+    "url": "https://apprenticeships.vic.gov.au/apprentice-employee-assistance-program",
+    "label": "Apprenticeships Victoria: Apprentice Employee Assistance Program"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "All apprentices and trainees employed by Victorian businesses can use the program.",
+      "url": "https://apprenticeships.vic.gov.au/apprentice-employee-assistance-program",
+      "page_date": null
+    },
+    {
+      "claim": "Sessions",
+      "quote": "up to four short-term counselling sessions for each issue you are experiencing",
+      "url": "https://apprenticeships.vic.gov.au/apprentice-employee-assistance-program",
+      "page_date": null
+    }
+  ]
+}

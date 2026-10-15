@@ -1,0 +1,69 @@
+{
+  "id": "nsw-vtas-apprentice-travel-accommodation",
+  "name": "NSW apprentice travel and accommodation allowance (VTAS)",
+  "provider": "Training Services NSW",
+  "category": "payments",
+  "summary": "NSW pays apprentices and new entrant trainees per kilometre and per night when they travel far for day or block release training.",
+  "key": "From 1 November 2025, $0.52 per km travel and $70 per night accommodation.",
+  "who": [
+    "Registered in NSW as an apprentice or new entrant trainee with a NSW workplace",
+    "Travel more than 110 km return for day or block release training"
+  ],
+  "how": [
+    "Complete the VTAS form, sign it, have your RTO sign and endorse it, and lodge it with your local Training Services NSW office."
+  ],
+  "catches": [
+    "Claims must be submitted by 30 June following the year of travel.",
+    "Claims submitted after 1 November 2025 are not backdated to the new rates."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "nsw",
+    "vtas",
+    "travel allowance",
+    "block release",
+    "northern rivers"
+  ],
+  "source": {
+    "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package",
+    "label": "NSW Department of Education: Travel, accommodation and relocation assistance package"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Travel rate",
+      "quote": "per km travel rate $0.52",
+      "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package",
+      "page_date": null
+    },
+    {
+      "claim": "Accommodation rate",
+      "quote": "accommodation rate $70 per night",
+      "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package",
+      "page_date": null
+    },
+    {
+      "claim": "Claim deadline",
+      "quote": "VTAS claims must be submitted by 30 June following the year of travel.",
+      "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package",
+      "page_date": null
+    }
+  ]
+}

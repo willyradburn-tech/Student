@@ -1,0 +1,63 @@
+{
+  "id": "tas-apprentice-travel-accommodation-contribution",
+  "name": "Tasmanian apprentice travel and accommodation contribution",
+  "provider": "Skills Tasmania",
+  "category": "payments",
+  "summary": "Skills Tasmania contributes to travel and accommodation costs for Tasmanian apprentices and trainees who travel to training.",
+  "key": "41 cents per km road travel (21 km or more one way) and $55 per night accommodation ($100 interstate).",
+  "who": [
+    "Apprentices and trainees on a training contract registered in Tasmania"
+  ],
+  "how": [
+    "Within Tasmania your RTO sends the claim to Skills Tasmania within four weeks of each training session."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "tas",
+    "tasmania",
+    "travel allowance",
+    "block release"
+  ],
+  "source": {
+    "url": "https://www.skills.tas.gov.au/apprenticeships_and_traineeships/information_for_learners_about_apprenticeships/accordions_2/travel_and_accommodation_contribution",
+    "label": "Skills Tasmania: Travel and accommodation contribution"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "The contributions are only available to apprentices and trainees who are on a training contract registered in Tasmania.",
+      "url": "https://www.skills.tas.gov.au/apprenticeships_and_traineeships/information_for_learners_about_apprenticeships/accordions_2/travel_and_accommodation_contribution",
+      "page_date": null
+    },
+    {
+      "claim": "Travel rate",
+      "quote": "Road travel: 41 cents per km (must travel 21 kms or further one way).",
+      "url": "https://www.skills.tas.gov.au/__data/assets/pdf_file/0017/602522/Travel-and-Accommodation-Contribution-Policy-and-Payment-Rates.pdf",
+      "page_date": "2025-09-01"
+    },
+    {
+      "claim": "Accommodation",
+      "quote": "Accommodation: $55.00 per night if the apprentice/trainee must travel 61 kms or more to training.",
+      "url": "https://www.skills.tas.gov.au/__data/assets/pdf_file/0017/602522/Travel-and-Accommodation-Contribution-Policy-and-Payment-Rates.pdf",
+      "page_date": "2025-09-01"
+    }
+  ]
+}

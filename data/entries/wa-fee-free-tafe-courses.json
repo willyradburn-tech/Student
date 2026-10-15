@@ -1,0 +1,73 @@
+{
+  "id": "wa-fee-free-tafe-courses",
+  "name": "WA fee-free TAFE courses and skill sets",
+  "provider": "Jobs and Skills WA (Government of Western Australia)",
+  "category": "loans",
+  "summary": "More than 130 TAFE courses and skill sets in WA with no course fees, for school leavers living in WA.",
+  "key": "There are more than 130 fee free courses and skills sets to choose from.",
+  "who": [
+    "You must have left school and have your primary place of residence in Western Australia",
+    "Australian citizen, permanent visa holder or an eligible temporary visa holder"
+  ],
+  "catches": [
+    "Course fees don't apply but resource fees may.",
+    "Fee-free building and construction courses run from 1 January 2025 until the end of 2026.",
+    "Existing worker traineeships are not eligible for the fee-free arrangements."
+  ],
+  "tags": [
+    "tafe",
+    "WA",
+    "fee-free",
+    "North Metropolitan TAFE",
+    "South Metropolitan TAFE",
+    "North Regional TAFE",
+    "South Regional TAFE",
+    "Central Regional TAFE"
+  ],
+  "source": {
+    "url": "https://www.jobsandskills.wa.gov.au/fee-free-low-fee",
+    "label": "Jobs and Skills WA: Fee Free and Low Fee training"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "wa"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "More than 130 fee-free courses",
+      "quote": "There are more than 130 fee free courses and skills sets to choose from",
+      "url": "https://www.jobsandskills.wa.gov.au/fee-free-low-fee",
+      "page_date": null
+    },
+    {
+      "claim": "Resource fees may still apply",
+      "quote": "Yes, course fees don't apply but resource fees may.",
+      "url": "https://www.jobsandskills.wa.gov.au/fee-free-low-fee",
+      "page_date": null
+    },
+    {
+      "claim": "Residency rule",
+      "quote": "You must have left school*, have your primary place of residence in Western Australia, and are either:",
+      "url": "https://www.jobsandskills.wa.gov.au/fee-free-low-fee",
+      "page_date": null
+    },
+    {
+      "claim": "Construction courses fee-free to end of 2026",
+      "quote": "These courses are fee free from 1 January 2025 until the end of 2026.",
+      "url": "https://www.jobsandskills.wa.gov.au/fee-free-low-fee",
+      "page_date": null
+    }
+  ]
+}

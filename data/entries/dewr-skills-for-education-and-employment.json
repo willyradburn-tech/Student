@@ -1,0 +1,55 @@
+{
+  "id": "dewr-skills-for-education-and-employment",
+  "name": "Skills for Education and Employment (SEE) Program",
+  "provider": "Department of Employment and Workplace Relations",
+  "category": "loans",
+  "summary": "Free training in reading, writing, maths, English and basic computer skills for people aged 15 and over who have left school.",
+  "key": "SEE is free!",
+  "who": [
+    "Australian citizens, permanent visa holders, or people who meet other visa conditions.",
+    "Aged 15 years and over and left school.",
+    "Need help with reading, writing, maths, English language or digital skills."
+  ],
+  "how": [
+    "Contact your local SEE provider, call the National Customer Service Line on 1800 805 260, or ask your employment services provider or Centrelink."
+  ],
+  "tags": [
+    "tafe",
+    "vet",
+    "literacy",
+    "numeracy",
+    "english",
+    "digital skills",
+    "free course",
+    "national"
+  ],
+  "source": {
+    "url": "https://www.dewr.gov.au/node/8080",
+    "label": "DEWR: Skills for Education and Employment"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "SEE is free!",
+      "url": "https://www.dewr.gov.au/node/8080",
+      "page_date": null
+    },
+    {
+      "claim": "What it is",
+      "quote": "The Skills for Education and Employment (SEE) Program offers free training",
+      "url": "https://www.dewr.gov.au/node/8080",
+      "page_date": null
+    },
+    {
+      "claim": "Age and school",
+      "quote": "aged 15 years and over and left school",
+      "url": "https://www.dewr.gov.au/node/8080",
+      "page_date": null
+    }
+  ]
+}

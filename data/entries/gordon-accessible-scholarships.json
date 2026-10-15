@@ -1,0 +1,60 @@
+{
+  "id": "gordon-accessible-scholarships",
+  "name": "The Gordon Accessible Scholarships",
+  "provider": "The Gordon",
+  "category": "uni",
+  "summary": "Year-round scholarships for Gordon students who hit unexpected adversity during their studies.",
+  "who": [
+    "Gordon students experiencing unexpected adversity"
+  ],
+  "how": [
+    "Apply at any time via The Gordon scholarships page"
+  ],
+  "catches": [
+    "Amount not stated for this stream"
+  ],
+  "tags": [
+    "tafe",
+    "gordon",
+    "the gordon",
+    "geelong",
+    "vic",
+    "regional",
+    "hardship",
+    "emergency"
+  ],
+  "source": {
+    "url": "https://www.thegordon.edu.au/students/scholarships",
+    "label": "The Gordon: Scholarships and financial assistance"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Year-round, unexpected adversity",
+      "quote": "These scholarships are available throughout the year and are designed to provide financial assistance",
+      "url": "https://www.thegordon.edu.au/students/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Apply any time",
+      "quote": "You are able to apply for these scholarships at any time.",
+      "url": "https://www.thegordon.edu.au/students/scholarships",
+      "page_date": null
+    }
+  ]
+}

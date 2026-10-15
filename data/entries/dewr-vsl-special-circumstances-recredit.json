@@ -1,0 +1,61 @@
+{
+  "id": "dewr-vsl-special-circumstances-recredit",
+  "name": "VET Student Loans re-credit for special circumstances",
+  "provider": "Department of Employment and Workplace Relations",
+  "category": "loans",
+  "summary": "If circumstances beyond your control stopped you finishing VET units, you can ask your provider to re-credit the VET Student Loan for them.",
+  "who": [
+    "VET Student Loans students whose studies were stopped by circumstances beyond their control that began or got worse after the census day."
+  ],
+  "how": [
+    "Apply in writing to your provider, with its application form and supporting evidence, within 12 months of the census day for the units."
+  ],
+  "catches": [
+    "Your provider can extend the 12-month limit if you show you couldn't apply in time.",
+    "If you disagree with the decision, ask the provider for an internal review, then apply to the Administrative Review Tribunal."
+  ],
+  "tags": [
+    "tafe",
+    "vet",
+    "vsl",
+    "re-credit",
+    "special circumstances",
+    "debt relief",
+    "national"
+  ],
+  "source": {
+    "url": "https://www.dewr.gov.au/node/15925",
+    "label": "DEWR: VSL student manual, 24. Special circumstances"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Time limit and who to apply to",
+      "quote": "you must apply in writing to your provider within 12 months of the census day for the unit/s.",
+      "url": "https://www.dewr.gov.au/node/15925",
+      "page_date": null
+    },
+    {
+      "claim": "Special circumstances",
+      "quote": "Circumstances are special circumstances if they are:",
+      "url": "https://www.dewr.gov.au/node/15925",
+      "page_date": null
+    },
+    {
+      "claim": "Beyond your control",
+      "quote": "beyond your control",
+      "url": "https://www.dewr.gov.au/node/15925",
+      "page_date": null
+    }
+  ]
+}

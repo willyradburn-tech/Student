@@ -1,0 +1,59 @@
+{
+  "id": "vic-asylum-seeker-vet-program",
+  "name": "Asylum Seeker VET Program (ASVET)",
+  "provider": "Victorian Government",
+  "category": "loans",
+  "summary": "Lets eligible asylum seekers and refugees in Victoria study Skills First courses at concession fees, plus select Free TAFE courses.",
+  "who": [
+    "Humanitarian, protection or refugee visa holders and their dependants",
+    "Bridging visa holders who have applied for a humanitarian, protection or refugee visa",
+    "Visa must allow study"
+  ],
+  "how": [
+    "Contact the Asylum Seeker Resource Centre for a referral letter, or enrol directly with a Skills First provider"
+  ],
+  "tags": [
+    "tafe",
+    "asylum seeker",
+    "refugee",
+    "vic",
+    "victoria",
+    "skills first",
+    "free tafe",
+    "asvet"
+  ],
+  "source": {
+    "url": "https://www.vic.gov.au/asylum-seeker-vet-program",
+    "label": "Victorian Government: Asylum Seeker VET program"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Discounted fees",
+      "quote": "ASVET participants are also eligible for discounted course fees across all Skills First courses.",
+      "url": "https://www.vic.gov.au/asylum-seeker-vet-program",
+      "page_date": null
+    },
+    {
+      "claim": "No concession card needed",
+      "quote": "This applies even if the student does not hold a concession card.",
+      "url": "https://www.vic.gov.au/asylum-seeker-vet-program",
+      "page_date": null
+    }
+  ]
+}

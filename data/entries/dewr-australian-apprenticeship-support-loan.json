@@ -1,0 +1,48 @@
+{
+  "id": "dewr-australian-apprenticeship-support-loan",
+  "name": "Australian Apprenticeship Support Loan (AASL)",
+  "provider": "Department of Employment and Workplace Relations",
+  "category": "loans",
+  "summary": "Interest-free Commonwealth loan for apprentices in priority occupations, repaid through the tax system once income passes a threshold.",
+  "key": "Apprentices may borrow up to $27,048 (2026/27) interest free over a 4-year apprenticeship.",
+  "who": [
+    "Apprenticeship in an occupation on the Australian Apprenticeships Priority List"
+  ],
+  "catches": [
+    "Repayments start once income reaches $69,528 (2026/27).",
+    "The balance is cut by 20% when the apprenticeship is completed."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "commonwealth",
+    "aasl",
+    "trade support loan",
+    "tools",
+    "priority list"
+  ],
+  "source": {
+    "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+    "label": "DEWR: Australian Apprenticeships Incentive System payments overview"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Loan limit",
+      "quote": "The Apprentice may borrow up to $27,048 (2026/27) interest free (annually indexed) over their 4-year apprenticeship.",
+      "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+      "page_date": "2026-07-01"
+    }
+  ]
+}

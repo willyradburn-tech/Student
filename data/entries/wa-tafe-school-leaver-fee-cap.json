@@ -1,0 +1,56 @@
+{
+  "id": "wa-tafe-school-leaver-fee-cap",
+  "name": "WA TAFE $420 annual fee cap for young school leavers",
+  "provider": "South Metropolitan TAFE (WA TAFE colleges)",
+  "category": "loans",
+  "summary": "Young people who have left school early pay no more than $420 a year in WA TAFE course fees in 2026.",
+  "key": "For 2026, there is a cap of $420 per calendar year for students born on or after 1 July 2008.",
+  "who": [
+    "Born on or after 1 July 2008, at least 15, not enrolled at secondary school and not in a VETDSS program"
+  ],
+  "how": [
+    "Provide proof of age and proof you have left school when you enrol."
+  ],
+  "catches": [
+    "The cap does not apply to Recognition of Prior Learning, resource fees or commercial courses."
+  ],
+  "tags": [
+    "tafe",
+    "WA",
+    "school leaver",
+    "fee cap",
+    "South Metropolitan TAFE"
+  ],
+  "source": {
+    "url": "https://southmetrotafe.wa.edu.au/concessions",
+    "label": "South Metropolitan TAFE: Concessions"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "wa"
+      ]
+    },
+    "age": {
+      "min": 15,
+      "max": 18
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$420 cap for 2026",
+      "quote": "For 2026, there is a cap of $420 per calendar year for students born on or after 1 July 2008,",
+      "url": "https://southmetrotafe.wa.edu.au/concessions",
+      "page_date": null
+    }
+  ]
+}

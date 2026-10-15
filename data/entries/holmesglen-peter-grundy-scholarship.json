@@ -1,0 +1,66 @@
+{
+  "id": "holmesglen-peter-grundy-scholarship",
+  "name": "Holmesglen Peter Grundy Scholarship (international students)",
+  "provider": "Holmesglen Foundation",
+  "category": "uni",
+  "summary": "Five $1,000 tuition credits for current Holmesglen international students hit by unexpected financial hardship.",
+  "key": "Each scholarship has a value of $1,000, credited to tuition.",
+  "who": [
+    "Current international students at Holmesglen in VET or higher education",
+    "Facing unexpected financial hardship during study",
+    "Not short courses or standalone English programs"
+  ],
+  "how": [
+    "Contact the Holmesglen Foundation: foundation@holmesglen.edu.au or (03) 9564 1594"
+  ],
+  "catches": [
+    "No dates listed on the page"
+  ],
+  "tags": [
+    "tafe",
+    "holmesglen",
+    "international",
+    "melbourne",
+    "vic",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://www.holmesglen.edu.au/study-with-us/scholarships-and-financial-aid/scholarships/peter-grundy-scholarship",
+    "label": "Holmesglen: Peter Grundy Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "intl"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "a value of $1,000",
+      "url": "https://www.holmesglen.edu.au/study-with-us/scholarships-and-financial-aid/scholarships/peter-grundy-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Who",
+      "quote": "Applicants must be current international students at Holmesglen.",
+      "url": "https://www.holmesglen.edu.au/study-with-us/scholarships-and-financial-aid/scholarships/peter-grundy-scholarship",
+      "page_date": null
+    }
+  ]
+}

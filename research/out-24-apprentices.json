@@ -1,0 +1,1250 @@
+[
+ {
+  "id": "dewr-australian-apprentice-training-support-payment",
+  "name": "Australian Apprentice Training Support Payment (AATSP)",
+  "provider": "Department of Employment and Workplace Relations",
+  "category": "payments",
+  "summary": "Commonwealth payment made to apprentices in priority occupations, paid in instalments over the first two years.",
+  "key": "Full-time apprentices get $625 at each of 6, 12, 18 and 24 months; part-time apprentices get $310 to $315 per instalment.",
+  "catches": [
+   "Amounts come from the payments table in the DEWR overview; eligibility is set out in the Australian Apprenticeships Incentive System Program Guidelines (22 Dec 2025 to 31 Dec 2026).",
+   "Not paid on top of the Key Apprenticeship Program apprentice incentive for the same apprenticeship."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "commonwealth",
+   "priority list",
+   "aatsp"
+  ],
+  "source": {
+   "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+   "label": "DEWR: Australian Apprenticeships Incentive System payments overview"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+   {
+    "claim": "Payment schedule",
+    "quote": "Payments at 6 months 12 months 18 months 24 months",
+    "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+    "page_date": "2026-07-01"
+   },
+   {
+    "claim": "Rules effective date",
+    "quote": "Effective as of 1 July 2026",
+    "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+    "page_date": "2026-07-01"
+   }
+  ]
+ },
+ {
+  "id": "dewr-key-apprenticeship-program-apprentice-incentive",
+  "name": "Key Apprenticeship Program apprentice incentive",
+  "provider": "Department of Employment and Workplace Relations",
+  "category": "payments",
+  "summary": "Commonwealth payments to apprentices in clean energy or housing construction occupations, paid at milestones through to completion.",
+  "key": "$2,000 per payment for full-time and $1,000 for part-time apprentices, at 6, 12, 24 and 36 months and on completion.",
+  "who": [
+   "Certificate III or higher apprenticeship linked to a clean energy or housing construction priority outcome",
+   "Employer works in that sector and both sign a commitment declaration"
+  ],
+  "catches": [
+   "Amounts are from the payments table; check the program guidelines before relying on them.",
+   "Cannot be paid together with the Australian Apprentice Training Support Payment for the same apprenticeship."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "commonwealth",
+   "kap",
+   "clean energy",
+   "housing",
+   "construction",
+   "electrician"
+  ],
+  "source": {
+   "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+   "label": "DEWR: Australian Apprenticeships Incentive System payments overview"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+   {
+    "claim": "Payment schedule",
+    "quote": "Payments at 6, 12, 24, 36 months and on completion",
+    "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+    "page_date": "2026-07-01"
+   },
+   {
+    "claim": "Program name",
+    "quote": "Key Apprenticeship Program Apprentice Incentive",
+    "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+    "page_date": "2026-07-01"
+   }
+  ]
+ },
+ {
+  "id": "dewr-living-away-from-home-allowance",
+  "name": "Living Away From Home Allowance (LAFHA) for apprentices",
+  "provider": "Department of Employment and Workplace Relations",
+  "category": "payments",
+  "summary": "Weekly Commonwealth allowance for apprentices who move out of their parent's or guardian's home for the first time for their apprenticeship.",
+  "key": "$125.52 a week in year one, $94.14 in year two and $47.07 in year three.",
+  "who": [
+   "Apprentices who must move away from their parent's or guardian's home for the first time",
+   "Within 36 months of the apprenticeship start date (commencements from 1 January 2026)",
+   "Apprentices who are homeless may also be eligible"
+  ],
+  "catches": [
+   "Not payable to anyone getting Youth Allowance, Austudy, ABSTUDY, Centrelink rent assistance, or free or subsidised accommodation from their employer.",
+   "Weekly amounts are from the payments table in the overview."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "commonwealth",
+   "lafha",
+   "relocation",
+   "moving away"
+  ],
+  "source": {
+   "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+   "label": "DEWR: Australian Apprenticeships Incentive System payments overview"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "away": {
+    "yes": [
+     "yes"
+    ]
+   },
+   "payment": {
+    "yes": [
+     "no"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Eligibility",
+    "quote": "Available to apprentices who need to move away from their parent's or guardian's home for the first time to:",
+    "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+    "page_date": "2026-07-01"
+   },
+   {
+    "claim": "Time limit",
+    "quote": "Apprentice must be within 36 months of the commencement date of their apprenticeship.",
+    "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+    "page_date": "2026-07-01"
+   }
+  ]
+ },
+ {
+  "id": "dewr-australian-apprenticeship-support-loan",
+  "name": "Australian Apprenticeship Support Loan (AASL)",
+  "provider": "Department of Employment and Workplace Relations",
+  "category": "loans",
+  "summary": "Interest-free Commonwealth loan for apprentices in priority occupations, repaid through the tax system once income passes a threshold.",
+  "key": "Apprentices may borrow up to $27,048 (2026/27) interest free over a 4-year apprenticeship.",
+  "who": [
+   "Apprenticeship in an occupation on the Australian Apprenticeships Priority List"
+  ],
+  "catches": [
+   "Repayments start once income reaches $69,528 (2026/27).",
+   "The balance is cut by 20% when the apprenticeship is completed."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "commonwealth",
+   "aasl",
+   "trade support loan",
+   "tools",
+   "priority list"
+  ],
+  "source": {
+   "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+   "label": "DEWR: Australian Apprenticeships Incentive System payments overview"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+   {
+    "claim": "Loan limit",
+    "quote": "The Apprentice may borrow up to $27,048 (2026/27) interest free (annually indexed) over their 4-year apprenticeship.",
+    "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+    "page_date": "2026-07-01"
+   }
+  ]
+ },
+ {
+  "id": "nsw-vtas-apprentice-travel-accommodation",
+  "name": "NSW apprentice travel and accommodation allowance (VTAS)",
+  "provider": "Training Services NSW",
+  "category": "payments",
+  "summary": "NSW pays apprentices and new entrant trainees per kilometre and per night when they travel far for day or block release training.",
+  "key": "From 1 November 2025, $0.52 per km travel and $70 per night accommodation.",
+  "who": [
+   "Registered in NSW as an apprentice or new entrant trainee with a NSW workplace",
+   "Travel more than 110 km return for day or block release training"
+  ],
+  "how": [
+   "Complete the VTAS form, sign it, have your RTO sign and endorse it, and lodge it with your local Training Services NSW office."
+  ],
+  "catches": [
+   "Claims must be submitted by 30 June following the year of travel.",
+   "Claims submitted after 1 November 2025 are not backdated to the new rates."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "nsw",
+   "vtas",
+   "travel allowance",
+   "block release",
+   "northern rivers"
+  ],
+  "source": {
+   "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package",
+   "label": "NSW Department of Education: Travel, accommodation and relocation assistance package"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+   "state": {
+    "yes": [
+     "nsw"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Travel rate",
+    "quote": "per km travel rate $0.52",
+    "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package",
+    "page_date": null
+   },
+   {
+    "claim": "Accommodation rate",
+    "quote": "accommodation rate $70 per night",
+    "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package",
+    "page_date": null
+   },
+   {
+    "claim": "Claim deadline",
+    "quote": "VTAS claims must be submitted by 30 June following the year of travel.",
+    "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "nsw-caps-apprentice-relocation-payment",
+  "name": "NSW CAPS relocation payment for apprentices",
+  "provider": "Training Services NSW",
+  "category": "payments",
+  "summary": "One-off payment for out-of-work NSW apprentices who move more than 60 km to continue with a new employer through CAPS.",
+  "key": "A one-time CAPS relocation payment of up to $2,500 for rent, bond and moving costs.",
+  "who": [
+   "Registered with the Continuing Apprentices and Trainees Placement Service (CAPS), with a CAPS-registered new employer",
+   "Relocate more than 60 km and hold a valid training contract"
+  ],
+  "how": [
+   "Email the relocation and rental assistance application form to CAPS@det.nsw.edu.au."
+  ],
+  "catches": [
+   "Claim within 6 months of the new training contract start or transfer date."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "nsw",
+   "caps",
+   "relocation",
+   "bond",
+   "moving"
+  ],
+  "source": {
+   "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package",
+   "label": "NSW Department of Education: Travel, accommodation and relocation assistance package"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "state": {
+    "yes": [
+     "nsw"
+    ]
+   },
+   "away": {
+    "yes": [
+     "yes"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Amount",
+    "quote": "you may be eligible for a one-time CAPS relocation payment of up to $2,500 to help cover rent/bond and moving costs.",
+    "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package",
+    "page_date": null
+   },
+   {
+    "claim": "Deadline",
+    "quote": "Claims must be submitted within 6 months of the commencement date of the new training contract, or within 6 months of transfer date.",
+    "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "nsw-apprentice-car-registration-rebate",
+  "name": "NSW apprentice $100 car registration rebate",
+  "provider": "NSW Government",
+  "category": "transport",
+  "summary": "First and second year NSW apprentices can get $100 back on the registration of a car in their own name.",
+  "key": "First and second year apprentices may be eligible to receive a $100 rebate on their car registration.",
+  "who": [
+   "First or second year apprentice",
+   "Vehicle registered in NSW in the apprentice's name, renewed and paid after becoming an apprentice"
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "nsw",
+   "rego",
+   "car registration",
+   "rebate"
+  ],
+  "source": {
+   "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance",
+   "label": "NSW Department of Education: Financial assistance for apprentices and trainees"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "state": {
+    "yes": [
+     "nsw"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Amount and eligibility",
+    "quote": "First and second year apprentices may be eligible to receive a $100 rebate on their car registration.",
+    "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance",
+    "page_date": null
+   },
+   {
+    "claim": "Vehicle rule",
+    "quote": "To be eligible for the rebate, the vehicle must be registered in NSW in the name of an eligible apprentice",
+    "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "nsw-apprentice-transport-concession-card",
+  "name": "NSW Transport Concession Entitlement Card for apprentices",
+  "provider": "Transport for NSW",
+  "category": "transport",
+  "summary": "Apprentices and new entrant trainees registered in NSW get concession Opal fares and concession fares on regional buses.",
+  "who": [
+   "Apprentices and new entrant trainees registered in NSW"
+  ],
+  "catches": [
+   "Existing worker trainees are not eligible."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "nsw",
+   "opal",
+   "tcec",
+   "concession fares",
+   "regional bus"
+  ],
+  "source": {
+   "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance",
+   "label": "NSW Department of Education: Financial assistance for apprentices and trainees"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "state": {
+    "yes": [
+     "nsw"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Eligibility",
+    "quote": "are entitled to receive a Transport Concession Entitlement card.",
+    "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance",
+    "page_date": null
+   },
+   {
+    "claim": "Regional use",
+    "quote": "With a Transport Concession Entitlement Card outside the Opal network, you pay concession fares on local bus services.",
+    "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance",
+    "page_date": null
+   },
+   {
+    "claim": "Exclusion",
+    "quote": "Existing worker trainees are not eligible.",
+    "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "nsw-bert-evans-apprentice-scholarships",
+  "name": "Bert Evans Apprentice Scholarships",
+  "provider": "NSW Government",
+  "category": "payments",
+  "summary": "Scholarship for first-year NSW apprentices facing financial or personal hardship, paid over three years.",
+  "key": "Grant recipients may receive up to $15,000 over three years.",
+  "who": [
+   "First-year apprentices approved in NSW, including school-based apprentices (trainees are not eligible)",
+   "Experiencing financial and/or personal hardship",
+   "Australian citizen or permanent resident employed by a NSW-based employer"
+  ],
+  "catches": [
+   "The 2026 round opened 18 May 2026 and closed 30 September 2026; watch for the next round."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "nsw",
+   "scholarship",
+   "hardship",
+   "first year"
+  ],
+  "source": {
+   "url": "https://www.nsw.gov.au/grants-and-funding/bert-evans-apprentice-scholarships-2026",
+   "label": "NSW Government: Bert Evans Apprentice Scholarships 2026"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+   "state": {
+    "yes": [
+     "nsw"
+    ]
+   },
+   "res": {
+    "yes": [
+     "citizen",
+     "pr"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Amount",
+    "quote": "Grant recipients may receive up to $15,000 over three years",
+    "url": "https://www.nsw.gov.au/grants-and-funding/bert-evans-apprentice-scholarships-2026",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "first-year apprentices approved in NSW",
+    "url": "https://www.nsw.gov.au/grants-and-funding/bert-evans-apprentice-scholarships-2026",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "tafe-nsw-fee-free-apprenticeships",
+  "name": "NSW fee-free apprenticeships",
+  "provider": "NSW Government and TAFE NSW",
+  "category": "loans",
+  "summary": "The NSW Government pays the student fee for new apprentices in Smart and Skilled funded training.",
+  "key": "The NSW Government covers the student fee for new apprentices.",
+  "who": [
+   "New apprentices, including school-based, in Smart and Skilled funded training",
+   "Apprenticeship must commence before 30 June 2027"
+  ],
+  "catches": [
+   "Apprenticeship must start before 30 June 2027.",
+   "Fee-free places are subject to availability; limit of three fee-free apprenticeships."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "nsw",
+   "tafe nsw",
+   "fee free",
+   "smart and skilled"
+  ],
+  "source": {
+   "url": "https://www.tafensw.edu.au/courses/fee-free-apprenticeships",
+   "label": "TAFE NSW: Fee-free apprenticeships"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+   "state": {
+    "yes": [
+     "nsw"
+    ]
+   }
+  },
+  "closes": "2027-06-30",
+  "evidence": [
+   {
+    "claim": "What is covered",
+    "quote": "the NSW Government will cover your student fee for new apprentices",
+    "url": "https://www.tafensw.edu.au/courses/fee-free-apprenticeships",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "qld-apprentice-travel-accommodation-allowance",
+  "name": "Queensland apprentice travel and accommodation allowance",
+  "provider": "Queensland Government",
+  "category": "payments",
+  "summary": "Queensland pays apprentices and trainees towards travel and accommodation when their closest training organisation is far away.",
+  "key": "Up to 34c/km for road and rail travel, $58 per night intrastate and $112 per night interstate accommodation.",
+  "who": [
+   "Registered apprentice or trainee in Queensland, part-time or full-time but not school-based",
+   "Travel more than 100 km return to your closest training organisation"
+  ],
+  "how": [
+   "Claim online through TRACC, or send the ATF-022 claim form (ATF-004 for flights)."
+  ],
+  "catches": [
+   "Claim within 6 months of travel."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "qld",
+   "queensland",
+   "tracc",
+   "travel allowance",
+   "block release"
+  ],
+  "source": {
+   "url": "https://www.qld.gov.au/education/apprenticeships/for-apprentices/support/travel",
+   "label": "Queensland Government: Travel and accommodation allowance"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+   "state": {
+    "yes": [
+     "qld"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Travel rate",
+    "quote": "up to 34c/km for road and rail travel",
+    "url": "https://www.qld.gov.au/education/apprenticeships/for-apprentices/support/travel",
+    "page_date": null
+   },
+   {
+    "claim": "Accommodation",
+    "quote": "$58 per night for intrastate accommodation",
+    "url": "https://www.qld.gov.au/education/apprenticeships/for-apprentices/support/travel",
+    "page_date": null
+   },
+   {
+    "claim": "Distance",
+    "quote": "travel more than 100km return to your closest training organisation",
+    "url": "https://www.qld.gov.au/education/apprenticeships/for-apprentices/support/travel",
+    "page_date": null
+   },
+   {
+    "claim": "Deadline",
+    "quote": "claim your allowances within 6 months of travel",
+    "url": "https://www.qld.gov.au/education/apprenticeships/for-apprentices/support/travel",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "qld-free-apprenticeships-under-25s",
+  "name": "Queensland Free Apprenticeships for Under 25s",
+  "provider": "Queensland Government",
+  "category": "loans",
+  "summary": "Free training for Queensland apprentices and trainees under 25 in high priority qualifications.",
+  "key": "Covers the cost of your training in a high priority apprenticeship or traineeship.",
+  "who": [
+   "Aged under 25",
+   "Employed as a Queensland apprentice or trainee in a high priority qualification",
+   "Training with a Skills Assure Supplier"
+  ],
+  "catches": [
+   "Must start between 1 January 2021 and 30 June 2027; funding continues to completion.",
+   "Uniforms, resources and travel may still cost extra."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "qld",
+   "queensland",
+   "tafe queensland",
+   "fee free",
+   "under 25"
+  ],
+  "source": {
+   "url": "https://www.qld.gov.au/education/apprenticeships/about/types/free-apprenticeships-for-under-25s",
+   "label": "Queensland Government: Free Apprenticeships for Under 25s"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+   "state": {
+    "yes": [
+     "qld"
+    ]
+   },
+   "age": {
+    "max": 24
+   }
+  },
+  "closes": "2027-06-30",
+  "evidence": [
+   {
+    "claim": "What is free",
+    "quote": "covers the cost of your training when you choose a high priority apprenticeship or traineeship.",
+    "url": "https://www.qld.gov.au/education/apprenticeships/about/types/free-apprenticeships-for-under-25s",
+    "page_date": null
+   },
+   {
+    "claim": "Age",
+    "quote": "aged under 25",
+    "url": "https://www.qld.gov.au/education/apprenticeships/about/types/free-apprenticeships-for-under-25s",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "tas-apprentice-travel-accommodation-contribution",
+  "name": "Tasmanian apprentice travel and accommodation contribution",
+  "provider": "Skills Tasmania",
+  "category": "payments",
+  "summary": "Skills Tasmania contributes to travel and accommodation costs for Tasmanian apprentices and trainees who travel to training.",
+  "key": "41 cents per km road travel (21 km or more one way) and $55 per night accommodation ($100 interstate).",
+  "who": [
+   "Apprentices and trainees on a training contract registered in Tasmania"
+  ],
+  "how": [
+   "Within Tasmania your RTO sends the claim to Skills Tasmania within four weeks of each training session."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "tas",
+   "tasmania",
+   "travel allowance",
+   "block release"
+  ],
+  "source": {
+   "url": "https://www.skills.tas.gov.au/apprenticeships_and_traineeships/information_for_learners_about_apprenticeships/accordions_2/travel_and_accommodation_contribution",
+   "label": "Skills Tasmania: Travel and accommodation contribution"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "state": {
+    "yes": [
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Eligibility",
+    "quote": "The contributions are only available to apprentices and trainees who are on a training contract registered in Tasmania.",
+    "url": "https://www.skills.tas.gov.au/apprenticeships_and_traineeships/information_for_learners_about_apprenticeships/accordions_2/travel_and_accommodation_contribution",
+    "page_date": null
+   },
+   {
+    "claim": "Travel rate",
+    "quote": "Road travel: 41 cents per km (must travel 21 kms or further one way).",
+    "url": "https://www.skills.tas.gov.au/__data/assets/pdf_file/0017/602522/Travel-and-Accommodation-Contribution-Policy-and-Payment-Rates.pdf",
+    "page_date": "2025-09-01"
+   },
+   {
+    "claim": "Accommodation",
+    "quote": "Accommodation: $55.00 per night if the apprentice/trainee must travel 61 kms or more to training.",
+    "url": "https://www.skills.tas.gov.au/__data/assets/pdf_file/0017/602522/Travel-and-Accommodation-Contribution-Policy-and-Payment-Rates.pdf",
+    "page_date": "2025-09-01"
+   }
+  ]
+ },
+ {
+  "id": "nt-apprentice-travel-accommodation-subsidy",
+  "name": "NT apprentice travel and accommodation subsidy",
+  "provider": "NT Department of Education",
+  "category": "payments",
+  "summary": "Partial subsidy for NT apprentices and trainees who live more than 50 km from the training provider for their off-the-job training.",
+  "key": "50 cents per km by road and $700 per full week of accommodation plus $100 per extra day.",
+  "who": [
+   "NT-registered apprentices and trainees funded under User Choice",
+   "Live more than 50 km one way from the nearest RTO offering the training"
+  ],
+  "how": [
+   "Claim through your Apprentice Connect Australia provider."
+  ],
+  "catches": [
+   "Maximum of four travel claims per calendar year.",
+   "Policy signed 5 June 2023; check rates are still current."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "nt",
+   "northern territory",
+   "travel allowance",
+   "block release"
+  ],
+  "source": {
+   "url": "https://education.nt.gov.au/policies/skills-nt/apprenticeship-and-traineeship-travel-and-accommodation-subsidy-scheme-policy",
+   "label": "NT Department of Education: Apprenticeship and traineeship travel and accommodation subsidy scheme policy"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "state": {
+    "yes": [
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Road rate",
+    "quote": "Road - 50 cents per kilometre (>50km one way).",
+    "url": "https://education.nt.gov.au/policies/skills-nt/apprenticeship-and-traineeship-travel-and-accommodation-subsidy-scheme-policy",
+    "page_date": "2023-06-05"
+   },
+   {
+    "claim": "Accommodation",
+    "quote": "An apprentice may claim an accommodation subsidy of $700 for a full week (seven days) and $100 for each extra day.",
+    "url": "https://education.nt.gov.au/policies/skills-nt/apprenticeship-and-traineeship-travel-and-accommodation-subsidy-scheme-policy",
+    "page_date": "2023-06-05"
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "All apprentices and trainees registered in the NT whose training is funded under user choice",
+    "url": "https://education.nt.gov.au/policies/skills-nt/apprenticeship-and-traineeship-travel-and-accommodation-subsidy-scheme-policy",
+    "page_date": "2023-06-05"
+   }
+  ]
+ },
+ {
+  "id": "nt-apprentice-workwear-workgear-bonus",
+  "name": "NT apprentice workwear and workgear bonus",
+  "provider": "Northern Territory Government",
+  "category": "tech",
+  "summary": "First-year NT apprentices and trainees get money for workwear and equipment, with more for priority trade apprentices.",
+  "key": "$300, or $1,000 for apprentices in a trade on the NT skilled occupation priority list, to buy workwear and equipment.",
+  "who": [
+   "Full-time, part-time or school-based apprentice or trainee in first year",
+   "$1,000 needs a trade on the NT skilled occupation priority list"
+  ],
+  "how": [
+   "Paid after your training contract is lodged with your Apprentice Connect Australia provider; no separate application."
+  ],
+  "catches": [
+   "The bonus is cancelled if correct bank details are not given within six months of being contacted."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "nt",
+   "northern territory",
+   "workwear",
+   "tools",
+   "boots"
+  ],
+  "source": {
+   "url": "https://nt.gov.au/employ/apprenticeships-and-traineeships/get-a-workwear-and-workgear-bonus",
+   "label": "NT Government: Get the bonus for workwear and gear"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "state": {
+    "yes": [
+     "other"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Amount",
+    "quote": "you may be eligible to receive either $300 or $1,000 in funding to buy workwear and equipment.",
+    "url": "https://nt.gov.au/employ/apprenticeships-and-traineeships/get-a-workwear-and-workgear-bonus",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "be a full-time, part-time or school-based apprentice or trainee in your first year",
+    "url": "https://nt.gov.au/employ/apprenticeships-and-traineeships/get-a-workwear-and-workgear-bonus",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "act-apprentice-interstate-training-travel-support",
+  "name": "ACT interstate training travel support for apprentices",
+  "provider": "Skills Canberra",
+  "category": "payments",
+  "summary": "ACT apprentices whose qualification needs interstate block training can claim travel support after returning.",
+  "how": [
+   "Email a signed and stamped Application for Interstate Training Travel Support form to skills@act.gov.au."
+  ],
+  "catches": [
+   "Claims must reach Skills Canberra within 3 months of the block training.",
+   "The page gives no amount or detailed eligibility."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "act",
+   "canberra",
+   "cit",
+   "interstate",
+   "travel"
+  ],
+  "source": {
+   "url": "https://www.act.gov.au/skills/students/australian-apprenticeships",
+   "label": "ACT Government: Australian Apprenticeships"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "state": {
+    "yes": [
+     "act"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Payment",
+    "quote": "Payment for travel support is made to eligible Australian Apprentices when they return from interstate training.",
+    "url": "https://www.act.gov.au/skills/students/australian-apprenticeships",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "vicroads-trade-apprentice-registration-discount",
+  "name": "VicRoads trade apprentice registration discount",
+  "provider": "VicRoads",
+  "category": "transport",
+  "summary": "Victorian apprentices who use their own vehicle for their apprenticeship may qualify for free registration.",
+  "key": "Eligible trade apprentices may qualify for free registration for their work vehicle.",
+  "who": [
+   "Apprentice in an approved training scheme, Victorian resident with a current Victorian licence",
+   "Registered operator of a vehicle up to 4.5 tonnes GVM used for the apprenticeship"
+  ],
+  "how": [
+   "Apply in myVicRoads under 'Apprentice registration discount' at least 5 days before your rego expires."
+  ],
+  "catches": [
+   "Learner drivers and vehicles registered in someone else's name are excluded."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "vic",
+   "victoria",
+   "rego",
+   "registration",
+   "ute"
+  ],
+  "source": {
+   "url": "https://www.vicroads.vic.gov.au/registration/registration-fees/concessions-and-discounts/trade-apprentice-registration-discount",
+   "label": "VicRoads: Trade apprentice registration discount"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "state": {
+    "yes": [
+     "vic"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Benefit",
+    "quote": "see if you qualify for free registration for your work vehicle",
+    "url": "https://www.vicroads.vic.gov.au/registration/registration-fees/concessions-and-discounts/trade-apprentice-registration-discount",
+    "page_date": null
+   },
+   {
+    "claim": "How",
+    "quote": "Log in to your myVicRoads account and find the 'Apprentice registration discount' section.",
+    "url": "https://www.vicroads.vic.gov.au/registration/registration-fees/concessions-and-discounts/trade-apprentice-registration-discount",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "apprenticeships-victoria-employee-assistance-program",
+  "name": "Apprentice Employee Assistance Program (free counselling)",
+  "provider": "Apprenticeships Victoria",
+  "category": "health",
+  "summary": "Free, confidential short-term counselling for apprentices and trainees employed by Victorian businesses, delivered by Converge.",
+  "key": "Up to four free short-term counselling sessions for each issue.",
+  "who": [
+   "Apprentices and trainees employed by Victorian businesses"
+  ],
+  "how": [
+   "Call Converge on 1300 687 327 and use organisation code APPRENTV, or book through the Converge website or app."
+  ],
+  "catches": [
+   "No doctor's referral needed."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "vic",
+   "victoria",
+   "counselling",
+   "mental health",
+   "eap"
+  ],
+  "source": {
+   "url": "https://apprenticeships.vic.gov.au/apprentice-employee-assistance-program",
+   "label": "Apprenticeships Victoria: Apprentice Employee Assistance Program"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "state": {
+    "yes": [
+     "vic"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "Eligibility",
+    "quote": "All apprentices and trainees employed by Victorian businesses can use the program.",
+    "url": "https://apprenticeships.vic.gov.au/apprentice-employee-assistance-program",
+    "page_date": null
+   },
+   {
+    "claim": "Sessions",
+    "quote": "up to four short-term counselling sessions for each issue you are experiencing",
+    "url": "https://apprenticeships.vic.gov.au/apprentice-employee-assistance-program",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "ctf-wa-apprentice-tool-allowance",
+  "name": "WA construction apprentice tool allowance",
+  "provider": "Construction Training Fund WA",
+  "category": "tech",
+  "summary": "WA construction apprentices and trainees can claim back money spent on tools and safety gear at the start and end of training.",
+  "key": "Up to $1,000 reimbursement at commencement and up to $1,000 at completion for tools or safety equipment.",
+  "who": [
+   "WA construction apprentices and trainees who start between 1 July 2024 and 30 June 2029"
+  ],
+  "how": [
+   "Register and claim through the CTF Portal with your tax invoice and bank details."
+  ],
+  "catches": [
+   "Commencement claim within 11 months of starting; completion claim within 6 months of finishing.",
+   "Program window runs to 30 June 2029."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "wa",
+   "western australia",
+   "construction",
+   "tools",
+   "ctf"
+  ],
+  "source": {
+   "url": "https://ctf.wa.gov.au/funding/apprentice-tool-allowance",
+   "label": "Construction Training Fund: Apprentice tool allowance"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+   "state": {
+    "yes": [
+     "wa"
+    ]
+   }
+  },
+  "closes": "2029-06-30",
+  "evidence": [
+   {
+    "claim": "Amount",
+    "quote": "Receive up to $1,000 reimbursement for the purchase of work-related tools",
+    "url": "https://ctf.wa.gov.au/funding/apprentice-tool-allowance",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "Apprentices and trainees who commence their construction related apprenticeship between 1 July 2024 and 30 June 2029 may be eligible.",
+    "url": "https://ctf.wa.gov.au/funding/apprentice-tool-allowance",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "cfmeu-wa-apprentice-membership",
+  "name": "CFMEU WA apprentice membership",
+  "provider": "CFMEU WA",
+  "category": "career",
+  "summary": "Construction union membership for WA apprentices at a reduced apprentice rate with no joining fee.",
+  "key": "Apprentice rate listed at $150.00 for each apprentice year, with no $65 joining fee.",
+  "who": [
+   "Apprentices working in the WA construction industry"
+  ],
+  "catches": [
+   "The fee table on the page is partly garbled; confirm the apprentice rate with the union on (08) 9228 6900."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "wa",
+   "union",
+   "construction",
+   "cfmeu"
+  ],
+  "source": {
+   "url": "https://wa.cfmeu.org/join",
+   "label": "CFMEU WA: Join"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+   "state": {
+    "yes": [
+     "wa"
+    ]
+   }
+  },
+  "evidence": [
+   {
+    "claim": "No joining fee for apprentices",
+    "quote": "$65.00 Joining Fee applicable for all trades except apprentices",
+    "url": "https://wa.cfmeu.org/join",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "acf-junior-chef-membership",
+  "name": "Australian Culinary Federation Junior Chef membership",
+  "provider": "Australian Culinary Federation",
+  "category": "career",
+  "summary": "Discounted chef association membership for apprentice and student chefs and pastry chefs.",
+  "key": "Junior Chef Member $44 + GST (also Junior Pastry Chef Member $44 + GST).",
+  "who": [
+   "Apprentices or students in cookery or patisserie with apprenticeship papers or proof of enrolment"
+  ],
+  "catches": [
+   "The application form lists $49.50 for the Junior Chef category."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "chef",
+   "cookery",
+   "hospitality",
+   "pastry",
+   "membership"
+  ],
+  "source": {
+   "url": "https://memberships.austculinary.com.au",
+   "label": "Australian Culinary Federation: Membership application"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+   {
+    "claim": "Price",
+    "quote": "Junior Chef Member $44 + GST",
+    "url": "https://memberships.austculinary.com.au",
+    "page_date": null
+   },
+   {
+    "claim": "Proof of status",
+    "quote": "Student ID, proof of enrollment, apprenticeship papers, qualification certificate less than 2 years old",
+    "url": "https://memberships.austculinary.com.au",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "fluke-education-discount-program",
+  "name": "Fluke Education Discount Program",
+  "provider": "Fluke Australia",
+  "category": "tech",
+  "summary": "Apprentices and RTO students get a yearly discount code for Fluke electrical test tools from the Fluke Australia online store.",
+  "key": "25% off select Fluke tools, kits and accessories, once per calendar year.",
+  "who": [
+   "Current apprentices and students enrolled at registered training organisations"
+  ],
+  "how": [
+   "Submit the application form with proof of apprenticeship or enrolment; Fluke emails a discount code within about 48 hours."
+  ],
+  "catches": [
+   "One tool or kit plus up to one accessory per year."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "electrician",
+   "multimeter",
+   "tools",
+   "fluke"
+  ],
+  "source": {
+   "url": "https://fluke.com/en-au/learn/student-discounts-and-resources/tool-discounts",
+   "label": "Fluke Australia: Education Discount Program"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+   {
+    "claim": "Discount",
+    "quote": "25% off discount",
+    "url": "https://fluke.com/en-au/learn/student-discounts-and-resources/tool-discounts",
+    "page_date": null
+   },
+   {
+    "claim": "Eligibility",
+    "quote": "Current apprentices and students currently enrolled at valid registered training organisations are eligible",
+    "url": "https://fluke.com/en-au/learn/student-discounts-and-resources/tool-discounts",
+    "page_date": null
+   }
+  ]
+ },
+ {
+  "id": "kincrome-apprentice-tool-kit-bonus",
+  "name": "Kincrome apprentice tool kit free bonus",
+  "provider": "Kincrome",
+  "category": "tech",
+  "summary": "Registered apprentices who buy a Kincrome apprentice tool kit can redeem a free bonus tool, storage or accessory.",
+  "key": "Every Kincrome Apprentice Tool Kit comes with a free bonus for registered apprentices.",
+  "who": [
+   "Registered apprentices"
+  ],
+  "how": [
+   "Choose a kit, register online and claim the bonus on the redemption page."
+  ],
+  "catches": [
+   "The bonus depends on the kit bought; you must buy a kit first."
+  ],
+  "tags": [
+   "apprentice",
+   "trainee",
+   "tafe",
+   "tools",
+   "mechanic",
+   "tool kit",
+   "kincrome"
+  ],
+  "source": {
+   "url": "https://www.kincrome.com.au/tfl",
+   "label": "Kincrome: Tools for Life apprentice program"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+   {
+    "claim": "Offer",
+    "quote": "Every Kincrome Apprentice Tool Kit comes with a free bonus via redemption for registered apprentices.",
+    "url": "https://www.kincrome.com.au/tfl",
+    "page_date": null
+   }
+  ]
+ }
+]

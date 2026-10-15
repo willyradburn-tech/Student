@@ -1,0 +1,54 @@
+{
+  "id": "cit-free-counselling",
+  "name": "CIT free student counselling",
+  "provider": "Canberra Institute of Technology",
+  "category": "uni",
+  "summary": "Free, confidential counselling for current CIT students by phone, video call or in person.",
+  "key": "Current CIT students can access a free and confidential counselling service.",
+  "who": [
+    "Current CIT students"
+  ],
+  "how": [
+    "Phone (02) 6207 3290 or email citcounselling@cit.edu.au."
+  ],
+  "catches": [
+    "Not a crisis service."
+  ],
+  "tags": [
+    "tafe",
+    "ACT",
+    "Canberra",
+    "CIT",
+    "counselling",
+    "mental health",
+    "free"
+  ],
+  "source": {
+    "url": "https://cit.edu.au/current/services/student-support/counselling",
+    "label": "CIT: Counselling"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "act"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free counselling",
+      "quote": "Current CIT students can access a free and confidential counselling service.",
+      "url": "https://cit.edu.au/current/services/student-support/counselling",
+      "page_date": null
+    }
+  ]
+}

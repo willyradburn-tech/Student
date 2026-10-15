@@ -1,0 +1,61 @@
+{
+  "id": "wa-lower-fees-local-skills",
+  "name": "WA Lower fees, local skills (half-price TAFE courses)",
+  "provider": "Jobs and Skills WA (Government of Western Australia)",
+  "category": "loans",
+  "summary": "Around 160 WA TAFE qualifications at half price or less, with annual course fee caps of $400 (concession and youth) or $1,200.",
+  "key": "An annual fee cap of $400 for jobseekers, youth up to 25 and concession holders, and $1,200 for all other students.",
+  "who": [
+    "You must have left school and have your primary place of residence in Western Australia",
+    "The $400 cap applies to jobseekers, people aged 15 to 24 and concession holders"
+  ],
+  "catches": [
+    "Caps apply per qualification for each calendar year.",
+    "Resource fees may apply on top of the capped course fee."
+  ],
+  "tags": [
+    "tafe",
+    "WA",
+    "lower fees local skills",
+    "half price",
+    "North Metropolitan TAFE",
+    "South Metropolitan TAFE",
+    "North Regional TAFE",
+    "South Regional TAFE",
+    "Central Regional TAFE"
+  ],
+  "source": {
+    "url": "https://www.jobsandskills.wa.gov.au/fee-free-low-fee",
+    "label": "Jobs and Skills WA: Fee Free and Low Fee training"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "wa"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Fee caps",
+      "quote": "an annual fee cap of $400 for jobseekers, youth up to 25 and concession holders, and $1,200 for all other students",
+      "url": "https://www.jobsandskills.wa.gov.au/fee-free-low-fee",
+      "page_date": null
+    },
+    {
+      "claim": "Residency rule",
+      "quote": "You must have left school*, have your primary place of residence in Western Australia, and are either:",
+      "url": "https://www.jobsandskills.wa.gov.au/fee-free-low-fee",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "nr-tafe-scholarship-program",
+  "name": "North Regional TAFE Scholarship Program",
+  "provider": "North Regional TAFE",
+  "category": "uni",
+  "summary": "Scholarships for Kimberley and Pilbara residents starting study at North Regional TAFE who face educational disadvantage and financial hardship.",
+  "who": [
+    "Kimberley and Pilbara residents",
+    "Prospective students who can demonstrate educational disadvantage and financial hardship"
+  ],
+  "catches": [
+    "Amounts and dates are not stated on the page; contact Scholarships@nrtafe.wa.edu.au or 1300 996 573."
+  ],
+  "tags": [
+    "tafe",
+    "WA",
+    "NR TAFE",
+    "North Regional TAFE",
+    "Pilbara",
+    "Kimberley",
+    "hardship",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.northregionaltafe.wa.edu.au/scholarships",
+    "label": "North Regional TAFE: Scholarships"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "wa"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "For Kimberley and Pilbara residents",
+      "quote": "NR TAFE's Scholarship Program provides opportunities for Kimberley and Pilbara residents to progress",
+      "url": "https://www.northregionaltafe.wa.edu.au/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Hardship criterion",
+      "quote": "and are awarded to prospective students who can demonstrate educational disadvantage and financial hardship.",
+      "url": "https://www.northregionaltafe.wa.edu.au/scholarships",
+      "page_date": null
+    }
+  ]
+}

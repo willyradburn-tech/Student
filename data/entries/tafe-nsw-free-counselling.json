@@ -1,0 +1,52 @@
+{
+  "id": "tafe-nsw-free-counselling",
+  "name": "TAFE NSW free counselling",
+  "provider": "TAFE NSW",
+  "category": "uni",
+  "summary": "Free, confidential personal and career counselling for current TAFE NSW students.",
+  "key": "TAFE NSW counselling and career development service is free and confidential.",
+  "who": [
+    "Current TAFE NSW students; career counselling is also open to future students."
+  ],
+  "how": [
+    "Call 131 601, choose option 5, then option 2 to make an appointment."
+  ],
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "counselling",
+    "mental health",
+    "wellbeing",
+    "career"
+  ],
+  "source": {
+    "url": "https://www.tafensw.edu.au/study/support-services/counselling",
+    "label": "TAFE NSW: Counselling services"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free and confidential",
+      "quote": "TAFE NSW counselling and career development service is free and confidential.",
+      "url": "https://www.tafensw.edu.au/study/support-services/counselling",
+      "page_date": null
+    },
+    {
+      "claim": "Who can book",
+      "quote": "If you’re a current student, you can book an appointment with a TAFE NSW counsellor.",
+      "url": "https://www.tafensw.edu.au/study/support-services/counselling",
+      "page_date": null
+    }
+  ]
+}

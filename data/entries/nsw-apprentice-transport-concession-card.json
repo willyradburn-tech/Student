@@ -1,0 +1,63 @@
+{
+  "id": "nsw-apprentice-transport-concession-card",
+  "name": "NSW Transport Concession Entitlement Card for apprentices",
+  "provider": "Transport for NSW",
+  "category": "transport",
+  "summary": "Apprentices and new entrant trainees registered in NSW get concession Opal fares and concession fares on regional buses.",
+  "who": [
+    "Apprentices and new entrant trainees registered in NSW"
+  ],
+  "catches": [
+    "Existing worker trainees are not eligible."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "nsw",
+    "opal",
+    "tcec",
+    "concession fares",
+    "regional bus"
+  ],
+  "source": {
+    "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance",
+    "label": "NSW Department of Education: Financial assistance for apprentices and trainees"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "are entitled to receive a Transport Concession Entitlement card.",
+      "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance",
+      "page_date": null
+    },
+    {
+      "claim": "Regional use",
+      "quote": "With a Transport Concession Entitlement Card outside the Opal network, you pay concession fares on local bus services.",
+      "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance",
+      "page_date": null
+    },
+    {
+      "claim": "Exclusion",
+      "quote": "Existing worker trainees are not eligible.",
+      "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance",
+      "page_date": null
+    }
+  ]
+}

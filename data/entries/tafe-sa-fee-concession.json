@@ -1,0 +1,48 @@
+{
+  "id": "tafe-sa-fee-concession",
+  "name": "TAFE SA fee concession for concession card holders",
+  "provider": "TAFE SA",
+  "category": "loans",
+  "summary": "TAFE SA students with a Health Care Card, Pensioner Concession Card or DVA pensioner card pay concession fees.",
+  "who": [
+    "Hold a current Health Care Card, Pensioner Concession Card or Veteran Affairs Pensioner Concession Card"
+  ],
+  "catches": [
+    "The fees page does not state how much the concession reduces fees."
+  ],
+  "tags": [
+    "tafe",
+    "SA",
+    "TAFE SA",
+    "concession",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://students.tafesa.edu.au/fees-enrolments/fees-charges",
+    "label": "TAFE SA: Fees and Charges"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "other"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Card holders qualify",
+      "quote": "To qualify for a concession, you must hold a current:",
+      "url": "https://students.tafesa.edu.au/fees-enrolments/fees-charges",
+      "page_date": null
+    }
+  ]
+}

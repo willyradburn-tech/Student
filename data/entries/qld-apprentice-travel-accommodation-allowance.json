@@ -1,0 +1,74 @@
+{
+  "id": "qld-apprentice-travel-accommodation-allowance",
+  "name": "Queensland apprentice travel and accommodation allowance",
+  "provider": "Queensland Government",
+  "category": "payments",
+  "summary": "Queensland pays apprentices and trainees towards travel and accommodation when their closest training organisation is far away.",
+  "key": "Up to 34c/km for road and rail travel, $58 per night intrastate and $112 per night interstate accommodation.",
+  "who": [
+    "Registered apprentice or trainee in Queensland, part-time or full-time but not school-based",
+    "Travel more than 100 km return to your closest training organisation"
+  ],
+  "how": [
+    "Claim online through TRACC, or send the ATF-022 claim form (ATF-004 for flights)."
+  ],
+  "catches": [
+    "Claim within 6 months of travel."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "qld",
+    "queensland",
+    "tracc",
+    "travel allowance",
+    "block release"
+  ],
+  "source": {
+    "url": "https://www.qld.gov.au/education/apprenticeships/for-apprentices/support/travel",
+    "label": "Queensland Government: Travel and accommodation allowance"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Travel rate",
+      "quote": "up to 34c/km for road and rail travel",
+      "url": "https://www.qld.gov.au/education/apprenticeships/for-apprentices/support/travel",
+      "page_date": null
+    },
+    {
+      "claim": "Accommodation",
+      "quote": "$58 per night for intrastate accommodation",
+      "url": "https://www.qld.gov.au/education/apprenticeships/for-apprentices/support/travel",
+      "page_date": null
+    },
+    {
+      "claim": "Distance",
+      "quote": "travel more than 100km return to your closest training organisation",
+      "url": "https://www.qld.gov.au/education/apprenticeships/for-apprentices/support/travel",
+      "page_date": null
+    },
+    {
+      "claim": "Deadline",
+      "quote": "claim your allowances within 6 months of travel",
+      "url": "https://www.qld.gov.au/education/apprenticeships/for-apprentices/support/travel",
+      "page_date": null
+    }
+  ]
+}

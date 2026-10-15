@@ -1,0 +1,64 @@
+{
+  "id": "tastafe-payment-plans-centrepay",
+  "name": "TasTAFE fee payment plans and Centrepay",
+  "provider": "TasTAFE",
+  "category": "loans",
+  "summary": "TasTAFE students can pay fees weekly, fortnightly or monthly, or through Centrepay deductions from Centrelink payments.",
+  "who": [
+    "TasTAFE students; Centrepay is for Centrelink recipients"
+  ],
+  "how": [
+    "Arrange a payment plan at enrolment; set up Centrepay with Centrelink first and match the TasTAFE plan to it."
+  ],
+  "catches": [
+    "If you can't pay, contact a TasTAFE Student Counsellor to discuss your options."
+  ],
+  "tags": [
+    "tafe",
+    "Tasmania",
+    "TasTAFE",
+    "payment plan",
+    "Centrepay",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://www.tastafe.tas.edu.au/students/fees/fee-guide",
+    "label": "TasTAFE: Fees and payment guide"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "other"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Payment plans available",
+      "quote": "You can either pay fees in full at the time of enrolment or arrange a payment plan.",
+      "url": "https://www.tastafe.tas.edu.au/students/fees/fee-guide",
+      "page_date": null
+    },
+    {
+      "claim": "Centrepay",
+      "quote": "You may choose to pay your fees through Centrepay deductions.",
+      "url": "https://www.tastafe.tas.edu.au/students/fees/fee-guide",
+      "page_date": null
+    },
+    {
+      "claim": "Hardship help",
+      "quote": "If you are having trouble paying your fees, contact one of our Student Counsellors to discuss your options.",
+      "url": "https://www.tastafe.tas.edu.au/students/fees/fee-guide",
+      "page_date": null
+    }
+  ]
+}

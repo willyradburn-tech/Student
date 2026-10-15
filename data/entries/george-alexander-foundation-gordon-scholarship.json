@@ -1,0 +1,66 @@
+{
+  "id": "george-alexander-foundation-gordon-scholarship",
+  "name": "George Alexander Foundation Scholarship at The Gordon",
+  "provider": "George Alexander Foundation",
+  "category": "uni",
+  "summary": "Seven $7,000 scholarships a year for students starting full-time certificate, diploma or advanced diploma study at The Gordon.",
+  "key": "Seven scholarships are awarded annually, each valued at $7,000.",
+  "who": [
+    "Students commencing full-time studies in a certificate, diploma or advanced diploma at The Gordon",
+    "Academic merit, community involvement and leadership capability"
+  ],
+  "how": [
+    "See The Gordon scholarships page for eligibility and how to apply"
+  ],
+  "catches": [
+    "No current dates on the page; applied through The Gordon's scholarship rounds"
+  ],
+  "tags": [
+    "tafe",
+    "gordon",
+    "the gordon",
+    "geelong",
+    "vic",
+    "george alexander foundation",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://georgealexander.org.au/our-programs/scholarship-programs/the-gordon",
+    "label": "George Alexander Foundation: The Gordon"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Seven scholarships are awarded annually, each valued at $7,000.",
+      "url": "https://georgealexander.org.au/our-programs/scholarship-programs/the-gordon",
+      "page_date": null
+    },
+    {
+      "claim": "Who",
+      "quote": "students commencing full-time studies in a certificate, diploma or advanced diploma course",
+      "url": "https://georgealexander.org.au/our-programs/scholarship-programs/the-gordon",
+      "page_date": null
+    }
+  ]
+}

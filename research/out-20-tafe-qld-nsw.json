@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "tafe-nsw-free-counselling",
+    "name": "TAFE NSW free counselling",
+    "provider": "TAFE NSW",
+    "category": "uni",
+    "summary": "Free, confidential personal and career counselling for current TAFE NSW students.",
+    "key": "TAFE NSW counselling and career development service is free and confidential.",
+    "who": [
+      "Current TAFE NSW students; career counselling is also open to future students."
+    ],
+    "how": [
+      "Call 131 601, choose option 5, then option 2 to make an appointment."
+    ],
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "counselling",
+      "mental health",
+      "wellbeing",
+      "career"
+    ],
+    "source": {
+      "url": "https://www.tafensw.edu.au/study/support-services/counselling",
+      "label": "TAFE NSW: Counselling services"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free and confidential",
+        "quote": "TAFE NSW counselling and career development service is free and confidential.",
+        "url": "https://www.tafensw.edu.au/study/support-services/counselling",
+        "page_date": null
+      },
+      {
+        "claim": "Who can book",
+        "quote": "If you’re a current student, you can book an appointment with a TAFE NSW counsellor.",
+        "url": "https://www.tafensw.edu.au/study/support-services/counselling",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tafe-nsw-equity-scholarship",
+    "name": "TAFE NSW Equity Scholarship",
+    "provider": "TAFE NSW",
+    "category": "uni",
+    "summary": "$1,000 scholarships for TAFE NSW students facing hardship, such as First Nations students, people with disability or Centrelink recipients.",
+    "key": "Eight scholarships each valued at $1,000.",
+    "who": [
+      "Identify with an equity group: Aboriginal and Torres Strait Islander, disability or chronic illness, unemployed 6+ months, Centrelink recipient, at-risk youth, or domestic and family violence.",
+      "Australian citizen, permanent resident, humanitarian visa holder or NZ citizen living in NSW.",
+      "Studying or planning to study an accredited VET course at TAFE NSW."
+    ],
+    "how": [
+      "Apply with a statement of circumstances, evidence of hardship and a signed referee statement."
+    ],
+    "catches": [
+      "Applications are currently closed; the page lists eight scholarships per semester, so check for the next round."
+    ],
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "equity",
+      "hardship",
+      "scholarship",
+      "first nations",
+      "disability"
+    ],
+    "source": {
+      "url": "https://www.tafensw.edu.au/scholarships/equity-scholarship",
+      "label": "TAFE NSW: Equity Scholarship"
+    },
+    "status": "unverified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "each valued at $1,000.",
+        "url": "https://www.tafensw.edu.au/scholarships/equity-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Status",
+        "quote": "Applications for Equity Scholarships is now closed.",
+        "url": "https://www.tafensw.edu.au/scholarships/equity-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tafe-nsw-wilma-scholarship",
+    "name": "WILMA Scholarship (TAFE NSW, Macarthur)",
+    "provider": "TAFE NSW",
+    "category": "uni",
+    "summary": "$1,500 for a woman in the Macarthur region facing financial or personal barriers to TAFE NSW study.",
+    "key": "TAFE NSW will award $1,500 to empower a woman from the Macarthur region.",
+    "who": [
+      "Woman by birth or identity who lives or studies in the Macarthur area.",
+      "Enrolled or planning to enrol in a nationally accredited TAFE NSW course in Semester 2, 2026.",
+      "Australian citizen, permanent resident, humanitarian visa holder or NZ citizen.",
+      "Shows significant barriers to study, such as financial hardship or recovering from family or domestic violence."
+    ],
+    "how": [
+      "Use the Apply now button and select 'WILMA Scholarship' from the scholarship drop-down."
+    ],
+    "catches": [
+      "Applications close 5 pm (AEDT) Friday, 23 October 2026."
+    ],
+    "closes": "2026-10-23",
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "women",
+      "macarthur",
+      "campbelltown",
+      "hardship",
+      "scholarship"
+    ],
+    "source": {
+      "url": "https://www.tafensw.edu.au/scholarships/wilma-scholarship",
+      "label": "TAFE NSW: WILMA Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "TAFE NSW will award $1,500 to empower a woman from the Macarthur region",
+        "url": "https://www.tafensw.edu.au/scholarships/wilma-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Closing date",
+        "quote": "Applications for the 2026 WILMA Scholarship close 5 pm (AEDT) Friday, 23 October 2026.",
+        "url": "https://www.tafensw.edu.au/scholarships/wilma-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tafe-nsw-barrington-roberts-memorial-award",
+    "name": "Barrington Roberts Memorial Award",
+    "provider": "TAFE NSW",
+    "category": "uni",
+    "summary": "A $4,000 award for 2026 graduates of TAFE NSW tourism, travel, events or hospitality qualifications.",
+    "key": "Valued at $4,000.",
+    "who": [
+      "Graduate of a TAFE NSW Tourism, Travel, Events or Hospitality qualification who completed studies in 2026.",
+      "Needs a teacher endorsement."
+    ],
+    "how": [
+      "Email the signed application form and supporting documents to scholarships@tafensw.edu.au."
+    ],
+    "catches": [
+      "Applications close 11:59 pm (AEDT) Sunday, 15 November 2026."
+    ],
+    "closes": "2026-11-15",
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "hospitality",
+      "tourism",
+      "events",
+      "scholarship"
+    ],
+    "source": {
+      "url": "https://www.tafensw.edu.au/scholarships/barrington-raymund-roberts-memorial-award",
+      "label": "TAFE NSW: Barrington Roberts Memorial Award"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "Valued at $4,000.",
+        "url": "https://www.tafensw.edu.au/scholarships/barrington-raymund-roberts-memorial-award",
+        "page_date": null
+      },
+      {
+        "claim": "Closing date",
+        "quote": "Applications for the Barrington Roberts Memorial Award close 11:59 pm (AEDT) Sunday, 15 November 2026.",
+        "url": "https://www.tafensw.edu.au/scholarships/barrington-raymund-roberts-memorial-award",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tafe-nsw-regional-remote-mental-health-scholarship",
+    "name": "NSW Regional and Remote Mental Health Scholarship",
+    "provider": "TAFE NSW",
+    "category": "uni",
+    "summary": "Up to $3,000 for regional human services workers studying a Certificate IV in Mental Health at TAFE NSW.",
+    "key": "Three scholarships each valued at up to $3,000.",
+    "who": [
+      "Studying the Certificate IV in Mental Health (CHC43315) or Mental Health Peer Work (CHC43515) at TAFE NSW.",
+      "Worked or volunteered in a human services role in a rural or regional area.",
+      "Meets Smart and Skilled criteria.",
+      "No TAFE NSW, ITSA or Hunter TAFE Foundation scholarship in the last 12 months."
+    ],
+    "how": [
+      "Apply through the TAFE NSW scholarships platform via the Apply now button."
+    ],
+    "catches": [
+      "Applications close 5 pm (AEDT) Friday, 30 October 2026."
+    ],
+    "closes": "2026-10-30",
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "mental health",
+      "regional",
+      "community services",
+      "scholarship"
+    ],
+    "source": {
+      "url": "https://www.tafensw.edu.au/scholarships/nsw-health-scholarships",
+      "label": "TAFE NSW: NSW Regional and Remote Mental Health Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "field": {
+        "yes": [
+          "care"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "each valued at up to $3,000.",
+        "url": "https://www.tafensw.edu.au/scholarships/nsw-health-scholarships",
+        "page_date": null
+      },
+      {
+        "claim": "Closing date",
+        "quote": "Applications for the NSW Regional and Remote Mental Health Scholarship close 5 pm (AEDT) Friday, 30 October 2026.",
+        "url": "https://www.tafensw.edu.au/scholarships/nsw-health-scholarships",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tafe-nsw-oliver-shaul-scholarship",
+    "name": "Oliver Shaul Scholarship (commercial cookery)",
+    "provider": "TAFE NSW",
+    "category": "uni",
+    "summary": "Funds a final-year TAFE NSW commercial cookery student to train overseas for at least three months.",
+    "who": [
+      "TAFE NSW student in the final year of the Certificate III in Commercial Cookery.",
+      "Needs a teacher endorsement."
+    ],
+    "how": [
+      "Submit the application form PDF with the teacher endorsement; questions to scholarships@tafensw.edu.au."
+    ],
+    "catches": [
+      "Closes 11:59 pm (AEDT) Sunday, 15 November 2026.",
+      "No dollar value is stated."
+    ],
+    "closes": "2026-11-15",
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "cookery",
+      "chef",
+      "hospitality",
+      "travel",
+      "scholarship"
+    ],
+    "source": {
+      "url": "https://www.tafensw.edu.au/scholarships/oliver-shaul-scholarship",
+      "label": "TAFE NSW: Oliver Shaul Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "What it offers",
+        "quote": "This prestigious scholarship offers funds to travel abroad and further your commercial cookery studies",
+        "url": "https://www.tafensw.edu.au/scholarships",
+        "page_date": null
+      },
+      {
+        "claim": "Closing date",
+        "quote": "11:59 pm (AEDT) Sunday, 15 November 2026",
+        "url": "https://www.tafensw.edu.au/scholarships/oliver-shaul-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tafe-nsw-lions-mount-panorama-equity-scholarship",
+    "name": "Lions Club of Mount Panorama Equity Scholarship",
+    "provider": "TAFE NSW",
+    "category": "uni",
+    "summary": "Four $300 equity scholarships for TAFE NSW students living in the Bathurst area.",
+    "key": "4 equity scholarships valued at $300 each.",
+    "who": [
+      "Enrolled in and studying a TAFE NSW course.",
+      "Live in the Bathurst NSW Local Government Area.",
+      "Nominate a TAFE NSW teacher as referee."
+    ],
+    "how": [
+      "Apply through the TAFE NSW scholarships platform."
+    ],
+    "catches": [
+      "Closes 5 pm (AEST), Sunday 18 October 2026."
+    ],
+    "closes": "2026-10-18",
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "bathurst",
+      "equity",
+      "scholarship"
+    ],
+    "source": {
+      "url": "https://www.tafensw.edu.au/scholarships/lions-club-of-mount-panorama-equity-scholarship",
+      "label": "TAFE NSW: Lions Club of Mount Panorama Equity Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "offering 4 equity scholarships valued at $300 each.",
+        "url": "https://www.tafensw.edu.au/scholarships/lions-club-of-mount-panorama-equity-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Residence rule",
+        "quote": "live in the Bathurst NSW Local Government Area",
+        "url": "https://www.tafensw.edu.au/scholarships/lions-club-of-mount-panorama-equity-scholarship",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tafe-nsw-disability-support",
+    "name": "TAFE NSW disability support",
+    "provider": "TAFE NSW",
+    "category": "uni",
+    "summary": "Tailored study support for TAFE NSW students living with disability.",
+    "who": [
+      "TAFE NSW students living with disability."
+    ],
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "disability",
+      "accessibility",
+      "equity"
+    ],
+    "source": {
+      "url": "https://www.tafensw.edu.au/study/support-services",
+      "label": "TAFE NSW: Support services"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Service",
+        "quote": "If you are living with disability, we can offer tailored support to help you meet your study and career goals.",
+        "url": "https://www.tafensw.edu.au/study/support-services",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tafe-nsw-aboriginal-student-support",
+    "name": "TAFE NSW Aboriginal student support",
+    "provider": "TAFE NSW",
+    "category": "uni",
+    "summary": "Aboriginal Student Support Officers and culturally specific resources for First Nations TAFE NSW students.",
+    "who": [
+      "Aboriginal and Torres Strait Islander TAFE NSW students."
+    ],
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "aboriginal",
+      "first nations",
+      "indigenous"
+    ],
+    "source": {
+      "url": "https://www.tafensw.edu.au/study/support-services",
+      "label": "TAFE NSW: Support services"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Service",
+        "quote": "We have Aboriginal Student Support Officers and resources specific to your mob",
+        "url": "https://www.tafensw.edu.au/study/support-services",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tafe-nsw-jobs-connect",
+    "name": "TAFE NSW Jobs Connect",
+    "provider": "TAFE NSW",
+    "category": "uni",
+    "summary": "A free TAFE NSW service that connects students with employers.",
+    "who": [
+      "TAFE NSW students."
+    ],
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "jobs",
+      "employment",
+      "career"
+    ],
+    "source": {
+      "url": "https://www.tafensw.edu.au/study/support-services",
+      "label": "TAFE NSW: Support services"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Service",
+        "quote": "Students can access Jobs Connect, a free TAFE NSW service that connects students with employers.",
+        "url": "https://www.tafensw.edu.au/study/support-services",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "lords-taverners-tafe-nsw-north-coast-grants",
+    "name": "Lord's Taverners TAFE NSW grants (North Coast)",
+    "provider": "Lord's Taverners Northern NSW",
+    "category": "uni",
+    "summary": "Urgent grants of $500 to $1,500 for TAFE NSW students on the North Coast facing hardship.",
+    "key": "Grants range from $500 to $1500.",
+    "who": [
+      "Doing an apprenticeship or relevant vocational course at TAFE NSW.",
+      "North Coast Institute area, from Kingscliff to Port Macquarie (originally Richmond Valley).",
+      "Priority to students facing challenges such as disability, unemployment, homelessness, transport barriers, domestic violence, a non-English-speaking background or sole parenthood."
+    ],
+    "how": [
+      "Apply through TAFE with a teacher's support."
+    ],
+    "catches": [
+      "TAFE NSW advertises the grants twice a year; no dates are listed."
+    ],
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "apprentice",
+      "north coast",
+      "northern rivers",
+      "richmond valley",
+      "lismore",
+      "ballina",
+      "port macquarie",
+      "hardship",
+      "grant"
+    ],
+    "source": {
+      "url": "https://lordstaverners-northernnsw.com.au/what-we-do/tafe-nsw-grants/",
+      "label": "Lord's Taverners Northern NSW: TAFE NSW Grants"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "Grants range from $500 to $1500",
+        "url": "https://lordstaverners-northernnsw.com.au/what-we-do/tafe-nsw-grants/",
+        "page_date": null
+      },
+      {
+        "claim": "How to apply",
+        "quote": "All applications must be made through TAFE and supported by a teacher.",
+        "url": "https://lordstaverners-northernnsw.com.au/what-we-do/tafe-nsw-grants/",
+        "page_date": null
+      },
+      {
+        "claim": "Timing",
+        "quote": "TAFE NSW will advertise the grants twice a year.",
+        "url": "https://lordstaverners-northernnsw.com.au/what-we-do/tafe-nsw-grants/",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-fee-free-training",
+    "name": "NSW Fee-Free TAFE and Fee Free training",
+    "provider": "NSW Government (Skills NSW) and TAFE NSW",
+    "category": "loans",
+    "summary": "Tuition-free priority courses at TAFE NSW and other Smart and Skilled providers for eligible NSW residents.",
+    "key": "Skills NSW provides fully subsidised training to gain skills in Australia's growing industries.",
+    "who": [
+      "15 years or over and no longer at school.",
+      "Live or work in NSW.",
+      "Australian citizen, permanent resident, humanitarian visa holder or NZ citizen.",
+      "Enrolling in a priority course."
+    ],
+    "how": [
+      "Contact a training provider such as TAFE NSW to check a fee-free place is available."
+    ],
+    "catches": [
+      "Places are limited and not guaranteed.",
+      "TAFE NSW: one Fee-free course per semester.",
+      "Semester 2, 2026 courses start between 1 July and 31 December 2026."
+    ],
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "fee-free tafe",
+      "free tafe",
+      "smart and skilled"
+    ],
+    "source": {
+      "url": "https://skills.education.nsw.gov.au/nsw-fee-free",
+      "label": "Skills NSW: NSW Fee Free"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "What it is",
+        "quote": "Skills NSW provides fully subsidised training to gain skills in Australia's growing industries.",
+        "url": "https://skills.education.nsw.gov.au/nsw-fee-free",
+        "page_date": null
+      },
+      {
+        "claim": "Limit at TAFE NSW",
+        "quote": "Students can enrol in one Fee-free course per semester.",
+        "url": "https://www.tafensw.edu.au/fee-free",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-smart-and-skilled-concession-fee",
+    "name": "Smart and Skilled concession fee (Centrelink recipients)",
+    "provider": "NSW Government (Skills NSW)",
+    "category": "loans",
+    "summary": "NSW students on a Commonwealth benefit, and their dependants, pay a capped concession fee for Smart and Skilled certificate courses.",
+    "key": "The concession fee varies up to $240, depending on the qualification level.",
+    "who": [
+      "Receive a Commonwealth Government benefit, or are a recognised dependant of a recipient.",
+      "Meet Smart and Skilled eligibility."
+    ],
+    "how": [
+      "Give your training provider a current Centrelink income statement or Pensioner Concession Card; TAFE NSW can check with your CRN."
+    ],
+    "catches": [
+      "No concession fees apply to Diplomas and Advanced Diplomas."
+    ],
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "smart and skilled",
+      "concession",
+      "centrelink",
+      "fees"
+    ],
+    "source": {
+      "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students/commonwealth-government-benefits",
+      "label": "Skills NSW: Commonwealth Government benefit recipients"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "payment": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "The concession fee varies up to $240, depending on the qualification level.",
+        "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students/commonwealth-government-benefits",
+        "page_date": null
+      },
+      {
+        "claim": "Exclusion",
+        "quote": "No concession fees apply to Diplomas and Advanced Diplomas.",
+        "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students/commonwealth-government-benefits",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "You may be eligible for a concession fee if you receive a Commonwealth Government benefit payment",
+        "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-smart-and-skilled-fee-free-scholarship",
+    "name": "Smart and Skilled Fee-Free Scholarship",
+    "provider": "NSW Government (Skills NSW)",
+    "category": "loans",
+    "summary": "Fee-free training up to Certificate IV for young NSW people aged 15 to 30 on a government payment, and other eligible groups.",
+    "key": "If you're eligible, you can receive up to 2 fee-free scholarships over 4 years.",
+    "who": [
+      "Aged 15 to 30 and receiving a government payment or benefit, and meet Smart and Skilled eligibility.",
+      "Also people who have experienced domestic or family violence, or who are or were in out-of-home care."
+    ],
+    "how": [
+      "Eligibility is confirmed at enrolment; domestic violence and out-of-home care applicants provide supporting documents."
+    ],
+    "catches": [
+      "Courses up to and including Certificate IV."
+    ],
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "smart and skilled",
+      "fee-free",
+      "scholarship",
+      "young people",
+      "out-of-home care",
+      "domestic violence"
+    ],
+    "source": {
+      "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
+      "label": "TAFE NSW: Government funded training"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "age": {
+        "min": 15,
+        "max": 30
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Limit",
+        "quote": "If you're eligible, you can receive up to 2 fee-free scholarships over 4 years.",
+        "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
+        "page_date": null
+      },
+      {
+        "claim": "Age rule",
+        "quote": "be between 15 and 30 years old",
+        "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-smart-and-skilled-aboriginal-fee-free",
+    "name": "Smart and Skilled fee-free training for Aboriginal and Torres Strait Islander students",
+    "provider": "NSW Government (Skills NSW)",
+    "category": "loans",
+    "summary": "Aboriginal and Torres Strait Islander people living or working in NSW may study Smart and Skilled courses fee-free.",
+    "key": "If you identify as an Aboriginal or Torres Strait Islander, you may qualify for fee-free training under Smart and Skilled.",
+    "who": [
+      "Aboriginal and Torres Strait Islander people living or working in NSW or a recognised border area."
+    ],
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "smart and skilled",
+      "fee-free",
+      "aboriginal",
+      "first nations"
+    ],
+    "source": {
+      "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
+      "label": "TAFE NSW: Government funded training"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      },
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Rule",
+        "quote": "If you identify as an Aboriginal or Torres Strait Islander, you may qualify for fee-free training under Smart and Skilled.",
+        "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-smart-and-skilled-disability-fee-free",
+    "name": "Smart and Skilled fee-free training for students with disability",
+    "provider": "NSW Government (Skills NSW)",
+    "category": "loans",
+    "summary": "NSW students who meet the disability criteria, and their dependants, pay no Smart and Skilled fees.",
+    "key": "You and your dependants won't pay fees for your training under Smart and Skilled.",
+    "who": [
+      "Meet the NSW disability eligibility criteria (TAFE NSW lists evidence such as the Disability Support Pension)."
+    ],
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "smart and skilled",
+      "fee-free",
+      "disability"
+    ],
+    "source": {
+      "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students.html",
+      "label": "Skills NSW: Fee-free training for disadvantaged students"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Rule",
+        "quote": "you and your dependants won't pay fees for your training under Smart and Skilled.",
+        "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students.html",
+        "page_date": null
+      },
+      {
+        "claim": "TAFE NSW",
+        "quote": "If you have a disability, you may be eligible for fee-free Smart and Skilled training.",
+        "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nsw-smart-and-skilled-humanitarian-fee-free",
+    "name": "Smart and Skilled fee-free training for refugees and asylum seekers",
+    "provider": "NSW Government (Skills NSW)",
+    "category": "loans",
+    "summary": "Refugees, asylum seekers and partners of humanitarian visa holders may study Certificate I to IV fee-free in NSW.",
+    "who": [
+      "Refugees or asylum seekers doing a Smart and Skilled Certificate I to IV course.",
+      "Eligible partners of humanitarian visa holders, for training from 1 July 2021."
+    ],
+    "tags": [
+      "tafe",
+      "tafe nsw",
+      "nsw",
+      "smart and skilled",
+      "fee-free",
+      "refugee",
+      "asylum seeker",
+      "humanitarian"
+    ],
+    "source": {
+      "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students.html",
+      "label": "Skills NSW: Fee-free training for disadvantaged students"
+    },
+    "status": "unverified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Partners",
+        "quote": "This now includes eligible partners of humanitarian visa holders, for any training that commences from 1 July 2021 onwards.",
+        "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students.html",
+        "page_date": null
+      },
+      {
+        "claim": "Rule",
+        "quote": "you may be eligible for fee-free training under Smart and Skilled",
+        "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students.html",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tafe-qld-scholarship-program",
+    "name": "TAFE Queensland Scholarship Program",
+    "provider": "TAFE Queensland",
+    "category": "uni",
+    "summary": "100 scholarships of $5,000 a year, including access and equity awards, for new TAFE Queensland students and first-year apprentices.",
+    "key": "Each year 100 x $5,000 scholarships are awarded.",
+    "who": [
+      "Australian citizen or permanent resident.",
+      "First-year apprentice, or planning to enrol in a Certificate III or higher in Semester 1 of the following year.",
+      "Categories: access and equity, merit, athlete merit, and career pathway merit."
+    ],
+    "how": [
+      "Complete the online application form in one session with proof of identity and citizenship plus supporting evidence."
+    ],
+    "catches": [
+      "Applications open in July and close towards the end of September; the 2027 round is closed.",
+      "Paid as $3,000 after study starts and $2,000 at a course milestone."
+    ],
+    "tags": [
+      "tafe",
+      "tafe queensland",
+      "tafe qld",
+      "qld",
+      "queensland",
+      "apprentice",
+      "scholarship",
+      "equity"
+    ],
+    "source": {
+      "url": "https://tafeqld.edu.au/courses/apply-and-enrol/scholarships",
+      "label": "TAFE Queensland: Scholarships"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "Each year 100 x $5,000 scholarships are awarded to people looking to change their lives and build lifelong careers.",
+        "url": "https://tafeqld.edu.au/courses/apply-and-enrol/scholarships",
+        "page_date": null
+      },
+      {
+        "claim": "Residency",
+        "quote": "must be an Australian citizen or permanent resident.",
+        "url": "https://tafeqld.edu.au/courses/apply-and-enrol/scholarships",
+        "page_date": null
+      },
+      {
+        "claim": "Timing",
+        "quote": "Scholarship applications open in July and close towards the end of September",
+        "url": "https://tafeqld.edu.au/courses/apply-and-enrol/scholarships",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tafe-qld-free-counselling",
+    "name": "TAFE Queensland free counselling",
+    "provider": "TAFE Queensland",
+    "category": "uni",
+    "summary": "Free, confidential counselling for TAFE Queensland students, face to face at select campuses or by phone or video.",
+    "key": "Sessions are free and completely confidential.",
+    "who": [
+      "TAFE Queensland students."
+    ],
+    "how": [
+      "Book through tafeqld.edu.au/contact/enquire."
+    ],
+    "tags": [
+      "tafe",
+      "tafe queensland",
+      "tafe qld",
+      "qld",
+      "queensland",
+      "counselling",
+      "mental health",
+      "wellbeing"
+    ],
+    "source": {
+      "url": "https://tafeqld.edu.au/current-students/student-support-services/index.html",
+      "label": "TAFE Queensland: Student support services"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free",
+        "quote": "sessions are free and completely confidential.",
+        "url": "https://tafeqld.edu.au/current-students/student-support-services/index.html",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tafe-qld-accessability-support",
+    "name": "TAFE Queensland AccessAbility support",
+    "provider": "TAFE Queensland",
+    "category": "uni",
+    "summary": "Practical help and an individual support plan for TAFE Queensland students with disability.",
+    "who": [
+      "TAFE Queensland students with disability."
+    ],
+    "how": [
+      "Contact the AccessAbility Support team through the TAFE Queensland enquiry form."
+    ],
+    "tags": [
+      "tafe",
+      "tafe queensland",
+      "tafe qld",
+      "qld",
+      "queensland",
+      "disability",
+      "accessibility",
+      "equity"
+    ],
+    "source": {
+      "url": "https://tafeqld.edu.au/current-students/student-support-services/index.html",
+      "label": "TAFE Queensland: Student support services"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Service",
+        "quote": "we can provide practical assistance, support, and advice.",
+        "url": "https://tafeqld.edu.au/current-students/student-support-services/index.html",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tafe-qld-first-nations-support",
+    "name": "TAFE Queensland Indigenous student support",
+    "provider": "TAFE Queensland",
+    "category": "uni",
+    "summary": "Extra support, including help with financial assistance, from Indigenous student support officers for First Nations students.",
+    "who": [
+      "Aboriginal and Torres Strait Islander TAFE Queensland students."
+    ],
+    "tags": [
+      "tafe",
+      "tafe queensland",
+      "tafe qld",
+      "qld",
+      "queensland",
+      "aboriginal",
+      "torres strait islander",
+      "first nations",
+      "indigenous"
+    ],
+    "source": {
+      "url": "https://tafeqld.edu.au/current-students/student-support-services/index.html",
+      "label": "TAFE Queensland: Student support services"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "atsi": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Service",
+        "quote": "If you are an Aboriginal and Torres Strait Islander student, you can access additional student support services.",
+        "url": "https://tafeqld.edu.au/current-students/student-support-services/index.html",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tafe-qld-payment-plan",
+    "name": "TAFE Queensland fee payment plan",
+    "provider": "TAFE Queensland",
+    "category": "uni",
+    "summary": "Domestic students with tuition fees of $300 or more can pay in instalments instead of upfront.",
+    "key": "TAFE Queensland will provide the option for deferred payment of Tuition Fees through a Payment Plan.",
+    "who": [
+      "Domestic student.",
+      "Tuition fees of $300 or more.",
+      "Not FEE-HELP eligible and no outstanding debt with TAFE Queensland."
+    ],
+    "how": [
+      "Request the plan at enrolment or before your study start date."
+    ],
+    "catches": [
+      "Two consecutive missed instalments cancel the plan and the full balance becomes payable."
+    ],
+    "tags": [
+      "tafe",
+      "tafe queensland",
+      "tafe qld",
+      "qld",
+      "queensland",
+      "fees",
+      "payment plan",
+      "hardship"
+    ],
+    "source": {
+      "url": "https://tafeqld.edu.au/about/policy-and-governance/student-rules-and-policies/student-fees",
+      "label": "TAFE Queensland: Student fees policy"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Payment plan",
+        "quote": "TAFE Queensland will provide the option for deferred payment of Tuition Fees through a Payment Plan.",
+        "url": "https://tafeqld.edu.au/about/policy-and-governance/student-rules-and-policies/student-fees",
+        "page_date": null
+      },
+      {
+        "claim": "Timing",
+        "quote": "Payment Plans must be requested at the time of enrolment or prior to the start of study date",
+        "url": "https://tafeqld.edu.au/about/policy-and-governance/student-rules-and-policies/student-fees",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tafe-qld-fee-concession",
+    "name": "TAFE Queensland fee concession (subsidised courses)",
+    "provider": "TAFE Queensland",
+    "category": "uni",
+    "summary": "Students in government-subsidised qualifications may get a concession on tuition fees if they meet eligibility rules.",
+    "who": [
+      "Enrolled in a government-subsidised qualification and meet the concession eligibility requirements (not listed on the page)."
+    ],
+    "how": [
+      "Apply for the concession as you enrol."
+    ],
+    "catches": [
+      "Eligibility requirements are not set out on the policy page; ask TAFE Queensland."
+    ],
+    "tags": [
+      "tafe",
+      "tafe queensland",
+      "tafe qld",
+      "qld",
+      "queensland",
+      "fees",
+      "concession"
+    ],
+    "source": {
+      "url": "https://tafeqld.edu.au/about/policy-and-governance/student-rules-and-policies/student-fees",
+      "label": "TAFE Queensland: Student fees policy"
+    },
+    "status": "unverified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Concession",
+        "quote": "If you are undertaking government-subsidised qualifications, TAFE Queensland may offer you a fee concession",
+        "url": "https://tafeqld.edu.au/about/policy-and-governance/student-rules-and-policies/student-fees",
+        "page_date": null
+      },
+      {
+        "claim": "How",
+        "quote": "Fee concessions must be applied for and approved as you enrol.",
+        "url": "https://tafeqld.edu.au/about/policy-and-governance/student-rules-and-policies/student-fees",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qld-fee-free-tafe",
+    "name": "Fee-Free TAFE Queensland",
+    "provider": "Queensland Government",
+    "category": "loans",
+    "summary": "Tuition-free priority courses at TAFE Queensland or CQUniversity for eligible Queenslanders, now including construction.",
+    "key": "Fee-Free TAFE, extended until 31 December 2026, allows eligible Queenslanders to study priority skill sets and qualifications.",
+    "who": [
+      "Permanently live in Queensland.",
+      "Australian or NZ citizen, permanent resident, or eligible temporary resident on a pathway to permanent residency.",
+      "15 or older and no longer at school.",
+      "Not currently enrolled in a qualification (foundation skills excepted).",
+      "Not already completed a Fee-Free TAFE or Free Nursing qualification."
+    ],
+    "how": [
+      "Enrol through TAFE Queensland (1300 308 233) or CQUniversity (13 27 86)."
+    ],
+    "catches": [
+      "Only one qualification under Fee-Free TAFE or Free Nursing.",
+      "Uniforms and resources may still cost extra.",
+      "Extended until 31 December 2026; fee-free construction applies to students who start before 31 December."
+    ],
+    "closes": "2026-12-31",
+    "tags": [
+      "tafe",
+      "tafe queensland",
+      "tafe qld",
+      "qld",
+      "queensland",
+      "fee-free tafe",
+      "free tafe",
+      "construction",
+      "cqu"
+    ],
+    "source": {
+      "url": "https://www.qld.gov.au/education/training/subsidies/feefree",
+      "label": "Queensland Government: Free training"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Program and end date",
+        "quote": "Fee-Free TAFE, extended until 31 December 2026, allows eligible Queenslanders to study priority skill sets and qualifications, providing opportunities to upskill, reskill or start a career in high-demand industries.",
+        "url": "https://www.qld.gov.au/education/training/subsidies/feefree",
+        "page_date": null
+      },
+      {
+        "claim": "Construction",
+        "quote": "Fee-free construction is now available as part of fee-free TAFE for students who start training before 31 December.",
+        "url": "https://www.qld.gov.au/education/training/subsidies/feefree",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qld-career-start",
+    "name": "Career Start (formerly Certificate 3 Guarantee)",
+    "provider": "Queensland Government",
+    "category": "loans",
+    "summary": "Queensland Government subsidy for a first post-school Certificate III; you pay a co-contribution fee to the provider.",
+    "key": "Career Start provides Queensland job seekers with skills and support to start their career.",
+    "who": [
+      "Aged 15 or older and no longer in school.",
+      "Live permanently in Queensland.",
+      "Australian or NZ citizen, permanent resident, or temporary resident with an eligible visa.",
+      "TAFE Queensland adds: not enrolled in another qualification and no Certificate III or higher completed in the last 10 years."
+    ],
+    "how": [
+      "Enrol with an approved provider such as TAFE Queensland; compare co-contribution fees as providers set their own."
+    ],
+    "catches": [
+      "Up to 2 funded training places; not two general-pathway qualifications.",
+      "The Queensland pages fetched do not state that Career Start replaced the Certificate 3 Guarantee, though TAFE Queensland no longer lists the old name."
+    ],
+    "tags": [
+      "tafe",
+      "tafe queensland",
+      "tafe qld",
+      "qld",
+      "queensland",
+      "certificate 3 guarantee",
+      "c3g",
+      "subsidised training",
+      "apprentice"
+    ],
+    "source": {
+      "url": "https://www.qld.gov.au/education/training/subsidies/career-start",
+      "label": "Queensland Government: Career Start"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "What it is",
+        "quote": "Career Start provides Queensland job seekers with skills and support to start their career.",
+        "url": "https://www.qld.gov.au/education/training/subsidies/career-start",
+        "page_date": null
+      },
+      {
+        "claim": "Fee",
+        "quote": "You pay the remaining training course costs (a co-contribution fee) to your training provider.",
+        "url": "https://www.qld.gov.au/education/training/subsidies/career-start",
+        "page_date": null
+      },
+      {
+        "claim": "TAFE Queensland",
+        "quote": "Find out if you're eligible to receive a subsidy to complete your first post-school certificate III level qualification.",
+        "url": "https://tafeqld.edu.au/courses/apply-and-enrol/subsidised-training",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qld-career-boost",
+    "name": "Career Boost (formerly Higher Level Skills)",
+    "provider": "Queensland Government",
+    "category": "loans",
+    "summary": "Subsidised priority skill sets and Certificate IV or higher courses for Queenslanders; students pay a co-contribution fee.",
+    "key": "Career Boost helps Queenslanders develop higher-level skills needed to secure employment, advance their careers, or progress to further education.",
+    "who": [
+      "Aged 15+ and left secondary school.",
+      "Australian citizen, permanent resident or NZ citizen living in Queensland.",
+      "Not enrolled in another qualification.",
+      "No Certificate IV or higher completed in the last 10 years."
+    ],
+    "how": [
+      "Enrol with an approved provider such as TAFE Queensland."
+    ],
+    "catches": [
+      "A co-contribution fee applies.",
+      "Eligibility here is from TAFE Queensland's summary; the official Career Boost page could not be opened."
+    ],
+    "tags": [
+      "tafe",
+      "tafe queensland",
+      "tafe qld",
+      "qld",
+      "queensland",
+      "higher level skills",
+      "hls",
+      "subsidised training",
+      "certificate iv",
+      "diploma"
+    ],
+    "source": {
+      "url": "https://tafeqld.edu.au/courses/apply-and-enrol/subsidised-training",
+      "label": "TAFE Queensland: Subsidised training"
+    },
+    "status": "unverified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "What it is",
+        "quote": "Career Boost helps Queenslanders develop higher-level skills needed to secure employment, advance their careers, or progress to further education.",
+        "url": "https://dtet.qld.gov.au/training/training-careers/incentives/certificate3/faq",
+        "page_date": null
+      },
+      {
+        "claim": "TAFE Queensland",
+        "quote": "assist individuals to gain the skills required to secure employment or career advancement.",
+        "url": "https://tafeqld.edu.au/courses/apply-and-enrol/subsidised-training",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "qld-free-construction-apprenticeships-over-25s",
+    "name": "Free Construction Apprenticeships for Over 25s",
+    "provider": "Queensland Government",
+    "category": "loans",
+    "summary": "Queensland covers TAFE training costs for people 25 and over who take an eligible construction apprenticeship.",
+    "key": "We cover the cost of TAFE training when you choose an eligible construction-related apprenticeship.",
+    "who": [
+      "Aged 25 or older.",
+      "Doing an eligible construction-related apprenticeship."
+    ],
+    "tags": [
+      "tafe",
+      "tafe queensland",
+      "tafe qld",
+      "qld",
+      "queensland",
+      "apprentice",
+      "construction",
+      "free apprenticeship",
+      "trades"
+    ],
+    "source": {
+      "url": "https://www.qld.gov.au/education/training/funded/freeapprenticeships",
+      "label": "Queensland Government: Free Apprenticeships"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      },
+      "age": {
+        "min": 25
+      }
+    },
+    "evidence": [
+      {
+        "claim": "What it covers",
+        "quote": "We cover the cost of TAFE training when you choose an eligible construction-related apprenticeship.",
+        "url": "https://www.qld.gov.au/education/training/funded/freeapprenticeships",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tafe-qld-reboot-your-trade-training",
+    "name": "Reboot Your Trade Training (pilot)",
+    "provider": "TAFE Queensland / Queensland Government",
+    "category": "loans",
+    "summary": "Funded training for carpentry, electrical and plumbing apprentices whose apprenticeship contracts were cancelled.",
+    "who": [
+      "Carpentry, electrical or plumbing apprentices with a cancelled apprenticeship contract."
+    ],
+    "catches": [
+      "A pilot; no further criteria or dates are given on the page."
+    ],
+    "tags": [
+      "tafe",
+      "tafe queensland",
+      "tafe qld",
+      "qld",
+      "queensland",
+      "apprentice",
+      "carpentry",
+      "electrical",
+      "plumbing",
+      "trades"
+    ],
+    "source": {
+      "url": "https://tafeqld.edu.au/courses/apply-and-enrol/subsidised-training",
+      "label": "TAFE Queensland: Subsidised training"
+    },
+    "status": "unverified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "qld"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "What it is",
+        "quote": "provide funded training to carpentry, electrical, and plumbing apprentices with cancelled apprenticeship contracts.",
+        "url": "https://tafeqld.edu.au/courses/apply-and-enrol/subsidised-training",
+        "page_date": null
+      }
+    ]
+  }
+]

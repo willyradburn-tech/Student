@@ -1,0 +1,69 @@
+{
+  "id": "tafe-sa-fee-free-incidental-costs-scholarship",
+  "name": "TAFE SA Fee Free TAFE Incidental Costs Scholarship",
+  "provider": "TAFE SA",
+  "category": "uni",
+  "summary": "Up to $185 towards equipment, clothing and other incidental costs for concession card holders in hardship doing a TAFE SA Fee Free course.",
+  "key": "You can apply for up to $185.00 for incidental costs associated with a FFT course over the life of the course.",
+  "who": [
+    "Currently enrolled in a Fee Free course with TAFE SA",
+    "Hold a valid concession card",
+    "Experiencing financial hardship"
+  ],
+  "how": [
+    "Apply online within the semester that you will pay for the incidental cost."
+  ],
+  "catches": [
+    "Funding is limited, so approval depends on available funds.",
+    "Total claims for one qualification can't exceed $185."
+  ],
+  "tags": [
+    "tafe",
+    "SA",
+    "TAFE SA",
+    "fee-free",
+    "hardship",
+    "concession card",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.tafesa.edu.au/apply-enrol/before-starting/scholarships-grants/fee-free-tafe-incidental-costs",
+    "label": "TAFE SA: Fee Free TAFE incidental costs"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "other"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Up to $185",
+      "quote": "You can apply for up to $185.00 for incidental costs associated with a FFT course over the life of the course.",
+      "url": "https://www.tafesa.edu.au/apply-enrol/before-starting/scholarships-grants/fee-free-tafe-incidental-costs",
+      "page_date": null
+    },
+    {
+      "claim": "Concession card rule",
+      "quote": "I hold a valid concession card.",
+      "url": "https://www.tafesa.edu.au/apply-enrol/before-starting/scholarships-grants/fee-free-tafe-incidental-costs",
+      "page_date": null
+    },
+    {
+      "claim": "Hardship rule",
+      "quote": "I am experiencing Financial Hardship.",
+      "url": "https://www.tafesa.edu.au/apply-enrol/before-starting/scholarships-grants/fee-free-tafe-incidental-costs",
+      "page_date": null
+    }
+  ]
+}

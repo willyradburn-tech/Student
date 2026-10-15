@@ -1,0 +1,58 @@
+{
+  "id": "chisholm-ccef-indigenous-scholarship",
+  "name": "Caroline Chisholm Education Foundation Indigenous Student Scholarship",
+  "provider": "Caroline Chisholm Education Foundation (Chisholm Institute)",
+  "category": "uni",
+  "summary": "Covers tuition and associated fees for eligible First Nations students in Chisholm VET courses.",
+  "key": "For eligible First Nations students, tuition is covered and associated fees are fully funded.",
+  "who": [
+    "Eligible Aboriginal and Torres Strait Islander students at Chisholm Institute"
+  ],
+  "how": [
+    "Download the Indigenous Student Scholarship form and email it to ccefscholarships@chisholm.edu.au"
+  ],
+  "catches": [
+    "Does not cover apprenticeships, traineeships or short courses"
+  ],
+  "tags": [
+    "tafe",
+    "chisholm",
+    "vic",
+    "first nations",
+    "indigenous",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://chisholm.edu.au/about-us/caroline-chisholm-education-foundation/scholarships",
+    "label": "Chisholm: CCEF Scholarships"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Tuition and fees covered",
+      "quote": "For eligible First Nations students, tuition is covered and CCEF will continue to fully fund associated fees",
+      "url": "https://chisholm.edu.au/about-us/caroline-chisholm-education-foundation/scholarships",
+      "page_date": null
+    }
+  ]
+}

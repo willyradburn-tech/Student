@@ -1,0 +1,69 @@
+{
+  "id": "swtafe-women-construction-clean-energy-scholarship",
+  "name": "SWTAFE Women in Construction and Clean Energy Scholarship",
+  "provider": "South West TAFE (AL Lane Foundation)",
+  "category": "uni",
+  "summary": "Up to $2,000 a year, to $8,000 total, for female apprentices in trade courses at South West TAFE.",
+  "key": "Up to $2000 in support for each remaining year of your apprenticeship, up to $8000 over 4 years.",
+  "who": [
+    "Female apprentices in first, second or third year of a trade course (automotive, building, cabinet making, civil construction, electrical, engineering, plumbing)",
+    "Preference for Warrnambool and surrounding districts"
+  ],
+  "how": [
+    "Apply via the SWTAFE scholarships page"
+  ],
+  "catches": [
+    "2026 round closed; 2027 round opens mid-October 2026"
+  ],
+  "tags": [
+    "tafe",
+    "apprentice",
+    "swtafe",
+    "south west tafe",
+    "warrnambool",
+    "vic",
+    "women in trades",
+    "construction"
+  ],
+  "source": {
+    "url": "https://www.swtafe.vic.edu.au/scholarships",
+    "label": "South West TAFE: Scholarships"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value per year",
+      "quote": "Up to $2000 in support for each remaining year of your apprenticeship,",
+      "url": "https://www.swtafe.vic.edu.au/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Cap",
+      "quote": "$8000 over 4 years",
+      "url": "https://www.swtafe.vic.edu.au/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Who",
+      "quote": "open to female apprentices in their first, second or third years,",
+      "url": "https://www.swtafe.vic.edu.au/scholarships",
+      "page_date": null
+    }
+  ],
+  "closes": "closed"
+}

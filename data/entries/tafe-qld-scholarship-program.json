@@ -1,0 +1,72 @@
+{
+  "id": "tafe-qld-scholarship-program",
+  "name": "TAFE Queensland Scholarship Program",
+  "provider": "TAFE Queensland",
+  "category": "uni",
+  "summary": "100 scholarships of $5,000 a year, including access and equity awards, for new TAFE Queensland students and first-year apprentices.",
+  "key": "Each year 100 x $5,000 scholarships are awarded.",
+  "who": [
+    "Australian citizen or permanent resident.",
+    "First-year apprentice, or planning to enrol in a Certificate III or higher in Semester 1 of the following year.",
+    "Categories: access and equity, merit, athlete merit, and career pathway merit."
+  ],
+  "how": [
+    "Complete the online application form in one session with proof of identity and citizenship plus supporting evidence."
+  ],
+  "catches": [
+    "Applications open in July and close towards the end of September; the 2027 round is closed.",
+    "Paid as $3,000 after study starts and $2,000 at a course milestone."
+  ],
+  "tags": [
+    "tafe",
+    "tafe queensland",
+    "tafe qld",
+    "qld",
+    "queensland",
+    "apprentice",
+    "scholarship",
+    "equity"
+  ],
+  "source": {
+    "url": "https://tafeqld.edu.au/courses/apply-and-enrol/scholarships",
+    "label": "TAFE Queensland: Scholarships"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "Each year 100 x $5,000 scholarships are awarded to people looking to change their lives and build lifelong careers.",
+      "url": "https://tafeqld.edu.au/courses/apply-and-enrol/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Residency",
+      "quote": "must be an Australian citizen or permanent resident.",
+      "url": "https://tafeqld.edu.au/courses/apply-and-enrol/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Timing",
+      "quote": "Scholarship applications open in July and close towards the end of September",
+      "url": "https://tafeqld.edu.au/courses/apply-and-enrol/scholarships",
+      "page_date": null
+    }
+  ],
+  "closes": "closed"
+}

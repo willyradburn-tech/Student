@@ -1,0 +1,56 @@
+{
+  "id": "dewr-key-apprenticeship-program-apprentice-incentive",
+  "name": "Key Apprenticeship Program apprentice incentive",
+  "provider": "Department of Employment and Workplace Relations",
+  "category": "payments",
+  "summary": "Commonwealth payments to apprentices in clean energy or housing construction occupations, paid at milestones through to completion.",
+  "key": "$2,000 per payment for full-time and $1,000 for part-time apprentices, at 6, 12, 24 and 36 months and on completion.",
+  "who": [
+    "Certificate III or higher apprenticeship linked to a clean energy or housing construction priority outcome",
+    "Employer works in that sector and both sign a commitment declaration"
+  ],
+  "catches": [
+    "Amounts are from the payments table; check the program guidelines before relying on them.",
+    "Cannot be paid together with the Australian Apprentice Training Support Payment for the same apprenticeship."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "commonwealth",
+    "kap",
+    "clean energy",
+    "housing",
+    "construction",
+    "electrician"
+  ],
+  "source": {
+    "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+    "label": "DEWR: Australian Apprenticeships Incentive System payments overview"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Payment schedule",
+      "quote": "Payments at 6, 12, 24, 36 months and on completion",
+      "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+      "page_date": "2026-07-01"
+    },
+    {
+      "claim": "Program name",
+      "quote": "Key Apprenticeship Program Apprentice Incentive",
+      "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+      "page_date": "2026-07-01"
+    }
+  ]
+}

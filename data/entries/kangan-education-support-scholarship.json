@@ -1,0 +1,65 @@
+{
+  "id": "kangan-education-support-scholarship",
+  "name": "Kangan Institute Education Support Scholarship",
+  "provider": "Kangan Institute (Bendigo Kangan Institute)",
+  "category": "uni",
+  "summary": "A fee waiver or reduction for Kangan and Bendigo TAFE students facing financial or personal disadvantage.",
+  "key": "Can provide local students with a waiver or a reduction of their course fees.",
+  "who": [
+    "Australian citizen, permanent resident or eligible visa holder",
+    "Financial or personal disadvantage such as low income, disability or interrupted study",
+    "Already accepted into the course"
+  ],
+  "how": [
+    "Complete the online application with supporting documents before the course start date",
+    "Under 18s need parent or guardian consent"
+  ],
+  "catches": [
+    "Applications open all year; outcome within two weeks",
+    "Does not cover stationery or computer equipment"
+  ],
+  "tags": [
+    "tafe",
+    "kangan",
+    "bendigo kangan",
+    "bendigo tafe",
+    "melbourne",
+    "vic",
+    "hardship",
+    "fee waiver"
+  ],
+  "source": {
+    "url": "https://www.kangan.edu.au/study-with-us/prospective-students/scholarships/education-support-scholarship",
+    "label": "Kangan Institute: Education Support Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Fee waiver or reduction",
+      "quote": "can provide local students with a waiver or a reduction of their course fees.",
+      "url": "https://www.kangan.edu.au/study-with-us/prospective-students/scholarships/education-support-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Open all year",
+      "quote": "Applications are open throughout the year.",
+      "url": "https://www.kangan.edu.au/study-with-us/prospective-students/scholarships/education-support-scholarship",
+      "page_date": null
+    }
+  ]
+}

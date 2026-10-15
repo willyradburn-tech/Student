@@ -1,0 +1,60 @@
+{
+  "id": "bendigo-tafe-access-scholarship",
+  "name": "Bendigo TAFE Access Scholarship (enrolled students)",
+  "provider": "Bendigo TAFE (Bendigo Kangan Institute)",
+  "category": "uni",
+  "summary": "Financial help for enrolled Bendigo TAFE students, domestic or international, facing financial pressure that threatens their study.",
+  "who": [
+    "Domestic and international students enrolled in any Bendigo TAFE course"
+  ],
+  "how": [
+    "Apply through the online form linked from the scholarships page and email supporting documents to the welfare team"
+  ],
+  "catches": [
+    "Amount not stated on the page"
+  ],
+  "tags": [
+    "tafe",
+    "bendigo tafe",
+    "bendigo kangan",
+    "bendigo",
+    "vic",
+    "regional",
+    "hardship",
+    "international"
+  ],
+  "source": {
+    "url": "https://bendigotafe.edu.au/Scholarships",
+    "label": "Bendigo TAFE: Scholarships"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Who",
+      "quote": "The scholarship is available to domestic and international students enrolled in any course at Bendigo TAFE.",
+      "url": "https://bendigotafe.edu.au/Scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Purpose",
+      "quote": "The Bendigo TAFE Access Scholarship has been designed to provide opportunities for access to education.",
+      "url": "https://bendigotafe.edu.au/Scholarships",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "nt-apprentice-workwear-workgear-bonus",
+  "name": "NT apprentice workwear and workgear bonus",
+  "provider": "Northern Territory Government",
+  "category": "tech",
+  "summary": "First-year NT apprentices and trainees get money for workwear and equipment, with more for priority trade apprentices.",
+  "key": "$300, or $1,000 for apprentices in a trade on the NT skilled occupation priority list, to buy workwear and equipment.",
+  "who": [
+    "Full-time, part-time or school-based apprentice or trainee in first year",
+    "$1,000 needs a trade on the NT skilled occupation priority list"
+  ],
+  "how": [
+    "Paid after your training contract is lodged with your Apprentice Connect Australia provider; no separate application."
+  ],
+  "catches": [
+    "The bonus is cancelled if correct bank details are not given within six months of being contacted."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "nt",
+    "northern territory",
+    "workwear",
+    "tools",
+    "boots"
+  ],
+  "source": {
+    "url": "https://nt.gov.au/employ/apprenticeships-and-traineeships/get-a-workwear-and-workgear-bonus",
+    "label": "NT Government: Get the bonus for workwear and gear"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "you may be eligible to receive either $300 or $1,000 in funding to buy workwear and equipment.",
+      "url": "https://nt.gov.au/employ/apprenticeships-and-traineeships/get-a-workwear-and-workgear-bonus",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "be a full-time, part-time or school-based apprentice or trainee in your first year",
+      "url": "https://nt.gov.au/employ/apprenticeships-and-traineeships/get-a-workwear-and-workgear-bonus",
+      "page_date": null
+    }
+  ]
+}

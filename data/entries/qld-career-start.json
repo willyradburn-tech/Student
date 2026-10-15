@@ -1,0 +1,72 @@
+{
+  "id": "qld-career-start",
+  "name": "Career Start (formerly Certificate 3 Guarantee)",
+  "provider": "Queensland Government",
+  "category": "loans",
+  "summary": "Queensland Government subsidy for a first post-school Certificate III; you pay a co-contribution fee to the provider.",
+  "key": "Career Start provides Queensland job seekers with skills and support to start their career.",
+  "who": [
+    "Aged 15 or older and no longer in school.",
+    "Live permanently in Queensland.",
+    "Australian or NZ citizen, permanent resident, or temporary resident with an eligible visa.",
+    "TAFE Queensland adds: not enrolled in another qualification and no Certificate III or higher completed in the last 10 years."
+  ],
+  "how": [
+    "Enrol with an approved provider such as TAFE Queensland; compare co-contribution fees as providers set their own."
+  ],
+  "catches": [
+    "Up to 2 funded training places; not two general-pathway qualifications.",
+    "The Queensland pages fetched do not state that Career Start replaced the Certificate 3 Guarantee, though TAFE Queensland no longer lists the old name."
+  ],
+  "tags": [
+    "tafe",
+    "tafe queensland",
+    "tafe qld",
+    "qld",
+    "queensland",
+    "certificate 3 guarantee",
+    "c3g",
+    "subsidised training",
+    "apprentice"
+  ],
+  "source": {
+    "url": "https://www.qld.gov.au/education/training/subsidies/career-start",
+    "label": "Queensland Government: Career Start"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "What it is",
+      "quote": "Career Start provides Queensland job seekers with skills and support to start their career.",
+      "url": "https://www.qld.gov.au/education/training/subsidies/career-start",
+      "page_date": null
+    },
+    {
+      "claim": "Fee",
+      "quote": "You pay the remaining training course costs (a co-contribution fee) to your training provider.",
+      "url": "https://www.qld.gov.au/education/training/subsidies/career-start",
+      "page_date": null
+    },
+    {
+      "claim": "TAFE Queensland",
+      "quote": "Find out if you're eligible to receive a subsidy to complete your first post-school certificate III level qualification.",
+      "url": "https://tafeqld.edu.au/courses/apply-and-enrol/subsidised-training",
+      "page_date": null
+    }
+  ]
+}

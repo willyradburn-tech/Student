@@ -1,0 +1,46 @@
+{
+  "id": "tafe-nsw-aboriginal-student-support",
+  "name": "TAFE NSW Aboriginal student support",
+  "provider": "TAFE NSW",
+  "category": "uni",
+  "summary": "Aboriginal Student Support Officers and culturally specific resources for First Nations TAFE NSW students.",
+  "who": [
+    "Aboriginal and Torres Strait Islander TAFE NSW students."
+  ],
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "aboriginal",
+    "first nations",
+    "indigenous"
+  ],
+  "source": {
+    "url": "https://www.tafensw.edu.au/study/support-services",
+    "label": "TAFE NSW: Support services"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Service",
+      "quote": "We have Aboriginal Student Support Officers and resources specific to your mob",
+      "url": "https://www.tafensw.edu.au/study/support-services",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "tafe-nsw-oliver-shaul-scholarship",
+  "name": "Oliver Shaul Scholarship (commercial cookery)",
+  "provider": "TAFE NSW",
+  "category": "uni",
+  "summary": "Funds a final-year TAFE NSW commercial cookery student to train overseas for at least three months.",
+  "who": [
+    "TAFE NSW student in the final year of the Certificate III in Commercial Cookery.",
+    "Needs a teacher endorsement."
+  ],
+  "how": [
+    "Submit the application form PDF with the teacher endorsement; questions to scholarships@tafensw.edu.au."
+  ],
+  "catches": [
+    "Closes 11:59 pm (AEDT) Sunday, 15 November 2026.",
+    "No dollar value is stated."
+  ],
+  "closes": "2026-11-15",
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "cookery",
+    "chef",
+    "hospitality",
+    "travel",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.tafensw.edu.au/scholarships/oliver-shaul-scholarship",
+    "label": "TAFE NSW: Oliver Shaul Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "What it offers",
+      "quote": "This prestigious scholarship offers funds to travel abroad and further your commercial cookery studies",
+      "url": "https://www.tafensw.edu.au/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "11:59 pm (AEDT) Sunday, 15 November 2026",
+      "url": "https://www.tafensw.edu.au/scholarships/oliver-shaul-scholarship",
+      "page_date": null
+    }
+  ]
+}

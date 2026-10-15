@@ -1,0 +1,59 @@
+{
+  "id": "tafe-qld-fee-concession",
+  "name": "TAFE Queensland fee concession (subsidised courses)",
+  "provider": "TAFE Queensland",
+  "category": "uni",
+  "summary": "Students in government-subsidised qualifications may get a concession on tuition fees if they meet eligibility rules.",
+  "who": [
+    "Enrolled in a government-subsidised qualification and meet the concession eligibility requirements (not listed on the page)."
+  ],
+  "how": [
+    "Apply for the concession as you enrol."
+  ],
+  "catches": [
+    "Eligibility requirements are not set out on the policy page; ask TAFE Queensland."
+  ],
+  "tags": [
+    "tafe",
+    "tafe queensland",
+    "tafe qld",
+    "qld",
+    "queensland",
+    "fees",
+    "concession"
+  ],
+  "source": {
+    "url": "https://tafeqld.edu.au/about/policy-and-governance/student-rules-and-policies/student-fees",
+    "label": "TAFE Queensland: Student fees policy"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Concession",
+      "quote": "If you are undertaking government-subsidised qualifications, TAFE Queensland may offer you a fee concession",
+      "url": "https://tafeqld.edu.au/about/policy-and-governance/student-rules-and-policies/student-fees",
+      "page_date": null
+    },
+    {
+      "claim": "How",
+      "quote": "Fee concessions must be applied for and approved as you enrol.",
+      "url": "https://tafeqld.edu.au/about/policy-and-governance/student-rules-and-policies/student-fees",
+      "page_date": null
+    }
+  ]
+}

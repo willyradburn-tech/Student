@@ -1,0 +1,57 @@
+{
+  "id": "tafe-nsw-barrington-roberts-memorial-award",
+  "name": "Barrington Roberts Memorial Award",
+  "provider": "TAFE NSW",
+  "category": "uni",
+  "summary": "A $4,000 award for 2026 graduates of TAFE NSW tourism, travel, events or hospitality qualifications.",
+  "key": "Valued at $4,000.",
+  "who": [
+    "Graduate of a TAFE NSW Tourism, Travel, Events or Hospitality qualification who completed studies in 2026.",
+    "Needs a teacher endorsement."
+  ],
+  "how": [
+    "Email the signed application form and supporting documents to scholarships@tafensw.edu.au."
+  ],
+  "catches": [
+    "Applications close 11:59 pm (AEDT) Sunday, 15 November 2026."
+  ],
+  "closes": "2026-11-15",
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "hospitality",
+    "tourism",
+    "events",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.tafensw.edu.au/scholarships/barrington-raymund-roberts-memorial-award",
+    "label": "TAFE NSW: Barrington Roberts Memorial Award"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "Valued at $4,000.",
+      "url": "https://www.tafensw.edu.au/scholarships/barrington-raymund-roberts-memorial-award",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications for the Barrington Roberts Memorial Award close 11:59 pm (AEDT) Sunday, 15 November 2026.",
+      "url": "https://www.tafensw.edu.au/scholarships/barrington-raymund-roberts-memorial-award",
+      "page_date": null
+    }
+  ]
+}

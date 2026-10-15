@@ -1,0 +1,65 @@
+{
+  "id": "dewr-living-away-from-home-allowance",
+  "name": "Living Away From Home Allowance (LAFHA) for apprentices",
+  "provider": "Department of Employment and Workplace Relations",
+  "category": "payments",
+  "summary": "Weekly Commonwealth allowance for apprentices who move out of their parent's or guardian's home for the first time for their apprenticeship.",
+  "key": "$125.52 a week in year one, $94.14 in year two and $47.07 in year three.",
+  "who": [
+    "Apprentices who must move away from their parent's or guardian's home for the first time",
+    "Within 36 months of the apprenticeship start date (commencements from 1 January 2026)",
+    "Apprentices who are homeless may also be eligible"
+  ],
+  "catches": [
+    "Not payable to anyone getting Youth Allowance, Austudy, ABSTUDY, Centrelink rent assistance, or free or subsidised accommodation from their employer.",
+    "Weekly amounts are from the payments table in the overview."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "commonwealth",
+    "lafha",
+    "relocation",
+    "moving away"
+  ],
+  "source": {
+    "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+    "label": "DEWR: Australian Apprenticeships Incentive System payments overview"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "no"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Available to apprentices who need to move away from their parent's or guardian's home for the first time to:",
+      "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+      "page_date": "2026-07-01"
+    },
+    {
+      "claim": "Time limit",
+      "quote": "Apprentice must be within 36 months of the commencement date of their apprenticeship.",
+      "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+      "page_date": "2026-07-01"
+    }
+  ]
+}

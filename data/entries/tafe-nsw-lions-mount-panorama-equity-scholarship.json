@@ -1,0 +1,62 @@
+{
+  "id": "tafe-nsw-lions-mount-panorama-equity-scholarship",
+  "name": "Lions Club of Mount Panorama Equity Scholarship",
+  "provider": "TAFE NSW",
+  "category": "uni",
+  "summary": "Four $300 equity scholarships for TAFE NSW students living in the Bathurst area.",
+  "key": "4 equity scholarships valued at $300 each.",
+  "who": [
+    "Enrolled in and studying a TAFE NSW course.",
+    "Live in the Bathurst NSW Local Government Area.",
+    "Nominate a TAFE NSW teacher as referee."
+  ],
+  "how": [
+    "Apply through the TAFE NSW scholarships platform."
+  ],
+  "catches": [
+    "Closes 5 pm (AEST), Sunday 18 October 2026."
+  ],
+  "closes": "2026-10-18",
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "bathurst",
+    "equity",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.tafensw.edu.au/scholarships/lions-club-of-mount-panorama-equity-scholarship",
+    "label": "TAFE NSW: Lions Club of Mount Panorama Equity Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "offering 4 equity scholarships valued at $300 each.",
+      "url": "https://www.tafensw.edu.au/scholarships/lions-club-of-mount-panorama-equity-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Residence rule",
+      "quote": "live in the Bathurst NSW Local Government Area",
+      "url": "https://www.tafensw.edu.au/scholarships/lions-club-of-mount-panorama-equity-scholarship",
+      "page_date": null
+    }
+  ]
+}

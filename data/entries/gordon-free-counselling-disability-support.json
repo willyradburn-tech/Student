@@ -1,0 +1,54 @@
+{
+  "id": "gordon-free-counselling-disability-support",
+  "name": "The Gordon free counselling and disability support",
+  "provider": "The Gordon",
+  "category": "uni",
+  "summary": "Free confidential short-term counselling and free disability support across all Gordon campuses.",
+  "who": [
+    "Enrolled Gordon students"
+  ],
+  "tags": [
+    "tafe",
+    "gordon",
+    "the gordon",
+    "geelong",
+    "vic",
+    "counselling",
+    "disability",
+    "free"
+  ],
+  "source": {
+    "url": "https://www.thegordon.edu.au/students/student-services",
+    "label": "The Gordon: Student wellbeing and support"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free counselling",
+      "quote": "Free and confidential short-term face to face or online personal counselling appointments are available",
+      "url": "https://www.thegordon.edu.au/students/student-services",
+      "page_date": null
+    },
+    {
+      "claim": "Free disability support",
+      "quote": "Free services available across all campuses to enable students impacted by a disability",
+      "url": "https://www.thegordon.edu.au/students/student-services",
+      "page_date": null
+    }
+  ]
+}

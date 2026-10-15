@@ -1,0 +1,44 @@
+{
+  "id": "dewr-your-career",
+  "name": "Your Career website and tools",
+  "provider": "Department of Employment and Workplace Relations",
+  "category": "career",
+  "summary": "The Australian Government's career site, with Career Explorer, Career Pathways and course search tools for planning study and training.",
+  "how": [
+    "Use the Your Career website."
+  ],
+  "catches": [
+    "The DEWR pages we checked don't mention a phone line or one-on-one career guidance sessions. Check the Your Career site for current services."
+  ],
+  "tags": [
+    "tafe",
+    "vet",
+    "career guidance",
+    "course search",
+    "your career",
+    "national"
+  ],
+  "source": {
+    "url": "https://www.dewr.gov.au/your-career",
+    "label": "DEWR: Your Career"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "What it is",
+      "quote": "Visit the Your Career website to find clear information and resources to help you better plan and manage your career",
+      "url": "https://www.dewr.gov.au/your-career",
+      "page_date": null
+    },
+    {
+      "claim": "Independent information",
+      "quote": "independent, nationally relevant information about Australian industries and occupations",
+      "url": "https://www.dewr.gov.au/skills-and-training/help-guide-your-career-choices",
+      "page_date": null
+    }
+  ]
+}

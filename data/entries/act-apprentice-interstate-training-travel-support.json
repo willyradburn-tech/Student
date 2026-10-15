@@ -1,0 +1,52 @@
+{
+  "id": "act-apprentice-interstate-training-travel-support",
+  "name": "ACT interstate training travel support for apprentices",
+  "provider": "Skills Canberra",
+  "category": "payments",
+  "summary": "ACT apprentices whose qualification needs interstate block training can claim travel support after returning.",
+  "how": [
+    "Email a signed and stamped Application for Interstate Training Travel Support form to skills@act.gov.au."
+  ],
+  "catches": [
+    "Claims must reach Skills Canberra within 3 months of the block training.",
+    "The page gives no amount or detailed eligibility."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "act",
+    "canberra",
+    "cit",
+    "interstate",
+    "travel"
+  ],
+  "source": {
+    "url": "https://www.act.gov.au/skills/students/australian-apprenticeships",
+    "label": "ACT Government: Australian Apprenticeships"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "act"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Payment",
+      "quote": "Payment for travel support is made to eligible Australian Apprentices when they return from interstate training.",
+      "url": "https://www.act.gov.au/skills/students/australian-apprenticeships",
+      "page_date": null
+    }
+  ]
+}

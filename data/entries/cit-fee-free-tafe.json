@@ -1,0 +1,85 @@
+{
+  "id": "cit-fee-free-tafe",
+  "name": "CIT Fee-Free TAFE (Free TAFE from 2027)",
+  "provider": "Canberra Institute of Technology",
+  "category": "loans",
+  "summary": "Tuition-free CIT courses for people 17 and over who live or work in the ACT and are new to the course; becomes Free TAFE in 2027.",
+  "key": "Fee-Free TAFE provides free training to people seeking to learn, retrain or upskill.",
+  "who": [
+    "At least 17 and not enrolled at school",
+    "Australian or New Zealand citizen, permanent resident or eligible visa holder",
+    "Live or work in the ACT",
+    "Not previously enrolled in the course"
+  ],
+  "catches": [
+    "Fee-Free TAFE and Fee-Free Construction end at CIT in December 2026.",
+    "Fee-Free TAFE places in 2026 are limited to a maximum of 600.",
+    "The new Free TAFE program starts from Semester 1, 2027; the course list is pending ACT approval."
+  ],
+  "tags": [
+    "tafe",
+    "ACT",
+    "Canberra",
+    "CIT",
+    "fee-free",
+    "free TAFE"
+  ],
+  "source": {
+    "url": "https://cit.edu.au/study/fee-free-tafe",
+    "label": "CIT: Fee-Free TAFE"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "act"
+      ],
+      "maybe": [
+        "nsw"
+      ]
+    },
+    "age": {
+      "min": 17
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free training",
+      "quote": "Fee-Free TAFE provides free training to people seeking to learn, retrain or upskill.",
+      "url": "https://cit.edu.au/study/fee-free-tafe",
+      "page_date": null
+    },
+    {
+      "claim": "Live or work in ACT",
+      "quote": "live or work in the ACT",
+      "url": "https://cit.edu.au/study/fee_free_tafe",
+      "page_date": null
+    },
+    {
+      "claim": "Age 17",
+      "quote": "be at least 17 years of age, not enrolled at school (including Year 11 or 12)",
+      "url": "https://cit.edu.au/study/fee_free_tafe",
+      "page_date": null
+    },
+    {
+      "claim": "Ends 2026, Free TAFE 2027",
+      "quote": "Fee-Free TAFE and Fee-Free Construction will end at CIT in December 2026.",
+      "url": "https://cit.edu.au/study/fee-free-tafe",
+      "page_date": null
+    },
+    {
+      "claim": "Free TAFE from 2027",
+      "quote": "The new Free TAFE program will commence from Semester 1, 2027.",
+      "url": "https://cit.edu.au/study/fee-free-tafe",
+      "page_date": null
+    }
+  ]
+}

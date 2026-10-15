@@ -1,0 +1,67 @@
+{
+  "id": "nsw-caps-apprentice-relocation-payment",
+  "name": "NSW CAPS relocation payment for apprentices",
+  "provider": "Training Services NSW",
+  "category": "payments",
+  "summary": "One-off payment for out-of-work NSW apprentices who move more than 60 km to continue with a new employer through CAPS.",
+  "key": "A one-time CAPS relocation payment of up to $2,500 for rent, bond and moving costs.",
+  "who": [
+    "Registered with the Continuing Apprentices and Trainees Placement Service (CAPS), with a CAPS-registered new employer",
+    "Relocate more than 60 km and hold a valid training contract"
+  ],
+  "how": [
+    "Email the relocation and rental assistance application form to CAPS@det.nsw.edu.au."
+  ],
+  "catches": [
+    "Claim within 6 months of the new training contract start or transfer date."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "nsw",
+    "caps",
+    "relocation",
+    "bond",
+    "moving"
+  ],
+  "source": {
+    "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package",
+    "label": "NSW Department of Education: Travel, accommodation and relocation assistance package"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "away": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "you may be eligible for a one-time CAPS relocation payment of up to $2,500 to help cover rent/bond and moving costs.",
+      "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package",
+      "page_date": null
+    },
+    {
+      "claim": "Deadline",
+      "quote": "Claims must be submitted within 6 months of the commencement date of the new training contract, or within 6 months of transfer date.",
+      "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package",
+      "page_date": null
+    }
+  ]
+}

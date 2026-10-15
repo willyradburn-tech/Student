@@ -1,0 +1,60 @@
+{
+  "id": "headspace-work-and-study",
+  "name": "headspace Work & Study",
+  "provider": "headspace (funded by the Department of Social Services)",
+  "category": "career",
+  "summary": "Free career, study and job-application support for young people aged 15 to 25, by webchat, video or phone.",
+  "key": "A free service for young people aged 15 to 25.",
+  "who": [
+    "Young people aged 15 to 25 anywhere in Australia."
+  ],
+  "how": [
+    "Register online and book a time with a specialist, or call 1800 810 794."
+  ],
+  "catches": [
+    "Support covers career direction, planning study and course selection, and writing resumes and cover letters."
+  ],
+  "tags": [
+    "tafe",
+    "vet",
+    "career guidance",
+    "study support",
+    "youth",
+    "free",
+    "national"
+  ],
+  "source": {
+    "url": "https://headspace.org.au/services/work-and-study-support/online",
+    "label": "headspace: Work & Study online support"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "age": {
+      "min": 15,
+      "max": 25
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free, ages 15 to 25",
+      "quote": "A free service for young people aged 15 to 25.",
+      "url": "https://headspace.org.au/services/work-and-study-support/online",
+      "page_date": null
+    },
+    {
+      "claim": "Delivery",
+      "quote": "Access support from anywhere in Australia, via webchat, video or phone.",
+      "url": "https://headspace.org.au/services/work-and-study-support/online",
+      "page_date": null
+    },
+    {
+      "claim": "Government funded",
+      "quote": "headspace Work & Study is funded by the Australian Government Department of Social Services.",
+      "url": "https://headspace.org.au/work-and-study-support",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "melbourne-polytechnic-refugee-migrant-assistance-scholarship",
+  "name": "Melbourne Polytechnic Refugee and Migrant Assistance Scholarship",
+  "provider": "Melbourne Polytechnic",
+  "category": "uni",
+  "summary": "A $1,000 scholarship for refugee or migrant students who arrived in Australia in the past five years.",
+  "key": "$1,000",
+  "who": [
+    "Identify as a refugee or migrant",
+    "Arrived in Australia within the past five years",
+    "Enrolled or enrolling in a Melbourne Polytechnic course in 2026 (not short courses)"
+  ],
+  "how": [
+    "Apply online through Good Grants using your Melbourne Polytechnic student login",
+    "Upload proof of refugee or migrant status, such as a visa grant letter"
+  ],
+  "catches": [
+    "Open until awarded"
+  ],
+  "tags": [
+    "tafe",
+    "melbourne polytechnic",
+    "melbourne",
+    "vic",
+    "refugee",
+    "migrant",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://media.melbournepolytechnic.edu.au/students/scholarships/search-for-a-scholarship/refugee-and-migrant-assistance-scholarships/",
+    "label": "Melbourne Polytechnic: Refugee and Migrant Assistance Scholarships"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$1,000",
+      "url": "https://media.melbournepolytechnic.edu.au/students/scholarships/search-for-a-scholarship/refugee-and-migrant-assistance-scholarships/",
+      "page_date": null
+    },
+    {
+      "claim": "Arrival rule",
+      "quote": "within the past five (5) years",
+      "url": "https://media.melbournepolytechnic.edu.au/students/scholarships/search-for-a-scholarship/refugee-and-migrant-assistance-scholarships/",
+      "page_date": null
+    },
+    {
+      "claim": "Status",
+      "quote": "Open until awarded",
+      "url": "https://media.melbournepolytechnic.edu.au/students/scholarships/search-for-a-scholarship/refugee-and-migrant-assistance-scholarships/",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "swtafe-glenormiston-scholarship",
+  "name": "South West TAFE Glenormiston Scholarship",
+  "provider": "South West TAFE Foundation",
+  "category": "uni",
+  "summary": "Up to $2,000 for SWTAFE students' course-related travel, accommodation, exchange or study abroad.",
+  "key": "up to $2000",
+  "who": [
+    "Any full-time SWTAFE student",
+    "Preference for students from the Western District of Victoria"
+  ],
+  "how": [
+    "Apply via the SWTAFE scholarships page"
+  ],
+  "catches": [
+    "2026 round closed; 2027 round opens mid-October 2026"
+  ],
+  "tags": [
+    "tafe",
+    "swtafe",
+    "south west tafe",
+    "warrnambool",
+    "vic",
+    "regional",
+    "travel",
+    "accommodation"
+  ],
+  "source": {
+    "url": "https://www.swtafe.vic.edu.au/scholarships",
+    "label": "South West TAFE: Scholarships"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "up to $2000",
+      "url": "https://www.swtafe.vic.edu.au/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Preference",
+      "quote": "with a preference for students from the Western District of Victoria.",
+      "url": "https://www.swtafe.vic.edu.au/scholarships",
+      "page_date": null
+    }
+  ],
+  "closes": "closed"
+}

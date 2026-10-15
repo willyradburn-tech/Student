@@ -1,0 +1,55 @@
+{
+  "id": "fluke-education-discount-program",
+  "name": "Fluke Education Discount Program",
+  "provider": "Fluke Australia",
+  "category": "tech",
+  "summary": "Apprentices and RTO students get a yearly discount code for Fluke electrical test tools from the Fluke Australia online store.",
+  "key": "25% off select Fluke tools, kits and accessories, once per calendar year.",
+  "who": [
+    "Current apprentices and students enrolled at registered training organisations"
+  ],
+  "how": [
+    "Submit the application form with proof of apprenticeship or enrolment; Fluke emails a discount code within about 48 hours."
+  ],
+  "catches": [
+    "One tool or kit plus up to one accessory per year."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "electrician",
+    "multimeter",
+    "tools",
+    "fluke"
+  ],
+  "source": {
+    "url": "https://fluke.com/en-au/learn/student-discounts-and-resources/tool-discounts",
+    "label": "Fluke Australia: Education Discount Program"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Discount",
+      "quote": "25% off discount",
+      "url": "https://fluke.com/en-au/learn/student-discounts-and-resources/tool-discounts",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Current apprentices and students currently enrolled at valid registered training organisations are eligible",
+      "url": "https://fluke.com/en-au/learn/student-discounts-and-resources/tool-discounts",
+      "page_date": null
+    }
+  ]
+}

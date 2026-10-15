@@ -1,0 +1,48 @@
+{
+  "id": "reading-writing-hotline",
+  "name": "Reading Writing Hotline",
+  "provider": "Reading Writing Hotline (listed by DEWR)",
+  "category": "career",
+  "summary": "A national phone service that refers adults to English language, literacy and numeracy help, including Commonwealth-funded programs.",
+  "who": [
+    "Adults wanting help with English, literacy or numeracy."
+  ],
+  "how": [
+    "Call 1300 6 555 06."
+  ],
+  "catches": [
+    "The DEWR page doesn't say whether calls are free or list opening hours."
+  ],
+  "tags": [
+    "tafe",
+    "vet",
+    "literacy",
+    "numeracy",
+    "english",
+    "referral",
+    "national"
+  ],
+  "source": {
+    "url": "https://www.dewr.gov.au/node/8405",
+    "label": "DEWR: Reading Writing Hotline"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "What it does",
+      "quote": "provides a national phone service for adults seeking English language, literacy and numeracy referral",
+      "url": "https://www.dewr.gov.au/node/8405",
+      "page_date": null
+    },
+    {
+      "claim": "Phone",
+      "quote": "1300 6 555 06",
+      "url": "https://www.dewr.gov.au/node/8405",
+      "page_date": null
+    }
+  ]
+}

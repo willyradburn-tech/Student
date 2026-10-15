@@ -1,0 +1,53 @@
+{
+  "id": "nsw-smart-and-skilled-aboriginal-fee-free",
+  "name": "Smart and Skilled fee-free training for Aboriginal and Torres Strait Islander students",
+  "provider": "NSW Government (Skills NSW)",
+  "category": "loans",
+  "summary": "Aboriginal and Torres Strait Islander people living or working in NSW may study Smart and Skilled courses fee-free.",
+  "key": "If you identify as an Aboriginal or Torres Strait Islander, you may qualify for fee-free training under Smart and Skilled.",
+  "who": [
+    "Aboriginal and Torres Strait Islander people living or working in NSW or a recognised border area."
+  ],
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "smart and skilled",
+    "fee-free",
+    "aboriginal",
+    "first nations"
+  ],
+  "source": {
+    "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
+    "label": "TAFE NSW: Government funded training"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Rule",
+      "quote": "If you identify as an Aboriginal or Torres Strait Islander, you may qualify for fee-free training under Smart and Skilled.",
+      "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "holmesglen-apprentice-support-fund",
+  "name": "Holmesglen Apprentice Support Fund",
+  "provider": "Holmesglen Institute",
+  "category": "uni",
+  "summary": "Up to $2,000 towards tuition fees for Holmesglen apprentices in financial hardship.",
+  "key": "Up to $2,000 per scholarship - to be used for tuition fees only.",
+  "who": [
+    "Holmesglen apprentices experiencing financial hardship",
+    "Not eligible for VET Student Loans, FEE-HELP or Free TAFE, and not receiving another scholarship"
+  ],
+  "how": [
+    "Download and complete the Apprentice Support Fund application form from the Holmesglen page"
+  ],
+  "catches": [
+    "Committee meets monthly; funds subject to availability",
+    "Incomplete applications are not considered"
+  ],
+  "tags": [
+    "tafe",
+    "apprentice",
+    "holmesglen",
+    "melbourne",
+    "vic",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://holmesglen.edu.au/study-with-us/scholarships-and-financial-aid/scholarships/apprentice-support-fund",
+    "label": "Holmesglen: Apprentice Support Fund"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Up to $2,000 per scholarship - to be used for tuition fees only.",
+      "url": "https://holmesglen.edu.au/study-with-us/scholarships-and-financial-aid/scholarships/apprentice-support-fund",
+      "page_date": null
+    },
+    {
+      "claim": "Who it's for",
+      "quote": "available to help Holmesglen apprentices who because of financial hardship might not enjoy the full benefit",
+      "url": "https://holmesglen.edu.au/study-with-us/scholarships-and-financial-aid/scholarships/apprentice-support-fund",
+      "page_date": null
+    }
+  ]
+}

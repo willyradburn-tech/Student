@@ -1,0 +1,66 @@
+{
+  "id": "swtafe-wurreker-first-nations-scholarship",
+  "name": "SWTAFE First Nations Scholarship (Wurreker)",
+  "provider": "South West TAFE (Wurreker)",
+  "category": "uni",
+  "summary": "Four scholarships of up to $800 for First Nations students at South West TAFE.",
+  "key": "up to $800 (four available)",
+  "who": [
+    "Any SWTAFE First Nations student"
+  ],
+  "how": [
+    "Apply via the SWTAFE scholarships page"
+  ],
+  "catches": [
+    "2026 round closed; 2027 round opens mid-October 2026"
+  ],
+  "tags": [
+    "tafe",
+    "swtafe",
+    "south west tafe",
+    "warrnambool",
+    "vic",
+    "first nations",
+    "indigenous"
+  ],
+  "source": {
+    "url": "https://www.swtafe.vic.edu.au/scholarships",
+    "label": "South West TAFE: Scholarships"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "up to $800",
+      "url": "https://www.swtafe.vic.edu.au/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Who",
+      "quote": "any SWTAFE First Nations student",
+      "url": "https://www.swtafe.vic.edu.au/scholarships",
+      "page_date": null
+    }
+  ],
+  "closes": "closed"
+}

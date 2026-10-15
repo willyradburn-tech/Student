@@ -1,0 +1,67 @@
+{
+  "id": "dewr-free-tafe",
+  "name": "Free TAFE (Fee-Free TAFE)",
+  "provider": "Department of Employment and Workplace Relations",
+  "category": "loans",
+  "summary": "Free TAFE and VET course places funded nationally and delivered by each state and territory, prioritised for groups who face barriers to study.",
+  "key": "At least 100,000 Free TAFE and VET places per year from 2027, now a permanent feature of the national VET system.",
+  "who": [
+    "Places are prioritised for First Nations Australians, young people aged 17 to 24, people out of work or receiving income support, unpaid carers, women facing economic insecurity, women studying in non-traditional fields, people with disability and certain visa holders.",
+    "Eligibility details may vary by state and territory."
+  ],
+  "how": [
+    "Check course eligibility on the Your Career Free TAFE page, then enrol through a TAFE or provider in your state or territory."
+  ],
+  "catches": [
+    "Free TAFE is delivered in partnership with states and territories, so the courses on offer and the exact rules depend on where you live."
+  ],
+  "tags": [
+    "tafe",
+    "fee-free tafe",
+    "free tafe",
+    "vet",
+    "free course",
+    "national"
+  ],
+  "source": {
+    "url": "https://www.dewr.gov.au/skills-reform/free-tafe",
+    "label": "DEWR: Free TAFE"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Permanent program with at least 100,000 places a year from 2027",
+      "quote": "committing to invest over $1.6 billion to 2034-35 to support at least 100,000 Free TAFE and VET places per year from 2027,",
+      "url": "https://www.dewr.gov.au/skills-reform/free-tafe",
+      "page_date": null
+    },
+    {
+      "claim": "Permanent feature",
+      "quote": "The Australian Government has made Free TAFE a permanent feature of the national VET system,",
+      "url": "https://www.dewr.gov.au/skills-reform/free-tafe",
+      "page_date": null
+    },
+    {
+      "claim": "Priority cohorts",
+      "quote": "Access to Free TAFE places will be prioritised for target cohorts",
+      "url": "https://www.dewr.gov.au/skills-reform/free-tafe",
+      "page_date": null
+    },
+    {
+      "claim": "Delivered with states",
+      "quote": "Free TAFE will be delivered in partnership with states and territories.",
+      "url": "https://www.dewr.gov.au/skills-reform/free-tafe",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "wa-apprentice-travel-accommodation-allowance",
+  "name": "WA Travel and Accommodation Allowance for apprentices and trainees",
+  "provider": "Department of Training and Workforce Development (WA)",
+  "category": "transport",
+  "summary": "WA apprentices and trainees who travel over 70 km round trip to off-the-job training can claim help with travel and accommodation costs.",
+  "who": [
+    "Apprentices and trainees who live in WA with an active or suspended training contract",
+    "Must travel more than 70 km round trip from home to the closest approved training provider"
+  ],
+  "how": [
+    "Claim through the TAA online client portal in WAAMS."
+  ],
+  "catches": [
+    "Claims must be lodged within 60 days of the last day of each block training period or each day-release attendance.",
+    "Not available if your employer pays your travel and accommodation."
+  ],
+  "tags": [
+    "tafe",
+    "apprentice",
+    "trainee",
+    "WA",
+    "travel",
+    "accommodation",
+    "TAA"
+  ],
+  "source": {
+    "url": "https://www.wa.gov.au/service/education-and-training/vocational-education/travel-and-accommodation-allowance-apprentices-and-trainees",
+    "label": "WA Government: Travel and Accommodation Allowance for apprentices and trainees"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "wa"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Distance rule",
+      "quote": "must travel more than 70 kms (round trip) from their residential address",
+      "url": "https://www.wa.gov.au/service/education-and-training/vocational-education/travel-and-accommodation-allowance-apprentices-and-trainees",
+      "page_date": null
+    },
+    {
+      "claim": "How to claim",
+      "quote": "TAA claims must be submitted through the TAA online client portal",
+      "url": "https://www.wa.gov.au/service/education-and-training/vocational-education/travel-and-accommodation-allowance-apprentices-and-trainees",
+      "page_date": null
+    },
+    {
+      "claim": "60-day limit",
+      "quote": "All claims for the TAA must be submitted within 60 days",
+      "url": "https://www.wa.gov.au/service/education-and-training/vocational-education/travel-and-accommodation-allowance-apprentices-and-trainees",
+      "page_date": null
+    }
+  ]
+}

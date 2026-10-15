@@ -1,0 +1,67 @@
+{
+  "id": "qld-career-boost",
+  "name": "Career Boost (formerly Higher Level Skills)",
+  "provider": "Queensland Government",
+  "category": "loans",
+  "summary": "Subsidised priority skill sets and Certificate IV or higher courses for Queenslanders; students pay a co-contribution fee.",
+  "key": "Career Boost helps Queenslanders develop higher-level skills needed to secure employment, advance their careers, or progress to further education.",
+  "who": [
+    "Aged 15+ and left secondary school.",
+    "Australian citizen, permanent resident or NZ citizen living in Queensland.",
+    "Not enrolled in another qualification.",
+    "No Certificate IV or higher completed in the last 10 years."
+  ],
+  "how": [
+    "Enrol with an approved provider such as TAFE Queensland."
+  ],
+  "catches": [
+    "A co-contribution fee applies.",
+    "Eligibility here is from TAFE Queensland's summary; the official Career Boost page could not be opened."
+  ],
+  "tags": [
+    "tafe",
+    "tafe queensland",
+    "tafe qld",
+    "qld",
+    "queensland",
+    "higher level skills",
+    "hls",
+    "subsidised training",
+    "certificate iv",
+    "diploma"
+  ],
+  "source": {
+    "url": "https://tafeqld.edu.au/courses/apply-and-enrol/subsidised-training",
+    "label": "TAFE Queensland: Subsidised training"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "What it is",
+      "quote": "Career Boost helps Queenslanders develop higher-level skills needed to secure employment, advance their careers, or progress to further education.",
+      "url": "https://dtet.qld.gov.au/training/training-careers/incentives/certificate3/faq",
+      "page_date": null
+    },
+    {
+      "claim": "TAFE Queensland",
+      "quote": "assist individuals to gain the skills required to secure employment or career advancement.",
+      "url": "https://tafeqld.edu.au/courses/apply-and-enrol/subsidised-training",
+      "page_date": null
+    }
+  ]
+}

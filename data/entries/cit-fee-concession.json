@@ -1,0 +1,70 @@
+{
+  "id": "cit-fee-concession",
+  "name": "CIT 50% fee concession (including apprentices)",
+  "provider": "Canberra Institute of Technology",
+  "category": "loans",
+  "summary": "Half-price CIT course fees for Health Care Card, Pensioner Concession Card and DVA card holders, including Australian Apprentices and their dependants.",
+  "key": "Eligible students, including Australian Apprentices, may receive a 50% concession on course fees.",
+  "who": [
+    "Hold a Pensioner Concession Card, Health Care Card or DVA pension card",
+    "Apprentices under 18 listed as a dependant on a parent's card",
+    "Apprentices without a card may qualify as low-income earners (payslips) or through financial hardship"
+  ],
+  "how": [
+    "Submit the CIT Concession Application Form with evidence before your first class.",
+    "Apply again each semester."
+  ],
+  "catches": [
+    "Not available for commercial courses, international fees, resource or project fees, excursions or printing.",
+    "Not available where a government agency or employer pays your fees."
+  ],
+  "tags": [
+    "tafe",
+    "apprentice",
+    "ACT",
+    "Canberra",
+    "CIT",
+    "concession",
+    "Health Care Card"
+  ],
+  "source": {
+    "url": "https://cit.edu.au/study/course-fees-and-assistance/concessions-and-fee-assistance",
+    "label": "CIT: Concessions and fee assistance"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "act"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "50% concession",
+      "quote": "Eligible students, including Australian Apprentices, may receive a 50% concession on course fees",
+      "url": "https://cit.edu.au/study/course-fees-and-assistance/concessions-and-fee-assistance",
+      "page_date": null
+    },
+    {
+      "claim": "Dependants",
+      "quote": "will also be eligible to receive a 50% fee reduction if you are listed as a dependent",
+      "url": "https://cit.edu.au/study/course_fees_and_assistance/concessions_and_fee_assistance/apprentice_concessions",
+      "page_date": null
+    },
+    {
+      "claim": "Hardship fee assistance",
+      "quote": "can assist with course costs for eligible students who are experiencing financial hardship",
+      "url": "https://cit.edu.au/study/course-fees-and-assistance/concessions-and-fee-assistance",
+      "page_date": null
+    }
+  ]
+}

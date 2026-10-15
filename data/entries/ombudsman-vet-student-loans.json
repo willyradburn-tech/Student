@@ -1,0 +1,62 @@
+{
+  "id": "ombudsman-vet-student-loans",
+  "name": "VET Student Loans Ombudsman",
+  "provider": "Commonwealth Ombudsman",
+  "category": "loans",
+  "summary": "A free, independent complaints service for students with a VET Student Loan or VET FEE-HELP debt who have a problem with their provider.",
+  "who": [
+    "Students who have a VET FEE-HELP or VET Student Loan debt.",
+    "The complaint must be about the debt, for example a wrong loan amount, charges after you stopped participating, misleading information or a cancelled enrolment."
+  ],
+  "how": [
+    "Complain to your education provider first.",
+    "Then use the Ombudsman's online complaint form, or complain by phone, in person or in writing."
+  ],
+  "catches": [
+    "Category is the closest fit: this is a complaints service about VET loan debts."
+  ],
+  "tags": [
+    "tafe",
+    "vet",
+    "vsl",
+    "vet fee-help",
+    "complaints",
+    "ombudsman",
+    "national"
+  ],
+  "source": {
+    "url": "https://www.ombudsman.gov.au/complaints/vet-student-loan-complaints",
+    "label": "Commonwealth Ombudsman: VET student loan complaints"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free, independent service",
+      "quote": "a free, independent and impartial service for students to resolve complaints",
+      "url": "https://www.ombudsman.gov.au/complaints/vet-student-loan-complaints",
+      "page_date": null
+    },
+    {
+      "claim": "Who can complain",
+      "quote": "We can look into complaints from students who have a VET FEE-HELP or VET Student Loan debt",
+      "url": "https://www.ombudsman.gov.au/complaints/vet-student-loan-complaints",
+      "page_date": null
+    },
+    {
+      "claim": "Provider first",
+      "quote": "should lodge a complaint with them first",
+      "url": "https://www.ombudsman.gov.au/complaints/vet-student-loan-complaints",
+      "page_date": null
+    }
+  ]
+}

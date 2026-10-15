@@ -1,0 +1,663 @@
+[
+  {
+    "id": "dewr-free-tafe",
+    "name": "Free TAFE (Fee-Free TAFE)",
+    "provider": "Department of Employment and Workplace Relations",
+    "category": "loans",
+    "summary": "Free TAFE and VET course places funded nationally and delivered by each state and territory, prioritised for groups who face barriers to study.",
+    "key": "At least 100,000 Free TAFE and VET places per year from 2027, now a permanent feature of the national VET system.",
+    "who": [
+      "Places are prioritised for First Nations Australians, young people aged 17 to 24, people out of work or receiving income support, unpaid carers, women facing economic insecurity, women studying in non-traditional fields, people with disability and certain visa holders.",
+      "Eligibility details may vary by state and territory."
+    ],
+    "how": [
+      "Check course eligibility on the Your Career Free TAFE page, then enrol through a TAFE or provider in your state or territory."
+    ],
+    "catches": [
+      "Free TAFE is delivered in partnership with states and territories, so the courses on offer and the exact rules depend on where you live."
+    ],
+    "tags": ["tafe", "fee-free tafe", "free tafe", "vet", "free course", "national"],
+    "source": {
+      "url": "https://www.dewr.gov.au/skills-reform/free-tafe",
+      "label": "DEWR: Free TAFE"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Permanent program with at least 100,000 places a year from 2027",
+        "quote": "committing to invest over $1.6 billion to 2034-35 to support at least 100,000 Free TAFE and VET places per year from 2027,",
+        "url": "https://www.dewr.gov.au/skills-reform/free-tafe",
+        "page_date": null
+      },
+      {
+        "claim": "Permanent feature",
+        "quote": "The Australian Government has made Free TAFE a permanent feature of the national VET system,",
+        "url": "https://www.dewr.gov.au/skills-reform/free-tafe",
+        "page_date": null
+      },
+      {
+        "claim": "Priority cohorts",
+        "quote": "Access to Free TAFE places will be prioritised for target cohorts",
+        "url": "https://www.dewr.gov.au/skills-reform/free-tafe",
+        "page_date": null
+      },
+      {
+        "claim": "Delivered with states",
+        "quote": "Free TAFE will be delivered in partnership with states and territories.",
+        "url": "https://www.dewr.gov.au/skills-reform/free-tafe",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "dewr-vet-student-loans",
+    "name": "VET Student Loans",
+    "provider": "Department of Employment and Workplace Relations",
+    "category": "loans",
+    "summary": "A Commonwealth loan that pays tuition for approved diploma, advanced diploma and some graduate VET courses, repaid through the tax system.",
+    "key": "2026 maximum loan caps: Band 1 $6,428, Band 2 $12,858, Band 3 $19,290, and $96,467 for specific (Schedule 2) courses.",
+    "numbers": [
+      ["Band 1", "$6,428"],
+      ["Band 2", "$12,858"],
+      ["Band 3", "$19,290"],
+      ["Specific (Schedule 2) courses", "$96,467"]
+    ],
+    "who": [
+      "Only available for approved courses at diploma, advanced diploma, graduate certificate and graduate diploma level listed in the VET Student Loans (Courses and Loan Caps) Determination 2016.",
+      "Your provider must assess you as academically suited to the course.",
+      "Citizenship and residency requirements apply."
+    ],
+    "how": [
+      "Complete the Request for a VET Student Loan (eCAF) on or before the first census day you want the loan to cover."
+    ],
+    "catches": [
+      "You can't borrow more than the loan cap for your course.",
+      "VET Student Loans count toward your overall HELP loan limit ($129,883 for most students in 2026).",
+      "You repay the debt through the tax system once your income passes the repayment threshold.",
+      "The department's 2024 information booklet says full-fee-paying students incur a 20 per cent loan fee and state-subsidised students don't. Check with your provider whether this still applies."
+    ],
+    "tags": ["tafe", "vet", "vsl", "loan", "diploma", "advanced diploma", "national"],
+    "source": {
+      "url": "https://www.dewr.gov.au/node/17093",
+      "label": "DEWR: News for VSL providers (2026 loan caps)"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "2026 loan caps",
+        "quote": "Band 1 (Part 1, Schedule 1) – $6,428",
+        "url": "https://www.dewr.gov.au/node/17093",
+        "page_date": null
+      },
+      {
+        "claim": "2026 loan caps",
+        "quote": "Band 2 (Part 2, Schedule 1) – $12,858",
+        "url": "https://www.dewr.gov.au/node/17093",
+        "page_date": null
+      },
+      {
+        "claim": "2026 loan caps",
+        "quote": "Band 3 (Part 3, Schedule 1) – $19,290",
+        "url": "https://www.dewr.gov.au/node/17093",
+        "page_date": null
+      },
+      {
+        "claim": "2026 loan caps",
+        "quote": "Specific (Schedule 2) – $96,467",
+        "url": "https://www.dewr.gov.au/node/17093",
+        "page_date": null
+      },
+      {
+        "claim": "Caps apply from census days in 2026",
+        "quote": "These will apply to all units of study (new and continuing VSL students) with a census day of 1 January 2026 or later.",
+        "url": "https://www.dewr.gov.au/node/17093",
+        "page_date": null
+      },
+      {
+        "claim": "Approved course levels",
+        "quote": "VET Student Loans are only available for approved courses at the diploma, advanced diploma",
+        "url": "https://www.dewr.gov.au/vet-student-loans/resources/vet-student-loans-course-list-and-loan-caps-students",
+        "page_date": null
+      },
+      {
+        "claim": "Academic suitability",
+        "quote": "You must have been assessed by your course provider as academically suited to undertake the course",
+        "url": "https://www.dewr.gov.au/download/7003/vet-student-loans-information-booklet/39389/vet-student-loans-information-booklet/pdf",
+        "page_date": "2024-12"
+      },
+      {
+        "claim": "How to apply",
+        "quote": "You must submit the eCAF on or before the first census day for which you would like the loan to apply.",
+        "url": "https://www.dewr.gov.au/download/7003/vet-student-loans-information-booklet/39389/vet-student-loans-information-booklet/pdf",
+        "page_date": "2024-12"
+      },
+      {
+        "claim": "Loan fee (2024 booklet)",
+        "quote": "Full fee paying/fee for service students will incur a 20 per cent loan fee on their VET Student Loan.",
+        "url": "https://www.dewr.gov.au/download/7003/vet-student-loans-information-booklet/39389/vet-student-loans-information-booklet/pdf",
+        "page_date": "2024-12"
+      },
+      {
+        "claim": "Counts toward HELP limit",
+        "quote": "All FEE-HELP, VET FEE-HELP, VET Students Loans",
+        "url": "https://www.studyassist.gov.au/node/54",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "tps-vet-student-loans-tuition-protection",
+    "name": "Tuition Protection for VET Student Loans",
+    "provider": "Tuition Protection Service (Department of Education)",
+    "category": "loans",
+    "summary": "If your VET Student Loans provider closes or stops your course, the TPS helps you move to a replacement course or re-credits your loan.",
+    "who": [
+      "Students with a VET Student Loan whose provider defaults, for example by closing, not starting a course or stopping it partway through."
+    ],
+    "how": [
+      "Contact the Tuition Protection Service on 1300 131 798."
+    ],
+    "catches": [
+      "If no suitable replacement course is available, you get a loan re-credit only for the part of the course you paid for but weren't taught.",
+      "A replacement provider may charge for some parts of the course, so ask what you'll need to pay."
+    ],
+    "tags": ["tafe", "vet", "vsl", "tuition protection", "tps", "provider closure", "national"],
+    "source": {
+      "url": "https://www.education.gov.au/tps/vsl-students",
+      "label": "Department of Education: VET Student Loans students (TPS)"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Replacement course",
+        "quote": "the TPS can either help you continue your studies in a suitable replacement course",
+        "url": "https://www.education.gov.au/tps/vsl-students",
+        "page_date": null
+      },
+      {
+        "claim": "Loan re-credit",
+        "quote": "you are entitled to a loan re-credit on the portion of your course which has been paid for but not delivered.",
+        "url": "https://www.education.gov.au/tps/vsl-students",
+        "page_date": null
+      },
+      {
+        "claim": "Who is covered",
+        "quote": "If you have a VET Student Loan and your provider defaults",
+        "url": "https://www.education.gov.au/tps/vsl-students",
+        "page_date": null
+      },
+      {
+        "claim": "Contact",
+        "quote": "within Australia 1300 131 798",
+        "url": "https://www.education.gov.au/tps/vsl-students",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "ombudsman-vet-student-loans",
+    "name": "VET Student Loans Ombudsman",
+    "provider": "Commonwealth Ombudsman",
+    "category": "loans",
+    "summary": "A free, independent complaints service for students with a VET Student Loan or VET FEE-HELP debt who have a problem with their provider.",
+    "who": [
+      "Students who have a VET FEE-HELP or VET Student Loan debt.",
+      "The complaint must be about the debt, for example a wrong loan amount, charges after you stopped participating, misleading information or a cancelled enrolment."
+    ],
+    "how": [
+      "Complain to your education provider first.",
+      "Then use the Ombudsman's online complaint form, or complain by phone, in person or in writing."
+    ],
+    "catches": [
+      "Category is the closest fit: this is a complaints service about VET loan debts."
+    ],
+    "tags": ["tafe", "vet", "vsl", "vet fee-help", "complaints", "ombudsman", "national"],
+    "source": {
+      "url": "https://www.ombudsman.gov.au/complaints/vet-student-loan-complaints",
+      "label": "Commonwealth Ombudsman: VET student loan complaints"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free, independent service",
+        "quote": "a free, independent and impartial service for students to resolve complaints",
+        "url": "https://www.ombudsman.gov.au/complaints/vet-student-loan-complaints",
+        "page_date": null
+      },
+      {
+        "claim": "Who can complain",
+        "quote": "We can look into complaints from students who have a VET FEE-HELP or VET Student Loan debt",
+        "url": "https://www.ombudsman.gov.au/complaints/vet-student-loan-complaints",
+        "page_date": null
+      },
+      {
+        "claim": "Provider first",
+        "quote": "should lodge a complaint with them first",
+        "url": "https://www.ombudsman.gov.au/complaints/vet-student-loan-complaints",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "dewr-vsl-special-circumstances-recredit",
+    "name": "VET Student Loans re-credit for special circumstances",
+    "provider": "Department of Employment and Workplace Relations",
+    "category": "loans",
+    "summary": "If circumstances beyond your control stopped you finishing VET units, you can ask your provider to re-credit the VET Student Loan for them.",
+    "who": [
+      "VET Student Loans students whose studies were stopped by circumstances beyond their control that began or got worse after the census day."
+    ],
+    "how": [
+      "Apply in writing to your provider, with its application form and supporting evidence, within 12 months of the census day for the units."
+    ],
+    "catches": [
+      "Your provider can extend the 12-month limit if you show you couldn't apply in time.",
+      "If you disagree with the decision, ask the provider for an internal review, then apply to the Administrative Review Tribunal."
+    ],
+    "tags": ["tafe", "vet", "vsl", "re-credit", "special circumstances", "debt relief", "national"],
+    "source": {
+      "url": "https://www.dewr.gov.au/node/15925",
+      "label": "DEWR: VSL student manual, 24. Special circumstances"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Time limit and who to apply to",
+        "quote": "you must apply in writing to your provider within 12 months of the census day for the unit/s.",
+        "url": "https://www.dewr.gov.au/node/15925",
+        "page_date": null
+      },
+      {
+        "claim": "Special circumstances",
+        "quote": "Circumstances are special circumstances if they are:",
+        "url": "https://www.dewr.gov.au/node/15925",
+        "page_date": null
+      },
+      {
+        "claim": "Beyond your control",
+        "quote": "beyond your control",
+        "url": "https://www.dewr.gov.au/node/15925",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "dewr-national-training-complaints-hotline",
+    "name": "National Training Complaints Hotline",
+    "provider": "Department of Employment and Workplace Relations",
+    "category": "career",
+    "summary": "A national phone line and form for complaints about your training experience in VET, referred to the right authority.",
+    "who": [
+      "Anyone with a complaint about their experience while doing vocational training."
+    ],
+    "how": [
+      "Call 13 38 73 or complete the online complaints form."
+    ],
+    "catches": [
+      "The hotline refers your complaint to the authority best placed to handle it. It doesn't decide it itself.",
+      "Category is the closest fit: this is a complaints service."
+    ],
+    "tags": ["tafe", "vet", "complaints", "hotline", "national"],
+    "source": {
+      "url": "https://www.dewr.gov.au/national-training-complaints-hotline",
+      "label": "DEWR: National Training Complaints Hotline"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Refers complaints",
+        "quote": "the National Training Complaints Hotline can refer your complaint to the most appropriate authority",
+        "url": "https://www.dewr.gov.au/national-training-complaints-hotline",
+        "page_date": null
+      },
+      {
+        "claim": "Who it is for",
+        "quote": "a complaint relating to your experiences whilst undertaking training",
+        "url": "https://www.dewr.gov.au/national-training-complaints-hotline",
+        "page_date": null
+      },
+      {
+        "claim": "Phone",
+        "quote": "13 38 73",
+        "url": "https://www.dewr.gov.au/national-training-complaints-hotline",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "dewr-skills-for-education-and-employment",
+    "name": "Skills for Education and Employment (SEE) Program",
+    "provider": "Department of Employment and Workplace Relations",
+    "category": "loans",
+    "summary": "Free training in reading, writing, maths, English and basic computer skills for people aged 15 and over who have left school.",
+    "key": "SEE is free!",
+    "who": [
+      "Australian citizens, permanent visa holders, or people who meet other visa conditions.",
+      "Aged 15 years and over and left school.",
+      "Need help with reading, writing, maths, English language or digital skills."
+    ],
+    "how": [
+      "Contact your local SEE provider, call the National Customer Service Line on 1800 805 260, or ask your employment services provider or Centrelink."
+    ],
+    "tags": ["tafe", "vet", "literacy", "numeracy", "english", "digital skills", "free course", "national"],
+    "source": {
+      "url": "https://www.dewr.gov.au/node/8080",
+      "label": "DEWR: Skills for Education and Employment"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free",
+        "quote": "SEE is free!",
+        "url": "https://www.dewr.gov.au/node/8080",
+        "page_date": null
+      },
+      {
+        "claim": "What it is",
+        "quote": "The Skills for Education and Employment (SEE) Program offers free training",
+        "url": "https://www.dewr.gov.au/node/8080",
+        "page_date": null
+      },
+      {
+        "claim": "Age and school",
+        "quote": "aged 15 years and over and left school",
+        "url": "https://www.dewr.gov.au/node/8080",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "amep-free-english-classes",
+    "name": "Adult Migrant English Program (AMEP)",
+    "provider": "Department of Home Affairs (via Services Australia)",
+    "category": "loans",
+    "summary": "Free English classes for eligible migrants who speak little or no English, run by providers including many TAFEs.",
+    "key": "This is a free course.",
+    "who": [
+      "Aged 18 or over and speak little or no English.",
+      "Permanent residents, holders of an eligible temporary visa, and some citizens who held an eligible visa before.",
+      "People aged 15 to 17 may be able to do AMEP, even if they go to school."
+    ],
+    "how": [
+      "Find an AMEP provider on the Department of Home Affairs website and register with them."
+    ],
+    "catches": [
+      "If you arrived after 1 October 2020 and are 18 or older, you must register with an AMEP provider within 6 months.",
+      "If you have children under school age, you may get free child care while you attend face-to-face classes."
+    ],
+    "tags": ["tafe", "english", "migrants", "free course", "amep", "national"],
+    "source": {
+      "url": "https://servicesaustralia.gov.au/adult-migrant-english-program",
+      "label": "Services Australia: Adult Migrant English Program"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "res": {"yes": ["pr"], "maybe": ["intl", "citizen"]}
+    },
+    "evidence": [
+      {
+        "claim": "Free",
+        "quote": "This is a free course.",
+        "url": "https://servicesaustralia.gov.au/adult-migrant-english-program",
+        "page_date": null
+      },
+      {
+        "claim": "Age and English level",
+        "quote": "If you are 18 or over, you can do AMEP if you speak little or no English.",
+        "url": "https://servicesaustralia.gov.au/adult-migrant-english-program",
+        "page_date": null
+      },
+      {
+        "claim": "Free child care",
+        "quote": "If you have children under school age, you may get free child care while you attend face to face classes.",
+        "url": "https://servicesaustralia.gov.au/adult-migrant-english-program",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "headspace-work-and-study",
+    "name": "headspace Work & Study",
+    "provider": "headspace (funded by the Department of Social Services)",
+    "category": "career",
+    "summary": "Free career, study and job-application support for young people aged 15 to 25, by webchat, video or phone.",
+    "key": "A free service for young people aged 15 to 25.",
+    "who": [
+      "Young people aged 15 to 25 anywhere in Australia."
+    ],
+    "how": [
+      "Register online and book a time with a specialist, or call 1800 810 794."
+    ],
+    "catches": [
+      "Support covers career direction, planning study and course selection, and writing resumes and cover letters."
+    ],
+    "tags": ["tafe", "vet", "career guidance", "study support", "youth", "free", "national"],
+    "source": {
+      "url": "https://headspace.org.au/services/work-and-study-support/online",
+      "label": "headspace: Work & Study online support"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "age": {"min": 15, "max": 25}
+    },
+    "evidence": [
+      {
+        "claim": "Free, ages 15 to 25",
+        "quote": "A free service for young people aged 15 to 25.",
+        "url": "https://headspace.org.au/services/work-and-study-support/online",
+        "page_date": null
+      },
+      {
+        "claim": "Delivery",
+        "quote": "Access support from anywhere in Australia, via webchat, video or phone.",
+        "url": "https://headspace.org.au/services/work-and-study-support/online",
+        "page_date": null
+      },
+      {
+        "claim": "Government funded",
+        "quote": "headspace Work & Study is funded by the Australian Government Department of Social Services.",
+        "url": "https://headspace.org.au/work-and-study-support",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "dewr-your-career",
+    "name": "Your Career website and tools",
+    "provider": "Department of Employment and Workplace Relations",
+    "category": "career",
+    "summary": "The Australian Government's career site, with Career Explorer, Career Pathways and course search tools for planning study and training.",
+    "how": [
+      "Use the Your Career website."
+    ],
+    "catches": [
+      "The DEWR pages we checked don't mention a phone line or one-on-one career guidance sessions. Check the Your Career site for current services."
+    ],
+    "tags": ["tafe", "vet", "career guidance", "course search", "your career", "national"],
+    "source": {
+      "url": "https://www.dewr.gov.au/your-career",
+      "label": "DEWR: Your Career"
+    },
+    "status": "unverified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "What it is",
+        "quote": "Visit the Your Career website to find clear information and resources to help you better plan and manage your career",
+        "url": "https://www.dewr.gov.au/your-career",
+        "page_date": null
+      },
+      {
+        "claim": "Independent information",
+        "quote": "independent, nationally relevant information about Australian industries and occupations",
+        "url": "https://www.dewr.gov.au/skills-and-training/help-guide-your-career-choices",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "services-australia-low-income-health-care-card",
+    "name": "Low Income Health Care Card",
+    "provider": "Services Australia",
+    "category": "health",
+    "summary": "A concession card for cheaper health care and some discounts if your income is low, even if you don't get a Centrelink payment.",
+    "who": [
+      "Income below the income test limit.",
+      "No assets test.",
+      "Meet residence rules."
+    ],
+    "how": [
+      "Claim through Services Australia."
+    ],
+    "catches": [
+      "The pages we checked don't list the income limits. Check the income test on the Services Australia site."
+    ],
+    "tags": ["tafe", "vet", "concession card", "health care card", "low income", "national"],
+    "source": {
+      "url": "https://www.servicesaustralia.gov.au/low-income-health-care-card",
+      "label": "Services Australia: Low Income Health Care Card"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "payment": {"yes": ["no"]}
+    },
+    "evidence": [
+      {
+        "claim": "What it is",
+        "quote": "A concession card to get cheaper health care and some discounts if you're on a low income.",
+        "url": "https://www.servicesaustralia.gov.au/low-income-health-care-card",
+        "page_date": null
+      },
+      {
+        "claim": "Income test",
+        "quote": "To get a Low Income Health Care Card your income needs to be below the income test limit.",
+        "url": "https://servicesaustralia.gov.au/who-can-get-low-income-health-care-card",
+        "page_date": null
+      },
+      {
+        "claim": "No assets test",
+        "quote": "You don’t need to pass an assets test.",
+        "url": "https://servicesaustralia.gov.au/who-can-get-low-income-health-care-card",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "usi-vet-transcript",
+    "name": "Free USI VET transcript",
+    "provider": "Student Identifiers Registrar",
+    "category": "career",
+    "summary": "A free, government-authenticated record of all your nationally recognised training since 2015, from your USI account.",
+    "key": "It's accessible through your USI account, it's government authenticated and it's free.",
+    "who": [
+      "Anyone with a Unique Student Identifier (USI) who has done nationally recognised training."
+    ],
+    "how": [
+      "Log in to your USI account through the Student Portal and select View VET Transcript."
+    ],
+    "tags": ["tafe", "vet", "usi", "transcript", "free", "national"],
+    "source": {
+      "url": "https://www.usi.gov.au/node/17",
+      "label": "USI: Students and their VET transcripts"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free",
+        "quote": "It's accessible through your USI account, it's government authenticated and it's free.",
+        "url": "https://www.usi.gov.au/node/17",
+        "page_date": null
+      },
+      {
+        "claim": "What it shows",
+        "quote": "A USI vocational education training (VET) transcript shows all your completed nationally recognised training since 2015.",
+        "url": "https://www.usi.gov.au/node/17",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "reading-writing-hotline",
+    "name": "Reading Writing Hotline",
+    "provider": "Reading Writing Hotline (listed by DEWR)",
+    "category": "career",
+    "summary": "A national phone service that refers adults to English language, literacy and numeracy help, including Commonwealth-funded programs.",
+    "who": [
+      "Adults wanting help with English, literacy or numeracy."
+    ],
+    "how": [
+      "Call 1300 6 555 06."
+    ],
+    "catches": [
+      "The DEWR page doesn't say whether calls are free or list opening hours."
+    ],
+    "tags": ["tafe", "vet", "literacy", "numeracy", "english", "referral", "national"],
+    "source": {
+      "url": "https://www.dewr.gov.au/node/8405",
+      "label": "DEWR: Reading Writing Hotline"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "What it does",
+        "quote": "provides a national phone service for adults seeking English language, literacy and numeracy referral",
+        "url": "https://www.dewr.gov.au/node/8405",
+        "page_date": null
+      },
+      {
+        "claim": "Phone",
+        "quote": "1300 6 555 06",
+        "url": "https://www.dewr.gov.au/node/8405",
+        "page_date": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "id": "batchelor-vet-fee-exemptions",
+  "name": "Batchelor Institute VET fee exemptions",
+  "provider": "Batchelor Institute of Indigenous Tertiary Education",
+  "category": "loans",
+  "summary": "Aboriginal and Torres Strait Islander students at Batchelor Institute pay no VET fees on funded courses; Centrelink recipients and students in hardship can apply for exemptions.",
+  "key": "Aboriginal and/or Torres Strait Islander students enrolled in any VET course are automatically exempt on government-funded courses.",
+  "who": [
+    "Aboriginal and/or Torres Strait Islander students enrolled in any VET course (automatic)",
+    "Students on full-time ABSTUDY, Austudy or other listed Centrelink benefits (with evidence)",
+    "Unemployed students and those who can show financial hardship"
+  ],
+  "how": [
+    "Provide evidence at enrolment and apply for a fee exemption."
+  ],
+  "catches": [
+    "Exemptions are not applied retrospectively unless approved.",
+    "Batchelor is no longer approved for VET Student Loans."
+  ],
+  "tags": [
+    "tafe",
+    "NT",
+    "Batchelor Institute",
+    "Aboriginal",
+    "Torres Strait Islander",
+    "VET",
+    "fee exemption",
+    "ABSTUDY"
+  ],
+  "source": {
+    "url": "https://batchelor.edu.au/students/fees",
+    "label": "Batchelor Institute: Fees"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Automatic exemption for First Nations VET students",
+      "quote": "Aboriginal and/or Torres Strait Islander students enrolled in any VET course.",
+      "url": "https://batchelor.edu.au/students/fees",
+      "page_date": null
+    },
+    {
+      "claim": "Hardship consideration",
+      "quote": "Special consideration will be given to students who can demonstrate financial hardship.",
+      "url": "https://batchelor.edu.au/students/fees",
+      "page_date": null
+    },
+    {
+      "claim": "No retrospective exemptions",
+      "quote": "Fee exemptions are not applied retrospectively, unless approved otherwise.",
+      "url": "https://batchelor.edu.au/students/fees",
+      "page_date": null
+    }
+  ]
+}

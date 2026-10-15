@@ -1,0 +1,61 @@
+{
+  "id": "services-australia-low-income-health-care-card",
+  "name": "Low Income Health Care Card",
+  "provider": "Services Australia",
+  "category": "health",
+  "summary": "A concession card for cheaper health care and some discounts if your income is low, even if you don't get a Centrelink payment.",
+  "who": [
+    "Income below the income test limit.",
+    "No assets test.",
+    "Meet residence rules."
+  ],
+  "how": [
+    "Claim through Services Australia."
+  ],
+  "catches": [
+    "The pages we checked don't list the income limits. Check the income test on the Services Australia site."
+  ],
+  "tags": [
+    "tafe",
+    "vet",
+    "concession card",
+    "health care card",
+    "low income",
+    "national"
+  ],
+  "source": {
+    "url": "https://www.servicesaustralia.gov.au/low-income-health-care-card",
+    "label": "Services Australia: Low Income Health Care Card"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "payment": {
+      "yes": [
+        "no"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "What it is",
+      "quote": "A concession card to get cheaper health care and some discounts if you're on a low income.",
+      "url": "https://www.servicesaustralia.gov.au/low-income-health-care-card",
+      "page_date": null
+    },
+    {
+      "claim": "Income test",
+      "quote": "To get a Low Income Health Care Card your income needs to be below the income test limit.",
+      "url": "https://servicesaustralia.gov.au/who-can-get-low-income-health-care-card",
+      "page_date": null
+    },
+    {
+      "claim": "No assets test",
+      "quote": "You don’t need to pass an assets test.",
+      "url": "https://servicesaustralia.gov.au/who-can-get-low-income-health-care-card",
+      "page_date": null
+    }
+  ]
+}

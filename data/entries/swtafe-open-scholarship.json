@@ -1,0 +1,74 @@
+{
+  "id": "swtafe-open-scholarship",
+  "name": "South West TAFE Open Scholarship",
+  "provider": "South West TAFE",
+  "category": "uni",
+  "summary": "Up to $1,000 for any full-time South West TAFE student; the 2027 round opens mid-October 2026.",
+  "key": "Up to $1000",
+  "who": [
+    "Planning to enrol or enrolled full-time at South West TAFE",
+    "Australian citizen or permanent humanitarian visa holder",
+    "Strong commitment to study and a pathway into employment"
+  ],
+  "how": [
+    "Select the scholarship and click Apply for a Scholarship on the SWTAFE page"
+  ],
+  "catches": [
+    "2026 round closed; 2027 round opens mid-October 2026"
+  ],
+  "tags": [
+    "tafe",
+    "swtafe",
+    "south west tafe",
+    "warrnambool",
+    "vic",
+    "regional",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.swtafe.vic.edu.au/scholarships",
+    "label": "South West TAFE: Scholarships"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "Up to $1000",
+      "url": "https://www.swtafe.vic.edu.au/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Who",
+      "quote": "any SWTAFE student",
+      "url": "https://www.swtafe.vic.edu.au/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Next round",
+      "quote": "Scholarship opportunities for 2027 will open in mid-October.",
+      "url": "https://www.swtafe.vic.edu.au/scholarships",
+      "page_date": null
+    }
+  ],
+  "closes": "closed"
+}

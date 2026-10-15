@@ -1,0 +1,46 @@
+{
+  "id": "tafe-qld-accessability-support",
+  "name": "TAFE Queensland AccessAbility support",
+  "provider": "TAFE Queensland",
+  "category": "uni",
+  "summary": "Practical help and an individual support plan for TAFE Queensland students with disability.",
+  "who": [
+    "TAFE Queensland students with disability."
+  ],
+  "how": [
+    "Contact the AccessAbility Support team through the TAFE Queensland enquiry form."
+  ],
+  "tags": [
+    "tafe",
+    "tafe queensland",
+    "tafe qld",
+    "qld",
+    "queensland",
+    "disability",
+    "accessibility",
+    "equity"
+  ],
+  "source": {
+    "url": "https://tafeqld.edu.au/current-students/student-support-services/index.html",
+    "label": "TAFE Queensland: Student support services"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Service",
+      "quote": "we can provide practical assistance, support, and advice.",
+      "url": "https://tafeqld.edu.au/current-students/student-support-services/index.html",
+      "page_date": null
+    }
+  ]
+}

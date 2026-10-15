@@ -1,0 +1,70 @@
+{
+  "id": "batchelor-student-travel-assistance",
+  "name": "Batchelor Institute workshop travel, accommodation and meals",
+  "provider": "Batchelor Institute of Indigenous Tertiary Education",
+  "category": "transport",
+  "summary": "Travel, accommodation and meals covered for Indigenous Batchelor students on ABSTUDY attending study workshops at Batchelor or Alice Springs.",
+  "key": "Cost of Travel, accommodation and meals are covered for the duration of the workshop.",
+  "who": [
+    "Enrolled in a Batchelor Institute course",
+    "Aboriginal and/or Torres Strait Islander",
+    "Approved for an ABSTUDY benefit (excluding Away From Base assistance)"
+  ],
+  "how": [
+    "Enrol, then give the Institute written evidence of your ABSTUDY approval; your lecturer submits a Travel Request.",
+    "Confirm or cancel before 12pm on the Wednesday before the workshop."
+  ],
+  "catches": [
+    "Costs outside approved workshop dates aren't covered.",
+    "Children's travel and care are your responsibility."
+  ],
+  "tags": [
+    "tafe",
+    "NT",
+    "Batchelor Institute",
+    "Aboriginal",
+    "Torres Strait Islander",
+    "ABSTUDY",
+    "travel",
+    "Alice Springs"
+  ],
+  "source": {
+    "url": "https://batchelor.edu.au/students/student-travel",
+    "label": "Batchelor Institute: Student travel"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "payment": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "What's covered",
+      "quote": "Cost of Travel, accommodation and meals are covered for the duration of the workshop.",
+      "url": "https://batchelor.edu.au/students/student-travel",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "To be eligible for travel assistance, students are required to be enrolled in a course",
+      "url": "https://batchelor.edu.au/students/student-travel",
+      "page_date": null
+    }
+  ]
+}

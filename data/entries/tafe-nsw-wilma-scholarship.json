@@ -1,0 +1,65 @@
+{
+  "id": "tafe-nsw-wilma-scholarship",
+  "name": "WILMA Scholarship (TAFE NSW, Macarthur)",
+  "provider": "TAFE NSW",
+  "category": "uni",
+  "summary": "$1,500 for a woman in the Macarthur region facing financial or personal barriers to TAFE NSW study.",
+  "key": "TAFE NSW will award $1,500 to empower a woman from the Macarthur region.",
+  "who": [
+    "Woman by birth or identity who lives or studies in the Macarthur area.",
+    "Enrolled or planning to enrol in a nationally accredited TAFE NSW course in Semester 2, 2026.",
+    "Australian citizen, permanent resident, humanitarian visa holder or NZ citizen.",
+    "Shows significant barriers to study, such as financial hardship or recovering from family or domestic violence."
+  ],
+  "how": [
+    "Use the Apply now button and select 'WILMA Scholarship' from the scholarship drop-down."
+  ],
+  "catches": [
+    "Applications close 5 pm (AEDT) Friday, 23 October 2026."
+  ],
+  "closes": "2026-10-23",
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "women",
+    "macarthur",
+    "campbelltown",
+    "hardship",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.tafensw.edu.au/scholarships/wilma-scholarship",
+    "label": "TAFE NSW: WILMA Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "TAFE NSW will award $1,500 to empower a woman from the Macarthur region",
+      "url": "https://www.tafensw.edu.au/scholarships/wilma-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications for the 2026 WILMA Scholarship close 5 pm (AEDT) Friday, 23 October 2026.",
+      "url": "https://www.tafensw.edu.au/scholarships/wilma-scholarship",
+      "page_date": null
+    }
+  ]
+}

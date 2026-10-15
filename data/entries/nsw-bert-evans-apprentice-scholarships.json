@@ -1,0 +1,66 @@
+{
+  "id": "nsw-bert-evans-apprentice-scholarships",
+  "name": "Bert Evans Apprentice Scholarships",
+  "provider": "NSW Government",
+  "category": "payments",
+  "summary": "Scholarship for first-year NSW apprentices facing financial or personal hardship, paid over three years.",
+  "key": "Grant recipients may receive up to $15,000 over three years.",
+  "who": [
+    "First-year apprentices approved in NSW, including school-based apprentices (trainees are not eligible)",
+    "Experiencing financial and/or personal hardship",
+    "Australian citizen or permanent resident employed by a NSW-based employer"
+  ],
+  "catches": [
+    "The 2026 round opened 18 May 2026 and closed 30 September 2026; watch for the next round."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "nsw",
+    "scholarship",
+    "hardship",
+    "first year"
+  ],
+  "source": {
+    "url": "https://www.nsw.gov.au/grants-and-funding/bert-evans-apprentice-scholarships-2026",
+    "label": "NSW Government: Bert Evans Apprentice Scholarships 2026"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "Grant recipients may receive up to $15,000 over three years",
+      "url": "https://www.nsw.gov.au/grants-and-funding/bert-evans-apprentice-scholarships-2026",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "first-year apprentices approved in NSW",
+      "url": "https://www.nsw.gov.au/grants-and-funding/bert-evans-apprentice-scholarships-2026",
+      "page_date": null
+    }
+  ],
+  "closes": "closed"
+}

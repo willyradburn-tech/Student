@@ -1,0 +1,71 @@
+{
+  "id": "cdu-fee-free-tafe",
+  "name": "CDU Fee-Free TAFE (NT)",
+  "provider": "Charles Darwin University",
+  "category": "loans",
+  "summary": "Tuition-free CDU TAFE places for people 15 and over who live or work in the Northern Territory and are new to the course.",
+  "key": "Tuition-free training places to students wanting to train, retrain or upskill.",
+  "who": [
+    "Live or work in the Northern Territory",
+    "Australian citizen, permanent resident, eligible NZ citizen or eligible visa holder",
+    "At least 15 and not at secondary school",
+    "Enrolling in the course for the first time"
+  ],
+  "catches": [
+    "Applications for 2026 are closed; 2027 courses are listed as coming soon.",
+    "Places are limited."
+  ],
+  "tags": [
+    "tafe",
+    "NT",
+    "Darwin",
+    "CDU",
+    "Charles Darwin University",
+    "fee-free",
+    "VET"
+  ],
+  "source": {
+    "url": "https://www.cdu.edu.au/study/fee-free-tafe",
+    "label": "CDU: Fee-Free TAFE"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "other"
+      ]
+    },
+    "age": {
+      "min": 15
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Tuition-free places",
+      "quote": "tuition-free training places to students wanting to train, retrain or upskill",
+      "url": "https://www.cdu.edu.au/study/fee-free-tafe",
+      "page_date": null
+    },
+    {
+      "claim": "NT residency",
+      "quote": "Live or work in the Northern Territory",
+      "url": "https://www.cdu.edu.au/study/fee-free-tafe",
+      "page_date": null
+    },
+    {
+      "claim": "2026 closed",
+      "quote": "APPLICATIONS CLOSED FOR 2026",
+      "url": "https://www.cdu.edu.au/study/fee-free-tafe",
+      "page_date": null
+    }
+  ],
+  "closes": "closed"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "vic-skills-and-jobs-centres",
+  "name": "Skills and Jobs Centres (free career and training advice)",
+  "provider": "Victorian Government",
+  "category": "career",
+  "summary": "Free career, employment and training advice at centres across Victoria, many based at TAFEs.",
+  "key": "Skills and Jobs Centres offer free career, employment and training support services.",
+  "who": [
+    "All Victorians, regardless of visa status"
+  ],
+  "how": [
+    "Book an appointment with your local centre using its contact details"
+  ],
+  "tags": [
+    "tafe",
+    "career advice",
+    "vic",
+    "victoria",
+    "free",
+    "skills and jobs centre"
+  ],
+  "source": {
+    "url": "https://www.vic.gov.au/skills-and-jobs-centres",
+    "label": "Victorian Government: Skills and Jobs Centres"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free services",
+      "quote": "Skills and Jobs Centres offer free career, employment and training support services.",
+      "url": "https://www.vic.gov.au/skills-and-jobs-centres",
+      "page_date": null
+    },
+    {
+      "claim": "Who can use them",
+      "quote": "All Victorians and Victorian employers are eligible, regardless of visa status.",
+      "url": "https://www.vic.gov.au/skills-and-jobs-centres",
+      "page_date": null
+    }
+  ]
+}

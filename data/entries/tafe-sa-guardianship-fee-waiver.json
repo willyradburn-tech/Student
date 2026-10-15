@@ -1,0 +1,48 @@
+{
+  "id": "tafe-sa-guardianship-fee-waiver",
+  "name": "TAFE SA course fee waiver for care leavers",
+  "provider": "TAFE SA",
+  "category": "loans",
+  "summary": "Course fees are waived on SA-subsidised TAFE SA courses for people 16 and over who are or were under the Guardianship of the Minister.",
+  "key": "Course fees are waived for eligible Subsidised Training courses.",
+  "who": [
+    "Are or have ever been under the Guardianship of the Minister",
+    "Aged 16 or over and meet the course entry requirements"
+  ],
+  "tags": [
+    "tafe",
+    "SA",
+    "TAFE SA",
+    "care leaver",
+    "guardianship",
+    "fee waiver"
+  ],
+  "source": {
+    "url": "https://students.tafesa.edu.au/fees-enrolments/fees-charges",
+    "label": "TAFE SA: Fees and Charges"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "other"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Guardianship waiver",
+      "quote": "If you are or have ever been under the Guardianship of the Minister and aged 16 or over,",
+      "url": "https://students.tafesa.edu.au/fees-enrolments/fees-charges",
+      "page_date": null
+    }
+  ]
+}

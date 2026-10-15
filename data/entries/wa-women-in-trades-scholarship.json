@@ -1,0 +1,70 @@
+{
+  "id": "wa-women-in-trades-scholarship",
+  "name": "WA Women in Trades Scholarship ($5,000)",
+  "provider": "Jobs and Skills WA (Government of Western Australia)",
+  "category": "payments",
+  "summary": "A $5,000 scholarship for women starting eligible apprenticeships, traineeships or trade qualifications at WA TAFE colleges.",
+  "key": "A $5,000 scholarship payment for eligible women.",
+  "who": [
+    "Women enrolling in eligible apprenticeships, traineeships or qualifications at WA TAFE colleges",
+    "Full-time and part-time enrolments are eligible"
+  ],
+  "how": [
+    "Apply through your WA TAFE college; more information at tafe.wa.edu.au."
+  ],
+  "catches": [
+    "100 scholarships available in 2026, available until places are filled.",
+    "Training must start between 1 January 2026 and 31 December 2026 (per South Regional TAFE)."
+  ],
+  "tags": [
+    "tafe",
+    "apprentice",
+    "WA",
+    "women",
+    "trades",
+    "scholarship",
+    "North Metropolitan TAFE",
+    "South Regional TAFE",
+    "North Regional TAFE"
+  ],
+  "source": {
+    "url": "https://www.jobsandskills.wa.gov.au/news/women-trades-scholarship-program-2026-now-open",
+    "label": "Jobs and Skills WA: Women in Trades Scholarship Program 2026 now open"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "wa"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "$5,000 scholarship",
+      "quote": "$5,000 scholarship payment",
+      "url": "https://www.jobsandskills.wa.gov.au/news/women-trades-scholarship-program-2026-now-open",
+      "page_date": "2026-02-03"
+    },
+    {
+      "claim": "Eligible enrolments",
+      "quote": "eligible apprenticeships, traineeships or qualifications at WA TAFE colleges",
+      "url": "https://www.jobsandskills.wa.gov.au/news/women-trades-scholarship-program-2026-now-open",
+      "page_date": "2026-02-03"
+    },
+    {
+      "claim": "Open until filled, 2026 start",
+      "quote": "commence training in an eligible qualification (full time or part time) between 1 January 2026 and 31 December 2026",
+      "url": "https://www.southregionaltafe.wa.edu.au/apply-and-enrol/scholarships",
+      "page_date": null
+    }
+  ]
+}

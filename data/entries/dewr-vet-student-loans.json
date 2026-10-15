@@ -1,0 +1,126 @@
+{
+  "id": "dewr-vet-student-loans",
+  "name": "VET Student Loans",
+  "provider": "Department of Employment and Workplace Relations",
+  "category": "loans",
+  "summary": "A Commonwealth loan that pays tuition for approved diploma, advanced diploma and some graduate VET courses, repaid through the tax system.",
+  "key": "2026 maximum loan caps: Band 1 $6,428, Band 2 $12,858, Band 3 $19,290, and $96,467 for specific (Schedule 2) courses.",
+  "numbers": [
+    [
+      "Band 1",
+      "$6,428"
+    ],
+    [
+      "Band 2",
+      "$12,858"
+    ],
+    [
+      "Band 3",
+      "$19,290"
+    ],
+    [
+      "Specific (Schedule 2) courses",
+      "$96,467"
+    ]
+  ],
+  "who": [
+    "Only available for approved courses at diploma, advanced diploma, graduate certificate and graduate diploma level listed in the VET Student Loans (Courses and Loan Caps) Determination 2016.",
+    "Your provider must assess you as academically suited to the course.",
+    "Citizenship and residency requirements apply."
+  ],
+  "how": [
+    "Complete the Request for a VET Student Loan (eCAF) on or before the first census day you want the loan to cover."
+  ],
+  "catches": [
+    "You can't borrow more than the loan cap for your course.",
+    "VET Student Loans count toward your overall HELP loan limit ($129,883 for most students in 2026).",
+    "You repay the debt through the tax system once your income passes the repayment threshold.",
+    "The department's 2024 information booklet says full-fee-paying students incur a 20 per cent loan fee and state-subsidised students don't. Check with your provider whether this still applies."
+  ],
+  "tags": [
+    "tafe",
+    "vet",
+    "vsl",
+    "loan",
+    "diploma",
+    "advanced diploma",
+    "national"
+  ],
+  "source": {
+    "url": "https://www.dewr.gov.au/node/17093",
+    "label": "DEWR: News for VSL providers (2026 loan caps)"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "2026 loan caps",
+      "quote": "Band 1 (Part 1, Schedule 1) – $6,428",
+      "url": "https://www.dewr.gov.au/node/17093",
+      "page_date": null
+    },
+    {
+      "claim": "2026 loan caps",
+      "quote": "Band 2 (Part 2, Schedule 1) – $12,858",
+      "url": "https://www.dewr.gov.au/node/17093",
+      "page_date": null
+    },
+    {
+      "claim": "2026 loan caps",
+      "quote": "Band 3 (Part 3, Schedule 1) – $19,290",
+      "url": "https://www.dewr.gov.au/node/17093",
+      "page_date": null
+    },
+    {
+      "claim": "2026 loan caps",
+      "quote": "Specific (Schedule 2) – $96,467",
+      "url": "https://www.dewr.gov.au/node/17093",
+      "page_date": null
+    },
+    {
+      "claim": "Caps apply from census days in 2026",
+      "quote": "These will apply to all units of study (new and continuing VSL students) with a census day of 1 January 2026 or later.",
+      "url": "https://www.dewr.gov.au/node/17093",
+      "page_date": null
+    },
+    {
+      "claim": "Approved course levels",
+      "quote": "VET Student Loans are only available for approved courses at the diploma, advanced diploma",
+      "url": "https://www.dewr.gov.au/vet-student-loans/resources/vet-student-loans-course-list-and-loan-caps-students",
+      "page_date": null
+    },
+    {
+      "claim": "Academic suitability",
+      "quote": "You must have been assessed by your course provider as academically suited to undertake the course",
+      "url": "https://www.dewr.gov.au/download/7003/vet-student-loans-information-booklet/39389/vet-student-loans-information-booklet/pdf",
+      "page_date": "2024-12"
+    },
+    {
+      "claim": "How to apply",
+      "quote": "You must submit the eCAF on or before the first census day for which you would like the loan to apply.",
+      "url": "https://www.dewr.gov.au/download/7003/vet-student-loans-information-booklet/39389/vet-student-loans-information-booklet/pdf",
+      "page_date": "2024-12"
+    },
+    {
+      "claim": "Loan fee (2024 booklet)",
+      "quote": "Full fee paying/fee for service students will incur a 20 per cent loan fee on their VET Student Loan.",
+      "url": "https://www.dewr.gov.au/download/7003/vet-student-loans-information-booklet/39389/vet-student-loans-information-booklet/pdf",
+      "page_date": "2024-12"
+    },
+    {
+      "claim": "Counts toward HELP limit",
+      "quote": "All FEE-HELP, VET FEE-HELP, VET Students Loans",
+      "url": "https://www.studyassist.gov.au/node/54",
+      "page_date": null
+    }
+  ]
+}

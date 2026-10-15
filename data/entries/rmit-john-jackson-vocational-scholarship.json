@@ -1,0 +1,82 @@
+{
+  "id": "rmit-john-jackson-vocational-scholarship",
+  "name": "RMIT Emeritus Professor John Jackson Scholarship for Vocational Education",
+  "provider": "RMIT University (Vocational Education)",
+  "category": "uni",
+  "summary": "Up to $25,000 a year for RMIT vocational students in financial hardship starting a Certificate IV, Diploma or Advanced Diploma in 2027.",
+  "key": "Up to $25,000 per year ($12,500 per semester).",
+  "who": [
+    "Australian citizen",
+    "Starting full-time study in Semester 1 2027 in a Certificate IV, Diploma or Advanced Diploma at RMIT",
+    "Financial hardship, such as a low-income Centrelink payment or Health Care Card",
+    "Not previously completed a program at the same or higher level"
+  ],
+  "how": [
+    "Apply directly with RMIT online (preferred) or through VTAC, with supporting documents"
+  ],
+  "catches": [
+    "Closes 2pm Tuesday 20 October 2026; late applications not accepted",
+    "Excludes Certificate IV apprenticeships and undergraduate diplomas"
+  ],
+  "tags": [
+    "tafe",
+    "rmit",
+    "rmit vocational",
+    "melbourne",
+    "vic",
+    "hardship",
+    "scholarship",
+    "diploma"
+  ],
+  "source": {
+    "url": "https://www.rmit.edu.au/scholarships/coursework/john-jackson-ve",
+    "label": "RMIT: Emeritus Professor John Jackson Scholarship for Vocational Education"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "closes": "2026-10-20",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen"
+      ]
+    },
+    "load": {
+      "yes": [
+        "full"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "up to $25,000 per year ($12,500 per semester)",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/john-jackson-ve",
+      "page_date": null
+    },
+    {
+      "claim": "Status",
+      "quote": "Applications are now open.",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/john-jackson-ve",
+      "page_date": null
+    },
+    {
+      "claim": "VTAC route",
+      "quote": "Apply online through the Victorian Tertiary Admissions Centre (VTAC) website.",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/john-jackson-ve",
+      "page_date": null
+    }
+  ]
+}

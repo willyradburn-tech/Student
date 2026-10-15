@@ -1,0 +1,79 @@
+{
+  "id": "gordon-jump-start-scholarships",
+  "name": "The Gordon Jump Start Scholarships (Round 1)",
+  "provider": "The Gordon",
+  "category": "uni",
+  "summary": "Scholarships for students in financial hardship starting a Gordon course via early offer rounds; Gordon scholarships range from $500 to $7,000.",
+  "key": "The Gordon's Scholarships range in value from $500 to $7000.",
+  "who": [
+    "Australian citizen, permanent resident, or bridging, temporary or permanent humanitarian visa holder",
+    "Enrolled in a Gordon course of 6 months or more",
+    "Experiencing financial hardship",
+    "Under 18s need parent or guardian consent"
+  ],
+  "how": [
+    "Apply via the Round 1 form on The Gordon scholarships page"
+  ],
+  "catches": [
+    "Round 1 open 1 September to 31 October; awarded in January",
+    "Must apply, accept and be enrolled in your course before 24 November",
+    "80% paid at the start, 20% at year end after reporting"
+  ],
+  "tags": [
+    "tafe",
+    "gordon",
+    "the gordon",
+    "geelong",
+    "vic",
+    "regional",
+    "hardship",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.thegordon.edu.au/students/scholarships",
+    "label": "The Gordon: Scholarships and financial assistance"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "closes": "2026-10-31",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value range",
+      "quote": "The Gordon's Scholarships ranging in value from $500 to $7000 can empower you to reach your educational goals,",
+      "url": "https://www.thegordon.edu.au/students/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Purpose",
+      "quote": "These scholarships support students applying for early offer rounds that need financial assistance to start their studies.",
+      "url": "https://www.thegordon.edu.au/students/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Round dates",
+      "quote": "1 September - 31 October",
+      "url": "https://www.thegordon.edu.au/students/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Hardship rule",
+      "quote": "be experiencing financial hardship",
+      "url": "https://www.thegordon.edu.au/students/scholarships",
+      "page_date": null
+    }
+  ]
+}

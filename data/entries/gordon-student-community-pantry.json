@@ -1,0 +1,54 @@
+{
+  "id": "gordon-student-community-pantry",
+  "name": "The Gordon Student Community Pantry",
+  "provider": "The Gordon",
+  "category": "uni",
+  "summary": "Free groceries and staples for all Gordon students from on-campus pantries, no questions asked.",
+  "key": "Items are available for FREE to all students. No questions asked.",
+  "who": [
+    "All Gordon students"
+  ],
+  "tags": [
+    "tafe",
+    "gordon",
+    "the gordon",
+    "geelong",
+    "vic",
+    "food pantry",
+    "free food"
+  ],
+  "source": {
+    "url": "https://www.thegordon.edu.au/students/scholarships",
+    "label": "The Gordon: Scholarships and financial assistance"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free for all students",
+      "quote": "Items are available for FREE to all students. No questions asked.",
+      "url": "https://www.thegordon.edu.au/students/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "What's stocked",
+      "quote": "The Gordon's Student Community Pantry is regularly restocked with groceries and staples.",
+      "url": "https://www.thegordon.edu.au/students/scholarships",
+      "page_date": null
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "qld-fee-free-tafe",
+  "name": "Fee-Free TAFE Queensland",
+  "provider": "Queensland Government",
+  "category": "loans",
+  "summary": "Tuition-free priority courses at TAFE Queensland or CQUniversity for eligible Queenslanders, now including construction.",
+  "key": "Fee-Free TAFE, extended until 31 December 2026, allows eligible Queenslanders to study priority skill sets and qualifications.",
+  "who": [
+    "Permanently live in Queensland.",
+    "Australian or NZ citizen, permanent resident, or eligible temporary resident on a pathway to permanent residency.",
+    "15 or older and no longer at school.",
+    "Not currently enrolled in a qualification (foundation skills excepted).",
+    "Not already completed a Fee-Free TAFE or Free Nursing qualification."
+  ],
+  "how": [
+    "Enrol through TAFE Queensland (1300 308 233) or CQUniversity (13 27 86)."
+  ],
+  "catches": [
+    "Only one qualification under Fee-Free TAFE or Free Nursing.",
+    "Uniforms and resources may still cost extra.",
+    "Extended until 31 December 2026; fee-free construction applies to students who start before 31 December."
+  ],
+  "closes": "2026-12-31",
+  "tags": [
+    "tafe",
+    "tafe queensland",
+    "tafe qld",
+    "qld",
+    "queensland",
+    "fee-free tafe",
+    "free tafe",
+    "construction",
+    "cqu"
+  ],
+  "source": {
+    "url": "https://www.qld.gov.au/education/training/subsidies/feefree",
+    "label": "Queensland Government: Free training"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Program and end date",
+      "quote": "Fee-Free TAFE, extended until 31 December 2026, allows eligible Queenslanders to study priority skill sets and qualifications, providing opportunities to upskill, reskill or start a career in high-demand industries.",
+      "url": "https://www.qld.gov.au/education/training/subsidies/feefree",
+      "page_date": null
+    },
+    {
+      "claim": "Construction",
+      "quote": "Fee-free construction is now available as part of fee-free TAFE for students who start training before 31 December.",
+      "url": "https://www.qld.gov.au/education/training/subsidies/feefree",
+      "page_date": null
+    }
+  ]
+}

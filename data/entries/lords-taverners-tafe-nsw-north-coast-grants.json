@@ -1,0 +1,73 @@
+{
+  "id": "lords-taverners-tafe-nsw-north-coast-grants",
+  "name": "Lord's Taverners TAFE NSW grants (North Coast)",
+  "provider": "Lord's Taverners Northern NSW",
+  "category": "uni",
+  "summary": "Urgent grants of $500 to $1,500 for TAFE NSW students on the North Coast facing hardship.",
+  "key": "Grants range from $500 to $1500.",
+  "who": [
+    "Doing an apprenticeship or relevant vocational course at TAFE NSW.",
+    "North Coast Institute area, from Kingscliff to Port Macquarie (originally Richmond Valley).",
+    "Priority to students facing challenges such as disability, unemployment, homelessness, transport barriers, domestic violence, a non-English-speaking background or sole parenthood."
+  ],
+  "how": [
+    "Apply through TAFE with a teacher's support."
+  ],
+  "catches": [
+    "TAFE NSW advertises the grants twice a year; no dates are listed."
+  ],
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "apprentice",
+    "north coast",
+    "northern rivers",
+    "richmond valley",
+    "lismore",
+    "ballina",
+    "port macquarie",
+    "hardship",
+    "grant"
+  ],
+  "source": {
+    "url": "https://lordstaverners-northernnsw.com.au/what-we-do/tafe-nsw-grants/",
+    "label": "Lord's Taverners Northern NSW: TAFE NSW Grants"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "Grants range from $500 to $1500",
+      "url": "https://lordstaverners-northernnsw.com.au/what-we-do/tafe-nsw-grants/",
+      "page_date": null
+    },
+    {
+      "claim": "How to apply",
+      "quote": "All applications must be made through TAFE and supported by a teacher.",
+      "url": "https://lordstaverners-northernnsw.com.au/what-we-do/tafe-nsw-grants/",
+      "page_date": null
+    },
+    {
+      "claim": "Timing",
+      "quote": "TAFE NSW will advertise the grants twice a year.",
+      "url": "https://lordstaverners-northernnsw.com.au/what-we-do/tafe-nsw-grants/",
+      "page_date": null
+    }
+  ]
+}

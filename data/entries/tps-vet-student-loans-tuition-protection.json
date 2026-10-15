@@ -1,0 +1,67 @@
+{
+  "id": "tps-vet-student-loans-tuition-protection",
+  "name": "Tuition Protection for VET Student Loans",
+  "provider": "Tuition Protection Service (Department of Education)",
+  "category": "loans",
+  "summary": "If your VET Student Loans provider closes or stops your course, the TPS helps you move to a replacement course or re-credits your loan.",
+  "who": [
+    "Students with a VET Student Loan whose provider defaults, for example by closing, not starting a course or stopping it partway through."
+  ],
+  "how": [
+    "Contact the Tuition Protection Service on 1300 131 798."
+  ],
+  "catches": [
+    "If no suitable replacement course is available, you get a loan re-credit only for the part of the course you paid for but weren't taught.",
+    "A replacement provider may charge for some parts of the course, so ask what you'll need to pay."
+  ],
+  "tags": [
+    "tafe",
+    "vet",
+    "vsl",
+    "tuition protection",
+    "tps",
+    "provider closure",
+    "national"
+  ],
+  "source": {
+    "url": "https://www.education.gov.au/tps/vsl-students",
+    "label": "Department of Education: VET Student Loans students (TPS)"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Replacement course",
+      "quote": "the TPS can either help you continue your studies in a suitable replacement course",
+      "url": "https://www.education.gov.au/tps/vsl-students",
+      "page_date": null
+    },
+    {
+      "claim": "Loan re-credit",
+      "quote": "you are entitled to a loan re-credit on the portion of your course which has been paid for but not delivered.",
+      "url": "https://www.education.gov.au/tps/vsl-students",
+      "page_date": null
+    },
+    {
+      "claim": "Who is covered",
+      "quote": "If you have a VET Student Loan and your provider defaults",
+      "url": "https://www.education.gov.au/tps/vsl-students",
+      "page_date": null
+    },
+    {
+      "claim": "Contact",
+      "quote": "within Australia 1300 131 798",
+      "url": "https://www.education.gov.au/tps/vsl-students",
+      "page_date": null
+    }
+  ]
+}

@@ -134,7 +134,7 @@ function layout({ title, description, prefix, page, body, urlPath, current, cat,
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="${esc(config.name)}">
 <meta property="og:locale" content="en_AU">
-${SITE ? `<meta property="og:image" content="${SITE}/assets/og-image.png">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n<meta property="og:image:alt" content="${esc(config.name)}: every concession you can claim as an Australian uni student, checked against the official page">\n` : ""}<meta name="twitter:card" content="summary_large_image">
+${SITE ? `<meta property="og:image" content="${SITE}/assets/og-image.png">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n<meta property="og:image:alt" content="${esc(config.name)}: every concession you can claim as an Australian uni or TAFE student, checked against the official page">\n` : ""}<meta name="twitter:card" content="summary_large_image">
 ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(/</g, "\\u003c")}</script>\n` : ""}${canonical ? `<link rel="canonical" href="${esc(canonical)}">\n<meta property="og:url" content="${esc(canonical)}">\n` : ""}${PREVIEW ? '<meta name="robots" content="noindex">\n' : ""}<meta name="theme-color" content="#0B6B4F">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23FFD84D'/%3E%3Ctext x='16' y='22' font-family='Arial' font-weight='800' font-size='17' text-anchor='middle' fill='%2310211B'%3ES%3C/text%3E%3C/svg%3E">
 <link rel="preload" href="${prefix}assets/fonts/bricolage-grotesque.woff2" as="font" type="font/woff2" crossorigin>
@@ -229,7 +229,7 @@ const FAQ = [
 const homeBody = `
 ${draftNotice}
 <section class="hero">
-  <h1>What can you claim as a uni student?</h1>
+  <h1>What can you claim as a student?</h1>
   <p class="lede">Government payments, HELP and tax, cheaper fares, scholarships and student pricing. Every entry links to the official page it came from, and says when it was last checked.</p>
   <div class="cta-row">
     <a class="btn" href="#matcher">Find yours</a>

@@ -1,0 +1,62 @@
+{
+  "id": "vicroads-trade-apprentice-registration-discount",
+  "name": "VicRoads trade apprentice registration discount",
+  "provider": "VicRoads",
+  "category": "transport",
+  "summary": "Victorian apprentices who use their own vehicle for their apprenticeship may qualify for free registration.",
+  "key": "Eligible trade apprentices may qualify for free registration for their work vehicle.",
+  "who": [
+    "Apprentice in an approved training scheme, Victorian resident with a current Victorian licence",
+    "Registered operator of a vehicle up to 4.5 tonnes GVM used for the apprenticeship"
+  ],
+  "how": [
+    "Apply in myVicRoads under 'Apprentice registration discount' at least 5 days before your rego expires."
+  ],
+  "catches": [
+    "Learner drivers and vehicles registered in someone else's name are excluded."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "vic",
+    "victoria",
+    "rego",
+    "registration",
+    "ute"
+  ],
+  "source": {
+    "url": "https://www.vicroads.vic.gov.au/registration/registration-fees/concessions-and-discounts/trade-apprentice-registration-discount",
+    "label": "VicRoads: Trade apprentice registration discount"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Benefit",
+      "quote": "see if you qualify for free registration for your work vehicle",
+      "url": "https://www.vicroads.vic.gov.au/registration/registration-fees/concessions-and-discounts/trade-apprentice-registration-discount",
+      "page_date": null
+    },
+    {
+      "claim": "How",
+      "quote": "Log in to your myVicRoads account and find the 'Apprentice registration discount' section.",
+      "url": "https://www.vicroads.vic.gov.au/registration/registration-fees/concessions-and-discounts/trade-apprentice-registration-discount",
+      "page_date": null
+    }
+  ]
+}

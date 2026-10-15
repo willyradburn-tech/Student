@@ -1,0 +1,59 @@
+{
+  "id": "dewr-national-training-complaints-hotline",
+  "name": "National Training Complaints Hotline",
+  "provider": "Department of Employment and Workplace Relations",
+  "category": "career",
+  "summary": "A national phone line and form for complaints about your training experience in VET, referred to the right authority.",
+  "who": [
+    "Anyone with a complaint about their experience while doing vocational training."
+  ],
+  "how": [
+    "Call 13 38 73 or complete the online complaints form."
+  ],
+  "catches": [
+    "The hotline refers your complaint to the authority best placed to handle it. It doesn't decide it itself.",
+    "Category is the closest fit: this is a complaints service."
+  ],
+  "tags": [
+    "tafe",
+    "vet",
+    "complaints",
+    "hotline",
+    "national"
+  ],
+  "source": {
+    "url": "https://www.dewr.gov.au/national-training-complaints-hotline",
+    "label": "DEWR: National Training Complaints Hotline"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Refers complaints",
+      "quote": "the National Training Complaints Hotline can refer your complaint to the most appropriate authority",
+      "url": "https://www.dewr.gov.au/national-training-complaints-hotline",
+      "page_date": null
+    },
+    {
+      "claim": "Who it is for",
+      "quote": "a complaint relating to your experiences whilst undertaking training",
+      "url": "https://www.dewr.gov.au/national-training-complaints-hotline",
+      "page_date": null
+    },
+    {
+      "claim": "Phone",
+      "quote": "13 38 73",
+      "url": "https://www.dewr.gov.au/national-training-complaints-hotline",
+      "page_date": null
+    }
+  ]
+}

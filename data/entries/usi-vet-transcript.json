@@ -1,0 +1,51 @@
+{
+  "id": "usi-vet-transcript",
+  "name": "Free USI VET transcript",
+  "provider": "Student Identifiers Registrar",
+  "category": "career",
+  "summary": "A free, government-authenticated record of all your nationally recognised training since 2015, from your USI account.",
+  "key": "It's accessible through your USI account, it's government authenticated and it's free.",
+  "who": [
+    "Anyone with a Unique Student Identifier (USI) who has done nationally recognised training."
+  ],
+  "how": [
+    "Log in to your USI account through the Student Portal and select View VET Transcript."
+  ],
+  "tags": [
+    "tafe",
+    "vet",
+    "usi",
+    "transcript",
+    "free",
+    "national"
+  ],
+  "source": {
+    "url": "https://www.usi.gov.au/node/17",
+    "label": "USI: Students and their VET transcripts"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "It's accessible through your USI account, it's government authenticated and it's free.",
+      "url": "https://www.usi.gov.au/node/17",
+      "page_date": null
+    },
+    {
+      "claim": "What it shows",
+      "quote": "A USI vocational education training (VET) transcript shows all your completed nationally recognised training since 2015.",
+      "url": "https://www.usi.gov.au/node/17",
+      "page_date": null
+    }
+  ]
+}

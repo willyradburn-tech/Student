@@ -1,0 +1,76 @@
+{
+  "id": "vic-skills-first-concession",
+  "name": "Skills First subsidised training and concession fees (Victoria)",
+  "provider": "Victorian Government",
+  "category": "loans",
+  "summary": "Government-subsidised TAFE and training places in Victoria, with lower concession fees for Health Care Card holders at Certificate IV and below.",
+  "who": [
+    "Australian citizens, permanent residents or New Zealand citizens",
+    "Physically present in Victoria or a designated border region while training",
+    "Concession: Health Care Card, Pensioner Concession Card or Veteran's Gold Card holders, or their dependent spouse or child"
+  ],
+  "how": [
+    "Contact your preferred training provider to confirm eligibility and whether a Skills First place is available",
+    "TAFE and Training Line: 13 18 23"
+  ],
+  "catches": [
+    "Concessions only for Certificate IV and below, and skill sets",
+    "Limit of 2 courses at a time and 2 in a year"
+  ],
+  "tags": [
+    "tafe",
+    "skills first",
+    "vic",
+    "victoria",
+    "concession",
+    "health care card",
+    "subsidised training",
+    "vocational"
+  ],
+  "source": {
+    "url": "https://vic.gov.au/how-check-your-eligibility",
+    "label": "Victorian Government: How to check your eligibility (Skills First)"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "campus": {
+      "yes": [
+        "vic"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Concession levels",
+      "quote": "Concessions are available for Certificate IV level and below courses, and skill sets.",
+      "url": "https://vic.gov.au/how-check-your-eligibility",
+      "page_date": null
+    },
+    {
+      "claim": "Dependants of card holders",
+      "quote": "You can also get a concession if you are a dependent spouse or a dependent child of a card holder.",
+      "url": "https://vic.gov.au/how-check-your-eligibility",
+      "page_date": null
+    },
+    {
+      "claim": "How to check",
+      "quote": "Contact your preferred training provider to find out if you're eligible for Skills First",
+      "url": "https://vic.gov.au/how-check-your-eligibility",
+      "page_date": null
+    }
+  ]
+}

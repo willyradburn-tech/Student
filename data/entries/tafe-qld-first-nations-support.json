@@ -1,0 +1,49 @@
+{
+  "id": "tafe-qld-first-nations-support",
+  "name": "TAFE Queensland Indigenous student support",
+  "provider": "TAFE Queensland",
+  "category": "uni",
+  "summary": "Extra support, including help with financial assistance, from Indigenous student support officers for First Nations students.",
+  "who": [
+    "Aboriginal and Torres Strait Islander TAFE Queensland students."
+  ],
+  "tags": [
+    "tafe",
+    "tafe queensland",
+    "tafe qld",
+    "qld",
+    "queensland",
+    "aboriginal",
+    "torres strait islander",
+    "first nations",
+    "indigenous"
+  ],
+  "source": {
+    "url": "https://tafeqld.edu.au/current-students/student-support-services/index.html",
+    "label": "TAFE Queensland: Student support services"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "atsi": {
+      "yes": [
+        "yes"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Service",
+      "quote": "If you are an Aboriginal and Torres Strait Islander student, you can access additional student support services.",
+      "url": "https://tafeqld.edu.au/current-students/student-support-services/index.html",
+      "page_date": null
+    }
+  ]
+}

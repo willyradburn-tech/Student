@@ -1,0 +1,49 @@
+{
+  "id": "kincrome-apprentice-tool-kit-bonus",
+  "name": "Kincrome apprentice tool kit free bonus",
+  "provider": "Kincrome",
+  "category": "tech",
+  "summary": "Registered apprentices who buy a Kincrome apprentice tool kit can redeem a free bonus tool, storage or accessory.",
+  "key": "Every Kincrome Apprentice Tool Kit comes with a free bonus for registered apprentices.",
+  "who": [
+    "Registered apprentices"
+  ],
+  "how": [
+    "Choose a kit, register online and claim the bonus on the redemption page."
+  ],
+  "catches": [
+    "The bonus depends on the kit bought; you must buy a kit first."
+  ],
+  "tags": [
+    "apprentice",
+    "trainee",
+    "tafe",
+    "tools",
+    "mechanic",
+    "tool kit",
+    "kincrome"
+  ],
+  "source": {
+    "url": "https://www.kincrome.com.au/tfl",
+    "label": "Kincrome: Tools for Life apprentice program"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Offer",
+      "quote": "Every Kincrome Apprentice Tool Kit comes with a free bonus via redemption for registered apprentices.",
+      "url": "https://www.kincrome.com.au/tfl",
+      "page_date": null
+    }
+  ]
+}

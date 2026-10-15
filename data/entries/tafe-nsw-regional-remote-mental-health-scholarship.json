@@ -1,0 +1,69 @@
+{
+  "id": "tafe-nsw-regional-remote-mental-health-scholarship",
+  "name": "NSW Regional and Remote Mental Health Scholarship",
+  "provider": "TAFE NSW",
+  "category": "uni",
+  "summary": "Up to $3,000 for regional human services workers studying a Certificate IV in Mental Health at TAFE NSW.",
+  "key": "Three scholarships each valued at up to $3,000.",
+  "who": [
+    "Studying the Certificate IV in Mental Health (CHC43315) or Mental Health Peer Work (CHC43515) at TAFE NSW.",
+    "Worked or volunteered in a human services role in a rural or regional area.",
+    "Meets Smart and Skilled criteria.",
+    "No TAFE NSW, ITSA or Hunter TAFE Foundation scholarship in the last 12 months."
+  ],
+  "how": [
+    "Apply through the TAFE NSW scholarships platform via the Apply now button."
+  ],
+  "catches": [
+    "Applications close 5 pm (AEDT) Friday, 30 October 2026."
+  ],
+  "closes": "2026-10-30",
+  "tags": [
+    "tafe",
+    "tafe nsw",
+    "nsw",
+    "mental health",
+    "regional",
+    "community services",
+    "scholarship"
+  ],
+  "source": {
+    "url": "https://www.tafensw.edu.au/scholarships/nsw-health-scholarships",
+    "label": "TAFE NSW: NSW Regional and Remote Mental Health Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
+    "field": {
+      "yes": [
+        "care"
+      ]
+    },
+    "uni": {
+      "yes": [
+        "tafe"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "each valued at up to $3,000.",
+      "url": "https://www.tafensw.edu.au/scholarships/nsw-health-scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Closing date",
+      "quote": "Applications for the NSW Regional and Remote Mental Health Scholarship close 5 pm (AEDT) Friday, 30 October 2026.",
+      "url": "https://www.tafensw.edu.au/scholarships/nsw-health-scholarships",
+      "page_date": null
+    }
+  ]
+}
