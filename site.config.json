@@ -8,9 +8,9 @@
   "contactEmail": "",
   "reportForm": "netlify",
   "analytics": {
-    "provider": "",
+    "provider": "cloudflare",
     "domain": "",
-    "token": ""
+    "token": "758382471bb74e5990f58d06fada30ce"
   },
   "collections": [
     {
