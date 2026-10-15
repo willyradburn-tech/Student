@@ -121,7 +121,6 @@ function layout({ title, description, prefix, page, body, urlPath, current, cat,
   const full = title ? title + " · " + config.name : config.name;
   const canonical = config.siteUrl ? config.siteUrl.replace(/\/$/, "") + "/" + urlPath : "";
   const link = (href, label, key, cls) => '<a' + (cls ? ' class="' + cls + '"' : "") + ' href="' + prefix + href + '"' + (current === key ? ' aria-current="page"' : "") + ">" + label + "</a>";
-  const catLinks = usedCats.map((c) => '<a href="' + prefix + "category/" + c.id + '.html"' + (cat === c.id ? ' aria-current="page"' : "") + ">" + esc(c.short) + '<span class="n">' + counts[c.id] + "</span></a>").join("");
   return `<!doctype html>
 <html lang="en-AU">
 <head>
@@ -152,9 +151,8 @@ ${analyticsTag()}</head>
       <button type="submit" aria-label="Search">${ICON.search}</button>
       <ul class="suggest" id="hq-list" role="listbox" hidden></ul>
     </form>
-    <nav class="top-links" aria-label="Main">${link("index.html#matcher", "Find yours", "find", "hide-sm")}<a href="${prefix}saved.html"${current === "saved" ? ' aria-current="page"' : ""}>Saved<span class="count-pill" id="saved-count" data-n="0"></span></a>${link("about.html", "How we check", "about", "hide-sm")}</nav>
+    <nav class="top-links" aria-label="Main"><a class="hide-sm" href="${prefix}index.html#browse"${current === "browse" ? ' aria-current="page"' : ""}>Browse</a><a href="${prefix}saved.html"${current === "saved" ? ' aria-current="page"' : ""}>Saved<span class="count-pill" id="saved-count" data-n="0"></span></a></nav>
   </div>
-  <nav class="catbar" aria-label="Categories"><div class="wrap">${catLinks}</div></nav>
 </header>
 <main class="wrap" id="main">
 ${body}
@@ -235,12 +233,7 @@ ${draftNotice}
     <a class="btn" href="#matcher">Find yours</a>
     <p class="facts"><b>${entries.length}</b> entries, <b>${verifiedCount}</b> checked against the source. No sign-up.</p>
   </div>
-  <p class="quick"><span>Popular:</span><a href="index.html?q=Youth+Allowance#results">Youth Allowance</a><a href="index.html?q=rent#results">Rent help</a><a href="index.html?q=laptop#results">Laptops</a><a href="index.html?q=transport#results">Fares</a><a href="index.html?q=scholarship#results">Scholarships</a><a href="index.html?q=software#results">Free software</a></p>
-</section>
-
-<section class="sources" aria-label="Sites entries are checked against">
-  <p>Every entry is checked against a page like these:</p>
-  <ul>${topHosts.map((h) => `<li>${esc(h)}</li>`).join("")}</ul>
+  <p class="quick"><span>Popular:</span><a href="index.html?q=rent#results">Rent help</a><a href="index.html?q=scholarship#results">Scholarships</a><a href="index.html?q=transport#results">Fares</a><a href="index.html?q=tafe#results">TAFE</a></p>
 </section>
 
 <form class="panel" id="matcher" aria-labelledby="matcher-h">
@@ -250,14 +243,12 @@ ${draftNotice}
   <div class="panel-foot"><p class="tally" id="tally" aria-live="polite">Answer any question to sort the list.</p><div class="step-nav"><button class="btn ghost small" type="button" id="step-back">Back</button><button class="btn small" type="button" id="step-next">Next</button></div><button class="linkish" type="button" id="reset">Clear answers</button></div>
 </form>
 
+<div id="results"></div>
+
 <section class="directory" id="browse" aria-labelledby="browse-h">
   <h2 id="browse-h">Browse by what you need</h2>
   <ul class="dir">${usedCats.map((c) => `<li><a href="category/${c.id}.html">${esc(c.name)} <span class="ct">${counts[c.id]}</span></a></li>`).join("")}</ul>
 </section>
-
-<div id="results">
-${groupsHTML(entries, "")}
-</div>
 
 <section aria-labelledby="faq-h"><h2 class="section-title" id="faq-h">Questions</h2>
 <div class="faq">${FAQ.map((f) => `<details><summary>${esc(f[0])}</summary><p>${esc(f[1])}</p></details>`).join("")}</div></section>
@@ -281,6 +272,8 @@ ${draftNotice}
 </div>
 <div id="filters" data-category="${c.id}"></div>
 <div class="cards" id="list">${items.map((e) => Hub.cardHTML(e, "../", cardOpts)).join("")}</div>
+<section class="directory" aria-labelledby="more-cats-h"><h2 id="more-cats-h">Other categories</h2>
+<ul class="dir">${usedCats.filter((o) => o.id !== c.id).map((o) => `<li><a href="${o.id}.html">${esc(o.name)} <span class="ct">${counts[o.id]}</span></a></li>`).join("")}</ul></section>
 `;
   fs.writeFileSync(path.join(OUT, "category", c.id + ".html"), layout({
     title: c.name, description: c.note, prefix: "../", page: "category", body, urlPath: "category/" + c.id + ".html", current: "browse", cat: c.id

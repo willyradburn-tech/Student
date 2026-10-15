@@ -31,9 +31,9 @@
   },
   {
     "id": "uni",
-    "name": "Scholarships and uni help",
-    "short": "Uni help",
-    "note": "Scholarships, bursaries, hardship grants, loans and free services from universities and their student unions, at more than 30 unis."
+    "name": "Scholarships, uni and TAFE help",
+    "short": "Uni and TAFE",
+    "note": "Scholarships, bursaries, hardship grants, loans and free services from universities, TAFEs and their student unions."
   },
   {
     "id": "software",

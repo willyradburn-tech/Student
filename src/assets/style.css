@@ -361,3 +361,14 @@ textarea { resize: vertical; line-height: 1.5; }
 .block.evidence blockquote::before { content: "\201C"; } .block.evidence blockquote::after { content: "\201D"; }
 .block.evidence figcaption { margin-top: 6px; font-size: 13px; color: var(--muted); }
 @media print { .block.evidence .quote { break-inside: avoid; } }
+
+/* Filter toggle: one quiet button instead of five selects */
+.filter-toggle { margin: 0 0 8px; }
+.filter-toggle > summary { display: inline-flex; align-items: center; gap: 8px; cursor: pointer; list-style: none; font-weight: 600; font-size: 15px; padding: 9px 16px; border: 1.5px solid var(--line); border-radius: 999px; background: var(--surface); }
+.filter-toggle > summary::-webkit-details-marker { display: none; }
+.filter-toggle > summary::after { content: ""; width: 7px; height: 7px; border-right: 2px solid currentColor; border-bottom: 2px solid currentColor; transform: rotate(45deg) translateY(-2px); transition: transform 0.15s ease; }
+.filter-toggle[open] > summary::after { transform: rotate(-135deg) translateY(-1px); }
+.filter-toggle > summary:hover { border-color: var(--accent); }
+.filter-toggle .toolbar { margin-top: 12px; }
+.filter-toggle .on-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--hl); }
+.start-hint { margin: 4px 0 0; }

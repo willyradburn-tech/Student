@@ -192,13 +192,14 @@
   function filterBarHTML(scope, st) {
     var kinds = present(scope, "kind"), claims = present(scope, "claim"), costs = present(scope, "cost");
     var opt = function (all, seen, any) { return [["", any]].concat(all.filter(function (k) { return seen[k]; }).map(function (k) { return [k, k]; })); };
-    return '<div class="toolbar" role="group" aria-label="Filter and sort">' +
+    var on = filtersActive(st);
+    return '<details class="filter-toggle"' + (on ? " open" : "") + '><summary>Filter and sort' + (on ? ' <span class="on-dot" aria-label="filters on"></span>' : "") + '</summary><div class="toolbar" role="group" aria-label="Filter and sort">' +
       select("fl-kind", "Who offers it", opt(Hub.KINDS, kinds, "Anyone"), st.kind) +
       select("fl-claim", "How you get it", opt(Hub.CLAIMS, claims, "Any way"), st.claim) +
       select("fl-cost", "What it's worth", opt(Hub.COSTS, costs, "Anything"), st.cost) +
       select("fl-state", "Where", [["", "Anywhere in Australia"]].concat(Hub.STATES), st.state) +
       select("fl-sort", "Sort by", [["best", "Best match"], ["closing", "Closing soonest"], ["checked", "Recently checked"], ["az", "A to Z"]], st.sort) +
-      '<button type="button" class="linkish" id="fl-clear">Clear filters</button></div>';
+      '<button type="button" class="linkish" id="fl-clear">Clear filters</button></div></details>';
   }
   function bindFilters(root, st, onChange) {
     [["fl-kind", "kind"], ["fl-claim", "claim"], ["fl-cost", "cost"], ["fl-state", "state"], ["fl-sort", "sort"]].forEach(function (pair) {
@@ -356,6 +357,10 @@
             var n = DATA.entries.filter(function (e) { return inCollection(e, c); }).length;
             return '<button type="button" class="collection" data-coll="' + esc(c.id) + '"><b>' + esc(c.name) + "</b><span>" + esc(c.blurb) + '</span><span class="ct">' + n + " entries</span></button>";
           }).join("") + "</div></section>";
+        if (!any) {
+          html += '<p class="gn start-hint">Answer a few questions above and everything here is sorted for you. Or browse by category below.</p>';
+          results.innerHTML = html; wire(); return;
+        }
         var groups = {}, notForYou = [];
         pool.forEach(function (x) {
           if (any && vOf(x.e) === "no") { notForYou.push(x); return; }
