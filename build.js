@@ -82,9 +82,13 @@ const assets = {
 };
 const ver = crypto.createHash("sha1").update(Object.values(assets).join("")).digest("hex").slice(0, 8);
 for (const [name, body] of Object.entries(assets)) fs.writeFileSync(path.join(OUT, "assets", name), body);
+// Self-hosted fonts (SIL Open Font License) and the social share image: no third-party requests.
+fs.mkdirSync(path.join(OUT, "assets", "fonts"), { recursive: true });
+for (const f of fs.readdirSync(path.join(ROOT, "src/assets/fonts"))) fs.copyFileSync(path.join(ROOT, "src/assets/fonts", f), path.join(OUT, "assets", "fonts", f));
+if (fs.existsSync(path.join(ROOT, "src/assets/og-image.png"))) fs.copyFileSync(path.join(ROOT, "src/assets/og-image.png"), path.join(OUT, "assets", "og-image.png"));
 
 /* ---------- Layout ---------- */
-const FONTS = "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Instrument+Sans:wght@400;500;600&display=swap";
+const SITE = (config.siteUrl || "").replace(/\/$/, "");
 const latest = entries.reduce((m, e) => (e.verified > m ? e.verified : m), "0000-00-00");
 
 /* Where "Report something out of date" goes: our own form page (Netlify Forms),
@@ -113,7 +117,7 @@ const ICON = {
   heart: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.5C7 17 2.5 13 2.5 8.7 2.5 6 4.5 4.2 6.9 4.2c2 0 3.7 1 5.1 3 1.4-2 3.1-3 5.1-3 2.4 0 4.4 1.8 4.4 4.5 0 4.3-4.5 8.3-9.5 11.8z"/></svg>'
 };
 
-function layout({ title, description, prefix, page, body, urlPath, current, cat }) {
+function layout({ title, description, prefix, page, body, urlPath, current, cat, jsonld }) {
   const full = title ? title + " · " + config.name : config.name;
   const canonical = config.siteUrl ? config.siteUrl.replace(/\/$/, "") + "/" + urlPath : "";
   const link = (href, label, key, cls) => '<a' + (cls ? ' class="' + cls + '"' : "") + ' href="' + prefix + href + '"' + (current === key ? ' aria-current="page"' : "") + ">" + label + "</a>";
@@ -128,11 +132,13 @@ function layout({ title, description, prefix, page, body, urlPath, current, cat 
 <meta property="og:title" content="${esc(full)}">
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:type" content="website">
-${canonical ? `<link rel="canonical" href="${esc(canonical)}">\n<meta property="og:url" content="${esc(canonical)}">\n` : ""}${PREVIEW ? '<meta name="robots" content="noindex">\n' : ""}<meta name="theme-color" content="#0B6B4F">
+<meta property="og:site_name" content="${esc(config.name)}">
+<meta property="og:locale" content="en_AU">
+${SITE ? `<meta property="og:image" content="${SITE}/assets/og-image.png">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n<meta property="og:image:alt" content="${esc(config.name)}: every concession you can claim as an Australian uni student, checked against the official page">\n` : ""}<meta name="twitter:card" content="summary_large_image">
+${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(/</g, "\\u003c")}</script>\n` : ""}${canonical ? `<link rel="canonical" href="${esc(canonical)}">\n<meta property="og:url" content="${esc(canonical)}">\n` : ""}${PREVIEW ? '<meta name="robots" content="noindex">\n' : ""}<meta name="theme-color" content="#0B6B4F">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23FFD84D'/%3E%3Ctext x='16' y='22' font-family='Arial' font-weight='800' font-size='17' text-anchor='middle' fill='%2310211B'%3ES%3C/text%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="${FONTS}">
+<link rel="preload" href="${prefix}assets/fonts/bricolage-grotesque.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="${prefix}assets/fonts/instrument-sans-400.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="${prefix}assets/style.css?v=${ver}">
 ${analyticsTag()}</head>
 <body data-page="${page}" data-prefix="${prefix}">
@@ -257,7 +263,9 @@ ${groupsHTML(entries, "")}
 <div class="faq">${FAQ.map((f) => `<details><summary>${esc(f[0])}</summary><p>${esc(f[1])}</p></details>`).join("")}</div></section>
 `;
 fs.writeFileSync(path.join(OUT, "index.html"), layout({
-  title: "", description: config.tagline, prefix: "", page: "home", body: homeBody, urlPath: "", current: "find"
+  title: "", description: config.tagline, prefix: "", page: "home", body: homeBody, urlPath: "", current: "find",
+  jsonld: SITE ? { "@context": "https://schema.org", "@type": "WebSite", name: config.name, url: SITE + "/", description: config.tagline, inLanguage: "en-AU",
+    potentialAction: { "@type": "SearchAction", target: { "@type": "EntryPoint", urlTemplate: SITE + "/index.html?q={search_term_string}#results" }, "query-input": "required name=search_term_string" } } : null
 }));
 
 /* ---------- Category pages ---------- */
@@ -317,6 +325,22 @@ function relatedFor(e) {
   return { same, near };
 }
 
+/* "What the source says": the exact sentences our checks found on the official page. */
+function evidenceBlock(e) {
+  const seen = new Set();
+  const items = (e.evidence || []).slice().reverse().filter((x) => {
+    const q = (x.quote || "").trim();
+    if (q.length < 8 || seen.has(q.toLowerCase())) return false;
+    seen.add(q.toLowerCase()); return true;
+  }).slice(0, 4);
+  if (!items.length) return "";
+  const hostOf = (u) => { try { return new URL(u).hostname.replace(/^www\./, ""); } catch (err) { return ""; } };
+  return `<section class="block evidence" aria-labelledby="ev-h"><h2 id="ev-h">What the source says</h2>
+<p class="ev-note">Exact words quoted from the official page when we checked it. Last checked ${esc(Hub.fmtDate(e.verified))}.</p>
+${items.map((x) => `<figure class="quote"><blockquote>${esc(x.quote.trim())}</blockquote><figcaption>${x.url && x.url !== e.source.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${esc(hostOf(x.url))}</a>` : esc(hostOf(e.source.url))}</figcaption></figure>`).join("")}
+</section>`;
+}
+
 for (const e of entries) {
   const c = catById[e.category];
   const rel = relatedFor(e);
@@ -346,6 +370,7 @@ ${e.draft ? '<p class="notice draft"><b>Draft.</b> This entry is waiting for rev
     ${listBlock("What you'll need", e.need)}
     ${steps}
     ${listBlock("Conditions and catches", e.catches, "catches")}
+    ${evidenceBlock(e)}
   </article>
   <aside class="aside" aria-label="Official source">
     <h2>Official source</h2>
@@ -353,7 +378,7 @@ ${e.draft ? '<p class="notice draft"><b>Draft.</b> This entry is waiting for rev
     <button type="button" class="save-btn" data-save="${esc(e.id)}" aria-pressed="false">Save to my list</button>
     <p class="src">${esc(e.source.label)}</p>
     <dl class="meta">
-      <dt>Checked on</dt><dd>${esc(e.host)}</dd>
+      <dt>Source site</dt><dd>${esc(e.host)}</dd>
       <dt>Last checked</dt><dd>${esc(Hub.fmtDate(e.verified))}</dd>
       <dt>Next check</dt><dd>${esc(Hub.fmtDate(e.nextCheck))}</dd>
       ${dl ? `<dt>Applications</dt><dd>${esc(dl.text)}</dd>` : ""}
@@ -368,7 +393,11 @@ ${rel.same.length ? `<section class="related" aria-labelledby="rel1-h"><h2 class
 ${rel.near.length ? `<section class="related" aria-labelledby="rel2-h"><h2 class="section-title" id="rel2-h">Also in ${esc(c.name)}</h2><div class="cards">${rel.near.map((o) => Hub.cardHTML(o, "../", cardOpts)).join("")}</div></section>` : ""}
 `;
   fs.writeFileSync(path.join(OUT, "entry", e.id + ".html"), layout({
-    title: e.name, description: e.summary, prefix: "../", page: "entry", body, urlPath: "entry/" + e.id + ".html", current: "", cat: e.category
+    title: e.name, description: e.summary, prefix: "../", page: "entry", body, urlPath: "entry/" + e.id + ".html", current: "", cat: e.category,
+    jsonld: SITE ? { "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: SITE + "/" },
+      { "@type": "ListItem", position: 2, name: c.name, item: SITE + "/category/" + c.id + ".html" },
+      { "@type": "ListItem", position: 3, name: e.name, item: SITE + "/entry/" + e.id + ".html" }] } : null
   }));
 }
 
@@ -431,7 +460,7 @@ const privacyBody = `
   <p>If you use the report form, we receive the entry you picked, what you wrote, any link you added and, only if you give it, your email address. The form is processed by our web host, Netlify. We use reports only to fix entries, and we use your email only to reply to you.</p>` : ""}
   <h2>Visits</h2>
   ${analyticsOn ? `<p>We count visits with ${analyticsName}, which doesn't use cookies or collect personal information. It tells us which pages are read${countsActions ? ", and counts actions such as saving an entry, opening an official page or finishing the questions (never your answers)" : ""}, so we know what to check and add next.</p>` : `<p>We don't run analytics or advertising trackers.</p>`}
-  <p>Our fonts load from Google Fonts, which receives your IP address as part of the request, as any website does.</p>
+  <p>Our fonts are served from this site, so loading a page doesn't contact any font service.</p>
   <h2>What we never do</h2>
   <ul><li>Sell or share information about you.</li><li>Use advertising cookies.</li><li>Ask for your Centrelink, tax or bank details.</li></ul>
   ${config.contactEmail ? `<h2>Questions</h2><p>Email <span class="sel">${esc(config.contactEmail)}</span>.</p>` : ""}
