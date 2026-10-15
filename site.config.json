@@ -2,7 +2,7 @@
   "name": "Student Concessions Hub",
   "tagline": "Every concession you can claim as an Australian uni student, checked against the official source.",
   "coverage": "National, plus fares in Qld, NSW, Vic, WA and the ACT",
-  "siteUrl": "",
+  "siteUrl": "https://student-concessions.netlify.app",
   "ownerName": "",
   "ownerBlurb": "a final-year engineering student at QUT",
   "contactEmail": "",
