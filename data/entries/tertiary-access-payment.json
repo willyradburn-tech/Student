@@ -36,7 +36,7 @@
   "status": "rechecking",
   "verified": "2026-10-13",
   "cadence": "medium",
-  "review": "pending",
+  "review": "approved",
   "match": {
     "age": {
       "max": 22
