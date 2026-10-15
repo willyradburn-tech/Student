@@ -101,6 +101,7 @@ function analyticsTag() {
   const a = config.analytics || {};
   if (PREVIEW) return "";
   if (a.provider === "plausible" && a.domain) return `<script defer data-domain="${esc(a.domain)}" src="https://plausible.io/js/script.js"></script>\n`;
+  if (a.provider === "umami" && a.token) return `<script defer src="https://cloud.umami.is/script.js" data-website-id="${esc(a.token)}"></script>\n`;
   if (a.provider === "cloudflare" && a.token) return `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "${esc(a.token)}"}'></script>\n`;
   return "";
 }
@@ -414,8 +415,9 @@ fs.writeFileSync(path.join(OUT, "about.html"), layout({
 
 /* ---------- Privacy ---------- */
 const an = config.analytics || {};
-const analyticsOn = !!((an.provider === "plausible" && an.domain) || (an.provider === "cloudflare" && an.token));
-const analyticsName = an.provider === "plausible" ? "Plausible" : "Cloudflare Web Analytics";
+const analyticsOn = !!((an.provider === "plausible" && an.domain) || ((an.provider === "cloudflare" || an.provider === "umami") && an.token));
+const analyticsName = an.provider === "plausible" ? "Plausible" : an.provider === "umami" ? "Umami" : "Cloudflare Web Analytics";
+const countsActions = an.provider === "plausible" || an.provider === "umami";
 const privacyBody = `
 <div class="page-head">
   <p class="crumbs"><a href="index.html">Home</a></p>
@@ -428,7 +430,7 @@ const privacyBody = `
   ${config.reportForm === "netlify" ? `<h2>Reports you send</h2>
   <p>If you use the report form, we receive the entry you picked, what you wrote, any link you added and, only if you give it, your email address. The form is processed by our web host, Netlify. We use reports only to fix entries, and we use your email only to reply to you.</p>` : ""}
   <h2>Visits</h2>
-  ${analyticsOn ? `<p>We count visits with ${analyticsName}, which doesn't use cookies or collect personal information. It tells us which pages are read and what people search for, so we know what to check and add next.</p>` : `<p>We don't run analytics or advertising trackers.</p>`}
+  ${analyticsOn ? `<p>We count visits with ${analyticsName}, which doesn't use cookies or collect personal information. It tells us which pages are read${countsActions ? ", and counts actions such as saving an entry, opening an official page or finishing the questions (never your answers)" : ""}, so we know what to check and add next.</p>` : `<p>We don't run analytics or advertising trackers.</p>`}
   <p>Our fonts load from Google Fonts, which receives your IP address as part of the request, as any website does.</p>
   <h2>What we never do</h2>
   <ul><li>Sell or share information about you.</li><li>Use advertising cookies.</li><li>Ask for your Centrelink, tax or bank details.</li></ul>
@@ -494,7 +496,7 @@ if (!PREVIEW) {
   if (!config.siteUrl) todo.push("set siteUrl in site.config.json (turns on canonical links and the sitemap)");
   if (!config.ownerName) todo.push("set ownerName so the About page says who runs the site");
   if (!config.contactEmail) todo.push("set contactEmail for the footer and privacy page");
-  if (!analyticsOn) todo.push("optional: set analytics (plausible domain or cloudflare token)");
+  if (!analyticsOn) todo.push("optional: set analytics (plausible domain, umami or cloudflare token)");
   if (todo.length) console.log("  Before launch: " + todo.join("; "));
 }
 if (overdue.length) console.log(`  Overdue for a recheck: ${overdue.map((e) => e.id + " (due " + e.nextCheck + ")").join(", ")}`);

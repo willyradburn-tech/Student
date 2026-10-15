@@ -13,6 +13,14 @@
   DATA.cats.forEach(function (c) { catName[c.id] = c.name; catShort[c.id] = c.short; });
   var index = Hub.buildIndex(DATA.entries, catName);
 
+  /* Cookie-free event counts. Only the action name is sent, never answers or personal details. */
+  function track(name, data) {
+    try {
+      if (window.umami && window.umami.track) window.umami.track(name, data);
+      else if (window.plausible) window.plausible(name, data ? { props: data } : undefined);
+    } catch (err) { /* analytics must never break the page */ }
+  }
+
   function $(id) { return document.getElementById(id); }
   function pad(n) { return (n < 10 ? "0" : "") + n; }
   var d0 = new Date(), TODAY = d0.getFullYear() + "-" + pad(d0.getMonth() + 1) + "-" + pad(d0.getDate());
@@ -58,7 +66,7 @@
   }
   function toggleSaved(id) {
     var i = saved.indexOf(id);
-    if (i >= 0) saved.splice(i, 1); else saved.push(id);
+    if (i >= 0) saved.splice(i, 1); else { saved.push(id); track("save", { entry: id }); }
     storeSaved(saved);
     syncSavedUI();
     if (page === "saved") renderSaved();
@@ -68,6 +76,13 @@
     if (!b) return;
     ev.preventDefault(); ev.stopPropagation();
     toggleSaved(b.getAttribute("data-save"));
+  });
+
+  document.addEventListener("click", function (ev) {
+    var a = ev.target.closest ? ev.target.closest("a.go") : null;
+    if (a) { var fit = document.getElementById("fit"); track("official-link", { entry: fit ? fit.getAttribute("data-id") : "" }); }
+    var c = ev.target.closest ? ev.target.closest("[data-coll]") : null;
+    if (c) track("collection", { name: c.getAttribute("data-coll") });
   });
 
   /* ---------- Shared bits ---------- */
@@ -246,7 +261,7 @@
     });
     $("step-back").addEventListener("click", function () { show(cur - 1); });
     $("step-next").addEventListener("click", function () {
-      if (cur === steps.length) { var r = $("recap") || $("results"); if (r) r.scrollIntoView({ block: "start" }); }
+      if (cur === steps.length) { track("matcher-done"); var r = $("recap") || $("results"); if (r) r.scrollIntoView({ block: "start" }); }
       else show(cur + 1);
     });
     markDone(); show(1);
@@ -301,7 +316,7 @@
         var sl = $("save-likely");
         if (sl) sl.addEventListener("click", function () {
           likely.forEach(function (x) { if (!isSaved(x.e.id)) saved.push(x.e.id); });
-          storeSaved(saved); syncSavedUI(); sl.textContent = "Saved. Open your list";
+          storeSaved(saved); syncSavedUI(); track("save-likely", { n: likely.length }); sl.textContent = "Saved. Open your list";
           sl.onclick = function () { window.location.href = prefix + "saved.html"; };
         });
       } else recap.innerHTML = "";
@@ -321,6 +336,7 @@
         html += '<p class="search-note" role="status">' + (pool.length ? "<b>" + pool.length + "</b> " + (pool.length === 1 ? "result " : "results ") + label : "Nothing " + (found ? "matches “" + esc(st.q.trim()) + "”" : "matches those filters") + ". Try a broader word, like rent, laptop or fares, or clear the filters.") + " " +
           (coll ? '<span class="active-collection">' + esc(coll.name) + '<button type="button" id="clear-coll" aria-label="Clear ' + esc(coll.name) + '">×</button></span> ' : "") +
           '<button type="button" class="linkish" id="clear-all">Clear search and filters</button></p>';
+        if (!pool.length && found && st.q.trim().length > 2 && lastZero !== st.q.trim()) { lastZero = st.q.trim(); track("search-no-results", { q: lastZero.slice(0, 40) }); }
         if (!pool.length) html += '<div class="empty"><h3>No matches</h3><p>Most entries use plain words, such as "rent", "laptop", "fares" or "scholarship". You can also browse by category above.</p></div>';
         if (shown.length) html += cardsHTML(shown.slice(0, st.limit), any, vOf) + (shown.length > st.limit ? '<button type="button" class="show-more" id="more-flat">Show ' + Math.min(30, shown.length - st.limit) + " more of " + (shown.length - st.limit) + " left</button>" : "");
         if (hidden.length) html += '<details class="later"><summary>Probably not for you <span class="ct">' + hidden.length + '</span></summary><p class="gn">Based on your answers. Open one to read the rules for yourself.</p>' + cardsHTML(hidden.slice(0, 30), any, vOf) + "</details>";
@@ -363,7 +379,7 @@
       wire();
     }
 
-    var expanded = {}, laterOpen = false;
+    var expanded = {}, laterOpen = false, lastZero = "";
     function wire() {
       var q;
       Array.prototype.forEach.call(results.querySelectorAll(".show-more[data-key]"), function (b) {
@@ -460,7 +476,7 @@
   function initSaved() {
     renderSaved();
     var pr = $("saved-print"), cp = $("saved-copy"), cl = $("saved-clear");
-    if (pr) pr.addEventListener("click", function () { window.print(); });
+    if (pr) pr.addEventListener("click", function () { track("saved-print"); window.print(); });
     if (cp) cp.addEventListener("click", function () {
       var lines = saved.map(function (id) {
         var e = byId[id]; if (!e) return "";
