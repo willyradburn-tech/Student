@@ -1,0 +1,48 @@
+{
+  "id": "samsung-education-store",
+  "name": "Samsung Education Store",
+  "provider": "Samsung",
+  "category": "tech",
+  "summary": "Up to 20% off Samsung phones, tablets, laptops and TVs for uni students with a .edu.au email.",
+  "key": "Save up to 20% when you sign up to the Samsung Education Store.",
+  "who": [
+    "Current or newly accepted full-time or part-time students with an email ending in .edu.au."
+  ],
+  "how": [
+    "Sign up with your student email and verify through the link sent to you."
+  ],
+  "catches": [
+    "Limit of 3 products per category per calendar year. Offers vary by product."
+  ],
+  "tags": [
+    "samsung",
+    "phone",
+    "galaxy",
+    "laptop",
+    "tablet",
+    "education store"
+  ],
+  "source": {
+    "url": "https://www.samsung.com/au/offer/samsung-education-store",
+    "label": "Samsung: Student & Education Benefits"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Discount",
+      "quote": "Save up to 20% when you sign up to the Samsung Education Store.",
+      "url": "https://www.samsung.com/au/offer/samsung-education-store",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "Current or newly-accepted full-time or part-time students",
+      "url": "https://www.samsung.com/au/offer/samsung-education-store",
+      "page_date": null
+    }
+  ]
+}

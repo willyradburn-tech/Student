@@ -1,0 +1,61 @@
+{
+  "id": "latrobe-su-placement-travel-support",
+  "name": "La Trobe Student Union Placement Travel Support",
+  "provider": "La Trobe Student Union",
+  "category": "uni",
+  "summary": "A $50 petrol or public transport voucher each semester for Bundoora students on a required placement.",
+  "key": "One $50 voucher per semester, for petrol or public transport.",
+  "who": [
+    "Enrolled at La Trobe's Melbourne Bundoora campus, on a placement your course requires.",
+    "Not on a placement that gets the Commonwealth Prac Payment (international students in those fields can still apply)."
+  ],
+  "how": [
+    "Complete the online form with your placement details. Processing can take up to 14 business days."
+  ],
+  "catches": [
+    "Applications closed for Semester 2, 2026 and reopen next semester."
+  ],
+  "tags": [
+    "la trobe",
+    "ltsu",
+    "placement",
+    "travel",
+    "bundoora",
+    "vic"
+  ],
+  "source": {
+    "url": "https://www.latrobesu.org.au/support/placementtravelsupport/",
+    "label": "La Trobe Student Union: Placement Travel Support"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "prac": {
+      "yes": [
+        "yes"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "choose one $50 voucher per semester",
+      "url": "https://www.latrobesu.org.au/support/placementtravelsupport/",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "You are currently enrolled as a La Trobe University Melbourne Bundoora campus student.",
+      "url": "https://www.latrobesu.org.au/support/placementtravelsupport/",
+      "page_date": null
+    }
+  ],
+  "closes": "closed"
+}

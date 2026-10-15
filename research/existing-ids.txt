@@ -14,6 +14,8 @@ act-tertiary-concession
 act-transport-health-care-card-off-peak-free
 act-utilities-concession
 actuaries-institute-university-subscriber
+acu-equity-scholarship
+acu-law-equity-scholarship
 adelaide-metro-tertiary-concession
 adelaide-uni-aboriginal-student-scholarship
 adelaide-uni-ar-riddle-grant
@@ -68,6 +70,7 @@ ava-student-membership
 awa-student-membership
 aws-educate
 azure-for-students
+ballina-shire-pools-concession
 belvoir-student-saver
 bentley-education
 bond-student-hardship-grant
@@ -228,6 +231,7 @@ jetbrains-student-pack
 jmp-student-edition
 latrobe-su-feed-la-trobe
 latrobe-su-legal-service
+latrobe-su-placement-travel-support
 latrobe-su-safety-net
 law-society-nsw-student-membership
 lenovo-education
@@ -299,6 +303,7 @@ nswnma-student-membership
 nt-free-public-buses
 nt-tertiary-fares-reimbursement-interstate
 nt-tertiary-fares-reimbursement-within-nt
+nvivo-student-licence
 onshape-education
 opera-australia-concession
 opera-australia-student-rush
@@ -398,6 +403,7 @@ sa-help
 sa-medical-heating-cooling-concession
 sa-public-transport-concession-health-care-card
 sa-water-sewerage-concession
+samsung-education-store
 scu-access27-international-tuition
 scu-anz-indigenous-undergraduate-scholarship
 scu-bachelor-of-innovation-honours-scholarship
@@ -609,6 +615,8 @@ usyd-src-foodhub
 usyd-src-legal-service
 usyd-sydney-access-scholarship
 usyd-walter-eliza-hall-opportunity-scholarship
+utas-student-financial-hardship-scheme
+utas-tax-clinic
 uts-digital-access-grant
 uts-equal-access-scholarship
 uts-financial-support-grant
@@ -639,8 +647,10 @@ vic-winter-gas-concession
 vicroads-registration-concession
 virgin-australia-student-fares
 vu-thrive-grant
+wa-energy-assistance-payment
 wa-hardship-utility-grant-scheme
 wa-tertiary-smartrider
+wild-life-sydney-zoo-student-tickets
 wolfram-mathematica-student
 wolframalpha-pro-students
 wsu-badanami-futures-fund

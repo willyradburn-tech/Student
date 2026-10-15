@@ -1,0 +1,64 @@
+{
+  "id": "acu-law-equity-scholarship",
+  "name": "ACU Law Equity Scholarship",
+  "provider": "Australian Catholic University",
+  "category": "uni",
+  "summary": "$5,000 for domestic ACU Law students who have faced hardship or barriers to getting into higher education.",
+  "key": "$5,000.",
+  "who": [
+    "Domestic students in any ACU Law degree who have experienced hardship or barriers in accessing higher education."
+  ],
+  "how": [
+    "Apply through ACU's application portal."
+  ],
+  "catches": [
+    "Applications close Monday 1 March 2027."
+  ],
+  "tags": [
+    "acu",
+    "law",
+    "equity",
+    "hardship"
+  ],
+  "source": {
+    "url": "https://www.acu.edu.au/study-at-acu/fees-and-scholarships/find-a-scholarship/acu-law---equity-scholarship",
+    "label": "ACU: ACU Law Equity Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    },
+    "field": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$5,000",
+      "url": "https://www.acu.edu.au/study-at-acu/fees-and-scholarships/find-a-scholarship/acu-law---equity-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "For domestic students in any ACU Law degree who have experienced hardship or barriers in accessing higher education.",
+      "url": "https://www.acu.edu.au/study-at-acu/fees-and-scholarships/find-a-scholarship/acu-law---equity-scholarship",
+      "page_date": null
+    }
+  ],
+  "closes": "2027-03-01"
+}

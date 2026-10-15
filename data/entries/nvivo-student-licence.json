@@ -1,0 +1,41 @@
+{
+  "id": "nvivo-student-licence",
+  "name": "NVivo student licence",
+  "provider": "Lumivero",
+  "category": "software",
+  "summary": "A 12-month NVivo licence for students doing qualitative research, at a student price.",
+  "key": "$118 for 12 months of NVivo.",
+  "who": [
+    "Students. One named user per licence."
+  ],
+  "how": [
+    "Buy online from Lumivero."
+  ],
+  "catches": [
+    "The page shows the price in $ without naming the currency."
+  ],
+  "tags": [
+    "nvivo",
+    "qualitative",
+    "research",
+    "thesis",
+    "lumivero"
+  ],
+  "source": {
+    "url": "https://lumivero.com/?p=44184",
+    "label": "Lumivero: NVivo Student Version"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Term",
+      "quote": "Our student licenses provide unrestricted access to NVivo",
+      "url": "https://lumivero.com/?p=44184",
+      "page_date": null
+    }
+  ]
+}

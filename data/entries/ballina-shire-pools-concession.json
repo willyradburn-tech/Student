@@ -1,0 +1,48 @@
+{
+  "id": "ballina-shire-pools-concession",
+  "name": "Ballina Shire pools concession entry",
+  "provider": "Ballina Shire Council",
+  "category": "streaming",
+  "summary": "Concession entry and passes at Ballina Shire council pools for student cardholders.",
+  "key": "Single entry $5.70 concession, versus $6.70 adult (2026/27).",
+  "who": [
+    "Student cardholders, Health Care Cardholders, seniors, pensioners and people with disabilities."
+  ],
+  "how": [
+    "Show your student card at the pool."
+  ],
+  "catches": [
+    "Ten-visit, three-month and 12-month passes also have concession prices."
+  ],
+  "tags": [
+    "pool",
+    "swimming",
+    "ballina",
+    "alstonville",
+    "northern rivers",
+    "nsw"
+  ],
+  "source": {
+    "url": "https://ballina.nsw.gov.au/community-swimming-pools",
+    "label": "Ballina Shire Council: Community swimming pools"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Who qualifies",
+      "quote": "Concession = Senior Cardholders, Student Cardholders, Pensioners, Health Care Cardholders and people with disabilities",
+      "url": "https://ballina.nsw.gov.au/community-swimming-pools",
+      "page_date": null
+    }
+  ]
+}

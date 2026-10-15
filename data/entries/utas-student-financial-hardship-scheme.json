@@ -1,0 +1,48 @@
+{
+  "id": "utas-student-financial-hardship-scheme",
+  "name": "UTAS Student Financial Hardship Scheme",
+  "provider": "University of Tasmania",
+  "category": "uni",
+  "summary": "Financial help for UTAS students hit by a genuine, unexpected and temporary money problem, such as job loss or a big bill.",
+  "who": [
+    "Currently enrolled in units at the University of Tasmania and living in Australia.",
+    "Financial difficulty that is genuine, unexpected and temporary, such as job loss, illness, family violence or an unexpected bill."
+  ],
+  "how": [
+    "Complete the online form, with bank statements or a statement of your situation."
+  ],
+  "catches": [
+    "International students facing placement or job-hunting costs have a separate pathway."
+  ],
+  "tags": [
+    "utas",
+    "tasmania",
+    "hobart",
+    "launceston",
+    "hardship",
+    "tas"
+  ],
+  "source": {
+    "url": "https://utas.shorthandstories.com/wellbeing-student-financial-hardship-scheme/index.html",
+    "label": "University of Tasmania: Student Financial Hardship Scheme"
+  },
+  "status": "unverified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Eligibility",
+      "quote": "Your financial difficulty is genuine, unexpected, and is temporary",
+      "url": "https://utas.shorthandstories.com/wellbeing-student-financial-hardship-scheme/index.html",
+      "page_date": null
+    }
+  ]
+}

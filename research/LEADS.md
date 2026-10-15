@@ -31,3 +31,7 @@ The shared search and fetch limits ran out during the run, so these were found b
 - Everyday: phone and internet student plans, Palace Cinemas $9 student Mondays (only a guild page found), Cinema Nova, Kino, Dendy student tickets.
 - Software and bodies: NVivo, Toon Boom, 12d, SPACE GASS (no public student offer found), EIANZ student fee, FINSIA, MEAA, AIB.
 - Travel: V/Line student concessions, Flexicar student rates (mentioned but no rates published).
+
+# Third pass (15 Oct 2026, 10 entries added)
+- Found but not added: Vodafone student offer (page shows 2024 dates only), Brisbane Summer Dips (no 2026-27 dates yet), Toon Boom (discount with no price), Microsoft Store student pricing ("currently unavailable"), Canva Education (K-12 only, not uni).
+- Still open: Federation and ACU hardship grants (no amounts on official pages), FINSIA (now redirects to CISI), EIANZ student fee, cinema student deals (Hoyts, Village, Palace, Dendy: no official pages found), LG and Sharesight student offers (seen only on the WSU discounts page).

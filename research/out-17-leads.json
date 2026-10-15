@@ -1,0 +1,514 @@
+[
+  {
+    "id": "wa-energy-assistance-payment",
+    "name": "WA Energy Assistance Payment",
+    "provider": "Synergy (WA Government)",
+    "category": "health",
+    "summary": "A yearly credit on your WA electricity bill if you hold a Health Care Card or other concession card.",
+    "key": "$334.49 of their energy bill each year.",
+    "who": [
+      "Residential energy customer in WA holding a Health Care Card, Pensioner Concession Card or DVA Gold or Pensioner Concession Card."
+    ],
+    "how": [
+      "Ask your electricity retailer (Synergy or Horizon Power) to add your concession card to your account."
+    ],
+    "catches": [
+      "New accounts with a concession card also get a one-off $26.84 account establishment fee rebate."
+    ],
+    "tags": [
+      "electricity",
+      "energy",
+      "concession",
+      "health care card",
+      "wa",
+      "synergy",
+      "perth"
+    ],
+    "source": {
+      "url": "https://www.synergy.net.au/Your-home/Manage-account/Rebates-and-concessions",
+      "label": "Synergy: Rebates and concessions"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "wa"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Amount",
+        "quote": "$334.49 of their energy bill each year",
+        "url": "https://www.synergy.net.au/Your-home/Manage-account/Rebates-and-concessions",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "acu-equity-scholarship",
+    "name": "ACU Equity Scholarship",
+    "provider": "Australian Catholic University",
+    "category": "uni",
+    "summary": "$1,000 to $2,000 for domestic ACU undergraduates who have faced financial hardship, open to new and current students.",
+    "key": "$1,000-$2,000.",
+    "who": [
+      "Domestic undergraduate students who have faced financial hardship.",
+      "Current students and those starting at ACU."
+    ],
+    "how": [
+      "Apply through UAC. Full details and the form are on ACU's application portal."
+    ],
+    "catches": [
+      "Applications close Friday 5 February 2027."
+    ],
+    "tags": [
+      "acu",
+      "australian catholic university",
+      "equity",
+      "hardship",
+      "brisbane",
+      "sydney",
+      "melbourne"
+    ],
+    "source": {
+      "url": "https://www.acu.edu.au/study-at-acu/fees-and-scholarships/find-a-scholarship/acu-equity-scholarship",
+      "label": "ACU: Equity Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Value",
+        "quote": "$1,000-$2,000",
+        "url": "https://www.acu.edu.au/study-at-acu/fees-and-scholarships/find-a-scholarship/acu-equity-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "domestic undergraduate students who have faced financial hardship",
+        "url": "https://www.acu.edu.au/study-at-acu/fees-and-scholarships/find-a-scholarship/acu-equity-scholarship",
+        "page_date": null
+      }
+    ],
+    "closes": "2027-02-05"
+  },
+  {
+    "id": "acu-law-equity-scholarship",
+    "name": "ACU Law Equity Scholarship",
+    "provider": "Australian Catholic University",
+    "category": "uni",
+    "summary": "$5,000 for domestic ACU Law students who have faced hardship or barriers to getting into higher education.",
+    "key": "$5,000.",
+    "who": [
+      "Domestic students in any ACU Law degree who have experienced hardship or barriers in accessing higher education."
+    ],
+    "how": [
+      "Apply through ACU's application portal."
+    ],
+    "catches": [
+      "Applications close Monday 1 March 2027."
+    ],
+    "tags": [
+      "acu",
+      "law",
+      "equity",
+      "hardship"
+    ],
+    "source": {
+      "url": "https://www.acu.edu.au/study-at-acu/fees-and-scholarships/find-a-scholarship/acu-law---equity-scholarship",
+      "label": "ACU: ACU Law Equity Scholarship"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "res": {
+        "yes": [
+          "citizen",
+          "pr"
+        ]
+      },
+      "field": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Value",
+        "quote": "$5,000",
+        "url": "https://www.acu.edu.au/study-at-acu/fees-and-scholarships/find-a-scholarship/acu-law---equity-scholarship",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "For domestic students in any ACU Law degree who have experienced hardship or barriers in accessing higher education.",
+        "url": "https://www.acu.edu.au/study-at-acu/fees-and-scholarships/find-a-scholarship/acu-law---equity-scholarship",
+        "page_date": null
+      }
+    ],
+    "closes": "2027-03-01"
+  },
+  {
+    "id": "latrobe-su-placement-travel-support",
+    "name": "La Trobe Student Union Placement Travel Support",
+    "provider": "La Trobe Student Union",
+    "category": "uni",
+    "summary": "A $50 petrol or public transport voucher each semester for Bundoora students on a required placement.",
+    "key": "One $50 voucher per semester, for petrol or public transport.",
+    "who": [
+      "Enrolled at La Trobe's Melbourne Bundoora campus, on a placement your course requires.",
+      "Not on a placement that gets the Commonwealth Prac Payment (international students in those fields can still apply)."
+    ],
+    "how": [
+      "Complete the online form with your placement details. Processing can take up to 14 business days."
+    ],
+    "catches": [
+      "Applications closed for Semester 2, 2026 and reopen next semester."
+    ],
+    "tags": [
+      "la trobe",
+      "ltsu",
+      "placement",
+      "travel",
+      "bundoora",
+      "vic"
+    ],
+    "source": {
+      "url": "https://www.latrobesu.org.au/support/placementtravelsupport/",
+      "label": "La Trobe Student Union: Placement Travel Support"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      },
+      "prac": {
+        "yes": [
+          "yes"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Value",
+        "quote": "choose one $50 voucher per semester",
+        "url": "https://www.latrobesu.org.au/support/placementtravelsupport/",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "You are currently enrolled as a La Trobe University Melbourne Bundoora campus student.",
+        "url": "https://www.latrobesu.org.au/support/placementtravelsupport/",
+        "page_date": null
+      }
+    ],
+    "closes": "closed"
+  },
+  {
+    "id": "utas-student-financial-hardship-scheme",
+    "name": "UTAS Student Financial Hardship Scheme",
+    "provider": "University of Tasmania",
+    "category": "uni",
+    "summary": "Financial help for UTAS students hit by a genuine, unexpected and temporary money problem, such as job loss or a big bill.",
+    "who": [
+      "Currently enrolled in units at the University of Tasmania and living in Australia.",
+      "Financial difficulty that is genuine, unexpected and temporary, such as job loss, illness, family violence or an unexpected bill."
+    ],
+    "how": [
+      "Complete the online form, with bank statements or a statement of your situation."
+    ],
+    "catches": [
+      "International students facing placement or job-hunting costs have a separate pathway."
+    ],
+    "tags": [
+      "utas",
+      "tasmania",
+      "hobart",
+      "launceston",
+      "hardship",
+      "tas"
+    ],
+    "source": {
+      "url": "https://utas.shorthandstories.com/wellbeing-student-financial-hardship-scheme/index.html",
+      "label": "University of Tasmania: Student Financial Hardship Scheme"
+    },
+    "status": "unverified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "uni": {
+        "yes": [
+          "other"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Eligibility",
+        "quote": "Your financial difficulty is genuine, unexpected, and is temporary",
+        "url": "https://utas.shorthandstories.com/wellbeing-student-financial-hardship-scheme/index.html",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "utas-tax-clinic",
+    "name": "UTAS Tax Clinic",
+    "provider": "University of Tasmania",
+    "category": "tax",
+    "summary": "Free tax help in Hobart, including tax returns and ATO disputes, for people in financial hardship.",
+    "key": "Free professional tax services for eligible taxpayers.",
+    "who": [
+      "Taxpayers facing financial hardship, in a dispute with the ATO, or with a tax debt to negotiate."
+    ],
+    "how": [
+      "Apply online, phone +61 3 6226 6118 or email tax.clinic@utas.edu.au."
+    ],
+    "catches": [
+      "Hobart office, 157 Elizabeth Street, open Tuesday to Thursday. Closed over summer."
+    ],
+    "tags": [
+      "tax",
+      "tax return",
+      "ato",
+      "utas",
+      "hobart",
+      "tas",
+      "free"
+    ],
+    "source": {
+      "url": "https://www.utas.edu.au/community-and-partners/community-programs/tax-clinic",
+      "label": "University of Tasmania: Tax Clinic"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Free",
+        "quote": "The Tax Clinic proudly provides eligible taxpayers with free professional tax services in:",
+        "url": "https://www.utas.edu.au/community-and-partners/community-programs/tax-clinic",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "samsung-education-store",
+    "name": "Samsung Education Store",
+    "provider": "Samsung",
+    "category": "tech",
+    "summary": "Up to 20% off Samsung phones, tablets, laptops and TVs for uni students with a .edu.au email.",
+    "key": "Save up to 20% when you sign up to the Samsung Education Store.",
+    "who": [
+      "Current or newly accepted full-time or part-time students with an email ending in .edu.au."
+    ],
+    "how": [
+      "Sign up with your student email and verify through the link sent to you."
+    ],
+    "catches": [
+      "Limit of 3 products per category per calendar year. Offers vary by product."
+    ],
+    "tags": [
+      "samsung",
+      "phone",
+      "galaxy",
+      "laptop",
+      "tablet",
+      "education store"
+    ],
+    "source": {
+      "url": "https://www.samsung.com/au/offer/samsung-education-store",
+      "label": "Samsung: Student & Education Benefits"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Discount",
+        "quote": "Save up to 20% when you sign up to the Samsung Education Store.",
+        "url": "https://www.samsung.com/au/offer/samsung-education-store",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "Current or newly-accepted full-time or part-time students",
+        "url": "https://www.samsung.com/au/offer/samsung-education-store",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "nvivo-student-licence",
+    "name": "NVivo student licence",
+    "provider": "Lumivero",
+    "category": "software",
+    "summary": "A 12-month NVivo licence for students doing qualitative research, at a student price.",
+    "key": "$118 for 12 months of NVivo.",
+    "who": [
+      "Students. One named user per licence."
+    ],
+    "how": [
+      "Buy online from Lumivero."
+    ],
+    "catches": [
+      "The page shows the price in $ without naming the currency."
+    ],
+    "tags": [
+      "nvivo",
+      "qualitative",
+      "research",
+      "thesis",
+      "lumivero"
+    ],
+    "source": {
+      "url": "https://lumivero.com/?p=44184",
+      "label": "Lumivero: NVivo Student Version"
+    },
+    "status": "unverified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Term",
+        "quote": "Our student licenses provide unrestricted access to NVivo",
+        "url": "https://lumivero.com/?p=44184",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "ballina-shire-pools-concession",
+    "name": "Ballina Shire pools concession entry",
+    "provider": "Ballina Shire Council",
+    "category": "streaming",
+    "summary": "Concession entry and passes at Ballina Shire council pools for student cardholders.",
+    "key": "Single entry $5.70 concession, versus $6.70 adult (2026/27).",
+    "who": [
+      "Student cardholders, Health Care Cardholders, seniors, pensioners and people with disabilities."
+    ],
+    "how": [
+      "Show your student card at the pool."
+    ],
+    "catches": [
+      "Ten-visit, three-month and 12-month passes also have concession prices."
+    ],
+    "tags": [
+      "pool",
+      "swimming",
+      "ballina",
+      "alstonville",
+      "northern rivers",
+      "nsw"
+    ],
+    "source": {
+      "url": "https://ballina.nsw.gov.au/community-swimming-pools",
+      "label": "Ballina Shire Council: Community swimming pools"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "medium",
+    "review": "pending",
+    "match": {
+      "state": {
+        "yes": [
+          "nsw"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "claim": "Who qualifies",
+        "quote": "Concession = Senior Cardholders, Student Cardholders, Pensioners, Health Care Cardholders and people with disabilities",
+        "url": "https://ballina.nsw.gov.au/community-swimming-pools",
+        "page_date": null
+      }
+    ]
+  },
+  {
+    "id": "wild-life-sydney-zoo-student-tickets",
+    "name": "WILD LIFE Sydney Zoo student tickets",
+    "provider": "WILD LIFE Sydney Zoo",
+    "category": "streaming",
+    "summary": "$24 student tickets to WILD LIFE Sydney Zoo at Darling Harbour, booked online at off-peak times.",
+    "key": "$24 per student online, compared with $49 standard.",
+    "who": [
+      "Students currently enrolled at a recognised higher education institution, domestic or international."
+    ],
+    "how": [
+      "Book online in advance and bring your student ID."
+    ],
+    "catches": [
+      "Not sold at the door. Off-peak times only, such as weekdays outside school holidays."
+    ],
+    "tags": [
+      "zoo",
+      "sydney",
+      "darling harbour",
+      "attraction",
+      "nsw"
+    ],
+    "source": {
+      "url": "https://www.wildlifesydney.com.au/tickets-passes/discount-tickets-deals/student-discount",
+      "label": "WILD LIFE Sydney Zoo: Student discount"
+    },
+    "status": "verified",
+    "verified": "2026-10-15",
+    "cadence": "high",
+    "review": "pending",
+    "match": {},
+    "evidence": [
+      {
+        "claim": "Price",
+        "quote": "Save over 50% as a student",
+        "url": "https://www.wildlifesydney.com.au/tickets-passes/discount-tickets-deals/student-discount",
+        "page_date": null
+      },
+      {
+        "claim": "Eligibility",
+        "quote": "currently enrolled in a recognised higher education institution",
+        "url": "https://www.wildlifesydney.com.au/tickets-passes/discount-tickets-deals/student-discount",
+        "page_date": null
+      }
+    ]
+  }
+]

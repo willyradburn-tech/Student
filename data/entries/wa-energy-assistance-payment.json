@@ -1,0 +1,49 @@
+{
+  "id": "wa-energy-assistance-payment",
+  "name": "WA Energy Assistance Payment",
+  "provider": "Synergy (WA Government)",
+  "category": "health",
+  "summary": "A yearly credit on your WA electricity bill if you hold a Health Care Card or other concession card.",
+  "key": "$334.49 of their energy bill each year.",
+  "who": [
+    "Residential energy customer in WA holding a Health Care Card, Pensioner Concession Card or DVA Gold or Pensioner Concession Card."
+  ],
+  "how": [
+    "Ask your electricity retailer (Synergy or Horizon Power) to add your concession card to your account."
+  ],
+  "catches": [
+    "New accounts with a concession card also get a one-off $26.84 account establishment fee rebate."
+  ],
+  "tags": [
+    "electricity",
+    "energy",
+    "concession",
+    "health care card",
+    "wa",
+    "synergy",
+    "perth"
+  ],
+  "source": {
+    "url": "https://www.synergy.net.au/Your-home/Manage-account/Rebates-and-concessions",
+    "label": "Synergy: Rebates and concessions"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {
+    "state": {
+      "yes": [
+        "wa"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Amount",
+      "quote": "$334.49 of their energy bill each year",
+      "url": "https://www.synergy.net.au/Your-home/Manage-account/Rebates-and-concessions",
+      "page_date": null
+    }
+  ]
+}

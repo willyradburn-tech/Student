@@ -1,0 +1,47 @@
+{
+  "id": "wild-life-sydney-zoo-student-tickets",
+  "name": "WILD LIFE Sydney Zoo student tickets",
+  "provider": "WILD LIFE Sydney Zoo",
+  "category": "streaming",
+  "summary": "$24 student tickets to WILD LIFE Sydney Zoo at Darling Harbour, booked online at off-peak times.",
+  "key": "$24 per student online, compared with $49 standard.",
+  "who": [
+    "Students currently enrolled at a recognised higher education institution, domestic or international."
+  ],
+  "how": [
+    "Book online in advance and bring your student ID."
+  ],
+  "catches": [
+    "Not sold at the door. Off-peak times only, such as weekdays outside school holidays."
+  ],
+  "tags": [
+    "zoo",
+    "sydney",
+    "darling harbour",
+    "attraction",
+    "nsw"
+  ],
+  "source": {
+    "url": "https://www.wildlifesydney.com.au/tickets-passes/discount-tickets-deals/student-discount",
+    "label": "WILD LIFE Sydney Zoo: Student discount"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Price",
+      "quote": "Save over 50% as a student",
+      "url": "https://www.wildlifesydney.com.au/tickets-passes/discount-tickets-deals/student-discount",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "currently enrolled in a recognised higher education institution",
+      "url": "https://www.wildlifesydney.com.au/tickets-passes/discount-tickets-deals/student-discount",
+      "page_date": null
+    }
+  ]
+}

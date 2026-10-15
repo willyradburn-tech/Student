@@ -1,0 +1,63 @@
+{
+  "id": "acu-equity-scholarship",
+  "name": "ACU Equity Scholarship",
+  "provider": "Australian Catholic University",
+  "category": "uni",
+  "summary": "$1,000 to $2,000 for domestic ACU undergraduates who have faced financial hardship, open to new and current students.",
+  "key": "$1,000-$2,000.",
+  "who": [
+    "Domestic undergraduate students who have faced financial hardship.",
+    "Current students and those starting at ACU."
+  ],
+  "how": [
+    "Apply through UAC. Full details and the form are on ACU's application portal."
+  ],
+  "catches": [
+    "Applications close Friday 5 February 2027."
+  ],
+  "tags": [
+    "acu",
+    "australian catholic university",
+    "equity",
+    "hardship",
+    "brisbane",
+    "sydney",
+    "melbourne"
+  ],
+  "source": {
+    "url": "https://www.acu.edu.au/study-at-acu/fees-and-scholarships/find-a-scholarship/acu-equity-scholarship",
+    "label": "ACU: Equity Scholarship"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "high",
+  "review": "pending",
+  "match": {
+    "uni": {
+      "yes": [
+        "other"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "claim": "Value",
+      "quote": "$1,000-$2,000",
+      "url": "https://www.acu.edu.au/study-at-acu/fees-and-scholarships/find-a-scholarship/acu-equity-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Eligibility",
+      "quote": "domestic undergraduate students who have faced financial hardship",
+      "url": "https://www.acu.edu.au/study-at-acu/fees-and-scholarships/find-a-scholarship/acu-equity-scholarship",
+      "page_date": null
+    }
+  ],
+  "closes": "2027-02-05"
+}

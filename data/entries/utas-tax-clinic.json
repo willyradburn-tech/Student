@@ -1,0 +1,43 @@
+{
+  "id": "utas-tax-clinic",
+  "name": "UTAS Tax Clinic",
+  "provider": "University of Tasmania",
+  "category": "tax",
+  "summary": "Free tax help in Hobart, including tax returns and ATO disputes, for people in financial hardship.",
+  "key": "Free professional tax services for eligible taxpayers.",
+  "who": [
+    "Taxpayers facing financial hardship, in a dispute with the ATO, or with a tax debt to negotiate."
+  ],
+  "how": [
+    "Apply online, phone +61 3 6226 6118 or email tax.clinic@utas.edu.au."
+  ],
+  "catches": [
+    "Hobart office, 157 Elizabeth Street, open Tuesday to Thursday. Closed over summer."
+  ],
+  "tags": [
+    "tax",
+    "tax return",
+    "ato",
+    "utas",
+    "hobart",
+    "tas",
+    "free"
+  ],
+  "source": {
+    "url": "https://www.utas.edu.au/community-and-partners/community-programs/tax-clinic",
+    "label": "University of Tasmania: Tax Clinic"
+  },
+  "status": "verified",
+  "verified": "2026-10-15",
+  "cadence": "medium",
+  "review": "pending",
+  "match": {},
+  "evidence": [
+    {
+      "claim": "Free",
+      "quote": "The Tax Clinic proudly provides eligible taxpayers with free professional tax services in:",
+      "url": "https://www.utas.edu.au/community-and-partners/community-programs/tax-clinic",
+      "page_date": null
+    }
+  ]
+}
