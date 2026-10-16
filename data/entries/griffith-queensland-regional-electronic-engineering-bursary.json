@@ -29,7 +29,7 @@
     "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-school-of-engineering-queensland-regional-electronic-engineering-bursary",
     "label": "Griffith University: Queensland Regional Electronic Engineering Bursary"
   },
-  "status": "unverified",
+  "status": "rechecking",
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
@@ -64,5 +64,8 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "open_questions": [
+    "2026-10-16 changed: Page is inconsistent: eligibility refers to Year 12 in 2025 and commencing Trimester 1 2026, but the closing date shown is 4pm 2027-01-29. Check the current intake and eligibility year. Page says: \"Maximum value is $2,500, paid in instalments.\""
+  ]
 }

@@ -26,8 +26,8 @@
     "url": "https://www.artgallery.nsw.gov.au/visit/plan-your-visit/visit-faqs",
     "label": "Art Gallery of NSW: Visit FAQs"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -47,6 +47,12 @@
     {
       "claim": "Student concession",
       "quote": "...or Full Time Student Card, you are eligible for a concession ticket.",
+      "url": "https://www.artgallery.nsw.gov.au/visit/plan-your-visit/visit-faqs",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
+      "quote": "Entry to the Art Gallery is free and does not require a ticket.",
       "url": "https://www.artgallery.nsw.gov.au/visit/plan-your-visit/visit-faqs",
       "page_date": null
     }

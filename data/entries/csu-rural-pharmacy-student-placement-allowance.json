@@ -29,8 +29,8 @@
     "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/rural-pharmacy-student-placement-allowance",
     "label": "Charles Sturt University: Rural Pharmacy Student Placement Allowance"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -73,6 +73,12 @@
     {
       "claim": "Closing date",
       "quote": "Applications are OPEN for 2025 and will close at 11:59pm 4 Dec 2026",
+      "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/rural-pharmacy-student-placement-allowance",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
+      "quote": "provides financial support of up to $3,000 per eligible student placement",
       "url": "https://www.csu.edu.au/scholarships/scholarships-grants/find-scholarship/equity/rural-pharmacy-student-placement-allowance",
       "page_date": null
     }

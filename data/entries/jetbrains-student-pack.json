@@ -43,6 +43,7 @@
   },
   "open_questions": [
     "Eligibility rules (full-time, course length) and licence length could not be read: jetbrains.com education pages returned no content or blocked automated reading.",
-    "Grok's 'full-time student in accredited program of at least 1 year' and 'for the duration of studies' are unconfirmed."
+    "Grok's 'full-time student in accredited program of at least 1 year' and 'for the duration of studies' are unconfirmed.",
+    "2026-10-16 changed: The page covers free educational licences, not a 'JetBrains Student Pack'. It says applying with official school documents is no longer possible (as of July 2024); remaining routes are a school email address, ISIC/ITIC membership or GitHub Student Developer Pack. Entry name and source URL need review. Page says: \"To obtain a free subscription, you may apply using any one of the following:\""
   ]
 }

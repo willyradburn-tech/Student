@@ -28,8 +28,8 @@
     "url": "https://www.lexsa.com.au/support",
     "label": "LEXSA: Support"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -43,6 +43,12 @@
     {
       "claim": "Membership cost",
       "quote": "students can join for $5 then renew each year for $1",
+      "url": "https://www.lexsa.com.au/support",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
+      "quote": "can request a rebate of $50 for full First Aid Courses and $30 for CPR-only Courses.",
       "url": "https://www.lexsa.com.au/support",
       "page_date": null
     }

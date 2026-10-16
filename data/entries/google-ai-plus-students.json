@@ -25,8 +25,8 @@
     "url": "https://gemini.google/au/students/",
     "label": "Google Gemini: Students (Australia)"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -52,6 +52,13 @@
       "quote": "Redeem until 31 December 2026.",
       "url": "https://gemini.google/au/students/",
       "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
+      "quote": "The free-of-charge Google AI Plus student offer is available to eligible university students aged 18+.",
+      "url": "https://gemini.google/au/students/",
+      "page_date": null
     }
-  ]
+  ],
+  "closes": "2026-12-31"
 }

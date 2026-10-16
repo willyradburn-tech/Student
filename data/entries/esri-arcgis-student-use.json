@@ -20,8 +20,8 @@
     "url": "https://www.esri.com/en-us/arcgis/products/arcgis-for-student-use/buy",
     "label": "Esri: ArcGIS for Student Use"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {},
@@ -35,6 +35,12 @@
     {
       "claim": "Advanced licence level",
       "quote": "With ArcGIS for Student Use, you get the latest versions of our software at the advanced license level.",
+      "url": "https://www.esri.com/en-us/arcgis/products/arcgis-for-student-use/buy",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
+      "quote": "ArcGIS for Student Use delivers an easy and low-cost option for individual academic use",
       "url": "https://www.esri.com/en-us/arcgis/products/arcgis-for-student-use/buy",
       "page_date": null
     }

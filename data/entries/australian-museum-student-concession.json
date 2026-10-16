@@ -24,8 +24,8 @@
     "url": "https://australian.museum/visit/admission/",
     "label": "Australian Museum: Admission"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -45,6 +45,12 @@
     {
       "claim": "Student cards",
       "quote": "Concession cards must be shown upon admission to receive the reduced ticket prices:",
+      "url": "https://australian.museum/visit/admission/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
+      "quote": "The Australian Museum has FREE general entry.",
       "url": "https://australian.museum/visit/admission/",
       "page_date": null
     }

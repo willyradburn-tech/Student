@@ -24,8 +24,8 @@
     "url": "https://www.cineplex.com.au/Pricing",
     "label": "Cineplex: Pricing"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -45,6 +45,12 @@
     {
       "claim": "Full-time and 13+",
       "quote": "A Student is 13+ and must be full time (they must have a valid (i.e. current and not expired) student ID card",
+      "url": "https://www.cineplex.com.au/Pricing",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
+      "quote": "A Student is 13+ and must be full time",
       "url": "https://www.cineplex.com.au/Pricing",
       "page_date": null
     }

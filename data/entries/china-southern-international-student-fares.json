@@ -23,8 +23,8 @@
     "url": "https://www.csair.com/au/en/czadscale/2021/20210824/index-en.html",
     "label": "China Southern Airlines Australia: International student exclusives"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -42,6 +42,12 @@
     {
       "claim": "Eligibility",
       "quote": "students aged12-29 who attend a regular school in a country/region other than the country of nationality",
+      "url": "https://www.csair.com/au/en/czadscale/2021/20210824/index-en.html",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
+      "quote": "International students refer to students aged12-29 who attend a regular school",
       "url": "https://www.csair.com/au/en/czadscale/2021/20210824/index-en.html",
       "page_date": null
     }

@@ -18,14 +18,20 @@
     "url": "https://endnote.com/buy/",
     "label": "EndNote: Buy"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {},
   "evidence": [
     {
       "claim": "Student discount",
+      "quote": "Verify your EndNote student discount eligibility to receive EndNote at this discounted price.",
+      "url": "https://endnote.com/buy/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
       "quote": "Verify your EndNote student discount eligibility to receive EndNote at this discounted price.",
       "url": "https://endnote.com/buy/",
       "page_date": null

@@ -32,7 +32,7 @@
     "label": "La Trobe Student Union: Safety Net"
   },
   "status": "unverified",
-  "verified": "2026-10-14",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -51,6 +51,12 @@
     {
       "claim": "Voucher amount",
       "quote": "a voucher for $60",
+      "url": "https://www.latrobesu.org.au/support/safetynet/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
+      "quote": "The Safety Net provides a one-time payment of $60 per semester",
       "url": "https://www.latrobesu.org.au/support/safetynet/",
       "page_date": null
     }

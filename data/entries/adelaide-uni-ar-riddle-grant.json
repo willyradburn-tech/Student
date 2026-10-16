@@ -31,7 +31,7 @@
     "label": "Adelaide University: A R Riddle Grant"
   },
   "status": "unverified",
-  "verified": "2026-10-14",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -57,6 +57,12 @@
     {
       "claim": "How to apply",
       "quote": "Applicants must contact Student Care before applying to arrange a short interview.",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/ar-riddle-grant/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
+      "quote": "The annual value of the grant varies depending on the funds available.",
       "url": "https://adelaide.edu.au/study/scholarships/dom/ar-riddle-grant/",
       "page_date": null
     }

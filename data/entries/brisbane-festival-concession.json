@@ -21,8 +21,8 @@
     "url": "https://www.brisbanefestival.com.au/info/ticketing-info",
     "label": "Brisbane Festival: Ticketing Info"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -35,6 +35,12 @@
   "evidence": [
     {
       "claim": "Full-time students",
+      "quote": "Concession – For full-time students, pension card holders, healthcare card holders, or seniors card holders.",
+      "url": "https://www.brisbanefestival.com.au/info/ticketing-info",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
       "quote": "Concession – For full-time students, pension card holders, healthcare card holders, or seniors card holders.",
       "url": "https://www.brisbanefestival.com.au/info/ticketing-info",
       "page_date": null

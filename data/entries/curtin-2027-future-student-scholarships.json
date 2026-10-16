@@ -28,8 +28,8 @@
     "url": "https://www.curtin.edu.au/study/scholarships/applying-for-a-scholarship/",
     "label": "Curtin University: Applying for a scholarship"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -43,6 +43,12 @@
     {
       "claim": "Round opening",
       "quote": "Opening for all 2027 future student scholarships",
+      "url": "https://www.curtin.edu.au/study/scholarships/applying-for-a-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
+      "quote": "Closing for 2027 future student scholarships",
       "url": "https://www.curtin.edu.au/study/scholarships/applying-for-a-scholarship/",
       "page_date": null
     }

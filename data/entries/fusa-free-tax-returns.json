@@ -22,8 +22,8 @@
     "url": "https://students.flinders.edu.au/finances-and-admin/support/help-loans-and-grants",
     "label": "Flinders University: Help, loans and grants"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -37,6 +37,12 @@
     {
       "claim": "Free tax returns",
       "quote": "Free tax returns",
+      "url": "https://students.flinders.edu.au/finances-and-admin/support/help-loans-and-grants",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
+      "quote": "Any currently enrolled student who meets the Australian Tax Office (ATO) eligibility criteria",
       "url": "https://students.flinders.edu.au/finances-and-admin/support/help-loans-and-grants",
       "page_date": null
     }

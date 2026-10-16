@@ -19,8 +19,8 @@
     "url": "https://gugcstudentguild.com.au/",
     "label": "Griffith University Gold Coast Student Guild: home page"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -34,6 +34,12 @@
     {
       "claim": "free budgeting support",
       "quote": "BudgetED gives you free one-on-one support from a qualified financial professional",
+      "url": "https://gugcstudentguild.com.au/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
+      "quote": "BudgetED gives you free one-on-one support from a qualified financial professional.",
       "url": "https://gugcstudentguild.com.au/",
       "page_date": null
     }

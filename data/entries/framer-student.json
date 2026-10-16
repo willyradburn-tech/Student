@@ -23,8 +23,8 @@
     "url": "https://www.framer.com/education/",
     "label": "Framer: Education"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {},
@@ -37,6 +37,12 @@
     },
     {
       "claim": "Eligibility",
+      "quote": "Students must be enrolled in a certified in-person or online program, like a high school, college, or university.",
+      "url": "https://www.framer.com/education/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
       "quote": "Students must be enrolled in a certified in-person or online program, like a high school, college, or university.",
       "url": "https://www.framer.com/education/",
       "page_date": null

@@ -25,8 +25,8 @@
     "url": "https://www.craft.do/education",
     "label": "Craft: Education"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {},
@@ -40,6 +40,12 @@
     {
       "claim": "12 months",
       "quote": "Your verification will be valid for 12 months, after which you’ll need to re-verify your status.",
+      "url": "https://www.craft.do/education",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
+      "quote": "We believe education should be accessible to everyone, and that's why we offer Craft for free to students and educators.",
       "url": "https://www.craft.do/education",
       "page_date": null
     }

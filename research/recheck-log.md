@@ -1,0 +1,7 @@
+
+## 2026-10-16
+25 checked: 19 confirmed, 3 closed, 3 changed, 0 gone, 0 blocked.
+Needs a person:
+- griffith-chancellors-scholarship-postgraduate (changed): Stored closing date is 2026-12-21 but the page shows rounds for Trimester 1 and 2, 2027 (Round 4 closes 2027-06-30) and an older Round 2 date of 2026-08-24 in the key points box. Page dates are inconsistent; check the current round. https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships-postgraduate-students
+- griffith-queensland-regional-electronic-engineering-bursary (changed): Page is inconsistent: eligibility refers to Year 12 in 2025 and commencing Trimester 1 2026, but the closing date shown is 4pm 2027-01-29. Check the current intake and eligibility year. https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-school-of-engineering-queensland-regional-electronic-engineering-bursary
+- jetbrains-student-pack (changed): The page covers free educational licences, not a 'JetBrains Student Pack'. It says applying with official school documents is no longer possible (as of July 2024); remaining routes are a school email address, ISIC/ITIC membership or GitHub Student Developer Pack. Entry name and source URL need review. https://sales.jetbrains.com/hc/en-gb/articles/19480141673106-Can-I-apply-for-a-free-individual-educational-license-using-official-documents-provided-by-my-school

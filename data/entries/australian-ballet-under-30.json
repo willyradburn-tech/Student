@@ -25,8 +25,8 @@
     "url": "https://australianballet.com.au/ticketing/ballet-at-a-great-price",
     "label": "The Australian Ballet: Ballet at a great price"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -47,6 +47,12 @@
     {
       "claim": "Under 30",
       "quote": "Available to individuals 30 years or under at time of purchase",
+      "url": "https://australianballet.com.au/ticketing/ballet-at-a-great-price",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
+      "quote": "Available to full-time students with a valid student card.",
       "url": "https://australianballet.com.au/ticketing/ballet-at-a-great-price",
       "page_date": null
     }

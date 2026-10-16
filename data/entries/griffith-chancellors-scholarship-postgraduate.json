@@ -27,7 +27,7 @@
     "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships-postgraduate-students",
     "label": "Griffith University: Chancellor's Scholarship for Postgraduate (Coursework) Students"
   },
-  "status": "unverified",
+  "status": "rechecking",
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
@@ -59,5 +59,8 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-12-21"
+  "closes": "2026-12-21",
+  "open_questions": [
+    "2026-10-16 changed: Stored closing date is 2026-12-21 but the page shows rounds for Trimester 1 and 2, 2027 (Round 4 closes 2027-06-30) and an older Round 2 date of 2026-08-24 in the key points box. Page dates are inconsistent; check the current round. Page says: \"The maximum base value is $4,000, payable in instalments of $500 per 10 Credit Points for each enrolled trimester\""
+  ]
 }

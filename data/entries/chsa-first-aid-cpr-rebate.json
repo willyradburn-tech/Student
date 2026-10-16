@@ -25,8 +25,8 @@
     "url": "https://scuchsa.com.au/membership-perks/",
     "label": "CHSA: Membership perks"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -45,6 +45,12 @@
     {
       "claim": "Discounted training",
       "quote": "We've partnered with local providers to help SCU students access discounted First Aid and CPR training.",
+      "url": "https://scuchsa.com.au/membership-perks/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-10-16",
+      "quote": "Book with First Aid Mid North Coast and receive $15 off using the code SCUFIRSTAID at checkout.",
       "url": "https://scuchsa.com.au/membership-perks/",
       "page_date": null
     }
