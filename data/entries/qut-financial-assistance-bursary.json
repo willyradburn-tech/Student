@@ -2,7 +2,7 @@
   "id": "qut-financial-assistance-bursary",
   "name": "QUT Financial Assistance Bursary",
   "provider": "QUT",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A once-off payment for QUT students in sudden financial hardship.",
   "tags": [
     "qut",
@@ -39,5 +39,9 @@
   "source": {
     "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/financial-assistance-bursary",
     "label": "QUT: Financial Assistance Bursary"
-  }
+  },
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

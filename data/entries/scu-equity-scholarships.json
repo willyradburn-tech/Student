@@ -2,7 +2,7 @@
   "id": "scu-equity-scholarships",
   "name": "SCU Equity Scholarships",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $4,800 for low-income students in a Commonwealth supported bachelor degree at Southern Cross University.",
   "tags": [
     "scu",
@@ -46,9 +46,18 @@
         "citizen",
         "pr"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "open_questions": [
     "Closing dates: the page lists Term 3 2026 closing 5 June 2026, but also 'Term 1, 2027 applications closed on 29 January 2027', which is in the future."
+  ],
+  "institution": "scu",
+  "states": [
+    "nsw"
   ]
 }

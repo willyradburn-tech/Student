@@ -24,7 +24,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Free for uni students",
@@ -32,5 +31,6 @@
       "url": "https://www.ptc.com/en/products/education/free-software",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

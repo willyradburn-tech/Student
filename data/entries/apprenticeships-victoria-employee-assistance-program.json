@@ -2,7 +2,7 @@
   "id": "apprenticeships-victoria-employee-assistance-program",
   "name": "Apprentice Employee Assistance Program (free counselling)",
   "provider": "Apprenticeships Victoria",
-  "category": "health",
+  "category": "tafe",
   "summary": "Free, confidential short-term counselling for apprentices and trainees employed by Victorian businesses, delivered by Converge.",
   "key": "Up to four free short-term counselling sessions for each issue.",
   "who": [
@@ -40,6 +40,7 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }
@@ -57,5 +58,8 @@
       "url": "https://apprenticeships.vic.gov.au/apprentice-employee-assistance-program",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

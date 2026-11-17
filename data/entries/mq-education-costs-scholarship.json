@@ -2,7 +2,7 @@
   "id": "mq-education-costs-scholarship",
   "name": "Macquarie Education Costs Scholarship",
   "provider": "Macquarie University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Yearly payment for full-time Macquarie undergraduates receiving Youth Allowance or another means-tested payment.",
   "key": "$6,000 per year, for up to 4 years.",
   "who": [
@@ -32,7 +32,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "mq"
       ]
     },
     "campus": {
@@ -65,5 +65,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "mq",
+  "states": [
+    "nsw"
+  ]
 }

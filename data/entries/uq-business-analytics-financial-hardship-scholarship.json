@@ -2,7 +2,7 @@
   "id": "uq-business-analytics-financial-hardship-scholarship",
   "name": "UQ Master of Business Analytics Financial Hardship Scholarship",
   "provider": "University of Queensland, Business School",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Living-cost scholarship for UQ Graduate Certificate or Master of Business Analytics students facing financial hardship.",
   "key": "$5000 towards living costs.",
   "who": [
@@ -60,5 +60,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

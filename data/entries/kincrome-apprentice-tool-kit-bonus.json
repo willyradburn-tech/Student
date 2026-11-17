@@ -2,7 +2,7 @@
   "id": "kincrome-apprentice-tool-kit-bonus",
   "name": "Kincrome apprentice tool kit free bonus",
   "provider": "Kincrome",
-  "category": "tech",
+  "category": "tafe",
   "summary": "Registered apprentices who buy a Kincrome apprentice tool kit can redeem a free bonus tool, storage or accessory.",
   "key": "Every Kincrome Apprentice Tool Kit comes with a free bonus for registered apprentices.",
   "who": [
@@ -34,6 +34,7 @@
   "match": {
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }

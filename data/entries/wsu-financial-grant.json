@@ -2,7 +2,7 @@
   "id": "wsu-financial-grant",
   "name": "Western Sydney University Financial Grant",
   "provider": "Western Sydney University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Non-repayable grant for enrolled WSU students in documented hardship, covering study and essential living costs.",
   "key": "Grant applications are capped at $1,000, and laptop approvals at $750.",
   "who": [
@@ -34,7 +34,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "wsu"
       ]
     },
     "campus": {
@@ -51,5 +51,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "wsu",
+  "states": [
+    "nsw"
+  ]
 }

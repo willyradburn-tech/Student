@@ -1,17 +1,44 @@
 /* Browser behaviour: matcher steps, search with suggestions, filters, the saved
    list and "why this verdict". Answers and saved items live in this browser only
-   (localStorage), so nothing about a visitor is ever sent anywhere. */
+   (localStorage), so nothing about a visitor is ever sent anywhere.
+
+   The entry data (data.js) is loaded straight away on pages that list entries and
+   on demand everywhere else, so an entry page doesn't download all 781 entries
+   unless the visitor searches or has answered the questions. */
 (function () {
-  var Hub = window.Hub, DATA = window.HUB_DATA;
-  if (!Hub || !DATA) return;
-  var PROFILE_KEY = "sch-profile-v1", SAVED_KEY = "sch-saved-v1";
+  var Hub = window.Hub;
+  if (!Hub) return;
+  var DATA = window.HUB_DATA || null;
+  var PROFILE_KEY = "sch-profile-v2", OLD_PROFILE_KEY = "sch-profile-v1", SAVED_KEY = "sch-saved-v1", VIEW_KEY = "sch-view";
   var host = document.querySelector("[data-page]") || document.body;
   var page = host.getAttribute("data-page");
   var prefix = host.getAttribute("data-prefix") || "";
-  var byId = {}, catName = {}, catShort = {};
-  DATA.entries.forEach(function (e) { byId[e.id] = e; });
-  DATA.cats.forEach(function (c) { catName[c.id] = c.name; catShort[c.id] = c.short; });
-  var index = Hub.buildIndex(DATA.entries, catName);
+  var ver = host.getAttribute("data-ver") || "";
+  var byId = {}, catName = {}, index = null;
+
+  function setup() {
+    DATA.entries.forEach(function (e) { byId[e.id] = e; });
+    DATA.cats.forEach(function (c) { catName[c.id] = c.name; });
+    index = Hub.buildIndex(DATA.entries);
+  }
+  if (DATA) setup();
+  var dataWaiters = [], dataLoading = false;
+  function withData(cb) {
+    if (DATA) { cb(); return; }
+    dataWaiters.push(cb);
+    if (dataLoading) return;
+    dataLoading = true;
+    var s = document.createElement("script");
+    s.src = prefix + "assets/data.js?v=" + ver;
+    s.onload = function () {
+      DATA = window.HUB_DATA;
+      if (!DATA) return;
+      setup();
+      var list = dataWaiters; dataWaiters = [];
+      list.forEach(function (fn) { fn(); });
+    };
+    document.head.appendChild(s);
+  }
 
   /* Cookie-free event counts. Only the action name is sent, never answers or personal details. */
   function track(name, data) {
@@ -22,25 +49,48 @@
   }
 
   function $(id) { return document.getElementById(id); }
+  function qsa(sel, root) { return Array.prototype.slice.call((root || document).querySelectorAll(sel)); }
   function pad(n) { return (n < 10 ? "0" : "") + n; }
   var d0 = new Date(), TODAY = d0.getFullYear() + "-" + pad(d0.getMonth() + 1) + "-" + pad(d0.getDate());
   function esc(s) { return Hub.esc(s); }
 
   /* ---------- Storage ---------- */
-  function loadProfile() {
+  /* Answers are stored with a version. Version 1 knew "SA, Tasmania or NT" and "Another
+     uni" as single choices; those answers can't be carried over, so they are asked again. */
+  function migrateV1(old) {
+    var out = {};
+    Object.keys(old || {}).forEach(function (k) { out[k] = old[k]; });
+    ["state", "campus"].forEach(function (k) { if (out[k] === "other") out[k] = ""; });
+    if (out.uni === "other") out.uni = "";
+    return out;
+  }
+  function cleanProfile(saved) {
     var p = Hub.blankProfile();
-    try {
-      var saved = JSON.parse(localStorage.getItem(PROFILE_KEY) || "{}");
-      Object.keys(p).forEach(function (k) { if (saved[k] !== undefined) p[k] = saved[k]; });
-    } catch (err) { /* storage unavailable: start blank */ }
+    Hub.QUESTIONS.forEach(function (q) {
+      var v = saved[q.key];
+      if (v === undefined || v === null || v === "") return;
+      if (q.type === "number") { if (typeof v === "number" && !isNaN(v)) p[q.key] = v; return; }
+      for (var i = 0; i < q.options.length; i++) if (q.options[i][0] === v) { p[q.key] = v; return; }
+    });
     return p;
   }
-  function saveProfile(p) { try { localStorage.setItem(PROFILE_KEY, JSON.stringify(p)); } catch (err) { /* ignore */ } }
+  function loadProfile() {
+    try {
+      var raw = localStorage.getItem(PROFILE_KEY), saved = null;
+      if (raw) saved = JSON.parse(raw);
+      else { var old = localStorage.getItem(OLD_PROFILE_KEY); if (old) saved = migrateV1(JSON.parse(old)); }
+      if (saved) return cleanProfile(saved);
+    } catch (err) { /* storage unavailable: start blank */ }
+    return Hub.blankProfile();
+  }
+  function saveProfile(p) {
+    try { var o = { v: 2 }; Object.keys(p).forEach(function (k) { o[k] = p[k]; }); localStorage.setItem(PROFILE_KEY, JSON.stringify(o)); } catch (err) { /* ignore */ }
+  }
   var memorySaved = [];
   function loadSaved() {
     try {
       var s = JSON.parse(localStorage.getItem(SAVED_KEY) || "[]");
-      return Array.isArray(s) ? s.filter(function (id) { return byId[id]; }) : [];
+      return Array.isArray(s) ? s.filter(function (id) { return typeof id === "string"; }) : [];
     } catch (err) { return memorySaved; }
   }
   function storeSaved(list) {
@@ -49,19 +99,46 @@
   }
   var saved = loadSaved();
   function isSaved(id) { return saved.indexOf(id) >= 0; }
+  function loadView() { try { return localStorage.getItem(VIEW_KEY) === "list" ? "list" : "cards"; } catch (err) { return "cards"; } }
+  function storeView(v) { try { localStorage.setItem(VIEW_KEY, v); } catch (err) { /* ignore */ } }
+
+  /* ---------- Dates: work out "closes in N days" and "recheck due" in the browser ---------- */
+  function refreshDates(root) {
+    qsa(".stamp[data-nc]", root).forEach(function (el) {
+      el.outerHTML = Hub.stampHTML({ status: el.getAttribute("data-status"), verified: el.getAttribute("data-ver"), nc: el.getAttribute("data-nc"), host: el.getAttribute("data-host") }, TODAY);
+    });
+    qsa(".chip.dl[data-closes]", root).forEach(function (el) {
+      var dl = Hub.deadline({ closes: el.getAttribute("data-closes") }, TODAY);
+      if (dl) { el.textContent = dl.text; el.className = "chip dl " + dl.cls; }
+    });
+    qsa("dd[data-nc]", root).forEach(function (el) {
+      el.textContent = Hub.nextCheckText({ nc: el.getAttribute("data-nc"), verified: el.getAttribute("data-ver") }, TODAY);
+    });
+    qsa("dd[data-closes]", root).forEach(function (el) {
+      var dl = Hub.deadline({ closes: el.getAttribute("data-closes") }, TODAY);
+      if (dl) el.textContent = dl.text;
+    });
+  }
 
   /* ---------- Saved list: hearts everywhere ---------- */
+  function nameOfCard(b) {
+    var id = b.getAttribute("data-save");
+    if (byId[id]) return byId[id].name;
+    var h = b.closest ? b.closest(".card") : null;
+    var a = h ? h.querySelector("h3 a") : null;
+    return a ? a.textContent : "";
+  }
   function syncSavedUI() {
-    var n = saved.length;
+    var n = saved.filter(function (id) { return !DATA || byId[id]; }).length;
     var pill = $("saved-count");
     if (pill) { pill.textContent = n ? String(n) : ""; pill.setAttribute("data-n", String(n)); }
-    Array.prototype.forEach.call(document.querySelectorAll("[data-mirror]"), function (m) { m.textContent = n ? String(n) : ""; m.setAttribute("data-n", String(n)); });
-    Array.prototype.forEach.call(document.querySelectorAll("[data-save]"), function (b) {
-      var id = b.getAttribute("data-save"), on = isSaved(id), name = byId[id] ? byId[id].name : "";
+    qsa("[data-mirror]").forEach(function (m) { m.textContent = n ? String(n) : ""; m.setAttribute("data-n", String(n)); });
+    qsa("[data-save]").forEach(function (b) {
+      var id = b.getAttribute("data-save"), on = isSaved(id);
       b.classList.toggle("on", on);
       b.setAttribute("aria-pressed", on ? "true" : "false");
       if (b.classList.contains("save-btn")) b.textContent = on ? "Saved to your list" : "Save to my list";
-      else b.setAttribute("aria-label", (on ? "Remove " : "Save ") + name + (on ? " from your list" : " to your list"));
+      else b.setAttribute("aria-label", (on ? "Remove " : "Save ") + nameOfCard(b) + (on ? " from your list" : " to your list"));
     });
   }
   function toggleSaved(id) {
@@ -122,40 +199,66 @@
     if (f.state && e.st && e.st.length && e.st.indexOf(f.state) < 0) return false;
     return true;
   }
-  function inCollection(e, c) {
-    if (!c) return true;
-    if (c.cats && c.cats.indexOf(e.category) >= 0) return true;
-    var text = [e.name, e.provider, e.summary, e.key || "", (e.tags || []).join(" ")].join(" ").toLowerCase();
-    return (c.any || []).some(function (t) { return text.indexOf(t) >= 0; });
+  function collectionById(id) {
+    for (var i = 0; i < DATA.collections.length; i++) if (DATA.collections[i].id === id) return DATA.collections[i];
+    return null;
+  }
+
+  /* The address keeps the search, filters and view, so Back returns to the same list
+     and a filtered list can be shared as a link. */
+  var URL_KEYS = ["q", "c", "kind", "claim", "cost", "state", "sort", "view"];
+  var URL_DEFAULT = { sort: "best", view: "cards" };
+  function syncUrl(st) {
+    if (!window.history || !history.replaceState) return;
+    var qs = [];
+    URL_KEYS.forEach(function (k) {
+      var key = k === "c" ? "collection" : k, v = st[key];
+      if (v && v !== URL_DEFAULT[k] && String(v).trim()) qs.push(encodeURIComponent(k) + "=" + encodeURIComponent(String(v).trim()));
+    });
+    try { history.replaceState(null, "", window.location.pathname + (qs.length ? "?" + qs.join("&") : "") + window.location.hash); } catch (err) { /* ignore */ }
+  }
+  function readUrl(st) {
+    var params = new URLSearchParams(window.location.search);
+    var opts = { kind: Hub.KINDS, claim: Hub.CLAIMS, cost: Hub.COSTS, sort: ["best", "closing", "checked", "az"], view: ["cards", "list"] };
+    Object.keys(opts).forEach(function (k) { var v = params.get(k); if (v && opts[k].indexOf(v) >= 0) st[k] = v; });
+    var s = params.get("state"); if (s && Hub.STATES.some(function (x) { return x[0] === s; })) st.state = s;
+    if (params.get("q")) st.q = params.get("q");
+    if (params.get("c")) st.collection = params.get("c");
   }
 
   /* ---------- Header search with suggestions ---------- */
   var hq = $("hq"), hlist = $("hq-list"), hform = $("hsearch"), sel = -1;
   var onHome = page === "home";
-  var homeState = { q: "", kind: "", claim: "", cost: "", state: "", sort: "best", collection: "", limit: 30 };
+  var homeState = { q: "", kind: "", claim: "", cost: "", state: "", sort: "best", collection: "", view: loadView(), limit: 30 };
   var renderHome = null;
 
-  function closeSuggest() { if (hlist) { hlist.hidden = true; hlist.innerHTML = ""; } if (hq) hq.setAttribute("aria-expanded", "false"); sel = -1; }
+  function closeSuggest() {
+    if (hlist) { hlist.hidden = true; hlist.innerHTML = ""; }
+    if (hq) { hq.setAttribute("aria-expanded", "false"); hq.removeAttribute("aria-activedescendant"); }
+    sel = -1;
+  }
   function suggest() {
     var q = hq.value.trim();
-    if (q.length < 2) { closeSuggest(); return; }
+    if (q.length < 2 || !index) { closeSuggest(); return; }
     var res = Hub.search(index, q) || [];
     if (!res.length) { closeSuggest(); return; }
     var items = res.slice(0, 6).map(function (r, i) {
-      return '<li role="presentation"><a role="option" id="sg-' + i + '" href="' + prefix + "entry/" + esc(r.e.id) + '.html"><span>' + esc(r.e.name) + "</span><small>" + esc(r.e.provider) + "</small></a></li>";
+      return '<li role="option" id="sg-' + i + '" aria-selected="false"><a tabindex="-1" href="' + prefix + "entry/" + esc(r.e.id) + '.html"><span>' + esc(r.e.name) + "</span><small>" + esc(r.e.provider) + "</small></a></li>";
     });
-    items.push('<li class="all" role="presentation"><a role="option" id="sg-all" href="' + prefix + "index.html?q=" + encodeURIComponent(q) + '#results">See all ' + res.length + (res.length === 1 ? " result" : " results") + "</a></li>");
+    items.push('<li class="all" role="option" id="sg-all" aria-selected="false"><a tabindex="-1" href="' + prefix + "index.html?q=" + encodeURIComponent(q) + '#results">See all ' + res.length + (res.length === 1 ? " result" : " results") + "</a></li>");
     hlist.innerHTML = items.join("");
-    hlist.hidden = false; hq.setAttribute("aria-expanded", "true"); sel = -1;
+    hlist.hidden = false; hq.setAttribute("aria-expanded", "true"); hq.removeAttribute("aria-activedescendant"); sel = -1;
   }
   function moveSel(delta) {
-    var opts = hlist.querySelectorAll("a");
+    var opts = qsa("[role=option]", hlist);
     if (!opts.length) return;
     sel = (sel + delta + opts.length) % opts.length;
-    Array.prototype.forEach.call(opts, function (o, i) { o.setAttribute("aria-selected", i === sel ? "true" : "false"); });
+    opts.forEach(function (o, i) { o.setAttribute("aria-selected", i === sel ? "true" : "false"); });
     hq.setAttribute("aria-activedescendant", opts[sel].id);
   }
-  if (hq) {
+  function initSearch() {
+    if (!hq || hq.getAttribute("data-ready")) return;
+    hq.setAttribute("data-ready", "1");
     hq.addEventListener("input", function () {
       suggest();
       if (onHome && renderHome) { homeState.q = hq.value; homeState.limit = 30; renderHome(); }
@@ -164,12 +267,20 @@
       if (ev.key === "ArrowDown") { ev.preventDefault(); if (hlist.hidden) suggest(); moveSel(1); }
       else if (ev.key === "ArrowUp") { ev.preventDefault(); moveSel(-1); }
       else if (ev.key === "Escape") { closeSuggest(); document.body.classList.remove("searching"); }
-      else if (ev.key === "Enter" && sel >= 0) { ev.preventDefault(); var a = hlist.querySelectorAll("a")[sel]; if (a) window.location.href = a.getAttribute("href"); }
+      else if (ev.key === "Enter" && sel >= 0) { ev.preventDefault(); var a = qsa("[role=option] a", hlist)[sel]; if (a) window.location.href = a.getAttribute("href"); }
     });
     document.addEventListener("click", function (ev) { if (hform && !hform.contains(ev.target)) closeSuggest(); });
     hform.addEventListener("submit", function (ev) {
       if (onHome) { ev.preventDefault(); closeSuggest(); var r = $("results"); if (r) r.scrollIntoView({ block: "start" }); }
     });
+    if (hq.value.trim()) suggest();
+  }
+  if (hq) {
+    if (DATA) initSearch();
+    else {
+      var warm = function () { withData(initSearch); };
+      hq.addEventListener("focus", warm); hq.addEventListener("pointerdown", warm); hq.addEventListener("input", warm);
+    }
   }
   var tab = $("tab-search");
   if (tab) tab.addEventListener("click", function () {
@@ -178,7 +289,7 @@
   });
   if (hq) hq.addEventListener("blur", function () { setTimeout(function () { if (document.activeElement !== hq && !(hform && hform.contains(document.activeElement))) document.body.classList.remove("searching"); }, 150); });
 
-  /* ---------- Filter bar (home and category pages) ---------- */
+  /* ---------- Filter bar (home, category and landing pages) ---------- */
   function present(list, key) {
     var seen = {};
     list.forEach(function (e) { if (e[key]) seen[e[key]] = true; });
@@ -199,12 +310,13 @@
       select("fl-cost", "What it's worth", opt(Hub.COSTS, costs, "Anything"), st.cost) +
       select("fl-state", "Where", [["", "Anywhere in Australia"]].concat(Hub.STATES), st.state) +
       select("fl-sort", "Sort by", [["best", "Best match"], ["closing", "Closing soonest"], ["checked", "Recently checked"], ["az", "A to Z"]], st.sort) +
+      select("fl-view", "Show as", [["cards", "Cards"], ["list", "Compact list"]], st.view) +
       '<button type="button" class="linkish" id="fl-clear">Clear filters</button></div></details>';
   }
   function bindFilters(root, st, onChange) {
-    [["fl-kind", "kind"], ["fl-claim", "claim"], ["fl-cost", "cost"], ["fl-state", "state"], ["fl-sort", "sort"]].forEach(function (pair) {
+    [["fl-kind", "kind"], ["fl-claim", "claim"], ["fl-cost", "cost"], ["fl-state", "state"], ["fl-sort", "sort"], ["fl-view", "view"]].forEach(function (pair) {
       var el = root.querySelector("#" + pair[0]);
-      if (el) el.addEventListener("change", function () { st[pair[1]] = el.value; st.limit = 30; onChange(); });
+      if (el) el.addEventListener("change", function () { st[pair[1]] = el.value; if (pair[1] === "view") storeView(el.value); st.limit = 30; onChange(); });
     });
     var clr = root.querySelector("#fl-clear");
     if (clr) clr.addEventListener("click", function () {
@@ -215,8 +327,9 @@
     });
   }
   function filtersActive(st) { return !!(st.kind || st.claim || st.cost || st.state || st.sort !== "best"); }
+  function cardsWrap(html, st) { return '<div class="cards' + (st.view === "list" ? " compact" : "") + '">' + html + "</div>"; }
 
-  /* ---------- Matcher: three steps, one screen at a time ---------- */
+  /* ---------- Matcher: a few steps, one screen at a time ---------- */
   function initMatcher(profile, onChange) {
     var form = $("matcher"); if (!form) return;
     Hub.QUESTIONS.forEach(function (qq) {
@@ -237,13 +350,13 @@
     });
     form.addEventListener("submit", function (ev) { ev.preventDefault(); });
 
-    var steps = Array.prototype.slice.call(form.querySelectorAll("fieldset.step")), bar = $("stepper-bar"), cur = 1;
+    var steps = qsa("fieldset.step", form), bar = $("stepper-bar"), cur = 1;
     form.classList.add("stepper");
     function stepAnswered(n) {
       return Hub.QUESTIONS.some(function (q) { return q.step === n && !(profile[q.key] === null || profile[q.key] === ""); });
     }
     function markDone() {
-      Array.prototype.forEach.call(bar.querySelectorAll("button"), function (b) {
+      qsa("button", bar).forEach(function (b) {
         var n = +b.getAttribute("data-step");
         b.classList.toggle("done", stepAnswered(n));
       });
@@ -251,13 +364,13 @@
     function show(n) {
       cur = Math.max(1, Math.min(steps.length, n));
       steps.forEach(function (fs, i) { fs.classList.toggle("on", i + 1 === cur); });
-      Array.prototype.forEach.call(bar.querySelectorAll("button"), function (b) {
+      qsa("button", bar).forEach(function (b) {
         if (+b.getAttribute("data-step") === cur) b.setAttribute("aria-current", "step"); else b.removeAttribute("aria-current");
       });
       $("step-back").hidden = cur === 1;
       $("step-next").textContent = cur === steps.length ? "See my results" : "Next";
     }
-    Array.prototype.forEach.call(bar.querySelectorAll("button"), function (b) {
+    qsa("button", bar).forEach(function (b) {
       b.addEventListener("click", function () { show(+b.getAttribute("data-step")); });
     });
     $("step-back").addEventListener("click", function () { show(cur - 1); });
@@ -278,22 +391,17 @@
     results.parentNode.insertBefore(recap, results);
     results.parentNode.insertBefore(filters, results);
 
-    var params = new URLSearchParams(window.location.search);
-    if (params.get("q")) { homeState.q = params.get("q"); if (hq) hq.value = homeState.q; }
-    if (params.get("c")) homeState.collection = params.get("c");
+    readUrl(homeState);
+    if (homeState.q && hq) hq.value = homeState.q;
+    var lastSaved = [];
 
-    function collectionObj() {
-      for (var i = 0; i < DATA.collections.length; i++) if (DATA.collections[i].id === homeState.collection) return DATA.collections[i];
-      return null;
-    }
+    function collectionObj() { return collectionById(homeState.collection); }
 
-    function cardOpts(e, any, vOf, extra) {
-      var v = any ? vOf(e) : null;
-      var o = { verdict: v, today: TODAY, saved: isSaved(e.id), brief: any ? Hub.brief(e, profile) : "" };
-      return o;
+    function cardOpts(e, any, vOf) {
+      return { verdict: any ? vOf(e) : null, today: TODAY, saved: isSaved(e.id), brief: any ? Hub.brief(e, profile) : "" };
     }
     function cardsHTML(items, any, vOf) {
-      return '<div class="cards">' + items.map(function (x) { return Hub.cardHTML(x.e, prefix, cardOpts(x.e, any, vOf)); }).join("") + "</div>";
+      return cardsWrap(items.map(function (x) { return Hub.cardHTML(x.e, prefix, cardOpts(x.e, any, vOf)); }).join(""), homeState);
     }
 
     function render() {
@@ -303,8 +411,9 @@
       var coll = collectionObj();
       var found = st.q.trim() ? Hub.search(index, st.q) : null;
       var pool = (found ? found.map(function (r) { return { e: r.e, score: r.score }; }) : DATA.entries.map(function (e) { return { e: e }; }))
-        .filter(function (x) { return passes(x.e, st) && inCollection(x.e, coll); });
+        .filter(function (x) { return passes(x.e, st) && Hub.inCollection(x.e, coll); });
       var flat = !!(found || filtersActive(st) || coll);
+      syncUrl(st);
 
       /* Tally across everything in view */
       var tally = { yes: 0, maybe: 0, no: 0 };
@@ -312,13 +421,22 @@
       $("tally").innerHTML = any ? "<b>" + tally.yes + "</b> likely for you, <b>" + tally.maybe + "</b> might apply, " + tally.no + " probably not." : "Answer any question to sort the list.";
       if (any) {
         var likely = pool.filter(function (x) { return vOf(x.e) === "yes"; });
+        var undoable = lastSaved.filter(function (id) { return isSaved(id); });
         recap.innerHTML = '<div class="recap"><p><b>' + tally.yes + '</b> likely for you, <b>' + tally.maybe + "</b> might apply.</p>" +
-          (likely.length ? '<button type="button" class="btn small" id="save-likely">Save the ' + likely.length + " likely ones</button>" : "") + "</div>";
+          (undoable.length
+            ? '<p class="recap-saved" role="status">Saved ' + undoable.length + '. <a href="' + prefix + 'saved.html">Open your list</a> <button type="button" class="linkish" id="undo-save">Undo</button></p>'
+            : likely.length ? '<button type="button" class="btn small" id="save-likely">Save the ' + likely.length + " likely ones</button>" : "") + "</div>";
         var sl = $("save-likely");
         if (sl) sl.addEventListener("click", function () {
-          likely.forEach(function (x) { if (!isSaved(x.e.id)) saved.push(x.e.id); });
-          storeSaved(saved); syncSavedUI(); track("save-likely", { n: likely.length }); sl.textContent = "Saved. Open your list";
-          sl.onclick = function () { window.location.href = prefix + "saved.html"; };
+          lastSaved = [];
+          likely.forEach(function (x) { if (!isSaved(x.e.id)) { saved.push(x.e.id); lastSaved.push(x.e.id); } });
+          storeSaved(saved); syncSavedUI(); track("save-likely", { n: likely.length });
+          render();
+        });
+        var un = $("undo-save");
+        if (un) un.addEventListener("click", function () {
+          saved = saved.filter(function (id) { return lastSaved.indexOf(id) < 0; });
+          lastSaved = []; storeSaved(saved); syncSavedUI(); render();
         });
       } else recap.innerHTML = "";
 
@@ -338,7 +456,7 @@
           (coll ? '<span class="active-collection">' + esc(coll.name) + '<button type="button" id="clear-coll" aria-label="Clear ' + esc(coll.name) + '">×</button></span> ' : "") +
           '<button type="button" class="linkish" id="clear-all">Clear search and filters</button></p>';
         if (!pool.length && found && st.q.trim().length > 2 && lastZero !== st.q.trim()) { lastZero = st.q.trim(); track("search-no-results", { q: lastZero.slice(0, 40) }); }
-        if (!pool.length) html += '<div class="empty"><h3>No matches</h3><p>Most entries use plain words, such as "rent", "laptop", "fares" or "scholarship". You can also browse by category above.</p></div>';
+        if (!pool.length) html += '<div class="empty"><h3>No matches</h3><p>Most entries use plain words, such as "rent", "laptop", "fares" or "scholarship". You can also browse by category below.</p></div>';
         if (shown.length) html += cardsHTML(shown.slice(0, st.limit), any, vOf) + (shown.length > st.limit ? '<button type="button" class="show-more" id="more-flat">Show ' + Math.min(30, shown.length - st.limit) + " more of " + (shown.length - st.limit) + " left</button>" : "");
         if (hidden.length) html += '<details class="later"><summary>Probably not for you <span class="ct">' + hidden.length + '</span></summary><p class="gn">Based on your answers. Open one to read the rules for yourself.</p>' + cardsHTML(hidden.slice(0, 30), any, vOf) + "</details>";
       } else {
@@ -354,7 +472,7 @@
         }
         html += '<section class="group" aria-labelledby="h-coll"><div class="group-head"><h2 id="h-coll">Start from your situation</h2></div><div class="collections">' +
           DATA.collections.map(function (c) {
-            var n = DATA.entries.filter(function (e) { return inCollection(e, c); }).length;
+            var n = DATA.entries.filter(function (e) { return Hub.inCollection(e, c); }).length;
             return '<button type="button" class="collection" data-coll="' + esc(c.id) + '"><b>' + esc(c.name) + "</b><span>" + esc(c.blurb) + '</span><span class="ct">' + n + " entries</span></button>";
           }).join("") + "</div></section>";
         if (!any) {
@@ -387,7 +505,7 @@
     var expanded = {}, laterOpen = false, lastZero = "";
     function wire() {
       var q;
-      Array.prototype.forEach.call(results.querySelectorAll(".show-more[data-key]"), function (b) {
+      qsa(".show-more[data-key]", results).forEach(function (b) {
         b.addEventListener("click", function () { expanded[b.getAttribute("data-key")] = true; laterOpen = !!(results.querySelector("#later") || {}).open; render(); });
       });
       var later = results.querySelector("#later");
@@ -401,7 +519,7 @@
       if ((q = $("clear-coll"))) q.addEventListener("click", function () { homeState.collection = ""; render(); });
       if ((q = $("more-flat"))) q.addEventListener("click", function () { homeState.limit += 30; render(); });
       if ((q = $("all-closing"))) q.addEventListener("click", function () { homeState.sort = "closing"; filters.removeAttribute("data-built"); render(); results.scrollIntoView({ block: "start" }); });
-      Array.prototype.forEach.call(results.querySelectorAll("[data-coll]"), function (b) {
+      qsa("[data-coll]", results).forEach(function (b) {
         b.addEventListener("click", function () { homeState.collection = b.getAttribute("data-coll"); homeState.limit = 30; render(); results.scrollIntoView({ block: "start" }); });
       });
     }
@@ -413,13 +531,23 @@
     if (window.location.hash === "#results" && (homeState.q || homeState.collection)) results.scrollIntoView({ block: "start" });
   }
 
-  /* ---------- Category page ---------- */
+  /* ---------- Category, university, state and situation pages ---------- */
+  function scopeEntries(scope) {
+    var parts = String(scope || "").split(":"), kind = parts[0], id = parts[1];
+    return DATA.entries.filter(function (e) {
+      if (kind === "category") return e.category === id;
+      if (kind === "inst") return e.inst === id;
+      if (kind === "state") return !!(e.st && e.st.indexOf(id) >= 0);
+      if (kind === "situation") return Hub.inCollection(e, collectionById(id));
+      return true;
+    });
+  }
   function initCategory() {
     var profile = loadProfile(), list = $("list"), fbox = $("filters");
-    if (!list) return;
-    var catId = fbox ? fbox.getAttribute("data-category") : "";
-    var scope = DATA.entries.filter(function (e) { return e.category === catId; });
-    var st = { kind: "", claim: "", cost: "", state: "", sort: "best", limit: 60 };
+    if (!list || !fbox) return;
+    var scope = scopeEntries(fbox.getAttribute("data-scope"));
+    var st = { kind: "", claim: "", cost: "", state: "", sort: "best", view: loadView(), limit: 60 };
+    readUrl(st);
     fbox.innerHTML = filterBarHTML(scope, st);
     function render() {
       var any = Hub.answeredCount(profile) > 0, cache = {};
@@ -427,9 +555,10 @@
       var items = scope.filter(function (e) { return passes(e, st); }).map(function (e) { return { e: e }; });
       items.sort(cmp(st.sort, any, vOf));
       var shown = items.slice(0, st.limit);
+      list.className = "cards" + (st.view === "list" ? " compact" : "");
       list.innerHTML = shown.map(function (x) {
         return Hub.cardHTML(x.e, prefix, { verdict: any ? vOf(x.e) : null, brief: any ? Hub.brief(x.e, profile) : "", saved: isSaved(x.e.id), today: TODAY });
-      }).join("") || '<div class="empty"><h3>No matches</h3><p>Nothing in this category fits those filters. Clear them to see everything.</p></div>';
+      }).join("") || '<div class="empty"><h3>No matches</h3><p>Nothing here fits those filters. Clear them to see everything.</p></div>';
       var more = $("more-cat");
       if (more) more.remove();
       if (items.length > st.limit) {
@@ -439,6 +568,7 @@
         list.parentNode.insertBefore(b, list.nextSibling);
       }
       var note = $("fit-note"); if (note) note.hidden = !any;
+      syncUrl(st);
       syncSavedUI();
     }
     bindFilters(fbox, st, render);
@@ -448,18 +578,20 @@
   /* ---------- Entry page: does it fit, and why ---------- */
   function initEntry() {
     var box = $("fit"); if (!box) return;
-    var e = byId[box.getAttribute("data-id")]; if (!e) return;
     var profile = loadProfile();
     if (!Hub.answeredCount(profile)) {
       box.innerHTML = '<div class="row">Not sure this fits you?</div><p>Answer a few questions and we\'ll say whether it fits, and why. <a href="' + prefix + 'index.html#matcher">Find yours</a></p>';
       box.hidden = false; return;
     }
-    var ex = Hub.explain(e, profile);
-    var words = { yes: "Likely for you", maybe: "Might apply to you", no: "Probably not for you" }[ex.verdict];
-    box.innerHTML = '<div class="row">' + Hub.verdictBadge(ex.verdict) + "<span>" + words + '</span></div><ul>' +
-      ex.reasons.map(function (r) { return '<li class="' + r.t + '">' + esc(r.text) + "</li>"; }).join("") + "</ul>" +
-      '<p class="gn"><a href="' + prefix + 'index.html#matcher">Change your answers</a></p>';
-    box.hidden = false;
+    withData(function () {
+      var e = byId[box.getAttribute("data-id")]; if (!e) return;
+      var ex = Hub.explain(e, profile);
+      var words = { yes: "Likely for you", maybe: "Might apply to you", no: "Probably not for you" }[ex.verdict];
+      box.innerHTML = '<div class="row">' + Hub.verdictBadge(ex.verdict) + "<span>" + words + '</span></div><ul>' +
+        ex.reasons.map(function (r) { return '<li class="' + r.t + '">' + esc(r.text) + "</li>"; }).join("") + "</ul>" +
+        '<p class="gn"><a href="' + prefix + 'index.html#matcher">Change your answers</a></p>';
+      box.hidden = false;
+    });
   }
 
   /* ---------- Saved page ---------- */
@@ -499,17 +631,23 @@
     });
   }
 
-  /* ---------- Report form: preselect the entry from ?entry= ---------- */
+  /* ---------- Report form: a searchable list of entries, preselected from ?entry= ---------- */
   function initReport() {
-    var el = $("r-entry"); if (!el) return;
+    var el = $("r-entry"), dl = $("r-entry-list"); if (!el || !dl) return;
+    dl.innerHTML = DATA.entries.map(function (e) { return '<option value="' + esc(e.name) + '"></option>'; }).join("");
     var m = /[?&]entry=([a-z0-9-]+)/.exec(window.location.search);
-    if (m && byId[m[1]]) el.value = m[1];
+    if (m && byId[m[1]]) el.value = byId[m[1]].name;
   }
 
+  /* ---------- Start up ---------- */
+  refreshDates();
   syncSavedUI();
-  if (page === "home") initHome();
-  else if (page === "report") initReport();
-  else if (page === "category") initCategory();
-  else if (page === "entry") initEntry();
-  else if (page === "saved") initSaved();
+  if (DATA) {
+    syncSavedUI();
+    if (page === "home") initHome();
+    else if (page === "report") initReport();
+    else if (page === "category") initCategory();
+    else if (page === "saved") initSaved();
+  }
+  if (page === "entry") initEntry();
 })();

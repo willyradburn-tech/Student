@@ -2,7 +2,7 @@
   "id": "flinders-disability-scholarship",
   "name": "Flinders Disability Scholarship",
   "provider": "Flinders University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$6,000 a year for up to four years for commencing undergraduates with an Access Plan and financial need.",
   "key": "Valued at $6,000 per year for up to four years.",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "flinders"
       ]
     },
     "res": {
@@ -50,6 +50,22 @@
       ]
     },
     "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
+    },
+    "disability": {
       "yes": [
         "yes"
       ],
@@ -73,5 +89,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "flinders",
+  "states": [
+    "sa"
+  ]
 }

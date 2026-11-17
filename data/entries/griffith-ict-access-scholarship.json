@@ -2,7 +2,7 @@
   "id": "griffith-ict-access-scholarship",
   "name": "School of ICT Access Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $5,000 for students facing educational disadvantage starting an IT degree at Griffith.",
   "key": "Maximum value of $5,000, paid in two instalments.",
   "who": [
@@ -65,5 +65,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

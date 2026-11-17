@@ -2,7 +2,7 @@
   "id": "uq-hardship-grant",
   "name": "UQ emergency hardship grant",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "campus",
   "summary": "A one-off grant for urgent, unexpected costs that are affecting your study at UQ.",
   "tags": [
     "uq",
@@ -55,5 +55,9 @@
   "source": {
     "url": "https://my.uq.edu.au/information-and-services/student-support/financial-support/financial-support-overview/apply-financial-hardship-assistance",
     "label": "UQ: apply for financial hardship assistance"
-  }
+  },
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

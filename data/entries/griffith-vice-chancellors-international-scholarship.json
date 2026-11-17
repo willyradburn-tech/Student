@@ -2,7 +2,7 @@
   "id": "griffith-vice-chancellors-international-scholarship",
   "name": "Griffith Vice Chancellor's International Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "50% tuition fee scholarship for exceptional international students starting undergraduate or postgraduate coursework at Griffith in 2026 or 2027.",
   "key": "50% of tuition fees.",
   "who": [
@@ -75,5 +75,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

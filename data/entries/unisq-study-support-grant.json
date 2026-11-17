@@ -2,7 +2,7 @@
   "id": "unisq-study-support-grant",
   "name": "UniSQ Study Support Grant",
   "provider": "University of Southern Queensland",
-  "category": "uni",
+  "category": "campus",
   "summary": "One-off grant for domestic UniSQ students from low-to-middle income, rural or remote, or First Nations backgrounds.",
   "key": "Each grant will have a maximum value of $3000 to be paid in one instalment.",
   "who": [
@@ -38,13 +38,21 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unisq"
       ]
     },
     "res": {
       "yes": [
         "citizen",
         "pr"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -69,5 +77,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "unisq",
+  "states": [
+    "qld"
+  ]
 }

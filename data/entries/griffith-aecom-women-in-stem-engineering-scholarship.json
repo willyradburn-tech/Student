@@ -2,7 +2,7 @@
   "id": "griffith-aecom-women-in-stem-engineering-scholarship",
   "name": "AECOM Women in STEM Bachelor of Engineering Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $8,500 for female penultimate-year Griffith engineering students with a GPA of 5 or above.",
   "key": "Maximum value is $8,500, paid in instalments.",
   "who": [
@@ -46,6 +46,19 @@
       "yes": [
         "full"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
+    },
+    "gender": {
+      "yes": [
+        "woman"
+      ],
+      "maybe": [
+        "nb"
+      ]
     }
   },
   "evidence": [
@@ -63,5 +76,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

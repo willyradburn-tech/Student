@@ -2,7 +2,7 @@
   "id": "fluke-education-discount-program",
   "name": "Fluke Education Discount Program",
   "provider": "Fluke Australia",
-  "category": "tech",
+  "category": "tafe",
   "summary": "Apprentices and RTO students get a yearly discount code for Fluke electrical test tools from the Fluke Australia online store.",
   "key": "25% off select Fluke tools, kits and accessories, once per calendar year.",
   "who": [
@@ -34,6 +34,7 @@
   "match": {
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }

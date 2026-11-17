@@ -2,7 +2,7 @@
   "id": "tafe-nsw-fee-free-apprenticeships",
   "name": "NSW fee-free apprenticeships",
   "provider": "NSW Government and TAFE NSW",
-  "category": "loans",
+  "category": "tafe",
   "summary": "The NSW Government pays the student fee for new apprentices in Smart and Skilled funded training.",
   "key": "The NSW Government covers the student fee for new apprentices.",
   "who": [
@@ -38,6 +38,7 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }
@@ -50,5 +51,8 @@
       "url": "https://www.tafensw.edu.au/courses/fee-free-apprenticeships",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

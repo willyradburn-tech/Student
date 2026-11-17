@@ -2,7 +2,7 @@
   "id": "dewr-australian-apprenticeship-support-loan",
   "name": "Australian Apprenticeship Support Loan (AASL)",
   "provider": "Department of Employment and Workplace Relations",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Interest-free Commonwealth loan for apprentices in priority occupations, repaid through the tax system once income passes a threshold.",
   "key": "Apprentices may borrow up to $27,048 (2026/27) interest free over a 4-year apprenticeship.",
   "who": [
@@ -33,6 +33,7 @@
   "match": {
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }

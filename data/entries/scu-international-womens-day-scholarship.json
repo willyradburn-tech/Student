@@ -2,7 +2,7 @@
   "id": "scu-international-womens-day-scholarship",
   "name": "SCU International Women's Day Scholarship",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$5,000 for a current female SCU student studying full-time on campus in 2027 with an excellent GPA.",
   "key": "$5,000 for one year.",
   "who": [
@@ -44,6 +44,14 @@
       "yes": [
         "full"
       ]
+    },
+    "gender": {
+      "yes": [
+        "woman"
+      ],
+      "maybe": [
+        "nb"
+      ]
     }
   },
   "evidence": [
@@ -61,5 +69,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-01-31"
+  "closes": "2027-01-31",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "anusa-transport-voucher-program",
   "name": "ANUSA Transport Voucher Program",
   "provider": "ANU Students' Association (ANUSA)",
-  "category": "uni",
+  "category": "campus",
   "summary": "ANUSA gives eligible ANU students up to 10 Transport Canberra vouchers each semester.",
   "key": "Access to 10 Transport Canberra vouchers per semester.",
   "tags": [
@@ -25,7 +25,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "anu"
       ]
     }
   },
@@ -36,5 +36,9 @@
       "url": "https://anusa.com.au/student-assistance/financial/",
       "page_date": null
     }
+  ],
+  "institution": "anu",
+  "states": [
+    "act"
   ]
 }

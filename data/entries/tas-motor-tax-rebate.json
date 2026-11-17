@@ -2,7 +2,7 @@
   "id": "tas-motor-tax-rebate",
   "name": "Tasmanian motor tax rebate (40 per cent)",
   "provider": "Tasmanian Government",
-  "category": "transport",
+  "category": "bills",
   "summary": "40% rebate on the motor tax part of Tasmanian vehicle registration for concession cardholders, including Health Care Card holders.",
   "key": "The 40% rebate on motor tax (which is included in motor vehicle registration).",
   "who": [
@@ -26,7 +26,24 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "tas"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -49,5 +66,8 @@
       "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
       "page_date": null
     }
+  ],
+  "states": [
+    "tas"
   ]
 }

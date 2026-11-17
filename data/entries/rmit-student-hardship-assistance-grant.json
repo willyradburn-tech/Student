@@ -2,7 +2,7 @@
   "id": "rmit-student-hardship-assistance-grant",
   "name": "RMIT Student Hardship Assistance Grant",
   "provider": "RMIT University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Cash grants of up to $1,000, or vouchers, for RMIT students whose financial difficulty is affecting their study.",
   "key": "Cash grants of up to $1,000, or Coles, Myki or Prezzee vouchers.",
   "who": [
@@ -38,7 +38,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "rmit"
       ]
     },
     "campus": {
@@ -55,5 +55,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "rmit",
+  "states": [
+    "vic"
+  ]
 }

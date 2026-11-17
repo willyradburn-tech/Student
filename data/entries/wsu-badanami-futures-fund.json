@@ -2,7 +2,7 @@
   "id": "wsu-badanami-futures-fund",
   "name": "Badanami Futures Fund",
   "provider": "Western Sydney University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Emergency and futures grants for Aboriginal and Torres Strait Islander WSU students facing financial need or study barriers.",
   "key": "Emergency Grants up to $500; Futures Grants up to $2,000, with an overall maximum of $2,000 per application.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "wsu"
       ]
     },
     "campus": {
@@ -58,5 +58,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "wsu",
+  "states": [
+    "nsw"
+  ]
 }

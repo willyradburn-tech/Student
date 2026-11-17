@@ -2,7 +2,7 @@
   "id": "scu-neil-eric-cowd-memorial-scholarship",
   "name": "Neil Eric Cowd Memorial Scholarship (SCU Education)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $20,000 over four years for a Bachelor of Education student at SCU who faces hardship or disadvantage.",
   "key": "Paid as $5,000 a year for up to four years of full-time study.",
   "who": [
@@ -49,6 +49,11 @@
       "yes": [
         "other"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -72,5 +77,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-14"
+  "closes": "2027-02-14",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

@@ -36,6 +36,15 @@
       "yes": [
         "act"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
     }
   },
   "verified": "2026-10-13",
@@ -44,5 +53,8 @@
   "source": {
     "url": "https://www.transport.act.gov.au/travel-options/schools/students",
     "label": "Transport Canberra: students"
-  }
+  },
+  "states": [
+    "act"
+  ]
 }

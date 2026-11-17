@@ -2,7 +2,7 @@
   "id": "scu-father-lou-molloy-woodlawn-scholarship",
   "name": "Father Lou Molloy (Marist) Woodlawn Scholarship (SCU)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$5,000 for a student starting an undergraduate degree at SCU, with preference for St John's College Woodlawn graduates.",
   "key": "5,000 for one year.",
   "who": [
@@ -43,6 +43,11 @@
         "citizen",
         "pr"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -60,5 +65,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-14"
+  "closes": "2027-02-14",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

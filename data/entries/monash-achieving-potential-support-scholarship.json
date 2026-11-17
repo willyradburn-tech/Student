@@ -2,7 +2,7 @@
   "id": "monash-achieving-potential-support-scholarship",
   "name": "Monash Achieving Potential Support Scholarship",
   "provider": "Monash University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $30,000 for commencing Monash undergraduates on a low income or facing financial hardship.",
   "key": "$6,000 a year, up to $30,000 in total, with 250 awarded each year.",
   "who": [
@@ -34,7 +34,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "monash"
       ]
     },
     "campus": {
@@ -46,6 +46,14 @@
       "yes": [
         "citizen",
         "pr"
+      ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
       ]
     }
   },
@@ -63,5 +71,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "monash",
+  "states": [
+    "vic"
+  ]
 }

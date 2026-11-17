@@ -27,7 +27,16 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
+  "match": {
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    }
+  },
   "evidence": [
     {
       "claim": "Discounts for students",

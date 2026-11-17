@@ -2,7 +2,7 @@
   "id": "sa-medical-heating-cooling-concession",
   "name": "SA medical heating and cooling concession",
   "provider": "Government of South Australia",
-  "category": "health",
+  "category": "bills",
   "summary": "Yearly energy concession for South Australians with a medical condition severely worsened by hot or cold weather.",
   "key": "The current concession amount is $291.27 a year.",
   "who": [
@@ -34,7 +34,16 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "sa"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
       ]
     }
   },
@@ -51,5 +60,8 @@
       "url": "https://www.sa.gov.au/topics/care-and-support/concessions/health-concessions/medical-heating-and-cooling-concession",
       "page_date": null
     }
+  ],
+  "states": [
+    "sa"
   ]
 }

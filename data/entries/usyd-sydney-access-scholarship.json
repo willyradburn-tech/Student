@@ -2,7 +2,7 @@
   "id": "usyd-sydney-access-scholarship",
   "name": "Sydney Access Scholarship",
   "provider": "University of Sydney",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Yearly scholarship for domestic commencing undergraduates who are regional, low-SES or facing financial hardship.",
   "key": "$8,500 p.a. (course duration).",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "sydney"
       ]
     },
     "campus": {
@@ -47,6 +47,22 @@
       "yes": [
         "citizen",
         "pr"
+      ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -65,5 +81,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "sydney",
+  "states": [
+    "nsw"
+  ]
 }

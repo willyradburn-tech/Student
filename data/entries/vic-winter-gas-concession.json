@@ -2,7 +2,7 @@
   "id": "vic-winter-gas-concession",
   "name": "Victorian winter gas concession",
   "provider": "Victorian Department of Families, Fairness and Housing",
-  "category": "health",
+  "category": "bills",
   "summary": "17.5% off gas usage and service costs from May to October for Victorian account holders with a Health Care Card.",
   "key": "17.5 per cent of gas usage and service costs.",
   "who": [
@@ -34,6 +34,23 @@
       "yes": [
         "vic"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -49,5 +66,8 @@
       "url": "https://services.dffh.vic.gov.au/node/196",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

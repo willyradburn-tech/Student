@@ -2,7 +2,7 @@
   "id": "vu-thrive-grant",
   "name": "VU Thrive Grant",
   "provider": "Victoria University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Grant for current VU students struggling with study costs such as books, equipment or travel, sized to your evidence.",
   "who": [
     "Current onshore VU student in a higher education or TAFE course with at least 48 credit points or 270 hours.",
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "vu"
       ]
     }
   },
@@ -53,5 +53,9 @@
       "url": "https://www.vu.edu.au/apply-to-study/scholarships/vu-thrive-grant",
       "page_date": null
     }
+  ],
+  "institution": "vu",
+  "states": [
+    "vic"
   ]
 }

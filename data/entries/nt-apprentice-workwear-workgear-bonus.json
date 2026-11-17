@@ -2,7 +2,7 @@
   "id": "nt-apprentice-workwear-workgear-bonus",
   "name": "NT apprentice workwear and workgear bonus",
   "provider": "Northern Territory Government",
-  "category": "tech",
+  "category": "tafe",
   "summary": "First-year NT apprentices and trainees get money for workwear and equipment, with more for priority trade apprentices.",
   "key": "$300, or $1,000 for apprentices in a trade on the NT skilled occupation priority list, to buy workwear and equipment.",
   "who": [
@@ -36,12 +36,21 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "nt"
       ]
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
+      ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
       ]
     }
   },
@@ -58,5 +67,8 @@
       "url": "https://nt.gov.au/employ/apprenticeships-and-traineeships/get-a-workwear-and-workgear-bonus",
       "page_date": null
     }
+  ],
+  "states": [
+    "nt"
   ]
 }

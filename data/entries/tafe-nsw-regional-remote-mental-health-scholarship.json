@@ -2,7 +2,7 @@
   "id": "tafe-nsw-regional-remote-mental-health-scholarship",
   "name": "NSW Regional and Remote Mental Health Scholarship",
   "provider": "TAFE NSW",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Up to $3,000 for regional human services workers studying a Certificate IV in Mental Health at TAFE NSW.",
   "key": "Three scholarships each valued at up to $3,000.",
   "who": [
@@ -49,6 +49,17 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -65,5 +76,8 @@
       "url": "https://www.tafensw.edu.au/scholarships/nsw-health-scholarships",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

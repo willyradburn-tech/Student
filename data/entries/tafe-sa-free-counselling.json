@@ -2,7 +2,7 @@
   "id": "tafe-sa-free-counselling",
   "name": "TAFE SA free counselling and wellbeing support",
   "provider": "TAFE SA",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Free, confidential counselling for enrolled TAFE SA students, on campus, by phone or online.",
   "key": "A free and confidential Counselling and Wellbeing support to all enrolled students.",
   "who": [
@@ -30,12 +30,15 @@
   "match": {
     "campus": {
       "yes": [
-        "other"
+        "sa"
       ]
     },
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -52,5 +55,8 @@
       "url": "https://students.tafesa.edu.au/getting-help/counselling",
       "page_date": null
     }
+  ],
+  "states": [
+    "sa"
   ]
 }

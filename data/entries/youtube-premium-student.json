@@ -25,12 +25,12 @@
     "We couldn't confirm the Australian price, so none is shown."
   ],
   "cadence": "high",
-  "match": {},
   "verified": "2026-10-13",
   "review": "approved",
   "status": "verified",
   "source": {
     "url": "https://support.google.com/youtube/answer/9158808?hl=en-AU",
     "label": "YouTube Help: student memberships"
-  }
+  },
+  "openToAll": true
 }

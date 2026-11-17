@@ -2,7 +2,7 @@
   "id": "murdoch-senate-bursary",
   "name": "Murdoch Senate Bursary",
   "provider": "Murdoch University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$3,000 over two semesters for new full-time Murdoch undergraduates in financial or personal hardship.",
   "key": "$3,000, paid as $1,500 in the semester you are awarded and $1,500 the next.",
   "who": [
@@ -34,7 +34,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "murdoch"
       ]
     },
     "res": {
@@ -63,5 +63,9 @@
       "page_date": null
     }
   ],
-  "closes": "2027-03-07"
+  "closes": "2027-03-07",
+  "institution": "murdoch",
+  "states": [
+    "wa"
+  ]
 }

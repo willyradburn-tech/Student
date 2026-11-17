@@ -32,7 +32,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "10% off Economy",
@@ -46,5 +45,6 @@
       "url": "https://www.singaporeair.com/en_UK/au/plan-travel/promotions/student-privileges/",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

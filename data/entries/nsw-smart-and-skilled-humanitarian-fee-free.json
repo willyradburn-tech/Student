@@ -2,7 +2,7 @@
   "id": "nsw-smart-and-skilled-humanitarian-fee-free",
   "name": "Smart and Skilled fee-free training for refugees and asylum seekers",
   "provider": "NSW Government (Skills NSW)",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Refugees, asylum seekers and partners of humanitarian visa holders may study Certificate I to IV fee-free in NSW.",
   "who": [
     "Refugees or asylum seekers doing a Smart and Skilled Certificate I to IV course.",
@@ -35,6 +35,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -51,5 +54,8 @@
       "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/disadvantaged-students.html",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

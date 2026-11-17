@@ -2,7 +2,7 @@
   "id": "unisq-student-financial-loans",
   "name": "UniSQ Student Financial Loans",
   "provider": "University of Southern Queensland",
-  "category": "uni",
+  "category": "campus",
   "summary": "Short-term interest-free loans for enrolled UniSQ students who have no other way to borrow.",
   "key": "Interest-free loans up to $1000 for continuing students, repayable within 12 months.",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unisq"
       ]
     }
   },
@@ -58,5 +58,9 @@
       "url": "https://www.unisq.edu.au/current-students/services-and-support/financial-support/student-financial-loans",
       "page_date": null
     }
+  ],
+  "institution": "unisq",
+  "states": [
+    "qld"
   ]
 }

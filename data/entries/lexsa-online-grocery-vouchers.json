@@ -2,7 +2,7 @@
   "id": "lexsa-online-grocery-vouchers",
   "name": "LEXSA Coles online grocery vouchers",
   "provider": "LEXSA (Lismore and External Student Association)",
-  "category": "uni",
+  "category": "campus",
   "summary": "Limited Coles grocery vouchers for LEXSA members who can't get to the Lismore campus, such as online students.",
   "who": [
     "LEXSA members who can't get to the Lismore campus."
@@ -51,5 +51,6 @@
       "url": "https://www.lexsa.com.au/support",
       "page_date": null
     }
-  ]
+  ],
+  "institution": "scu"
 }

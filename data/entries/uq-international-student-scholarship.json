@@ -2,7 +2,7 @@
   "id": "uq-international-student-scholarship",
   "name": "UQ International Student Scholarship",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "One-year support for international undergraduates at UQ facing temporary, unexpected financial hardship.",
   "tags": [
     "uq",
@@ -46,5 +46,9 @@
         "intl"
       ]
     }
-  }
+  },
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "vic-water-sewerage-concession",
   "name": "Victorian water and sewerage concession",
   "provider": "Victorian Department of Families, Fairness and Housing",
-  "category": "health",
+  "category": "bills",
   "summary": "50% off water and sewerage charges, up to a yearly cap, for Victorian water account holders with a Health Care Card.",
   "key": "50% deduction on water and sewerage charges up to a yearly maximum of $372.10 for 2025-26.",
   "who": [
@@ -33,6 +33,23 @@
       "yes": [
         "vic"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -48,5 +65,8 @@
       "url": "https://services.dffh.vic.gov.au/water-and-sewerage-concession",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

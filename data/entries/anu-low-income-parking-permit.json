@@ -2,7 +2,7 @@
   "id": "anu-low-income-parking-permit",
   "name": "ANU Low-income Surface Parking Permit",
   "provider": "Australian National University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Limited surface parking permits for low-income, full-time, off-campus domestic undergraduates at ANU.",
   "who": [
     "Undergraduate, domestic, enrolled full time",
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "anu"
       ]
     },
     "res": {
@@ -63,5 +63,10 @@
       "url": "https://www.anu.edu.au/students/health-safety-wellbeing/spending-well/financial-advice-and-assistance",
       "page_date": null
     }
+  ],
+  "institution": "anu",
+  "states": [
+    "vic",
+    "act"
   ]
 }

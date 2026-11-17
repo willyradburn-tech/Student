@@ -2,7 +2,7 @@
   "id": "uqu-emergency-financial-support",
   "name": "UQ Union emergency financial support payment",
   "provider": "UQ Union",
-  "category": "uni",
+  "category": "campus",
   "summary": "One-off UQ Union payment for current UQ students whose financial stability is hit by extenuating circumstances.",
   "who": [
     "Current UQ student.",
@@ -52,5 +52,9 @@
       "url": "https://uqu.com.au/student-advocacy-and-support",
       "page_date": null
     }
+  ],
+  "institution": "uq",
+  "states": [
+    "qld"
   ]
 }

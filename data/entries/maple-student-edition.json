@@ -22,7 +22,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Price",
@@ -30,5 +29,6 @@
       "url": "https://www.maplesoft.com/products/maple/students/",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

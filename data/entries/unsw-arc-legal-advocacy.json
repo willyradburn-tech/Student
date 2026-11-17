@@ -2,7 +2,7 @@
   "id": "unsw-arc-legal-advocacy",
   "name": "Arc UNSW Legal & Advocacy",
   "provider": "Arc UNSW Student Life",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free, confidential legal advice for current UNSW students who are Arc members, including visa and academic appeal help.",
   "key": "Legal advice is confidential and free for Arc members.",
   "who": [
@@ -33,7 +33,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unsw"
       ]
     },
     "campus": {
@@ -49,5 +49,9 @@
       "url": "https://www.arc.unsw.edu.au/help",
       "page_date": null
     }
+  ],
+  "institution": "unsw",
+  "states": [
+    "nsw"
   ]
 }

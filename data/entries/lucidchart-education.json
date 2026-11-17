@@ -25,7 +25,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Free education account",
@@ -39,5 +38,6 @@
       "url": "https://lucid.co/lucidchart/use-cases/education",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

@@ -2,7 +2,7 @@
   "id": "uon-greater-charitable-foundation-equity-scholarship",
   "name": "Greater Charitable Foundation Equity Scholarship",
   "provider": "University of Newcastle",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Multi-year scholarship for UON undergraduates whose study is affected by financial hardship or regional or remote disadvantage.",
   "key": "A total benefit of up to $31,818, paid as $5,303 each semester.",
   "who": [
@@ -37,13 +37,21 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "newcastle"
       ]
     },
     "res": {
       "yes": [
         "citizen",
         "pr"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -62,5 +70,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-03-03"
+  "closes": "2027-03-03",
+  "institution": "newcastle",
+  "states": [
+    "nsw"
+  ]
 }

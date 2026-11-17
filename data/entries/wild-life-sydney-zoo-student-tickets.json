@@ -29,7 +29,6 @@
   "verified": "2026-10-15",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Price",
@@ -43,5 +42,9 @@
       "url": "https://www.wildlifesydney.com.au/tickets-passes/discount-tickets-deals/student-discount",
       "page_date": null
     }
-  ]
+  ],
+  "states": [
+    "nsw"
+  ],
+  "openToAll": true
 }

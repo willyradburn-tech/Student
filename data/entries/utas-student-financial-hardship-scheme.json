@@ -2,7 +2,7 @@
   "id": "utas-student-financial-hardship-scheme",
   "name": "UTAS Student Financial Hardship Scheme",
   "provider": "University of Tasmania",
-  "category": "uni",
+  "category": "campus",
   "summary": "Financial help for UTAS students hit by a genuine, unexpected and temporary money problem, such as job loss or a big bill.",
   "who": [
     "Currently enrolled in units at the University of Tasmania and living in Australia.",
@@ -33,7 +33,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "utas"
       ]
     }
   },
@@ -44,5 +44,9 @@
       "url": "https://utas.shorthandstories.com/wellbeing-student-financial-hardship-scheme/index.html",
       "page_date": null
     }
+  ],
+  "institution": "utas",
+  "states": [
+    "tas"
   ]
 }

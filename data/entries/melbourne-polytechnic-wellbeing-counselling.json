@@ -2,7 +2,7 @@
   "id": "melbourne-polytechnic-wellbeing-counselling",
   "name": "Melbourne Polytechnic Student Wellbeing and Counselling",
   "provider": "Melbourne Polytechnic",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Free, short-term, confidential counselling and wellbeing support for all enrolled Melbourne Polytechnic students.",
   "who": [
     "All enrolled Melbourne Polytechnic students"
@@ -36,6 +36,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -46,5 +49,8 @@
       "url": "https://www.melbournepolytechnic.edu.au/students/services-and-support/counselling/",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "qut-free-study-coaching",
   "name": "QUT free one-on-one study coaching",
   "provider": "QUT",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free one-on-one coaching for QUT students, alongside study support in writing, maths, science and IT.",
   "who": [
     "QUT students."
@@ -37,5 +37,9 @@
       "url": "https://www.qut.edu.au/study/student-life/support/student-success-study-and-career-support",
       "page_date": null
     }
+  ],
+  "institution": "qut",
+  "states": [
+    "qld"
   ]
 }

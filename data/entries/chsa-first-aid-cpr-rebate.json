@@ -2,7 +2,7 @@
   "id": "chsa-first-aid-cpr-rebate",
   "name": "CHSA First Aid and CPR discount and rebate (Coffs Harbour)",
   "provider": "CHSA (Coffs Harbour Students Association)",
-  "category": "uni",
+  "category": "campus",
   "summary": "Discounted First Aid and CPR training for SCU Coffs Harbour students, plus member rebates of $30 for CPR and $50 for First Aid.",
   "key": "Rebates of $30 for CPR and $50 for First Aid, and a $15 discount through First Aid Mid North Coast.",
   "who": [
@@ -54,5 +54,9 @@
       "url": "https://scuchsa.com.au/membership-perks/",
       "page_date": null
     }
+  ],
+  "institution": "scu",
+  "states": [
+    "nsw"
   ]
 }

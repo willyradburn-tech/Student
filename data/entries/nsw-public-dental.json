@@ -43,6 +43,23 @@
       "maybe": [
         "no"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -58,5 +75,8 @@
       "url": "https://www.health.nsw.gov.au/oralhealth/Pages/info-patients.aspx",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

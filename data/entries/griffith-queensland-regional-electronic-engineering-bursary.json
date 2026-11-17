@@ -2,7 +2,7 @@
   "id": "griffith-queensland-regional-electronic-engineering-bursary",
   "name": "Queensland Regional Electronic Engineering Bursary",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $2,500 for regional Queensland school leavers starting electronic engineering at Griffith's Nathan campus.",
   "key": "Maximum value is $2,500, paid in instalments.",
   "who": [
@@ -54,6 +54,14 @@
       "yes": [
         "qld"
       ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -67,5 +75,9 @@
   "cap": "maybe",
   "open_questions": [
     "2026-10-16 changed: Page is inconsistent: eligibility refers to Year 12 in 2025 and commencing Trimester 1 2026, but the closing date shown is 4pm 2027-01-29. Check the current intake and eligibility year. Page says: \"Maximum value is $2,500, paid in instalments.\""
+  ],
+  "institution": "griffith",
+  "states": [
+    "qld"
   ]
 }

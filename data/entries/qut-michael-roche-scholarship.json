@@ -2,7 +2,7 @@
   "id": "qut-michael-roche-scholarship",
   "name": "Michael Roche Scholarship",
   "provider": "QUT",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A one-year research scholarship for domestic QUT research students and early career researchers.",
   "key": "Valued at $20,000 for a maximum of one year.",
   "who": [
@@ -58,5 +58,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

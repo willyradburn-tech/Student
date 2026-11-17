@@ -2,7 +2,7 @@
   "id": "une-life-online-student-textbook-bursary",
   "name": "UNE Online Student Textbook Bursary",
   "provider": "UNE Life",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Bookshop credit to help continuing online UNE students in financial need afford textbooks.",
   "key": "Up to $1000 credit with the UNE Life bookshop.",
   "who": [
@@ -30,7 +30,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "une"
       ]
     },
     "res": {
@@ -60,5 +60,6 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "une"
 }

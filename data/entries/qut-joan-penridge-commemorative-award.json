@@ -2,7 +2,7 @@
   "id": "qut-joan-penridge-commemorative-award",
   "name": "Joan Penridge Commemorative Award",
   "provider": "QUT",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A scholarship for full-time domestic QUT nursing students in their final year.",
   "key": "Valued at $3,000, paid as $1,500 per teaching period for up to one year.",
   "who": [
@@ -67,5 +67,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "uqu-mates-rates",
   "name": "UQ Union Mates Rates membership",
   "provider": "UQ Union",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free UQ Union membership that gives 10% off at UQU outlets and access to the Food Co-Op pantry.",
   "key": "Grab a FREE Mates Rates membership for a 10% discount at UQU outlets.",
   "who": [
@@ -41,5 +41,9 @@
       "url": "https://uqu.com.au/student-advocacy-and-support",
       "page_date": null
     }
+  ],
+  "institution": "uq",
+  "states": [
+    "qld"
   ]
 }

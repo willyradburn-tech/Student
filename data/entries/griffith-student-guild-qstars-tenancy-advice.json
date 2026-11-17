@@ -2,7 +2,7 @@
   "id": "griffith-student-guild-qstars-tenancy-advice",
   "name": "Free tenancy advice at the Student Guild (QSTARS)",
   "provider": "Griffith University Gold Coast Student Guild",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free, confidential tenancy advice from QSTARS every Monday at the Gold Coast Student Guild reception.",
   "how": [
     "Visit the Guild Reception (G07) on a Monday."
@@ -37,5 +37,9 @@
       "url": "https://gugcstudentguild.com.au/",
       "page_date": null
     }
+  ],
+  "institution": "griffith",
+  "states": [
+    "qld"
   ]
 }

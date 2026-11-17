@@ -2,7 +2,7 @@
   "id": "latrobe-su-placement-travel-support",
   "name": "La Trobe Student Union Placement Travel Support",
   "provider": "La Trobe Student Union",
-  "category": "uni",
+  "category": "campus",
   "summary": "A $50 petrol or public transport voucher each semester for Bundoora students on a required placement.",
   "key": "One $50 voucher per semester, for petrol or public transport.",
   "who": [
@@ -34,7 +34,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "latrobe"
       ]
     },
     "prac": {
@@ -57,5 +57,9 @@
       "page_date": null
     }
   ],
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "latrobe",
+  "states": [
+    "vic"
+  ]
 }

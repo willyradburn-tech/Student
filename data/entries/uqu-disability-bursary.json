@@ -2,7 +2,7 @@
   "id": "uqu-disability-bursary",
   "name": "UQ Union Disability Bursary",
   "provider": "UQ Union",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "One-off UQ Union bursary for UQ students with disability facing financial difficulty.",
   "who": [
     "UQ students with disability facing financial difficulty."
@@ -31,6 +31,14 @@
       "yes": [
         "uq"
       ]
+    },
+    "disability": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -48,5 +56,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-11-21"
+  "closes": "2026-11-21",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

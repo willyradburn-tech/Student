@@ -2,7 +2,7 @@
   "id": "griffith-ej-smith-scholarship",
   "name": "EJ Smith Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $20,000 for Griffith undergraduates from Jimboomba facing educational disadvantage.",
   "key": "$15,000 for a single degree and $20,000 for a double degree.",
   "who": [
@@ -75,5 +75,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

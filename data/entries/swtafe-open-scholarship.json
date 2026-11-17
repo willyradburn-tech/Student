@@ -2,7 +2,7 @@
   "id": "swtafe-open-scholarship",
   "name": "South West TAFE Open Scholarship",
   "provider": "South West TAFE",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Up to $1,000 for any full-time South West TAFE student; the 2027 round opens mid-October 2026.",
   "key": "Up to $1000",
   "who": [
@@ -47,6 +47,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -70,5 +73,8 @@
       "page_date": null
     }
   ],
-  "closes": "closed"
+  "closes": "closed",
+  "states": [
+    "vic"
+  ]
 }

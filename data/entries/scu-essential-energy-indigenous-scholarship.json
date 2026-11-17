@@ -2,7 +2,7 @@
   "id": "scu-essential-energy-indigenous-scholarship",
   "name": "Essential Energy Aboriginal and Torres Strait Islander Scholarship (SCU)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$10,000 for an Aboriginal or Torres Strait Islander SCU student in second year or later of engineering, business, IT or law.",
   "key": "$10,000 per year for one year.",
   "who": [
@@ -78,5 +78,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-14"
+  "closes": "2027-02-14",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

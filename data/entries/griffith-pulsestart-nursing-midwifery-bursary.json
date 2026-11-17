@@ -2,7 +2,7 @@
   "id": "griffith-pulsestart-nursing-midwifery-bursary",
   "name": "Pulsestart Nursing and Midwifery Bursary",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $2,500 for full-time Griffith nursing and midwifery students facing educational disadvantage.",
   "key": "Maximum value is $2,500, payable in a single instalment.",
   "who": [
@@ -69,5 +69,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

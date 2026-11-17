@@ -2,7 +2,7 @@
   "id": "uq-paulsen-family-aspire-scholarship",
   "name": "Paulsen Family Aspire Scholarship (UQ)",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Aspire scheme scholarship for first-in-family UQ students who hold the Queensland Commitment Scholarship.",
   "key": "$4,500 for 1 year.",
   "who": [
@@ -43,6 +43,14 @@
         "citizen",
         "pr"
       ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
     }
   },
   "evidence": [
@@ -60,5 +68,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-26"
+  "closes": "2027-02-26",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

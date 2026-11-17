@@ -2,7 +2,7 @@
   "id": "scu-access27-international-tuition",
   "name": "SCU Access27 international tuition fee",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Reduced flat 2027 annual tuition fee of $27,000 for most SCU courses, offered automatically to all international students.",
   "key": "Annual international tuition for most courses is set at an accessible $27,000 in 2027.",
   "who": [
@@ -66,5 +66,9 @@
       "url": "https://www.scu.edu.au/study/international-study/access27/",
       "page_date": null
     }
+  ],
+  "institution": "scu",
+  "states": [
+    "nsw"
   ]
 }

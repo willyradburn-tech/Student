@@ -2,7 +2,7 @@
   "id": "deakin-interest-free-student-loan",
   "name": "Deakin interest-free student loan",
   "provider": "Deakin University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Interest-free loans of up to $2,000 for Deakin students in financial difficulty, for textbooks, equipment, technology and placement costs.",
   "key": "Up to $2,000 at any one time.",
   "who": [
@@ -41,7 +41,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "deakin"
       ]
     },
     "campus": {
@@ -66,5 +66,9 @@
       "url": "https://www.deakin.edu.au/students/enrolment-and-fees/financial-assistance/interest-free-student-loans",
       "page_date": null
     }
+  ],
+  "institution": "deakin",
+  "states": [
+    "vic"
   ]
 }

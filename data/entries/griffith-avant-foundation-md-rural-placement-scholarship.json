@@ -2,7 +2,7 @@
   "id": "griffith-avant-foundation-md-rural-placement-scholarship",
   "name": "Avant Foundation Doctor of Medicine Rural Placement Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $10,000 for final-year Griffith MD students doing a full-year rural clerkship.",
   "key": "The maximum value is $10,000.",
   "who": [
@@ -48,6 +48,14 @@
       "yes": [
         "yes"
       ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -64,5 +72,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

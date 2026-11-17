@@ -2,7 +2,7 @@
   "id": "latrobe-su-legal-service",
   "name": "La Trobe Student Union free legal service",
   "provider": "La Trobe Student Union",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free, confidential advice from a qualified lawyer for La Trobe students, on renting, work, fines, debts and more.",
   "who": [
     "All La Trobe students on any campus."
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "latrobe"
       ]
     },
     "campus": {
@@ -57,5 +57,9 @@
       "url": "https://www.latrobesu.org.au/support/legalfinancialadvice/",
       "page_date": null
     }
+  ],
+  "institution": "latrobe",
+  "states": [
+    "vic"
   ]
 }

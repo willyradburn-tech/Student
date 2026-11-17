@@ -2,7 +2,7 @@
   "id": "fitness-first-student-discount",
   "name": "Fitness First student discount",
   "provider": "Fitness First",
-  "category": "streaming",
+  "category": "health",
   "summary": "20% off full-priced Fitness First memberships for current students at any Australian institution.",
   "key": "Fitness First offers students 20% off on full priced 3 month, 12- and 18-month memberships.",
   "who": [
@@ -28,7 +28,6 @@
   "verified": "2026-10-15",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Discount",
@@ -36,5 +35,6 @@
       "url": "https://www.fitnessfirst.com.au/memberships/student-discount/",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

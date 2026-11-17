@@ -2,7 +2,7 @@
   "id": "rmit-equity-notebook-grant",
   "name": "RMIT Equity Notebook Grant",
   "provider": "RMIT University",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Up to $1,000 towards a laptop for new full-time RMIT students in financial hardship.",
   "key": "Up to $1,000 for a laptop.",
   "who": [
@@ -39,7 +39,8 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "rmit",
+        "tafe"
       ]
     },
     "campus": {
@@ -69,5 +70,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-10-20"
+  "closes": "2026-10-20",
+  "institution": "rmit",
+  "states": [
+    "vic"
+  ]
 }

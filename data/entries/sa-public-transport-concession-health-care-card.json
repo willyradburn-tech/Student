@@ -30,7 +30,24 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "sa"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -47,5 +64,8 @@
       "url": "https://www.sa.gov.au/topics/care-and-support/concessions/transport/transport-concessions",
       "page_date": null
     }
+  ],
+  "states": [
+    "sa"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "monash-resident-scholarship",
   "name": "Monash Resident Scholarship",
   "provider": "Monash University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Covers a year of standard room fees in the Clayton or Peninsula residential village for undergraduates in hardship, Indigenous, remote or asylum-seeking students.",
   "key": "One year of standard room fees at Clayton or Peninsula, with 50 available.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "monash"
       ]
     },
     "campus": {
@@ -48,6 +48,14 @@
       "maybe": [
         "yes"
       ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -58,5 +66,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "monash",
+  "states": [
+    "vic"
+  ]
 }

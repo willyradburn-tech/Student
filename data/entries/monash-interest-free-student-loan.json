@@ -2,7 +2,7 @@
   "id": "monash-interest-free-student-loan",
   "name": "Monash interest-free student loan",
   "provider": "Monash University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Interest-free loans for domestic and international Monash students whose finances are affecting their ability to keep studying.",
   "who": [
     "You must be studying at an Australian campus.",
@@ -34,7 +34,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "monash"
       ]
     },
     "campus": {
@@ -56,5 +56,9 @@
       "url": "https://www.monash.edu/get-started/about-uni-life/loans-grants-scholarships",
       "page_date": null
     }
+  ],
+  "institution": "monash",
+  "states": [
+    "vic"
   ]
 }

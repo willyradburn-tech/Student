@@ -2,7 +2,7 @@
   "id": "griffith-accommodation-residential-leadership-scholarship",
   "name": "Griffith Accommodation Residential Leadership Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$2,500 per trimester for returning Griffith Accommodation residents on the student leadership team.",
   "key": "$2,500 per trimester for up to three years.",
   "who": [
@@ -46,5 +46,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "uq-global-experiences-grant",
   "name": "UQ Global Experiences Grant",
   "provider": "University of Queensland, Student Employability Centre",
-  "category": "uni",
+  "category": "campus",
   "summary": "Automatic travel grant for UQ students accepted into a semester exchange or short-term global experience, prioritising under-represented groups.",
   "key": "The maximum grant amount is AUD$2000 for semester exchange; the short-term (global in-person) maximum is AUD$1000.",
   "who": [
@@ -66,5 +66,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

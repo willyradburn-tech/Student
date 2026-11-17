@@ -2,7 +2,7 @@
   "id": "dewr-key-apprenticeship-program-apprentice-incentive",
   "name": "Key Apprenticeship Program apprentice incentive",
   "provider": "Department of Employment and Workplace Relations",
-  "category": "payments",
+  "category": "tafe",
   "summary": "Commonwealth payments to apprentices in clean energy or housing construction occupations, paid at milestones through to completion.",
   "key": "$2,000 per payment for full-time and $1,000 for part-time apprentices, at 6, 12, 24 and 36 months and on completion.",
   "who": [
@@ -35,6 +35,7 @@
   "match": {
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }

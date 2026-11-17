@@ -2,7 +2,7 @@
   "id": "tas-annual-electricity-concession",
   "name": "Tasmanian annual electricity concession",
   "provider": "Tasmanian Government",
-  "category": "health",
+  "category": "bills",
   "summary": "Daily discount on electricity bills for Tasmanian concession cardholders, including Health Care Card holders.",
   "key": "184.347 cents per day.",
   "who": [
@@ -28,7 +28,24 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "tas"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -51,5 +68,8 @@
       "url": "https://www.concessions.tas.gov.au/browse-categories/electricity",
       "page_date": null
     }
+  ],
+  "states": [
+    "tas"
   ]
 }

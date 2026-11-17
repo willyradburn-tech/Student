@@ -2,7 +2,7 @@
   "id": "qld-career-start",
   "name": "Career Start (formerly Certificate 3 Guarantee)",
   "provider": "Queensland Government",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Queensland Government subsidy for a first post-school Certificate III; you pay a co-contribution fee to the provider.",
   "key": "Career Start provides Queensland job seekers with skills and support to start their career.",
   "who": [
@@ -45,6 +45,7 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }
@@ -68,5 +69,8 @@
       "url": "https://tafeqld.edu.au/courses/apply-and-enrol/subsidised-training",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld"
   ]
 }

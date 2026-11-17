@@ -2,7 +2,7 @@
   "id": "scu-resilience-merit-scholarship",
   "name": "SCU Resilience Merit Scholarship",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$36,000 for school leavers with an ATAR of 80 or more who faced financial or educational barriers, starting full-time at SCU.",
   "key": "$36,000.",
   "who": [
@@ -67,5 +67,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

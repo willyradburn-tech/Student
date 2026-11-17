@@ -2,7 +2,7 @@
   "id": "qld-fee-free-tafe",
   "name": "Fee-Free TAFE Queensland",
   "provider": "Queensland Government",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Tuition-free priority courses at TAFE Queensland or CQUniversity for eligible Queenslanders, now including construction.",
   "key": "Fee-Free TAFE, extended until 31 December 2026, allows eligible Queenslanders to study priority skill sets and qualifications.",
   "who": [
@@ -49,6 +49,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -65,5 +68,8 @@
       "url": "https://www.qld.gov.au/education/training/subsidies/feefree",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld"
   ]
 }

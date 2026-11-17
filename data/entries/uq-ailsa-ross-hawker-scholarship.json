@@ -2,7 +2,7 @@
   "id": "uq-ailsa-ross-hawker-scholarship",
   "name": "Ailsa and Professor Ross Hawker Scholarship (UQ)",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Aspire scheme scholarship for commencing UQ bachelor students who hold the Queensland Commitment Scholarship.",
   "key": "At least $4,500 for 1 year.",
   "who": [
@@ -41,6 +41,19 @@
         "citizen",
         "pr"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
     }
   },
   "evidence": [
@@ -58,5 +71,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-26"
+  "closes": "2027-02-26",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

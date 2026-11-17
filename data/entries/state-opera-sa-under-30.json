@@ -30,6 +30,11 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "sa"
+      ]
+    },
     "age": {
       "max": 29
     }
@@ -47,5 +52,8 @@
       "url": "https://www.stateopera.com.au/your-visit/ticketing/great-value-opera",
       "page_date": null
     }
+  ],
+  "states": [
+    "sa"
   ]
 }

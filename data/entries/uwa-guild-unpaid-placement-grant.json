@@ -2,7 +2,7 @@
   "id": "uwa-guild-unpaid-placement-grant",
   "name": "UWA Guild Unpaid Placement (UP) Grant",
   "provider": "UWA Student Guild",
-  "category": "uni",
+  "category": "campus",
   "summary": "Grant of up to $300 for UWA Guild members in hardship doing a mandatory unpaid placement that cuts their paid work.",
   "key": "Up to $300.",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "uwa"
       ]
     }
   },
@@ -47,5 +47,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uwa",
+  "states": [
+    "wa"
+  ]
 }

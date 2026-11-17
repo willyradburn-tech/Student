@@ -2,7 +2,7 @@
   "id": "latrobe-su-feed-la-trobe",
   "name": "Feed La Trobe food bank",
   "provider": "La Trobe Student Union",
-  "category": "uni",
+  "category": "campus",
   "summary": "A free student-run food bank at Bundoora where La Trobe students can take a tote bag of food and household items each week.",
   "key": "One tote bag of items free, once a week.",
   "catches": [
@@ -31,7 +31,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "latrobe"
       ]
     },
     "campus": {
@@ -47,5 +47,9 @@
       "url": "https://www.latrobesu.org.au/support/feedlatrobe/",
       "page_date": null
     }
+  ],
+  "institution": "latrobe",
+  "states": [
+    "vic"
   ]
 }

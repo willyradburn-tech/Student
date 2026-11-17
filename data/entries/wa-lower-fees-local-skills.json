@@ -2,7 +2,7 @@
   "id": "wa-lower-fees-local-skills",
   "name": "WA Lower fees, local skills (half-price TAFE courses)",
   "provider": "Jobs and Skills WA (Government of Western Australia)",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Around 160 WA TAFE qualifications at half price or less, with annual course fee caps of $400 (concession and youth) or $1,200.",
   "key": "An annual fee cap of $400 for jobseekers, youth up to 25 and concession holders, and $1,200 for all other students.",
   "who": [
@@ -41,6 +41,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -57,5 +60,8 @@
       "url": "https://www.jobsandskills.wa.gov.au/fee-free-low-fee",
       "page_date": null
     }
+  ],
+  "states": [
+    "wa"
   ]
 }

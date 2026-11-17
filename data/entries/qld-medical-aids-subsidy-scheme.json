@@ -41,6 +41,31 @@
       "maybe": [
         "no"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    },
+    "disability": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -56,5 +81,8 @@
       "url": "https://www.health.qld.gov.au/mass/consumer-information/apply",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "dewr-living-away-from-home-allowance",
   "name": "Living Away From Home Allowance (LAFHA) for apprentices",
   "provider": "Department of Employment and Workplace Relations",
-  "category": "payments",
+  "category": "tafe",
   "summary": "Weekly Commonwealth allowance for apprentices who move out of their parent's or guardian's home for the first time for their apprenticeship.",
   "key": "$125.52 a week in year one, $94.14 in year two and $47.07 in year three.",
   "who": [
@@ -44,7 +44,16 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
+      ]
+    },
+    "parent": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },

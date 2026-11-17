@@ -29,7 +29,6 @@
   "verified": "2026-10-15",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Term",
@@ -37,5 +36,6 @@
       "url": "https://lumivero.com/?p=44184",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

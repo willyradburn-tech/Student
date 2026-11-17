@@ -2,7 +2,7 @@
   "id": "uwa-guild-emergency-loan",
   "name": "UWA Guild Emergency Loan",
   "provider": "UWA Student Guild",
-  "category": "uni",
+  "category": "campus",
   "summary": "Interest-free on-the-spot loan of up to $200 for UWA students who are Guild members.",
   "key": "Borrow up to $200 on the spot.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "uwa"
       ]
     }
   },
@@ -53,5 +53,9 @@
       "url": "https://www.uwastudentguild.com/support/topic/loans",
       "page_date": null
     }
+  ],
+  "institution": "uwa",
+  "states": [
+    "wa"
   ]
 }

@@ -27,7 +27,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Free access for students",
@@ -35,5 +34,6 @@
       "url": "https://education.bentley.com/",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

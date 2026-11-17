@@ -2,7 +2,7 @@
   "id": "unisq-indigenous-student-success-program-scholarships",
   "name": "UniSQ Indigenous Student Success Program Scholarships",
   "provider": "University of Southern Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Education costs and relocation scholarships for Aboriginal and Torres Strait Islander UniSQ students on low-to-middle incomes.",
   "key": "Each scholarship will have a maximum value of $4000 to be paid in one instalment.",
   "who": [
@@ -37,7 +37,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unisq"
       ]
     },
     "atsi": {
@@ -67,5 +67,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "unisq",
+  "states": [
+    "qld"
+  ]
 }

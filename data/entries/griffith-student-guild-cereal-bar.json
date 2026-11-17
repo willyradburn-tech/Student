@@ -2,7 +2,7 @@
   "id": "griffith-student-guild-cereal-bar",
   "name": "Student Guild Cereal Bar",
   "provider": "Griffith University Gold Coast Student Guild",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free cereal, juice, tea and coffee most weekday mornings for Gold Coast students.",
   "who": [
     "Available to all Gold Coast students."
@@ -42,5 +42,9 @@
       "url": "https://gugcstudentguild.com.au/food-support/",
       "page_date": null
     }
+  ],
+  "institution": "griffith",
+  "states": [
+    "qld"
   ]
 }

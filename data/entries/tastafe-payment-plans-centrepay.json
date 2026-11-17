@@ -2,7 +2,7 @@
   "id": "tastafe-payment-plans-centrepay",
   "name": "TasTAFE fee payment plans and Centrepay",
   "provider": "TasTAFE",
-  "category": "loans",
+  "category": "tafe",
   "summary": "TasTAFE students can pay fees weekly, fortnightly or monthly, or through Centrepay deductions from Centrelink payments.",
   "who": [
     "TasTAFE students; Centrepay is for Centrelink recipients"
@@ -32,12 +32,15 @@
   "match": {
     "campus": {
       "yes": [
-        "other"
+        "tas"
       ]
     },
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -60,5 +63,8 @@
       "url": "https://www.tastafe.tas.edu.au/students/fees/fee-guide",
       "page_date": null
     }
+  ],
+  "states": [
+    "tas"
   ]
 }

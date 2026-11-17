@@ -2,7 +2,7 @@
   "id": "griffith-rotary-southport-cyril-richarde-international-scholarship",
   "name": "Rotary Club of Southport Cyril Richarde AM International Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$5,000 scholarship for a continuing Griffith international student committed to community service and to supporting their home community.",
   "key": "$5,000 (paid in two instalments of $2,500)",
   "who": [
@@ -72,5 +72,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

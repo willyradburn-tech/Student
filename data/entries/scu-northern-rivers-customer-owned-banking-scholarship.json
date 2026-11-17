@@ -2,7 +2,7 @@
   "id": "scu-northern-rivers-customer-owned-banking-scholarship",
   "name": "Northern Rivers Customer-Owned Banking Scholarship (SCU)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$15,000 over three years for a first-year SCU business student who lived in an area hit by the 2022 Northern NSW floods.",
   "key": "$15,000 over three years.",
   "who": [
@@ -56,6 +56,14 @@
       "yes": [
         "full"
       ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
     }
   },
   "evidence": [
@@ -73,5 +81,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-14"
+  "closes": "2027-02-14",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

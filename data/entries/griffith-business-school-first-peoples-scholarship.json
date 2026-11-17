@@ -2,7 +2,7 @@
   "id": "griffith-business-school-first-peoples-scholarship",
   "name": "Griffith Business School Aboriginal and Torres Strait Islander Peoples Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$15,000 to $20,000 for First Peoples students starting a Griffith Business School undergraduate degree.",
   "key": "$15,000 for a single degree and $20,000 for a double degree.",
   "who": [
@@ -53,6 +53,11 @@
       "yes": [
         "business"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -69,5 +74,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

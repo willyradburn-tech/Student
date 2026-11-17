@@ -2,7 +2,7 @@
   "id": "monash-achieving-potential-placement-grant",
   "name": "Monash Achieving Potential Placement Grant",
   "provider": "Monash University",
-  "category": "uni",
+  "category": "campus",
   "summary": "A $1,000 one-off grant for Monash undergraduates in financial hardship doing an unpaid placement of at least 10 days.",
   "key": "$1,000 one-off, with 100 grants available.",
   "who": [
@@ -33,7 +33,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "monash"
       ]
     },
     "campus": {
@@ -67,5 +67,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "monash",
+  "states": [
+    "vic"
+  ]
 }

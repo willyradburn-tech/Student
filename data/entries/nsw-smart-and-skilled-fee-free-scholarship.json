@@ -2,7 +2,7 @@
   "id": "nsw-smart-and-skilled-fee-free-scholarship",
   "name": "Smart and Skilled Fee-Free Scholarship",
   "provider": "NSW Government (Skills NSW)",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Fee-free training up to Certificate IV for young NSW people aged 15 to 30 on a government payment, and other eligible groups.",
   "key": "If you're eligible, you can receive up to 2 fee-free scholarships over 4 years.",
   "who": [
@@ -47,6 +47,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -63,5 +66,8 @@
       "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "csu-student-emergency-equity-grant",
   "name": "Charles Sturt Student Emergency Equity Grant",
   "provider": "Charles Sturt University",
-  "category": "uni",
+  "category": "campus",
   "summary": "One-off grant for Charles Sturt students facing sudden financial hardship, for domestic and international students.",
   "key": "The amount is determined by the Scholarships and Financial Support team through the assessment process.",
   "who": [
@@ -37,7 +37,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "csu"
       ]
     },
     "res": {
@@ -75,5 +75,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-12-10"
+  "closes": "2026-12-10",
+  "institution": "csu",
+  "states": [
+    "nsw"
+  ]
 }

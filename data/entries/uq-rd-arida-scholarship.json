@@ -2,7 +2,7 @@
   "id": "uq-rd-arida-scholarship",
   "name": "R D Arida Scholarship (UQ)",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Aspire scheme scholarship for North Queensland students who hold the Queensland Commitment Scholarship.",
   "key": "$4,500 for 1 year.",
   "who": [
@@ -64,5 +64,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-26"
+  "closes": "2027-02-26",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

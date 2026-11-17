@@ -2,7 +2,7 @@
   "id": "qld-apprentice-travel-accommodation-allowance",
   "name": "Queensland apprentice travel and accommodation allowance",
   "provider": "Queensland Government",
-  "category": "payments",
+  "category": "tafe",
   "summary": "Queensland pays apprentices and trainees towards travel and accommodation when their closest training organisation is far away.",
   "key": "Up to 34c/km for road and rail travel, $58 per night intrastate and $112 per night interstate accommodation.",
   "who": [
@@ -41,6 +41,7 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }
@@ -70,5 +71,8 @@
       "url": "https://www.qld.gov.au/education/apprenticeships/for-apprentices/support/travel",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld"
   ]
 }

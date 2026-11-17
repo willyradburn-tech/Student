@@ -2,7 +2,7 @@
   "id": "nsw-smart-and-skilled-disability-fee-free",
   "name": "Smart and Skilled fee-free training for students with disability",
   "provider": "NSW Government (Skills NSW)",
-  "category": "loans",
+  "category": "tafe",
   "summary": "NSW students who meet the disability criteria, and their dependants, pay no Smart and Skilled fees.",
   "key": "You and your dependants won't pay fees for your training under Smart and Skilled.",
   "who": [
@@ -33,6 +33,17 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
+      ]
+    },
+    "disability": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -49,5 +60,8 @@
       "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

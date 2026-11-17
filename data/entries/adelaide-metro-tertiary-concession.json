@@ -33,12 +33,21 @@
   "match": {
     "campus": {
       "yes": [
-        "other"
+        "sa"
       ]
     },
     "load": {
       "yes": [
         "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
       ]
     }
   },
@@ -61,5 +70,8 @@
       "url": "https://adelaidemetro.com.au/tickets-and-fares/metrocard/student",
       "page_date": null
     }
+  ],
+  "states": [
+    "sa"
   ]
 }

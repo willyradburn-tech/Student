@@ -2,7 +2,7 @@
   "id": "wa-tafe-concession-fee-rate",
   "name": "WA TAFE concession fee rate (30% of tuition)",
   "provider": "South Metropolitan TAFE (WA TAFE colleges)",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Eligible WA TAFE students on JobSeeker, Youth Allowance, Austudy or ABSTUDY, or aged 15 to 24, pay a reduced concession rate on tuition.",
   "key": "If you're eligible, you will pay 30% of the tuition fees.",
   "who": [
@@ -50,6 +50,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -72,5 +75,8 @@
       "url": "https://southmetrotafe.wa.edu.au/concessions",
       "page_date": null
     }
+  ],
+  "states": [
+    "wa"
   ]
 }

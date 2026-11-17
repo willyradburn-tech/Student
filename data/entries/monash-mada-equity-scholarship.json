@@ -2,7 +2,7 @@
   "id": "monash-mada-equity-scholarship",
   "name": "Monash Art Design and Architecture Equity Scholarship",
   "provider": "Monash University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$6,000 a year for Year 12 students in financial hardship starting an art, design or architecture degree at Monash.",
   "key": "$6,000 a year for up to three years (up to $18,000), three offered each year.",
   "who": [
@@ -38,7 +38,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "monash"
       ]
     },
     "campus": {
@@ -61,5 +61,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "monash",
+  "states": [
+    "vic"
+  ]
 }

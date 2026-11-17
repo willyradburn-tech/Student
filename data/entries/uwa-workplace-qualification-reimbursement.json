@@ -2,7 +2,7 @@
   "id": "uwa-workplace-qualification-reimbursement",
   "name": "UWA Workplace Qualification Reimbursement Program",
   "provider": "University of Western Australia",
-  "category": "uni",
+  "category": "campus",
   "summary": "Up to $150 back on RSA, First Aid or Barista training for domestic UWA students, with priority for those in hardship.",
   "key": "Up to $150 toward costs.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "uwa"
       ]
     }
   },
@@ -53,5 +53,9 @@
       "url": "https://www.uwa.edu.au/students/support/financial-assistance",
       "page_date": null
     }
+  ],
+  "institution": "uwa",
+  "states": [
+    "wa"
   ]
 }

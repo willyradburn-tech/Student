@@ -2,7 +2,7 @@
   "id": "jcu-access-fund",
   "name": "JCU Access Fund (scholarship, bursary and support grant)",
   "provider": "James Cook University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $5,000 for new full-time JCU undergraduates facing ongoing financial hardship, with smaller awards for second-years.",
   "key": "The JCU Access Scholarship is valued at $5,000, the Access Bursary at $2,000 and the Support Grant at $1,000.",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "jcu"
       ]
     },
     "res": {
@@ -64,5 +64,9 @@
       "page_date": null
     }
   ],
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "jcu",
+  "states": [
+    "qld"
+  ]
 }

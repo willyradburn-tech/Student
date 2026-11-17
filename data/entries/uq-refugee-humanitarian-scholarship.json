@@ -2,7 +2,7 @@
   "id": "uq-refugee-humanitarian-scholarship",
   "name": "UQ Refugee and Humanitarian Scholarship",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Full tuition waiver and living stipend for UQ coursework students on temporary protection, humanitarian or related bridging visas.",
   "key": "100% tuition fee waiver, plus $29,000 annual living stipend.",
   "who": [
@@ -60,5 +60,10 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ],
+  "vlabel": "You get"
 }

@@ -2,7 +2,7 @@
   "id": "qut-child-care-bursary",
   "name": "QUT Child Care Bursary",
   "provider": "QUT",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A once-off payment to help QUT students who are parents or guardians cover childcare costs.",
   "key": "Valued at AU$500 per eligible child, paid as a once-off payment.",
   "who": [
@@ -38,6 +38,14 @@
       "yes": [
         "qut"
       ]
+    },
+    "parent": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -54,5 +62,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

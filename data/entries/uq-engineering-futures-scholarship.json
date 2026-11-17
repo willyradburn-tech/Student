@@ -2,7 +2,7 @@
   "id": "uq-engineering-futures-scholarship",
   "name": "UQ Engineering Futures Scholarship",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Scholarship for commencing full-time domestic UQ engineering students who can show financial hardship.",
   "key": "Up to $30,000.",
   "who": [
@@ -52,6 +52,14 @@
         "citizen",
         "pr"
       ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
     }
   },
   "evidence": [
@@ -68,5 +76,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

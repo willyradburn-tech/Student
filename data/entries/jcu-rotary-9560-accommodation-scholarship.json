@@ -2,7 +2,7 @@
   "id": "jcu-rotary-9560-accommodation-scholarship",
   "name": "Rotary Districts 9560 JCU Accommodation Scholarship",
   "provider": "James Cook University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$4,000 for final-year JCU students from north Queensland or the NT postcodes who are in financial hardship.",
   "key": "$4,000 paid in one lump sum after census date of study period two.",
   "who": [
@@ -32,7 +32,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "jcu"
       ]
     },
     "res": {
@@ -55,5 +55,9 @@
       "page_date": null
     }
   ],
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "jcu",
+  "states": [
+    "qld"
+  ]
 }

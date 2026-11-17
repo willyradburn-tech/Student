@@ -2,7 +2,7 @@
   "id": "tafe-qld-reboot-your-trade-training",
   "name": "Reboot Your Trade Training (pilot)",
   "provider": "TAFE Queensland / Queensland Government",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Funded training for carpentry, electrical and plumbing apprentices whose apprenticeship contracts were cancelled.",
   "who": [
     "Carpentry, electrical or plumbing apprentices with a cancelled apprenticeship contract."
@@ -38,6 +38,7 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }
@@ -49,5 +50,8 @@
       "url": "https://tafeqld.edu.au/courses/apply-and-enrol/subsidised-training",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld"
   ]
 }

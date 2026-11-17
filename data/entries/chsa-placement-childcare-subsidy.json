@@ -2,7 +2,7 @@
   "id": "chsa-placement-childcare-subsidy",
   "name": "CHSA Placement Childcare Subsidy (Coffs Harbour)",
   "provider": "CHSA (Coffs Harbour Students Association)",
-  "category": "uni",
+  "category": "campus",
   "summary": "Up to $200 per placement towards out-of-pocket childcare costs for CHSA members living in the Coffs Harbour region.",
   "key": "You can claim up to $200 per placement, per student!",
   "who": [
@@ -41,6 +41,14 @@
       "yes": [
         "nsw"
       ]
+    },
+    "parent": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -56,5 +64,9 @@
       "url": "https://scuchsa.com.au/membership-perks/",
       "page_date": null
     }
+  ],
+  "institution": "scu",
+  "states": [
+    "nsw"
   ]
 }

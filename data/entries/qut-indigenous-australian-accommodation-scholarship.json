@@ -2,7 +2,7 @@
   "id": "qut-indigenous-australian-accommodation-scholarship",
   "name": "QUT Indigenous Australian Accommodation Scholarship",
   "provider": "QUT",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Paid student accommodation for Aboriginal and Torres Strait Islander students relocating to start a QUT undergraduate degree.",
   "key": "The 2024 full scholarship was an accommodation package with a rental value of $31,100.",
   "who": [
@@ -52,6 +52,11 @@
       "yes": [
         "yes"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -68,5 +73,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "griffith-clem-jones-sporting-scholarship",
   "name": "Clem Jones Sporting Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $3,000 for state or national level sportspeople with financial need studying a Griffith undergraduate degree.",
   "key": "Maximum value of $3,000, paid in instalments.",
   "who": [
@@ -40,6 +40,11 @@
         "citizen",
         "pr"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -56,5 +61,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "tafe-qld-payment-plan",
   "name": "TAFE Queensland fee payment plan",
   "provider": "TAFE Queensland",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Domestic students with tuition fees of $300 or more can pay in instalments instead of upfront.",
   "key": "TAFE Queensland will provide the option for deferred payment of Tuition Fees through a Payment Plan.",
   "who": [
@@ -35,9 +35,17 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -54,5 +62,9 @@
       "url": "https://tafeqld.edu.au/about/policy-and-governance/student-rules-and-policies/student-fees",
       "page_date": null
     }
-  ]
+  ],
+  "states": [
+    "qld"
+  ],
+  "vlabel": "You pay"
 }

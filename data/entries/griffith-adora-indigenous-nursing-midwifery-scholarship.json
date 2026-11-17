@@ -2,7 +2,7 @@
   "id": "griffith-adora-indigenous-nursing-midwifery-scholarship",
   "name": "Adora Indigenous Nursing and Midwifery Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $15,000 for Aboriginal and Torres Strait Islander nursing and midwifery students in financial hardship.",
   "key": "Maximum value is $15,000.",
   "who": [
@@ -69,5 +69,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

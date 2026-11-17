@@ -2,7 +2,7 @@
   "id": "rmit-indigenous-resource-grant",
   "name": "RMIT Indigenous Resource Grant",
   "provider": "RMIT University",
-  "category": "uni",
+  "category": "campus",
   "summary": "One-off help for Aboriginal and Torres Strait Islander RMIT students with placement, technology, material fees and professional development costs.",
   "key": "Up to $3,000 for unpaid placements, plus smaller amounts for fees, technology and conferences.",
   "who": [
@@ -38,7 +38,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "rmit"
       ]
     },
     "campus": {
@@ -65,5 +65,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "rmit",
+  "states": [
+    "vic"
+  ]
 }

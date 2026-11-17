@@ -2,7 +2,7 @@
   "id": "adelaide-uni-refugee-student-grant",
   "name": "Adelaide University Refugee Student Grant",
   "provider": "Adelaide University",
-  "category": "uni",
+  "category": "campus",
   "summary": "$2,500 grant for commencing full-time undergraduate or pathway students from a refugee or humanitarian background with financial disadvantage.",
   "key": "Total value $2,500, paid in two instalments of $1,250.",
   "who": [
@@ -37,12 +37,25 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "adelaide"
       ]
     },
     "load": {
       "yes": [
         "full"
+      ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
       ]
     }
   },
@@ -67,5 +80,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "adelaide",
+  "states": [
+    "sa"
+  ]
 }

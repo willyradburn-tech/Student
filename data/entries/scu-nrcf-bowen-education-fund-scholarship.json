@@ -2,7 +2,7 @@
   "id": "scu-nrcf-bowen-education-fund-scholarship",
   "name": "Northern Rivers Community Foundation SCU Bowen Education Fund Scholarship",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$2,500 for Northern Rivers SCU students in any course who face financial hardship and contribute to their region.",
   "key": "$2,500 for one year.",
   "who": [
@@ -69,5 +69,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-14"
+  "closes": "2027-02-14",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

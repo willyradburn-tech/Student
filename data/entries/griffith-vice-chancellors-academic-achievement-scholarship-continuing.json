@@ -2,7 +2,7 @@
   "id": "griffith-vice-chancellors-academic-achievement-scholarship-continuing",
   "name": "Vice Chancellor's Academic Achievement Scholarship for Continuing Students",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $10,000 for high-achieving Griffith undergraduates after their first year.",
   "key": "Cash (up to $10,000) + Student Academy of Excellence offer.",
   "who": [
@@ -41,6 +41,14 @@
         "citizen",
         "pr"
       ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
     }
   },
   "evidence": [
@@ -57,5 +65,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

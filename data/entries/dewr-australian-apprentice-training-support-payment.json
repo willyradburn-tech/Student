@@ -2,7 +2,7 @@
   "id": "dewr-australian-apprentice-training-support-payment",
   "name": "Australian Apprentice Training Support Payment (AATSP)",
   "provider": "Department of Employment and Workplace Relations",
-  "category": "payments",
+  "category": "tafe",
   "summary": "Commonwealth payment made to apprentices in priority occupations, paid in instalments over the first two years.",
   "key": "Full-time apprentices get $625 at each of 6, 12, 18 and 24 months; part-time apprentices get $310 to $315 per instalment.",
   "catches": [
@@ -28,6 +28,7 @@
   "match": {
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }

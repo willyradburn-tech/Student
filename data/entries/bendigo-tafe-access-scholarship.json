@@ -2,7 +2,7 @@
   "id": "bendigo-tafe-access-scholarship",
   "name": "Bendigo TAFE Access Scholarship (enrolled students)",
   "provider": "Bendigo TAFE (Bendigo Kangan Institute)",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Financial help for enrolled Bendigo TAFE students, domestic or international, facing financial pressure that threatens their study.",
   "who": [
     "Domestic and international students enrolled in any Bendigo TAFE course"
@@ -40,6 +40,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -56,5 +59,8 @@
       "url": "https://bendigotafe.edu.au/Scholarships",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "griffith-nellie-thomas-bursary",
   "name": "Nellie Thomas Bursary",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $2,000 for Aboriginal and Torres Strait Islander medicine and health students facing financial disadvantage.",
   "key": "Maximum value is $2,000, payable in a single instalment.",
   "who": [
@@ -65,5 +65,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

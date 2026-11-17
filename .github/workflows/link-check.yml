@@ -1,0 +1,16 @@
+name: Weekly link check
+# Separate from the recheck. This only asks whether each official source page still loads,
+# and whether the live site is up. It never edits entries.
+on:
+  schedule:
+    - cron: "0 20 * * 0"   # Sunday 20:00 UTC (Monday morning in Sydney)
+  workflow_dispatch:
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/check-links.js --site https://studentstack.com.au

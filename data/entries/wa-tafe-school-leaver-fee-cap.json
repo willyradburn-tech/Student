@@ -2,7 +2,7 @@
   "id": "wa-tafe-school-leaver-fee-cap",
   "name": "WA TAFE $420 annual fee cap for young school leavers",
   "provider": "South Metropolitan TAFE (WA TAFE colleges)",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Young people who have left school early pay no more than $420 a year in WA TAFE course fees in 2026.",
   "key": "For 2026, there is a cap of $420 per calendar year for students born on or after 1 July 2008.",
   "who": [
@@ -42,6 +42,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -52,5 +55,8 @@
       "url": "https://southmetrotafe.wa.edu.au/concessions",
       "page_date": null
     }
+  ],
+  "states": [
+    "wa"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "unsw-deans-engineering-equity-scholarship",
   "name": "UNSW Dean's Engineering Equity Scholarship",
   "provider": "UNSW Sydney",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Yearly scholarship for disadvantaged, under-represented, Indigenous and low-SES students starting a UNSW engineering degree.",
   "key": "$15,000 per annum for minimum program duration (up to 5 years).",
   "who": [
@@ -33,7 +33,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unsw"
       ]
     },
     "campus": {
@@ -55,5 +55,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "unsw",
+  "states": [
+    "nsw"
+  ]
 }

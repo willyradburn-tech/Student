@@ -2,7 +2,7 @@
   "id": "george-alexander-foundation-gordon-scholarship",
   "name": "George Alexander Foundation Scholarship at The Gordon",
   "provider": "George Alexander Foundation",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Seven $7,000 scholarships a year for students starting full-time certificate, diploma or advanced diploma study at The Gordon.",
   "key": "Seven scholarships are awarded annually, each valued at $7,000.",
   "who": [
@@ -46,6 +46,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -62,5 +65,8 @@
       "url": "https://georgealexander.org.au/our-programs/scholarship-programs/the-gordon",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

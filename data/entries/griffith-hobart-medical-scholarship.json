@@ -2,7 +2,7 @@
   "id": "griffith-hobart-medical-scholarship",
   "name": "Rotary Club of Southport Peter and Jenny Hobart Medical Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $2,000 for full-time third-year Griffith Doctor of Medicine students.",
   "key": "Maximum value is $2,000. Instalments of $1,000 are payable in Trimester 1 and 2.",
   "who": [
@@ -62,5 +62,10 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld",
+    "tas"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "unimelb-long-term-loan",
   "name": "University of Melbourne long-term student loan",
   "provider": "University of Melbourne",
-  "category": "uni",
+  "category": "campus",
   "summary": "An interest-free loan of up to $5,000, with a guarantor, for unexpected study-related costs.",
   "key": "Up to $5,000 with a guarantor.",
   "who": [
@@ -37,7 +37,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unimelb"
       ]
     },
     "campus": {
@@ -56,5 +56,9 @@
       "url": "https://students.unimelb.edu.au/support-and-wellbeing/student-loans-and-grants/long-term-loans",
       "page_date": null
     }
+  ],
+  "institution": "unimelb",
+  "states": [
+    "vic"
   ]
 }

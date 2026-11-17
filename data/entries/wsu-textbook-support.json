@@ -2,7 +2,7 @@
   "id": "wsu-textbook-support",
   "name": "Western Sydney University Textbook Support",
   "provider": "Western Sydney University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Electronic textbook vouchers each session for WSU students in documented hardship.",
   "key": "$600 once per enrolled session.",
   "who": [
@@ -32,7 +32,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "wsu"
       ]
     },
     "campus": {
@@ -48,5 +48,9 @@
       "url": "https://www.westernsydney.edu.au/students/services-and-facilities/student-welfare-services/financial-support",
       "page_date": null
     }
+  ],
+  "institution": "wsu",
+  "states": [
+    "nsw"
   ]
 }

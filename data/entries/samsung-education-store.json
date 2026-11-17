@@ -30,7 +30,6 @@
   "verified": "2026-10-15",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Discount",
@@ -44,5 +43,6 @@
       "url": "https://www.samsung.com/au/offer/samsung-education-store",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

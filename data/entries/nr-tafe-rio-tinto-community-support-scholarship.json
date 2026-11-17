@@ -2,7 +2,7 @@
   "id": "nr-tafe-rio-tinto-community-support-scholarship",
   "name": "Rio Tinto Community Support Scholarship (North Regional TAFE)",
   "provider": "North Regional TAFE and Rio Tinto",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Scholarship helping Pilbara students complete selected NR TAFE qualifications in community services, health and nursing, education support and beauty.",
   "who": [
     "Students enrolling in selected qualifications and skill sets in Community Services, Health and Nursing, School-Based Education Support, or Beauty"
@@ -45,6 +45,17 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -61,5 +72,8 @@
       "url": "https://www.northregionaltafe.wa.edu.au/scholarships",
       "page_date": null
     }
+  ],
+  "states": [
+    "wa"
   ]
 }

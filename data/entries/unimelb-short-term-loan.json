@@ -2,7 +2,7 @@
   "id": "unimelb-short-term-loan",
   "name": "University of Melbourne short-term student loan",
   "provider": "University of Melbourne",
-  "category": "uni",
+  "category": "campus",
   "summary": "An interest-free loan of up to $1,000, with no guarantor, for urgent course or living costs.",
   "key": "Up to $1,000, no guarantor needed.",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unimelb"
       ]
     },
     "campus": {
@@ -57,5 +57,9 @@
       "url": "https://students.unimelb.edu.au/support-and-wellbeing/student-loans-and-grants/short-term-loans",
       "page_date": null
     }
+  ],
+  "institution": "unimelb",
+  "states": [
+    "vic"
   ]
 }

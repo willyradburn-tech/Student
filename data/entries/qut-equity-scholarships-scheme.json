@@ -2,7 +2,7 @@
   "id": "qut-equity-scholarships-scheme",
   "name": "QUT Equity Scholarships Scheme",
   "provider": "QUT",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Scholarships and bursaries for domestic QUT students from low-income households, all from one application.",
   "tags": [
     "qut",
@@ -50,5 +50,9 @@
   "source": {
     "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/equity-scholarships-scheme",
     "label": "QUT: Equity Scholarships Scheme"
-  }
+  },
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

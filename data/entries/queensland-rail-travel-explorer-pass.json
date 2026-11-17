@@ -27,6 +27,11 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
     "res": {
       "yes": [
         "intl"
@@ -46,5 +51,8 @@
       "url": "https://www.queenslandrailtravel.com.au/PolicyCentre/Pages/FareTypes.aspx",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld"
   ]
 }

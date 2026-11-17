@@ -2,7 +2,7 @@
   "id": "csu-engineering-bathurst-accommodation-scholarship",
   "name": "Charles Sturt Engineering Bathurst Campus Accommodation Scholarship",
   "provider": "Charles Sturt University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A full year of free on-campus accommodation at Bathurst for full-time Bachelor of Engineering (Honours) students.",
   "key": "Recipients will receive a full year of on-campus accommodation at Bathurst campus.",
   "who": [
@@ -34,7 +34,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "csu"
       ]
     },
     "field": {
@@ -45,6 +45,11 @@
     "load": {
       "yes": [
         "full"
+      ]
+    },
+    "level": {
+      "yes": [
+        "ug"
       ]
     }
   },
@@ -69,5 +74,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-12-18"
+  "closes": "2026-12-18",
+  "institution": "csu",
+  "states": [
+    "nsw"
+  ]
 }

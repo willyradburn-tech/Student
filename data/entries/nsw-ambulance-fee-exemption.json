@@ -41,6 +41,23 @@
       "maybe": [
         "no"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -56,5 +73,8 @@
       "url": "https://www.ambulance.nsw.gov.au/our-services/accounts-and-fees/exemptions-from-nsw-ambulance-fees",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

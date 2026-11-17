@@ -2,7 +2,7 @@
   "id": "rmit-rusu-free-meals",
   "name": "RUSU free breakfasts and lunches",
   "provider": "RMIT University Student Union",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free healthy breakfasts and lunches every week for RMIT students at City, Bundoora, Brunswick and Point Cook.",
   "tags": [
     "rmit",
@@ -25,7 +25,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "rmit"
       ]
     },
     "campus": {
@@ -41,5 +41,9 @@
       "url": "https://www.rmit.edu.au/about/our-values/sustainability/sustainable-development-goals/projects/rusu-free-meals-program",
       "page_date": null
     }
+  ],
+  "institution": "rmit",
+  "states": [
+    "vic"
   ]
 }

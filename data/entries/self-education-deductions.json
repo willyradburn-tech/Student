@@ -38,9 +38,9 @@
   "cadence": "low",
   "review": "approved",
   "cap": "maybe",
-  "match": {},
   "source": {
     "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/deductions-you-can-claim/education-training-and-seminars/self-education-expenses",
     "label": "ATO: self-education expenses"
-  }
+  },
+  "openToAll": true
 }

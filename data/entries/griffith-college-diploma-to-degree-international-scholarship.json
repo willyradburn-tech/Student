@@ -2,7 +2,7 @@
   "id": "griffith-college-diploma-to-degree-international-scholarship",
   "name": "Griffith International Scholarship for Griffith College Diploma to Degree",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$3,000 off first-trimester tuition for the top international Griffith College diploma graduate moving into a Griffith undergraduate degree.",
   "key": "AU$3,000 will be deducted from undergraduate tuition fees only",
   "who": [
@@ -50,6 +50,11 @@
       "yes": [
         "full"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -66,5 +71,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

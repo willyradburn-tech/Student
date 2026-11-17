@@ -2,7 +2,7 @@
   "id": "uq-santos-atsi-education-scholarship",
   "name": "Santos Aboriginal and Torres Strait Islander Education Scholarship (UQ)",
   "provider": "University of Queensland and Santos",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Multi-year scholarship for Aboriginal and Torres Strait Islander UQ coursework students facing financial hardship.",
   "key": "$10,000 Full-Time / $5,000 Part-Time, for up to four years.",
   "who": [
@@ -65,5 +65,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-26"
+  "closes": "2027-02-26",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

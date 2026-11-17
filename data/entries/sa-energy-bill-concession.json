@@ -2,7 +2,7 @@
   "id": "sa-energy-bill-concession",
   "name": "SA energy bill concession",
   "provider": "ConcessionsSA (Government of South Australia)",
-  "category": "health",
+  "category": "bills",
   "summary": "Yearly credit on your electricity bill for South Australians on Youth Allowance, Austudy, ABSTUDY or with a Low Income Health Care Card.",
   "key": "Up to $291.27 a year.",
   "who": [
@@ -37,10 +37,27 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "sa"
       ]
     },
     "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
       "yes": [
         "yes"
       ],
@@ -68,5 +85,8 @@
       "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/energy-bill-concessions",
       "page_date": null
     }
+  ],
+  "states": [
+    "sa"
   ]
 }

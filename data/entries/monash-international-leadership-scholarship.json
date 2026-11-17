@@ -2,7 +2,7 @@
   "id": "monash-international-leadership-scholarship",
   "name": "Monash International Leadership Scholarship",
   "provider": "Monash University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Full tuition fees covered for four new international undergraduates each year at Monash in Australia.",
   "key": "100% course fees paid.",
   "who": [
@@ -34,7 +34,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "monash"
       ]
     },
     "res": {
@@ -61,5 +61,9 @@
       "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-international-leadership-scholarship-5571Z",
       "page_date": null
     }
+  ],
+  "institution": "monash",
+  "states": [
+    "vic"
   ]
 }

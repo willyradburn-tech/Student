@@ -2,7 +2,7 @@
   "id": "latrobe-su-safety-net",
   "name": "La Trobe Student Union Safety Net voucher",
   "provider": "La Trobe Student Union",
-  "category": "uni",
+  "category": "campus",
   "summary": "A one-off $60 prepaid voucher for Bundoora students facing urgent or unexpected costs like food, bills or rent.",
   "key": "A $60 voucher, once per semester.",
   "who": [
@@ -38,7 +38,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "latrobe"
       ]
     },
     "campus": {
@@ -61,5 +61,9 @@
       "page_date": null
     }
   ],
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "latrobe",
+  "states": [
+    "vic"
+  ]
 }

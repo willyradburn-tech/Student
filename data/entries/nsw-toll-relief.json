@@ -34,6 +34,15 @@
       "yes": [
         "nsw"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
     }
   },
   "evidence": [
@@ -43,5 +52,8 @@
       "url": "https://www.service.nsw.gov.au/toll-relief-faqs",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

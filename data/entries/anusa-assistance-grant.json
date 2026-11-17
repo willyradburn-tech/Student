@@ -2,7 +2,7 @@
   "id": "anusa-assistance-grant",
   "name": "ANUSA Assistance Grant",
   "provider": "ANU Students' Association (ANUSA)",
-  "category": "uni",
+  "category": "campus",
   "summary": "Non-repayable ANUSA grant for ANU students facing genuine, unexpected financial need.",
   "key": "The maximum grant available is $750 per semester.",
   "who": [
@@ -38,7 +38,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "anu"
       ]
     }
   },
@@ -56,5 +56,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "anu",
+  "states": [
+    "act"
+  ]
 }

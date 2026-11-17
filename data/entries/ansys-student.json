@@ -27,7 +27,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Free licences for students",
@@ -41,5 +40,6 @@
       "url": "https://ansys.synopsys.com/academic/students",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

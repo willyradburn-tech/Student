@@ -39,6 +39,12 @@
       "maybe": [
         "pr"
       ]
+    },
+    "uni": {
+      "no": [
+        "tafe",
+        "apprentice"
+      ]
     }
   },
   "verified": "2026-10-13",

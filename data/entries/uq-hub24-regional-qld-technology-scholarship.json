@@ -2,7 +2,7 @@
   "id": "uq-hub24-regional-qld-technology-scholarship",
   "name": "HUB24 Regional QLD Technology Scholarship (UQ)",
   "provider": "University of Queensland and HUB24",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Scholarship for first- or second-year UQ computer science and IT students from regional Queensland high schools facing financial hardship.",
   "key": "$8,000 for 1 year.",
   "who": [
@@ -49,6 +49,14 @@
         "citizen",
         "pr"
       ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -65,5 +73,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

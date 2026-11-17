@@ -2,7 +2,7 @@
   "id": "flinders-aboriginal-torres-strait-islander-scholarship",
   "name": "Flinders Aboriginal and Torres Strait Islander Student Scholarship",
   "provider": "Flinders University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Ten awards a year of $6,000 a year for up to four years for commencing First Nations undergraduates with financial need.",
   "key": "Each scholarship will be valued at $6,000 per year for up to four years.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "flinders"
       ]
     },
     "atsi": {
@@ -47,6 +47,14 @@
     "load": {
       "yes": [
         "full"
+      ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
       ]
     }
   },
@@ -65,5 +73,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "flinders",
+  "states": [
+    "sa"
+  ]
 }

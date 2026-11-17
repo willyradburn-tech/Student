@@ -2,7 +2,7 @@
   "id": "griffith-geli-direct-entry-program-scholarship",
   "name": "Griffith GELI Direct Entry Program (DEP) Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$1,000 off first-trimester tuition for the top international student in a Griffith English Language Institute Direct Entry Program cohort.",
   "key": "AU$1,000 will be deducted from undergraduate or postgraduate coursework tuition fees only.",
   "who": [
@@ -66,5 +66,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

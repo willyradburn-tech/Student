@@ -38,7 +38,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "source": {
     "url": "https://www.adobe.com/au/creativecloud/buy/students.html",
     "label": "Adobe: Creative Cloud for students"
@@ -57,5 +56,6 @@
   ],
   "open_questions": [
     "Whether the first-year price is limited to first-time members isn't stated on the pages checked."
-  ]
+  ],
+  "openToAll": true
 }

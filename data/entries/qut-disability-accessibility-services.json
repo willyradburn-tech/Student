@@ -32,6 +32,14 @@
       "yes": [
         "qut"
       ]
+    },
+    "disability": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -47,5 +55,9 @@
       "url": "https://www.qut.edu.au/study/student-life/support/disability-accessibility-services",
       "page_date": null
     }
+  ],
+  "institution": "qut",
+  "states": [
+    "qld"
   ]
 }

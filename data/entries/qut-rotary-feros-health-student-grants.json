@@ -2,7 +2,7 @@
   "id": "qut-rotary-feros-health-student-grants",
   "name": "Rotary Feros Health Student Grants",
   "provider": "QUT and Rotary",
-  "category": "uni",
+  "category": "campus",
   "summary": "Grants towards rural, regional or remote clinical placements for full-time QUT health students.",
   "key": "$1,650 each, paid when the approved clinical placement starts.",
   "who": [
@@ -60,6 +60,14 @@
         "citizen",
         "pr"
       ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -76,5 +84,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

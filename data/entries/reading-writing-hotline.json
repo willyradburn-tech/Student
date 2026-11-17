@@ -30,7 +30,6 @@
   "verified": "2026-10-15",
   "cadence": "medium",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "What it does",
@@ -44,5 +43,6 @@
       "url": "https://www.dewr.gov.au/node/8405",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

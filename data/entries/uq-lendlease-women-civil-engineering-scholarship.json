@@ -2,7 +2,7 @@
   "id": "uq-lendlease-women-civil-engineering-scholarship",
   "name": "Lendlease Women in Civil Engineering Scholarship (UQ)",
   "provider": "University of Queensland and Lendlease",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "One-year scholarship for domestic UQ civil engineering students partway through their degree.",
   "key": "$15,000 for 1 year (1 awarded).",
   "who": [
@@ -54,6 +54,14 @@
         "citizen",
         "pr"
       ]
+    },
+    "gender": {
+      "yes": [
+        "woman"
+      ],
+      "maybe": [
+        "nb"
+      ]
     }
   },
   "evidence": [
@@ -70,5 +78,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

@@ -23,7 +23,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Eligibility",
@@ -37,5 +36,6 @@
       "url": "https://www.stata.com/order/new/edu/profplus/student-pricing/",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

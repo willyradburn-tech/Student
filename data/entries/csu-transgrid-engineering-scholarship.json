@@ -2,7 +2,7 @@
   "id": "csu-transgrid-engineering-scholarship",
   "name": "Transgrid Engineering Scholarship at Charles Sturt",
   "provider": "Charles Sturt University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Scholarship paid over four years for domestic students starting the Bachelor of Engineering (Honours) at Charles Sturt.",
   "key": "MAX $20,000 paid in installments twice yearly.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "csu"
       ]
     },
     "field": {
@@ -48,6 +48,11 @@
       "yes": [
         "citizen",
         "pr"
+      ]
+    },
+    "level": {
+      "yes": [
+        "ug"
       ]
     }
   },
@@ -78,5 +83,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-11-20"
+  "closes": "2026-11-20",
+  "institution": "csu",
+  "states": [
+    "nsw"
+  ]
 }

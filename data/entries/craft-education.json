@@ -29,7 +29,6 @@
   "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Eligibility",
@@ -49,5 +48,6 @@
       "url": "https://www.craft.do/education",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

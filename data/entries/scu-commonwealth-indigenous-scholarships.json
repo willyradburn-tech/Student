@@ -2,7 +2,7 @@
   "id": "scu-commonwealth-indigenous-scholarships",
   "name": "Commonwealth Indigenous Accommodation and Education Costs Scholarships (SCU)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Accommodation and education-cost scholarships for Aboriginal and Torres Strait Islander SCU students in financial hardship.",
   "key": "Accommodation: $8,000 per year for three years ($24,000). Education costs: $4,000 per year for three years ($12,000).",
   "who": [
@@ -79,5 +79,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-03-09"
+  "closes": "2027-03-09",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

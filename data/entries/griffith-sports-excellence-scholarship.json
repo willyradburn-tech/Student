@@ -2,7 +2,7 @@
   "id": "griffith-sports-excellence-scholarship",
   "name": "Griffith Sports Excellence Scholarships",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Scholarships for elite athletes competing nationally or internationally while studying at Griffith.",
   "key": "$28,000 for the Full Scholarship; $5,000 for the Development Scholarship.",
   "who": [
@@ -58,5 +58,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

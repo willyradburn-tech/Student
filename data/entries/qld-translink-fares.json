@@ -29,10 +29,22 @@
       "yes": [
         "qld"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
     }
   },
   "source": {
     "url": "https://translink.com.au/tickets-and-fares/concessions/tertiary",
     "label": "TransLink: tertiary students"
-  }
+  },
+  "states": [
+    "qld"
+  ]
 }

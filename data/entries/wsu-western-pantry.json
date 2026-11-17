@@ -2,7 +2,7 @@
   "id": "wsu-western-pantry",
   "name": "Western Pantry",
   "provider": "Western Sydney University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free weekly pantry staples and fresh produce for WSU students at Kingswood and Parramatta South.",
   "key": "Pick 5 free items once per week.",
   "who": [
@@ -34,7 +34,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "wsu"
       ]
     },
     "campus": {
@@ -51,5 +51,9 @@
       "page_date": null
     }
   ],
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "wsu",
+  "states": [
+    "nsw"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "anu-basic-needs-sport-membership",
   "name": "ANU Sport annual membership (Basic Needs Supports)",
   "provider": "Australian National University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free ANU Sport annual membership for domestic undergraduates who are First Nations, low-SES, low-income, regional or first in family.",
   "who": [
     "Undergraduate, domestic",
@@ -32,13 +32,29 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "anu"
       ]
     },
     "res": {
       "yes": [
         "citizen",
         "pr"
+      ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -49,5 +65,9 @@
       "url": "https://www.anu.edu.au/students/health-safety-wellbeing/spending-well/financial-advice-and-assistance",
       "page_date": null
     }
+  ],
+  "institution": "anu",
+  "states": [
+    "act"
   ]
 }

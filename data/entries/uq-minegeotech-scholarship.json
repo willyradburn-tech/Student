@@ -2,7 +2,7 @@
   "id": "uq-minegeotech-scholarship",
   "name": "MineGeoTech Scholarship (UQ)",
   "provider": "University of Queensland and MineGeoTech",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Aspire scheme scholarship for regional or remote Queensland Commitment Scholarship holders starting a STEM program at UQ.",
   "key": "$4,500 for 1 year.",
   "who": [
@@ -46,6 +46,14 @@
         "citizen",
         "pr"
       ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -63,5 +71,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-26"
+  "closes": "2027-02-26",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

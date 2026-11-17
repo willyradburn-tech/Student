@@ -2,7 +2,7 @@
   "id": "uq-rio-tinto-indigenous-scholarship",
   "name": "Rio Tinto Indigenous Scholarship (UQ)",
   "provider": "University of Queensland and Rio Tinto",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Two-year scholarship for full-time Aboriginal and Torres Strait Islander UQ undergraduates in financial need.",
   "key": "$10,000, over a 2-year duration.",
   "who": [
@@ -63,5 +63,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-26"
+  "closes": "2027-02-26",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

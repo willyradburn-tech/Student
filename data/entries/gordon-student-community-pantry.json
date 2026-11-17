@@ -2,7 +2,7 @@
   "id": "gordon-student-community-pantry",
   "name": "The Gordon Student Community Pantry",
   "provider": "The Gordon",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Free groceries and staples for all Gordon students from on-campus pantries, no questions asked.",
   "key": "Items are available for FREE to all students. No questions asked.",
   "who": [
@@ -34,6 +34,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -50,5 +53,8 @@
       "url": "https://www.thegordon.edu.au/students/scholarships",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

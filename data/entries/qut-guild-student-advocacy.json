@@ -2,7 +2,7 @@
   "id": "qut-guild-student-advocacy",
   "name": "QUT Guild Student Advocacy",
   "provider": "QUT Guild",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free, independent help with academic issues, university policies and misconduct matters for QUT students.",
   "who": [
     "All QUT students with academic or university-related issues."
@@ -46,5 +46,9 @@
       "url": "https://qutguild.com/advocacy/",
       "page_date": null
     }
+  ],
+  "institution": "qut",
+  "states": [
+    "qld"
   ]
 }

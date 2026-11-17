@@ -2,7 +2,7 @@
   "id": "uq-kev-carmody-residential-scholarship",
   "name": "Kev Carmody Residential Scholarship (UQ)",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Covers a standard room at Kev Carmody House for Aboriginal and Torres Strait Islander UQ students facing financial hardship.",
   "key": "Cost of residency in a standard room at Kev Carmody House, for 1 year.",
   "who": [
@@ -71,5 +71,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

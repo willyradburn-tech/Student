@@ -2,7 +2,7 @@
   "id": "griffith-international-academic-merit-scholarship",
   "name": "Griffith International Academic Merit Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Automatic 20% tuition fee reduction for international students with strong grades starting undergraduate or postgraduate coursework at Griffith.",
   "key": "Eligible international students receive 20% off their tuition fees for the entire duration of their program.",
   "who": [
@@ -73,5 +73,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

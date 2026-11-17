@@ -2,7 +2,7 @@
   "id": "qut-guild-food-bank",
   "name": "QUT Guild Food Bank",
   "provider": "QUT Guild",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free groceries for QUT students facing financial hardship, once a week at Kelvin Grove.",
   "who": [
     "All QUT students facing financial hardship."
@@ -51,5 +51,9 @@
       "url": "https://qutguild.com/foodbank/",
       "page_date": null
     }
+  ],
+  "institution": "qut",
+  "states": [
+    "qld"
   ]
 }

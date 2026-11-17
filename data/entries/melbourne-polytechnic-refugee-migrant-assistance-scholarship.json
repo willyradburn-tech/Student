@@ -2,7 +2,7 @@
   "id": "melbourne-polytechnic-refugee-migrant-assistance-scholarship",
   "name": "Melbourne Polytechnic Refugee and Migrant Assistance Scholarship",
   "provider": "Melbourne Polytechnic",
-  "category": "uni",
+  "category": "tafe",
   "summary": "A $1,000 scholarship for refugee or migrant students who arrived in Australia in the past five years.",
   "key": "$1,000",
   "who": [
@@ -43,6 +43,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -65,5 +68,8 @@
       "url": "https://media.melbournepolytechnic.edu.au/students/scholarships/search-for-a-scholarship/refugee-and-migrant-assistance-scholarships/",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

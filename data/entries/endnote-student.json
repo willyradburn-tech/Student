@@ -22,7 +22,6 @@
   "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Student discount",
@@ -36,5 +35,6 @@
       "url": "https://endnote.com/buy/",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

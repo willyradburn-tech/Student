@@ -2,7 +2,7 @@
   "id": "tafe-nsw-wilma-scholarship",
   "name": "WILMA Scholarship (TAFE NSW, Macarthur)",
   "provider": "TAFE NSW",
-  "category": "uni",
+  "category": "tafe",
   "summary": "$1,500 for a woman in the Macarthur region facing financial or personal barriers to TAFE NSW study.",
   "key": "TAFE NSW will award $1,500 to empower a woman from the Macarthur region.",
   "who": [
@@ -45,6 +45,17 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
+      ]
+    },
+    "gender": {
+      "yes": [
+        "woman"
+      ],
+      "maybe": [
+        "nb"
       ]
     }
   },
@@ -61,5 +72,8 @@
       "url": "https://www.tafensw.edu.au/scholarships/wilma-scholarship",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

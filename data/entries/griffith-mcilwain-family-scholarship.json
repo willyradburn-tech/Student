@@ -2,7 +2,7 @@
   "id": "griffith-mcilwain-family-scholarship",
   "name": "McIlwain Family Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $20,000 for commencing Griffith Sciences undergraduates facing educational disadvantage.",
   "key": "Maximum value is $20,000, paid in instalments.",
   "who": [
@@ -50,6 +50,14 @@
       "yes": [
         "full"
       ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
     }
   },
   "evidence": [
@@ -66,5 +74,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

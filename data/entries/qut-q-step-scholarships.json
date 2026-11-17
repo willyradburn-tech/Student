@@ -2,7 +2,7 @@
   "id": "qut-q-step-scholarships",
   "name": "QTAC Educational Access Scheme (Q-Step) Scholarships",
   "provider": "QUT",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Equity scholarships at QUT for students who applied through QTAC's Educational Access Scheme.",
   "key": "Valued at up to $4,200.",
   "how": [
@@ -48,5 +48,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

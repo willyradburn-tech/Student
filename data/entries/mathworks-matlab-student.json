@@ -23,7 +23,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Campus-wide access",
@@ -37,5 +36,6 @@
       "url": "https://au.mathworks.com/products/matlab/student.html",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

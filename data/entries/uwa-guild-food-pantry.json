@@ -2,7 +2,7 @@
   "id": "uwa-guild-food-pantry",
   "name": "UWA Guild Food Pantry",
   "provider": "UWA Student Guild",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free non-perishable food and hygiene items for enrolled UWA students, weekday mornings at the Guild Student Centre.",
   "key": "FREE non-perishable essential food items (like rice, pasta, UHT milk, cereal, soup, chickpeas and tuna)",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "uwa"
       ]
     }
   },
@@ -52,5 +52,9 @@
       "url": "https://www.uwastudentguild.com/support/topic/food-pantry",
       "page_date": null
     }
+  ],
+  "institution": "uwa",
+  "states": [
+    "wa"
   ]
 }

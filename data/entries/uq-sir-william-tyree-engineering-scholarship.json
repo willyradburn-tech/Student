@@ -2,7 +2,7 @@
   "id": "uq-sir-william-tyree-engineering-scholarship",
   "name": "Sir William Tyree Engineering Scholarship (UQ)",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Multi-year scholarship for rural or remote first-year UQ engineering students with an interest in electrical engineering.",
   "key": "$15,000 per year for up to 4 years.",
   "who": [
@@ -55,6 +55,22 @@
         "citizen",
         "pr"
       ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -71,5 +87,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

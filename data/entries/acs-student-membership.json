@@ -47,5 +47,6 @@
   "source": {
     "url": "https://www.acs.org.au/join-acs.html",
     "label": "ACS: join"
-  }
+  },
+  "vlabel": "You pay"
 }

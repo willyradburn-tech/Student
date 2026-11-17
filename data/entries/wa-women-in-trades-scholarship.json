@@ -2,7 +2,7 @@
   "id": "wa-women-in-trades-scholarship",
   "name": "WA Women in Trades Scholarship ($5,000)",
   "provider": "Jobs and Skills WA (Government of Western Australia)",
-  "category": "payments",
+  "category": "tafe",
   "summary": "A $5,000 scholarship for women starting eligible apprenticeships, traineeships or trade qualifications at WA TAFE colleges.",
   "key": "A $5,000 scholarship payment for eligible women.",
   "who": [
@@ -43,7 +43,16 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
+      ]
+    },
+    "gender": {
+      "yes": [
+        "woman"
+      ],
+      "maybe": [
+        "nb"
       ]
     }
   },
@@ -66,5 +75,8 @@
       "url": "https://www.southregionaltafe.wa.edu.au/apply-and-enrol/scholarships",
       "page_date": null
     }
+  ],
+  "states": [
+    "wa"
   ]
 }

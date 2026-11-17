@@ -2,7 +2,7 @@
   "id": "bendigo-tafe-mick-young-scholarship",
   "name": "Bendigo TAFE Mick Young Scholarship",
   "provider": "Bendigo TAFE (Bendigo Kangan Institute)",
-  "category": "uni",
+  "category": "tafe",
   "summary": "A course fee reduction of up to $500 for Bendigo TAFE students in severe financial difficulty.",
   "key": "This scholarship can benefit domestic students with a reduction of their course fees, up to the value of $500.",
   "who": [
@@ -37,6 +37,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -53,5 +56,9 @@
       "url": "https://bendigotafe.edu.au/Scholarships",
       "page_date": null
     }
-  ]
+  ],
+  "states": [
+    "vic"
+  ],
+  "vlabel": "You get"
 }

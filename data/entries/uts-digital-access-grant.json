@@ -2,7 +2,7 @@
   "id": "uts-digital-access-grant",
   "name": "UTS Digital Access Grant",
   "provider": "University of Technology Sydney",
-  "category": "uni",
+  "category": "campus",
   "summary": "Once-only grant toward course-related computer hardware, software or internet for low-income UTS students.",
   "key": "A $1,000 grant may apply for course-related high-end technical specification equipment.",
   "who": [
@@ -34,7 +34,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "uts"
       ]
     },
     "campus": {
@@ -51,5 +51,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uts",
+  "states": [
+    "nsw"
+  ]
 }

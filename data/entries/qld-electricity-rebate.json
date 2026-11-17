@@ -43,6 +43,23 @@
       "maybe": [
         "no"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -58,5 +75,8 @@
       "url": "https://www.qld.gov.au/__data/assets/pdf_file/0031/168943/energy-rebates-factsheet-general.pdf",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld"
   ]
 }

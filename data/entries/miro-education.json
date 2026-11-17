@@ -23,7 +23,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Eligibility",
@@ -37,5 +36,6 @@
       "url": "https://miro.com/education-whiteboard/",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

@@ -2,7 +2,7 @@
   "id": "sa-water-sewerage-concession",
   "name": "SA water and sewerage rate concession",
   "provider": "ConcessionsSA (Government of South Australia)",
-  "category": "health",
+  "category": "bills",
   "summary": "Discount of up to 30% of your yearly water bill for low-income South Australians, including tenants who pay for water.",
   "key": "The water concession is calculated as up to 30% of your total water bill for a financial year.",
   "who": [
@@ -35,7 +35,16 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "sa"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
       ]
     }
   },
@@ -58,5 +67,8 @@
       "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/water-and-sewerage-rate-concession",
       "page_date": null
     }
+  ],
+  "states": [
+    "sa"
   ]
 }

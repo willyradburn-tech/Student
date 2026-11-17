@@ -45,6 +45,15 @@
       "maybe": [
         "no"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
     }
   },
   "evidence": [
@@ -60,5 +69,8 @@
       "url": "https://www.qld.gov.au/community/cost-of-living-support/electricity-life-support",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld"
   ]
 }

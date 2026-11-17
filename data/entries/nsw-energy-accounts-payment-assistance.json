@@ -36,6 +36,15 @@
       "yes": [
         "nsw"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
     }
   },
   "evidence": [
@@ -51,5 +60,8 @@
       "url": "https://service.nsw.gov.au/eapa",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

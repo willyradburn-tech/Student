@@ -2,7 +2,7 @@
   "id": "adelaide-uni-whyalla-city-council-student-grant",
   "name": "Adelaide University Whyalla City Council Student Grant",
   "provider": "Adelaide University",
-  "category": "uni",
+  "category": "campus",
   "summary": "$2,500 grant for first-time tertiary students from the Whyalla region studying full-time at the Whyalla campus.",
   "key": "Total $2,500, paid in two instalments of $1,250.",
   "who": [
@@ -37,7 +37,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "adelaide"
       ]
     },
     "res": {
@@ -67,5 +67,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "adelaide",
+  "states": [
+    "sa"
+  ]
 }

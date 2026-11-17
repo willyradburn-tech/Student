@@ -2,7 +2,7 @@
   "id": "uon-indigenous-education-scholarship",
   "name": "University of Newcastle Indigenous Education Scholarship",
   "provider": "University of Newcastle",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Commonwealth-funded education costs scholarship for Aboriginal and Torres Strait Islander UON students in financial hardship.",
   "key": "A total benefit of up to $3000, paid in two equal instalments of $1500.",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "newcastle"
       ]
     },
     "atsi": {
@@ -65,5 +65,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-03-03"
+  "closes": "2027-03-03",
+  "institution": "newcastle",
+  "states": [
+    "nsw"
+  ]
 }

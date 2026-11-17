@@ -2,7 +2,7 @@
   "id": "uwa-sos-emergency-grant",
   "name": "UWA SOS Emergency Grant",
   "provider": "University of Western Australia",
-  "category": "uni",
+  "category": "campus",
   "summary": "Non-repayable UWA grant for onshore students at risk of discontinuing because of exceptional, unforeseen hardship.",
   "who": [
     "Enrolled onshore and at risk of discontinuing",
@@ -34,7 +34,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "uwa"
       ]
     }
   },
@@ -52,5 +52,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uwa",
+  "states": [
+    "wa"
+  ]
 }

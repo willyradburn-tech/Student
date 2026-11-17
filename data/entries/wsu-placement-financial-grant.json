@@ -2,7 +2,7 @@
   "id": "wsu-placement-financial-grant",
   "name": "Western Sydney University Placement Financial Grant",
   "provider": "Western Sydney University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Hardship grant for WSU students with an upcoming placement who aren't eligible for the Commonwealth Prac Payment.",
   "who": [
     "In financial hardship with a confirmed upcoming placement",
@@ -31,7 +31,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "wsu"
       ]
     },
     "campus": {
@@ -48,5 +48,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "wsu",
+  "states": [
+    "nsw"
+  ]
 }

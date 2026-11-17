@@ -2,7 +2,7 @@
   "id": "scu-cyril-callister-foundation-scholarship",
   "name": "Cyril Callister Foundation Scholarship (SCU Science)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$1,000 for a Northern Rivers resident studying a Bachelor of Science at SCU Lismore, Coffs Harbour or online.",
   "key": "$1,000.",
   "who": [
@@ -41,6 +41,11 @@
       "yes": [
         "nsw"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -58,5 +63,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-14"
+  "closes": "2027-02-14",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "act-utilities-concession",
   "name": "ACT utilities concession",
   "provider": "ACT Revenue Office",
-  "category": "health",
+  "category": "bills",
   "summary": "Yearly rebate on energy bills for Canberra residents who are the primary holder of a Health Care Card.",
   "key": "The annual rebate for 2026-27 is $800.",
   "who": [
@@ -39,6 +39,23 @@
       "yes": [
         "act"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -54,5 +71,8 @@
       "url": "https://www.revenue.act.gov.au/community-assistance/utilities-concession",
       "page_date": null
     }
+  ],
+  "states": [
+    "act"
   ]
 }

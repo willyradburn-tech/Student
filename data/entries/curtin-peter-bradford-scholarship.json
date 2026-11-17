@@ -2,7 +2,7 @@
   "id": "curtin-peter-bradford-scholarship",
   "name": "Curtin Peter Bradford Scholarship",
   "provider": "Curtin University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "One-off $2,500 for WA-based Curtin bachelor students from a low socioeconomic background in financial hardship.",
   "key": "A one-off cash payment of $2,500.",
   "who": [
@@ -38,7 +38,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "curtin"
       ]
     },
     "res": {
@@ -51,6 +51,11 @@
       "yes": [
         "wa"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -62,5 +67,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "curtin",
+  "states": [
+    "wa"
+  ]
 }

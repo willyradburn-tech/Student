@@ -44,6 +44,23 @@
       "maybe": [
         "no"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -59,5 +76,8 @@
       "url": "https://www.qld.gov.au/health/services/oral-eye-ear/dental-services",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld"
   ]
 }

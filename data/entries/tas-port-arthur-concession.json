@@ -2,7 +2,7 @@
   "id": "tas-port-arthur-concession",
   "name": "Port Arthur Historic Site concession entry",
   "provider": "Tasmanian Government",
-  "category": "health",
+  "category": "streaming",
   "summary": "Discounted entry to the Port Arthur Historic Site for concession cardholders, including Health Care Card holders.",
   "key": "Discounted entry fees are available to eligible concession card holders.",
   "who": [
@@ -29,7 +29,15 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "tas"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -46,5 +54,8 @@
       "url": "https://www.concessions.tas.gov.au/browse-categories/parks-and-heritage",
       "page_date": null
     }
+  ],
+  "states": [
+    "tas"
   ]
 }

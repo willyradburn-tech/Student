@@ -2,7 +2,7 @@
   "id": "scu-diploma-pathway-scholarship",
   "name": "Diploma Pathway Scholarship (SCU)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$2,500 offered automatically with an Early Offer to a full-time SCU Diploma pathway program starting in 2027.",
   "key": "$2500 per scholarship.",
   "who": [
@@ -65,5 +65,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

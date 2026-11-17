@@ -2,7 +2,7 @@
   "id": "griffith-jay-schwer-memorial-bursary",
   "name": "Jay Schwer Memorial Bursary for Mature Age Students",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$500 bursary for mature-age social work and human services students facing hardship.",
   "key": "This bursary is valued at $500, payable in a single instalment.",
   "who": [
@@ -67,5 +67,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

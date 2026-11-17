@@ -2,7 +2,7 @@
   "id": "usyd-src-legal-service",
   "name": "Sydney Uni SRC Legal Service",
   "provider": "University of Sydney Students' Representative Council",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free legal advice, court representation where relevant, and referrals for University of Sydney undergraduates.",
   "key": "Free legal advice, representation in court where relevant, and a referral service.",
   "who": [
@@ -33,7 +33,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "sydney"
       ]
     },
     "campus": {
@@ -49,5 +49,9 @@
       "url": "https://srcusyd.net.au/src-help/src-legal-service/",
       "page_date": null
     }
+  ],
+  "institution": "sydney",
+  "states": [
+    "nsw"
   ]
 }

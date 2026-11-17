@@ -2,7 +2,7 @@
   "id": "cdu-fee-free-tafe",
   "name": "CDU Fee-Free TAFE (NT)",
   "provider": "Charles Darwin University",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Tuition-free CDU TAFE places for people 15 and over who live or work in the Northern Territory and are new to the course.",
   "key": "Tuition-free training places to students wanting to train, retrain or upskill.",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "nt"
       ]
     },
     "age": {
@@ -44,6 +44,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -67,5 +70,8 @@
       "page_date": null
     }
   ],
-  "closes": "closed"
+  "closes": "closed",
+  "states": [
+    "nt"
+  ]
 }

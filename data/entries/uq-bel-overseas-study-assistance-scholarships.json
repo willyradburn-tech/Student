@@ -2,7 +2,7 @@
   "id": "uq-bel-overseas-study-assistance-scholarships",
   "name": "UQ BEL Overseas Study Assistance Scholarships",
   "provider": "University of Queensland, Faculty of Business, Economics and Law",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Automatic exchange scholarships for UQ business, economics and law students who get credit for an approved overseas experience.",
   "key": "Up to AUD $5,000 for semester-based exchange, and up to AUD $2,500 for short-term global experiences.",
   "who": [
@@ -54,5 +54,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

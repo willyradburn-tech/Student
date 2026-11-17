@@ -2,7 +2,7 @@
   "id": "wa-apprentice-travel-accommodation-allowance",
   "name": "WA Travel and Accommodation Allowance for apprentices and trainees",
   "provider": "Department of Training and Workforce Development (WA)",
-  "category": "transport",
+  "category": "tafe",
   "summary": "WA apprentices and trainees who travel over 70 km round trip to off-the-job training can claim help with travel and accommodation costs.",
   "who": [
     "Apprentices and trainees who live in WA with an active or suspended training contract",
@@ -40,6 +40,7 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }
@@ -63,5 +64,8 @@
       "url": "https://www.wa.gov.au/service/education-and-training/vocational-education/travel-and-accommodation-allowance-apprentices-and-trainees",
       "page_date": null
     }
+  ],
+  "states": [
+    "wa"
   ]
 }

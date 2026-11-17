@@ -2,7 +2,7 @@
   "id": "griffith-student-guild-placement-care-pack",
   "name": "Student Guild Placement Care Pack",
   "provider": "Griffith University Gold Coast Student Guild",
-  "category": "uni",
+  "category": "campus",
   "summary": "A pack of everyday essentials for Gold Coast students who relocate or cut work hours for unpaid placement.",
   "who": [
     "Students who must relocate outside the Gold Coast and/or reduce paid work hours for an unpaid placement."
@@ -47,5 +47,9 @@
       "url": "https://gugcstudentguild.com.au/emergency-support/",
       "page_date": null
     }
+  ],
+  "institution": "griffith",
+  "states": [
+    "qld"
   ]
 }

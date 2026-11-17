@@ -2,7 +2,7 @@
   "id": "deakin-student-support-scholarship",
   "name": "Deakin Student Support Scholarship",
   "provider": "Deakin University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $10,000 a year for domestic Deakin students facing financial, regional, disability, refugee or other hardship.",
   "key": "$2,500 to $10,000 a year, or a $1,000 one-off payment.",
   "who": [
@@ -39,7 +39,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "deakin"
       ]
     },
     "campus": {
@@ -51,6 +51,22 @@
       "yes": [
         "citizen",
         "pr"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    },
+    "disability": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -69,5 +85,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-12-16"
+  "closes": "2026-12-16",
+  "institution": "deakin",
+  "states": [
+    "vic"
+  ]
 }

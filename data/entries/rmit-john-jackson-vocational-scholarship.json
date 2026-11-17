@@ -2,7 +2,7 @@
   "id": "rmit-john-jackson-vocational-scholarship",
   "name": "RMIT Emeritus Professor John Jackson Scholarship for Vocational Education",
   "provider": "RMIT University (Vocational Education)",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Up to $25,000 a year for RMIT vocational students in financial hardship starting a Certificate IV, Diploma or Advanced Diploma in 2027.",
   "key": "Up to $25,000 per year ($12,500 per semester).",
   "who": [
@@ -56,6 +56,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -78,5 +81,8 @@
       "url": "https://www.rmit.edu.au/scholarships/coursework/john-jackson-ve",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

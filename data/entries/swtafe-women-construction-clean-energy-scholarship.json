@@ -2,7 +2,7 @@
   "id": "swtafe-women-construction-clean-energy-scholarship",
   "name": "SWTAFE Women in Construction and Clean Energy Scholarship",
   "provider": "South West TAFE (AL Lane Foundation)",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Up to $2,000 a year, to $8,000 total, for female apprentices in trade courses at South West TAFE.",
   "key": "Up to $2000 in support for each remaining year of your apprenticeship, up to $8000 over 4 years.",
   "who": [
@@ -41,7 +41,16 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
+      ]
+    },
+    "gender": {
+      "yes": [
+        "woman"
+      ],
+      "maybe": [
+        "nb"
       ]
     }
   },
@@ -65,5 +74,8 @@
       "page_date": null
     }
   ],
-  "closes": "closed"
+  "closes": "closed",
+  "states": [
+    "vic"
+  ]
 }

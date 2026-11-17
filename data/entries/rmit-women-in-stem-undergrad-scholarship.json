@@ -2,7 +2,7 @@
   "id": "rmit-women-in-stem-undergrad-scholarship",
   "name": "RMIT Women in STEM Undergraduate Scholarship",
   "provider": "RMIT University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $10,000 a year for women in RMIT STEM undergraduate degrees whose circumstances affect their study.",
   "key": "Up to $10,000 a year for up to three years. One offered.",
   "who": [
@@ -38,7 +38,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "rmit"
       ]
     },
     "campus": {
@@ -52,6 +52,19 @@
         "it",
         "other"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
+    },
+    "gender": {
+      "yes": [
+        "woman"
+      ],
+      "maybe": [
+        "nb"
+      ]
     }
   },
   "evidence": [
@@ -63,5 +76,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-10-20"
+  "closes": "2026-10-20",
+  "institution": "rmit",
+  "states": [
+    "vic"
+  ]
 }

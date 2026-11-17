@@ -2,7 +2,7 @@
   "id": "griffith-chancellors-scholarship",
   "name": "Chancellor's Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Scholarship for Griffith undergraduates with compounding educational disadvantage, commencing or continuing.",
   "key": "From $3,000 to $5,000.",
   "who": [
@@ -43,6 +43,14 @@
         "citizen",
         "pr"
       ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
     }
   },
   "evidence": [
@@ -60,5 +68,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-12-21"
+  "closes": "2026-12-21",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

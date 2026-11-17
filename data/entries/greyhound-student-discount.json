@@ -30,7 +30,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "10% off for students",
@@ -44,5 +43,6 @@
       "url": "https://help.greyhound.com.au/support/solutions/articles/51000512618-are-student-discounts-available-on-greyhound-services-",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

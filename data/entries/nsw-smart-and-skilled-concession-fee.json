@@ -2,7 +2,7 @@
   "id": "nsw-smart-and-skilled-concession-fee",
   "name": "Smart and Skilled concession fee (Centrelink recipients)",
   "provider": "NSW Government (Skills NSW)",
-  "category": "loans",
+  "category": "tafe",
   "summary": "NSW students on a Commonwealth benefit, and their dependants, pay a capped concession fee for Smart and Skilled certificate courses.",
   "key": "The concession fee varies up to $240, depending on the qualification level.",
   "who": [
@@ -46,6 +46,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -68,5 +71,8 @@
       "url": "https://www.tafensw.edu.au/Study/Fees/Government-funded-training",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

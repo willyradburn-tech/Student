@@ -31,9 +31,19 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
     "field": {
       "yes": [
         "care"
+      ]
+    },
+    "level": {
+      "yes": [
+        "ug"
       ]
     }
   },
@@ -50,5 +60,9 @@
       "url": "https://www.qnmu.org.au/Web/Membership/Membership_and_Fees.aspx",
       "page_date": null
     }
-  ]
+  ],
+  "states": [
+    "qld"
+  ],
+  "value": "Free"
 }

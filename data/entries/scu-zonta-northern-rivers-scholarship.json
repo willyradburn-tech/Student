@@ -2,7 +2,7 @@
   "id": "scu-zonta-northern-rivers-scholarship",
   "name": "Zonta Northern Rivers Scholarship (SCU Social Work)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$1,000 for a female final-year SCU social work student studying at the Gold Coast or online.",
   "key": "$1,000.",
   "who": [
@@ -49,6 +49,14 @@
         "citizen",
         "pr"
       ]
+    },
+    "gender": {
+      "yes": [
+        "woman"
+      ],
+      "maybe": [
+        "nb"
+      ]
     }
   },
   "evidence": [
@@ -66,5 +74,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-14"
+  "closes": "2027-02-14",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

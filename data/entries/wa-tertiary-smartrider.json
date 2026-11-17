@@ -38,6 +38,15 @@
       "yes": [
         "wa"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
     }
   },
   "verified": "2026-10-13",
@@ -46,5 +55,8 @@
   "source": {
     "url": "https://www.transperth.wa.gov.au/smartrider/types-of-smartrider/tertiary-smartrider",
     "label": "Transperth: Tertiary SmartRider"
-  }
+  },
+  "states": [
+    "wa"
+  ]
 }

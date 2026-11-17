@@ -2,7 +2,7 @@
   "id": "ombudsman-vet-student-loans",
   "name": "VET Student Loans Ombudsman",
   "provider": "Commonwealth Ombudsman",
-  "category": "loans",
+  "category": "tafe",
   "summary": "A free, independent complaints service for students with a VET Student Loan or VET FEE-HELP debt who have a problem with their provider.",
   "who": [
     "Students who have a VET FEE-HELP or VET Student Loan debt.",
@@ -36,6 +36,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },

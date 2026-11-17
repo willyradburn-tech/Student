@@ -2,7 +2,7 @@
   "id": "cit-free-counselling",
   "name": "CIT free student counselling",
   "provider": "Canberra Institute of Technology",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Free, confidential counselling for current CIT students by phone, video call or in person.",
   "key": "Current CIT students can access a free and confidential counselling service.",
   "who": [
@@ -40,6 +40,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -50,5 +53,8 @@
       "url": "https://cit.edu.au/current/services/student-support/counselling",
       "page_date": null
     }
+  ],
+  "states": [
+    "act"
   ]
 }

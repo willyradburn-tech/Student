@@ -2,7 +2,7 @@
   "id": "curtin-guild-food-pantry",
   "name": "Curtin Guild Food Pantry",
   "provider": "Curtin Student Guild",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free pantry staples for enrolled Curtin students in genuine financial hardship, by booking, up to twice a semester.",
   "key": "The Guild Food Pantry stocks a range of non-perishable pantry staples.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "curtin"
       ]
     }
   },
@@ -54,5 +54,9 @@
       "page_date": null
     }
   ],
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "curtin",
+  "states": [
+    "wa"
+  ]
 }

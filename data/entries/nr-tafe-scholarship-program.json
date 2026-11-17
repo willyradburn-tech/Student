@@ -2,7 +2,7 @@
   "id": "nr-tafe-scholarship-program",
   "name": "North Regional TAFE Scholarship Program",
   "provider": "North Regional TAFE",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Scholarships for Kimberley and Pilbara residents starting study at North Regional TAFE who face educational disadvantage and financial hardship.",
   "who": [
     "Kimberley and Pilbara residents",
@@ -38,6 +38,17 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -54,5 +65,8 @@
       "url": "https://www.northregionaltafe.wa.edu.au/scholarships",
       "page_date": null
     }
+  ],
+  "states": [
+    "wa"
   ]
 }

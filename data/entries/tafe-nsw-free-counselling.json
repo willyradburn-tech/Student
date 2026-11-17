@@ -2,7 +2,7 @@
   "id": "tafe-nsw-free-counselling",
   "name": "TAFE NSW free counselling",
   "provider": "TAFE NSW",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Free, confidential personal and career counselling for current TAFE NSW students.",
   "key": "TAFE NSW counselling and career development service is free and confidential.",
   "who": [
@@ -29,9 +29,17 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -48,5 +56,8 @@
       "url": "https://www.tafensw.edu.au/study/support-services/counselling",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

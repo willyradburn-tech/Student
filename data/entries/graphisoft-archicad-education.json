@@ -26,7 +26,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Valid one year and extendable free",
@@ -40,5 +39,6 @@
       "url": "https://www.graphisoft.com/education/",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

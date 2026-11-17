@@ -2,7 +2,7 @@
   "id": "lexsa-first-aid-cpr-rebate",
   "name": "LEXSA First Aid and CPR course rebate",
   "provider": "LEXSA (Lismore and External Student Association)",
-  "category": "uni",
+  "category": "campus",
   "summary": "LEXSA members get $50 back on a full First Aid course or $30 on a CPR-only course.",
   "key": "$50 for a full First Aid course and $30 for a CPR-only course.",
   "who": [
@@ -52,5 +52,6 @@
       "url": "https://www.lexsa.com.au/support",
       "page_date": null
     }
-  ]
+  ],
+  "institution": "scu"
 }

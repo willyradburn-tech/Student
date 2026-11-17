@@ -27,7 +27,6 @@
   "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Re-apply each year",
@@ -47,5 +46,6 @@
       "url": "https://www.framer.com/education/",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

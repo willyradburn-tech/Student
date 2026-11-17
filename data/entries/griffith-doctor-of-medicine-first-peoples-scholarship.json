@@ -2,7 +2,7 @@
   "id": "griffith-doctor-of-medicine-first-peoples-scholarship",
   "name": "Doctor of Medicine First Peoples Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$20,000 over the degree for Aboriginal and Torres Strait Islander students starting Griffith's Doctor of Medicine.",
   "key": "$20,000 for the duration of the degree.",
   "who": [
@@ -59,5 +59,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

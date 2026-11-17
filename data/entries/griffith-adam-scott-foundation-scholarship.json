@@ -2,7 +2,7 @@
   "id": "griffith-adam-scott-foundation-scholarship",
   "name": "Adam Scott Foundation Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Pays all student contribution charges for Australian citizens starting a Griffith business degree.",
   "key": "Payment of 100% of the student contribution charges (CSP/HECS).",
   "who": [
@@ -57,5 +57,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

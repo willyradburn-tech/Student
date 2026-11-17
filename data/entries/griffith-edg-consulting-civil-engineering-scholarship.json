@@ -2,7 +2,7 @@
   "id": "griffith-edg-consulting-civil-engineering-scholarship",
   "name": "EDG Consulting Civil Engineering Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $8,500 for penultimate or final-year Griffith civil engineering students, with priority for geotechnical interest.",
   "key": "Maximum value is $8,500, paid in instalments of $4,250 in trimester 1 and trimester 2.",
   "who": [
@@ -68,5 +68,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

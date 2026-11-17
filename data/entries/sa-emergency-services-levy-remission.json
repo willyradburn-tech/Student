@@ -2,7 +2,7 @@
   "id": "sa-emergency-services-levy-remission",
   "name": "SA Emergency Services Levy remission",
   "provider": "Government of South Australia",
-  "category": "health",
+  "category": "bills",
   "summary": "Reduction on the fixed-property Emergency Services Levy for low-income South Australian homeowners.",
   "key": "A remission of up to $46 per year on the Emergency Services Levy (ESL) (fixed property).",
   "who": [
@@ -30,7 +30,16 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "sa"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
       ]
     }
   },
@@ -47,5 +56,8 @@
       "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/emergency-services-levy-remission",
       "page_date": null
     }
+  ],
+  "states": [
+    "sa"
   ]
 }

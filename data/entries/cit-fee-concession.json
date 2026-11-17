@@ -2,7 +2,7 @@
   "id": "cit-fee-concession",
   "name": "CIT 50% fee concession (including apprentices)",
   "provider": "Canberra Institute of Technology",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Half-price CIT course fees for Health Care Card, Pensioner Concession Card and DVA card holders, including Australian Apprentices and their dependants.",
   "key": "Eligible students, including Australian Apprentices, may receive a 50% concession on course fees.",
   "who": [
@@ -43,7 +43,16 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -66,5 +75,8 @@
       "url": "https://cit.edu.au/study/course-fees-and-assistance/concessions-and-fee-assistance",
       "page_date": null
     }
+  ],
+  "states": [
+    "act"
   ]
 }

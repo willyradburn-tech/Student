@@ -31,7 +31,17 @@
   "verified": "2026-10-15",
   "cadence": "medium",
   "review": "approved",
-  "match": {},
+  "match": {
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    }
+  },
   "evidence": [
     {
       "claim": "Free",

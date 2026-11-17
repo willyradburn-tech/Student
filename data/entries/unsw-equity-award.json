@@ -2,7 +2,7 @@
   "id": "unsw-equity-award",
   "name": "UNSW Equity Award (current students)",
   "provider": "UNSW Sydney",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "One-year award for current UNSW undergraduate or postgraduate coursework students in socioeconomic hardship.",
   "key": "$5,000 for one year.",
   "who": [
@@ -34,7 +34,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unsw"
       ]
     },
     "campus": {
@@ -57,5 +57,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "unsw",
+  "states": [
+    "nsw"
+  ]
 }

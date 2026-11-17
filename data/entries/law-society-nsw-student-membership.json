@@ -30,6 +30,11 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
     "field": {
       "yes": [
         "other"
@@ -49,5 +54,8 @@
       "url": "https://www.lawsociety.com.au/legal-communities/law-students/student-membership",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

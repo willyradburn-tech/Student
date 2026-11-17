@@ -2,7 +2,7 @@
   "id": "qut-guild-free-legal-advice",
   "name": "QUT Guild Free Legal Advice",
   "provider": "QUT Guild and McInnes Wilson Lawyers",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free legal advice for enrolled QUT students on personal injury, family and estates law.",
   "who": [
     "All students currently enrolled at QUT."
@@ -50,5 +50,9 @@
       "url": "https://qutguild.com/legal-advice/",
       "page_date": null
     }
+  ],
+  "institution": "qut",
+  "states": [
+    "qld"
   ]
 }

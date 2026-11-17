@@ -24,7 +24,6 @@
   "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Low-cost individual academic licence",
@@ -44,5 +43,6 @@
       "url": "https://www.esri.com/en-us/arcgis/products/arcgis-for-student-use/buy",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

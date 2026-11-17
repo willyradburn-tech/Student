@@ -2,7 +2,7 @@
   "id": "scu-essential-energy-female-engineering-scholarship",
   "name": "Essential Energy Female Engineering Scholarship (SCU)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $30,000 over three years for a female SCU engineering student in second year or later.",
   "key": "This scholarship is for up to three years with a total maximum of $30,000.",
   "who": [
@@ -50,6 +50,14 @@
         "citizen",
         "pr"
       ]
+    },
+    "gender": {
+      "yes": [
+        "woman"
+      ],
+      "maybe": [
+        "nb"
+      ]
     }
   },
   "evidence": [
@@ -67,5 +75,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-14"
+  "closes": "2027-02-14",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

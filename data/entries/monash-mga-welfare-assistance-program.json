@@ -2,7 +2,7 @@
   "id": "monash-mga-welfare-assistance-program",
   "name": "MGA Welfare Assistance Program grants",
   "provider": "Monash Graduate Association",
-  "category": "uni",
+  "category": "campus",
   "summary": "One-off grants that don't need to be repaid, for Monash graduate students in financial hardship, covering food, study, medical and emergency costs.",
   "key": "Hardship grants of up to $500 per semester, with other grants from $50 food vouchers to $500.",
   "who": [
@@ -40,7 +40,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "monash"
       ]
     },
     "campus": {
@@ -69,5 +69,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "monash",
+  "states": [
+    "vic"
+  ]
 }

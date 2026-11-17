@@ -2,7 +2,7 @@
   "id": "mq-computer-loan-scheme",
   "name": "Macquarie University Computer Loan Scheme",
   "provider": "Macquarie University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free loan of a desktop computer for Macquarie students in real financial hardship.",
   "key": "Free loan of Windows All-in-One Desktop computers.",
   "who": [
@@ -32,7 +32,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "mq"
       ]
     },
     "campus": {
@@ -48,5 +48,9 @@
       "url": "https://students.mq.edu.au/uni-life/community/diversity-inclusion/digital-inclusion/computer-loan-scheme",
       "page_date": null
     }
+  ],
+  "institution": "mq",
+  "states": [
+    "nsw"
   ]
 }

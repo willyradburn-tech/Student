@@ -2,7 +2,7 @@
   "id": "qut-gender-affirmation-bursary",
   "name": "QUT Gender Affirmation Bursary",
   "provider": "QUT",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Financial help for trans and gender diverse QUT students to access gender-affirming care.",
   "who": [
     "Trans and gender diverse QUT students."
@@ -41,5 +41,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

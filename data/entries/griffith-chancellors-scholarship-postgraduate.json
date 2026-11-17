@@ -2,7 +2,7 @@
   "id": "griffith-chancellors-scholarship-postgraduate",
   "name": "Chancellor's Scholarship for Postgraduate (Coursework) Students",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $4,000 for Griffith postgraduate coursework students facing educational disadvantage.",
   "key": "Maximum $4,000, paid at $500 per 10 credit points each enrolled trimester.",
   "who": [
@@ -42,6 +42,12 @@
         "citizen",
         "pr"
       ]
+    },
+    "level": {
+      "yes": [
+        "pg",
+        "hdr"
+      ]
     }
   },
   "evidence": [
@@ -62,5 +68,9 @@
   "closes": "2026-12-21",
   "open_questions": [
     "2026-10-16 changed: Stored closing date is 2026-12-21 but the page shows rounds for Trimester 1 and 2, 2027 (Round 4 closes 2027-06-30) and an older Round 2 date of 2026-08-24 in the key points box. Page dates are inconsistent; check the current round. Page says: \"The maximum base value is $4,000, payable in instalments of $500 per 10 Credit Points for each enrolled trimester\""
+  ],
+  "institution": "griffith",
+  "states": [
+    "qld"
   ]
 }

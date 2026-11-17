@@ -2,7 +2,7 @@
   "id": "adelaide-uni-online-grant",
   "name": "Adelaide University Online Grant",
   "provider": "Adelaide University",
-  "category": "uni",
+  "category": "campus",
   "summary": "One-off $1,500 for commencing AU Online students with financial disadvantage or who live outside major cities.",
   "key": "One-off payment of $1,500.",
   "who": [
@@ -37,13 +37,21 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "adelaide"
       ]
     },
     "res": {
       "yes": [
         "citizen",
         "pr"
+      ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
       ]
     }
   },
@@ -62,5 +70,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "adelaide",
+  "states": [
+    "sa"
+  ]
 }

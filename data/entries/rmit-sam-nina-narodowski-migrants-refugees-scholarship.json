@@ -2,7 +2,7 @@
   "id": "rmit-sam-nina-narodowski-migrants-refugees-scholarship",
   "name": "Sam and Nina Narodowski Undergraduate Scholarship for Migrants and Refugees",
   "provider": "RMIT University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$3,500 a semester for recently migrated RMIT undergraduates from non-English speaking backgrounds in education, health or social studies.",
   "key": "$3,500 a semester. One offered.",
   "who": [
@@ -37,7 +37,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "rmit"
       ]
     },
     "campus": {
@@ -49,6 +49,11 @@
       "yes": [
         "citizen",
         "pr"
+      ]
+    },
+    "level": {
+      "yes": [
+        "ug"
       ]
     }
   },
@@ -67,5 +72,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-10-20"
+  "closes": "2026-10-20",
+  "institution": "rmit",
+  "states": [
+    "vic"
+  ]
 }

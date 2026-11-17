@@ -2,7 +2,7 @@
   "id": "usyd-anthony-howson-disability-bursary",
   "name": "Anthony Howson Disability Bursary",
   "provider": "University of Sydney",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Once-off bursary for University of Sydney students registered with Inclusion and Disability Services.",
   "key": "Up to $3,000, paid once.",
   "who": [
@@ -29,12 +29,20 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "sydney"
       ]
     },
     "campus": {
       "yes": [
         "nsw"
+      ]
+    },
+    "disability": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -47,5 +55,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "sydney",
+  "states": [
+    "nsw"
+  ]
 }

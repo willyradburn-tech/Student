@@ -2,7 +2,7 @@
   "id": "tafe-nsw-equity-scholarship",
   "name": "TAFE NSW Equity Scholarship",
   "provider": "TAFE NSW",
-  "category": "uni",
+  "category": "tafe",
   "summary": "$1,000 scholarships for TAFE NSW students facing hardship, such as First Nations students, people with disability or Centrelink recipients.",
   "key": "Eight scholarships each valued at $1,000.",
   "who": [
@@ -43,6 +43,17 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
+      ]
+    },
+    "disability": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -60,5 +71,8 @@
       "page_date": null
     }
   ],
-  "closes": "closed"
+  "closes": "closed",
+  "states": [
+    "nsw"
+  ]
 }

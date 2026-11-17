@@ -2,7 +2,7 @@
   "id": "rmit-welcome-asylum-seeker-scholarship",
   "name": "RMIT Welcome and Sam and Nina Narodowski Asylum Seeker Scholarship",
   "provider": "RMIT University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A full tuition fee waiver plus SSAF for continuing RMIT students seeking asylum who are in financial hardship.",
   "key": "Full program tuition fees and SSAF. 18 awarded in 2026.",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "rmit"
       ]
     },
     "campus": {
@@ -64,5 +64,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-12-09"
+  "closes": "2026-12-09",
+  "institution": "rmit",
+  "states": [
+    "vic"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "monash-equity-diversity-inclusion-scholarship",
   "name": "Monash Equity, Diversity and Inclusion Scholarship",
   "provider": "Monash University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A graduate research stipend for domestic students whose academic career has been affected by equity factors.",
   "key": "$41,100 a year (2027 rate), up to 20 offered each year.",
   "who": [
@@ -37,7 +37,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "monash"
       ]
     },
     "campus": {
@@ -67,5 +67,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-10-31"
+  "closes": "2026-10-31",
+  "institution": "monash",
+  "states": [
+    "vic"
+  ]
 }

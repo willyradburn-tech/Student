@@ -2,7 +2,7 @@
   "id": "monash-commonwealth-indigenous-support-scholarship",
   "name": "Monash Commonwealth Indigenous Support Scholarship",
   "provider": "Monash University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$5,000 a year for Indigenous Australian students at Monash who are experiencing financial hardship.",
   "key": "$5,000 a year, up to $25,000, with 20 available.",
   "who": [
@@ -34,7 +34,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "monash"
       ]
     },
     "campus": {
@@ -56,5 +56,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "monash",
+  "states": [
+    "vic"
+  ]
 }

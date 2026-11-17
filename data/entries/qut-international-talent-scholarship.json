@@ -2,7 +2,7 @@
   "id": "qut-international-talent-scholarship",
   "name": "QUT International Talent Scholarship",
   "provider": "QUT",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Automatic 20% tuition reduction every semester for high-achieving new international students at QUT.",
   "key": "You'll receive an ongoing scholarship to cover 20% of your tuition fees per semester of study at QUT.",
   "who": [
@@ -56,5 +56,9 @@
       "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/international-talent-scholarship",
       "page_date": null
     }
+  ],
+  "institution": "qut",
+  "states": [
+    "qld"
   ]
 }

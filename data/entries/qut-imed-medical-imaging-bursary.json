@@ -2,7 +2,7 @@
   "id": "qut-imed-medical-imaging-bursary",
   "name": "I-MED Radiology Network Medical Imaging Bursary",
   "provider": "QUT and I-MED Radiology Network",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A bursary for QUT Medical Imaging students willing to do a third-year placement at a regional I-MED site.",
   "key": "Valued at $5,000.",
   "who": [
@@ -48,6 +48,14 @@
       "yes": [
         "yes"
       ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -64,5 +72,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

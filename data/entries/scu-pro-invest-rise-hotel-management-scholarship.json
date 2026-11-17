@@ -2,7 +2,7 @@
   "id": "scu-pro-invest-rise-hotel-management-scholarship",
   "name": "Pro-invest Group RISE Hotel Management Scholarship (SCU)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$5,000 for low-income SCU hotel, tourism or business students facing several disadvantages.",
   "key": "$5,000.",
   "who": [
@@ -70,5 +70,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-14"
+  "closes": "2027-02-14",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

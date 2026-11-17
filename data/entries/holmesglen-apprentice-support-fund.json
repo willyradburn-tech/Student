@@ -2,7 +2,7 @@
   "id": "holmesglen-apprentice-support-fund",
   "name": "Holmesglen Apprentice Support Fund",
   "provider": "Holmesglen Institute",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Up to $2,000 towards tuition fees for Holmesglen apprentices in financial hardship.",
   "key": "Up to $2,000 per scholarship - to be used for tuition fees only.",
   "who": [
@@ -40,6 +40,7 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }
@@ -57,5 +58,8 @@
       "url": "https://holmesglen.edu.au/study-with-us/scholarships-and-financial-aid/scholarships/apprentice-support-fund",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

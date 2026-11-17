@@ -42,6 +42,11 @@
       "yes": [
         "full"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -57,5 +62,6 @@
       "url": "https://www.steel.org.au/become-a-member/individual-memberships",
       "page_date": null
     }
-  ]
+  ],
+  "value": "Free"
 }

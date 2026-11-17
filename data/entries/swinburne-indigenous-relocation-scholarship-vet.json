@@ -2,7 +2,7 @@
   "id": "swinburne-indigenous-relocation-scholarship-vet",
   "name": "Swinburne Indigenous Relocation Scholarship (VET)",
   "provider": "Swinburne University of Technology (TAFE)",
-  "category": "uni",
+  "category": "tafe",
   "summary": "A one-off $2,500 for Aboriginal and Torres Strait Islander students relocating to start a Swinburne diploma or advanced diploma.",
   "key": "Valued at $2,500 as a one-off payment.",
   "who": [
@@ -65,6 +65,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -81,5 +84,8 @@
       "url": "https://www.swinburne.edu.au/courses/scholarships/indigenous-relocation-scholarship-vet",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

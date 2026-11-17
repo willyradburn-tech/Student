@@ -2,7 +2,7 @@
   "id": "griffith-student-guild-campus-cupboard",
   "name": "Student Guild Campus Cupboard",
   "provider": "Griffith University Gold Coast Student Guild",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free groceries, pantry staples and fresh fruit and veg for Gold Coast campus students twice a week.",
   "who": [
     "All Gold Coast campus students."
@@ -43,5 +43,9 @@
       "url": "https://gugcstudentguild.com.au/food-support/",
       "page_date": null
     }
+  ],
+  "institution": "griffith",
+  "states": [
+    "qld"
   ]
 }

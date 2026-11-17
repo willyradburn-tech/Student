@@ -2,7 +2,7 @@
   "id": "cqu-cqunicares-emergency-grant",
   "name": "CQUniCares Emergency Grant",
   "provider": "CQUniversity",
-  "category": "uni",
+  "category": "campus",
   "summary": "Urgent financial help for CQUniversity students hit by unforeseen circumstances or an emergency.",
   "key": "Considered on a case-by-case basis.",
   "who": [
@@ -39,7 +39,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "cqu"
       ]
     },
     "res": {
@@ -69,5 +69,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "cqu",
+  "states": [
+    "qld"
+  ]
 }

@@ -33,6 +33,23 @@
       "yes": [
         "vic"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -48,5 +65,8 @@
       "url": "https://transport.vic.gov.au/tickets-and-payments/myki/myki-types/concession",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

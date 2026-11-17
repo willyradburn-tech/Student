@@ -2,7 +2,7 @@
   "id": "scu-osiecki-clinical-placement-scholarship",
   "name": "Osiecki Family Foundation Clinical Placement Scholarship (SCU)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $5,000 for SCU health and lifestyle or naturopathic medicine students doing regional, rural or remote clinical placements.",
   "key": "Up to $5,000 for regional, rural or remote external placements, or up to $1,000 for travel to SCU clinics.",
   "who": [
@@ -51,6 +51,14 @@
         "citizen",
         "pr"
       ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -67,5 +75,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

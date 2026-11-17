@@ -2,7 +2,7 @@
   "id": "tafe-qld-free-counselling",
   "name": "TAFE Queensland free counselling",
   "provider": "TAFE Queensland",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Free, confidential counselling for TAFE Queensland students, face to face at select campuses or by phone or video.",
   "key": "Sessions are free and completely confidential.",
   "who": [
@@ -30,9 +30,17 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -43,5 +51,8 @@
       "url": "https://tafeqld.edu.au/current-students/student-support-services/index.html",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "scu-student-support",
   "name": "Southern Cross University student support",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free Microsoft Office and Grammarly Premium, plus food, childcare and hardship help through SCU and its student associations.",
   "tags": [
     "scu",
@@ -47,6 +47,14 @@
       "yes": [
         "scu"
       ]
+    },
+    "parent": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "verified": "2026-10-13",
@@ -56,5 +64,9 @@
     "url": "https://www.scu.edu.au/current-students/services-and-support/financial-support/financial-hardship/",
     "label": "Southern Cross University: financial hardship and cost-of-living help"
   },
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

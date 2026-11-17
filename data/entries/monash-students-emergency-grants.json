@@ -2,7 +2,7 @@
   "id": "monash-students-emergency-grants",
   "name": "Monash Students Emergency Grants Scheme",
   "provider": "Monash University",
-  "category": "uni",
+  "category": "campus",
   "summary": "A grant of up to $500 for Monash students in financial hardship, for essential living costs or study technology.",
   "key": "Up to $500.",
   "who": [
@@ -27,7 +27,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "monash"
       ]
     },
     "campus": {
@@ -50,5 +50,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "monash",
+  "states": [
+    "vic"
+  ]
 }

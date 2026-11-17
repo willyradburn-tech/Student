@@ -37,6 +37,15 @@
       "yes": [
         "qld"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
     }
   },
   "evidence": [
@@ -52,5 +61,8 @@
       "url": "https://www.qld.gov.au/housing/renting/rent-assistance/financial/bond-loan/bond-loan-rental-grant-guide/bond-loan-rental-grant-eligibility",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld"
   ]
 }

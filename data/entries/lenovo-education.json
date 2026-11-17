@@ -20,12 +20,12 @@
   ],
   "cadence": "high",
   "cap": "maybe",
-  "match": {},
   "verified": "2026-10-13",
   "review": "approved",
   "status": "verified",
   "source": {
     "url": "https://www.lenovo.com/au/en/lenovo-edu/student/benefits/",
     "label": "Lenovo: education store benefits"
-  }
+  },
+  "openToAll": true
 }

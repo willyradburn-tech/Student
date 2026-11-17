@@ -2,7 +2,7 @@
   "id": "adelaide-uni-aboriginal-student-scholarship",
   "name": "Adelaide University Aboriginal Student Scholarship",
   "provider": "Adelaide University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $6,000 a year for up to four years for commencing Aboriginal and Torres Strait Islander students facing financial barriers.",
   "key": "Total value $36,000, including an annual stipend of up to $6,000 per annum for up to 4 years.",
   "who": [
@@ -38,7 +38,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "adelaide"
       ]
     },
     "atsi": {
@@ -49,6 +49,14 @@
     "res": {
       "yes": [
         "citizen"
+      ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
       ]
     }
   },
@@ -67,5 +75,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "adelaide",
+  "states": [
+    "sa"
+  ]
 }

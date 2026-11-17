@@ -2,7 +2,7 @@
   "id": "mq-food-hub",
   "name": "Macquarie University Food Hub",
   "provider": "Macquarie University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free or heavily discounted groceries, fresh produce and pantry staples for Macquarie students.",
   "key": "Food provided for free or at heavily discounted prices.",
   "who": [
@@ -27,7 +27,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "mq"
       ]
     },
     "campus": {
@@ -43,5 +43,9 @@
       "url": "https://students.mq.edu.au/uni-life/community/food-hub",
       "page_date": null
     }
+  ],
+  "institution": "mq",
+  "states": [
+    "nsw"
   ]
 }

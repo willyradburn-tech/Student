@@ -42,6 +42,15 @@
       "maybe": [
         "no"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
     }
   },
   "evidence": [
@@ -57,5 +66,8 @@
       "url": "https://www.service.nsw.gov.au/transaction/nsw-spectacles-program",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

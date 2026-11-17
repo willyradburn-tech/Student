@@ -26,7 +26,6 @@
   "verified": "2026-10-15",
   "cadence": "medium",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "What it is",
@@ -40,5 +39,6 @@
       "url": "https://www.dewr.gov.au/skills-and-training/help-guide-your-career-choices",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

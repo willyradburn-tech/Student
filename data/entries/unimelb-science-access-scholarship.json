@@ -2,7 +2,7 @@
   "id": "unimelb-science-access-scholarship",
   "name": "University of Melbourne Science Access Scholarship",
   "provider": "University of Melbourne",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A $6,500 yearly living allowance for Access Melbourne students starting a Bachelor of Science.",
   "key": "$6,500 a year for four years, up to $32,500, about 10 offered.",
   "who": [
@@ -32,7 +32,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unimelb"
       ]
     },
     "campus": {
@@ -45,6 +45,11 @@
         "citizen",
         "pr"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -55,5 +60,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "unimelb",
+  "states": [
+    "vic"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "qut-airport-reception",
   "name": "QUT free airport reception",
   "provider": "QUT",
-  "category": "uni",
+  "category": "campus",
   "summary": "A free 24-hour airport pick-up and transfer to your accommodation for new QUT international students arriving in Brisbane.",
   "who": [
     "Newly commencing international students new to Brisbane, study abroad and exchange students, and QUT College students."
@@ -55,5 +55,9 @@
       "url": "https://www.qut.edu.au/study/student-life/support/airport-reception",
       "page_date": null
     }
+  ],
+  "institution": "qut",
+  "states": [
+    "qld"
   ]
 }

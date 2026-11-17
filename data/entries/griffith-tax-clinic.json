@@ -2,7 +2,7 @@
   "id": "griffith-tax-clinic",
   "name": "Griffith Tax Clinic",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free tax help from supervised Griffith student advisers, including tax returns and ATO notices.",
   "who": [
     "Unrepresented taxpayers."
@@ -42,5 +42,9 @@
       "url": "https://www.griffith.edu.au/griffith-business-school/department-accounting-finance-economics/griffith-tax-clinic",
       "page_date": null
     }
+  ],
+  "institution": "griffith",
+  "states": [
+    "qld"
   ]
 }

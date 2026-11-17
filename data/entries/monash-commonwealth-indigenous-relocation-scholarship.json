@@ -2,7 +2,7 @@
   "id": "monash-commonwealth-indigenous-relocation-scholarship",
   "name": "Monash Commonwealth Indigenous Relocation Scholarship",
   "provider": "Monash University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A one-off payment of up to $6,000 for Indigenous students relocating from regional or remote areas to study at Monash.",
   "key": "Up to $6,000, paid once.",
   "who": [
@@ -33,7 +33,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "monash"
       ]
     },
     "campus": {
@@ -50,6 +50,14 @@
       "yes": [
         "yes"
       ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -60,5 +68,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "monash",
+  "states": [
+    "vic"
+  ]
 }

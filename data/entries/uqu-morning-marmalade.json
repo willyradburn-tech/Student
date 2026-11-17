@@ -2,7 +2,7 @@
   "id": "uqu-morning-marmalade",
   "name": "UQ Union Morning Marmalade free breakfast",
   "provider": "UQ Union",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free breakfast for UQ students at St Lucia and Dutton Park.",
   "who": [
     "UQ students. Have your student ID ready to scan."
@@ -48,5 +48,9 @@
       "url": "https://uqu.com.au/student-advocacy-and-support",
       "page_date": null
     }
+  ],
+  "institution": "uq",
+  "states": [
+    "qld"
   ]
 }

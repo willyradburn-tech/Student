@@ -2,7 +2,7 @@
   "id": "uq-hatch-engineering-equity-scholarship",
   "name": "Hatch Engineering Equity Scholarship (UQ)",
   "provider": "University of Queensland and Hatch",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "One-year scholarship for full-time domestic UQ engineering students who can show financial hardship.",
   "key": "$12,000 for 1 year (1 awarded).",
   "who": [
@@ -69,5 +69,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

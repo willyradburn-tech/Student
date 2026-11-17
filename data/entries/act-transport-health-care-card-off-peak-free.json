@@ -44,6 +44,23 @@
       "yes": [
         "act"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -65,5 +82,8 @@
       "url": "https://www.transport.act.gov.au/tickets-and-myway/concessions",
       "page_date": null
     }
+  ],
+  "states": [
+    "act"
   ]
 }

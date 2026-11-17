@@ -2,7 +2,7 @@
   "id": "tafe-nsw-aboriginal-student-support",
   "name": "TAFE NSW Aboriginal student support",
   "provider": "TAFE NSW",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Aboriginal Student Support Officers and culturally specific resources for First Nations TAFE NSW students.",
   "who": [
     "Aboriginal and Torres Strait Islander TAFE NSW students."
@@ -24,6 +24,11 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
     "atsi": {
       "yes": [
         "yes"
@@ -32,6 +37,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -42,5 +50,8 @@
       "url": "https://www.tafensw.edu.au/study/support-services",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

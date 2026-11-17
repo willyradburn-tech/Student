@@ -2,7 +2,7 @@
   "id": "vicroads-registration-concession",
   "name": "VicRoads registration concession for Health Care Card holders",
   "provider": "VicRoads",
-  "category": "transport",
+  "category": "bills",
   "summary": "Half-price vehicle registration fee in Victoria for one private vehicle owned by a Health Care Card holder.",
   "key": "50% discount on registration fee (Health Care Card; no discount on the TAC fee).",
   "who": [
@@ -37,6 +37,23 @@
       "yes": [
         "vic"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -52,5 +69,8 @@
       "url": "https://www.vicroads.vic.gov.au/registration/registration-fees/concessions-and-discounts/registration-concessions",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

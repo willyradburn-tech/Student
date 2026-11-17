@@ -2,7 +2,7 @@
   "id": "vic-skills-first-concession",
   "name": "Skills First subsidised training and concession fees (Victoria)",
   "provider": "Victorian Government",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Government-subsidised TAFE and training places in Victoria, with lower concession fees for Health Care Card holders at Certificate IV and below.",
   "who": [
     "Australian citizens, permanent residents or New Zealand citizens",
@@ -50,6 +50,17 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -72,5 +83,8 @@
       "url": "https://vic.gov.au/how-check-your-eligibility",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

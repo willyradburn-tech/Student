@@ -28,7 +28,6 @@
   "verified": "2026-10-15",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Condition",
@@ -36,5 +35,6 @@
       "url": "https://www.specsavers.com.au/special-offers/student-discount",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

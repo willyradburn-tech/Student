@@ -2,7 +2,7 @@
   "id": "wsu-student-legal-service",
   "name": "Western Sydney University Student Legal Service",
   "provider": "Western Sydney University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free legal advice and referral for current WSU and The College students, funded by SSAF.",
   "key": "A free legal advice and referral service.",
   "who": [
@@ -33,7 +33,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "wsu"
       ]
     },
     "campus": {
@@ -49,5 +49,9 @@
       "url": "https://www.westernsydney.edu.au/schools/sol/student-legal-service",
       "page_date": null
     }
+  ],
+  "institution": "wsu",
+  "states": [
+    "nsw"
   ]
 }

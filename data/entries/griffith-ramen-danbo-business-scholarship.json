@@ -2,7 +2,7 @@
   "id": "griffith-ramen-danbo-business-scholarship",
   "name": "Griffith Ramen Danbo Business Scholarship (Japanese students)",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$5,000 tuition scholarship for a continuing Japanese international student in Griffith's Bachelor of Business or International Tourism and Hotel Management.",
   "key": "$5,000",
   "who": [
@@ -57,6 +57,11 @@
       "yes": [
         "business"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -79,5 +84,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

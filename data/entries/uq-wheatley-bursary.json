@@ -2,7 +2,7 @@
   "id": "uq-wheatley-bursary",
   "name": "Wheatley Bursary (UQ)",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Bursary for mature-age UQ Bachelor of Arts students majoring in political science or public policy who show financial need.",
   "key": "At least $8,000 for 1 year.",
   "who": [
@@ -41,6 +41,11 @@
     },
     "age": {
       "min": 20
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -57,5 +62,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

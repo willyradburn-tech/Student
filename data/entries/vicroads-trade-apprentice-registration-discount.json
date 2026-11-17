@@ -2,7 +2,7 @@
   "id": "vicroads-trade-apprentice-registration-discount",
   "name": "VicRoads trade apprentice registration discount",
   "provider": "VicRoads",
-  "category": "transport",
+  "category": "tafe",
   "summary": "Victorian apprentices who use their own vehicle for their apprenticeship may qualify for free registration.",
   "key": "Eligible trade apprentices may qualify for free registration for their work vehicle.",
   "who": [
@@ -41,6 +41,7 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }
@@ -58,5 +59,8 @@
       "url": "https://www.vicroads.vic.gov.au/registration/registration-fees/concessions-and-discounts/trade-apprentice-registration-discount",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

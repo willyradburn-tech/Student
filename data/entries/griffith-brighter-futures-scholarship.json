@@ -2,7 +2,7 @@
   "id": "griffith-brighter-futures-scholarship",
   "name": "Griffith Brighter Futures Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $20,000 over a degree for Griffith undergraduates facing educational disadvantage, or $40,000 for eligible permanent residents.",
   "tags": [
     "griffith",
@@ -69,5 +69,9 @@
       ]
     }
   },
-  "closes": "2026-12-21"
+  "closes": "2026-12-21",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

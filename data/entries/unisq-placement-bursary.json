@@ -2,7 +2,7 @@
   "id": "unisq-placement-bursary",
   "name": "UniSQ Placement Bursary",
   "provider": "University of Southern Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Help with travel and accommodation costs for UniSQ undergraduates attending mandatory placements.",
   "key": "The placement bursary value will range from $250 to $1000 and will be paid in one instalment.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unisq"
       ]
     },
     "res": {
@@ -67,5 +67,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-11-23"
+  "closes": "2026-11-23",
+  "institution": "unisq",
+  "states": [
+    "qld"
+  ]
 }

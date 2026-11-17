@@ -2,7 +2,7 @@
   "id": "gordon-free-counselling-disability-support",
   "name": "The Gordon free counselling and disability support",
   "provider": "The Gordon",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Free confidential short-term counselling and free disability support across all Gordon campuses.",
   "who": [
     "Enrolled Gordon students"
@@ -34,6 +34,17 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
+      ]
+    },
+    "disability": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -50,5 +61,8 @@
       "url": "https://www.thegordon.edu.au/students/student-services",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "usi-vet-transcript",
   "name": "Free USI VET transcript",
   "provider": "Student Identifiers Registrar",
-  "category": "career",
+  "category": "tafe",
   "summary": "A free, government-authenticated record of all your nationally recognised training since 2015, from your USI account.",
   "key": "It's accessible through your USI account, it's government authenticated and it's free.",
   "who": [
@@ -31,6 +31,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },

@@ -28,6 +28,11 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
     "field": {
       "yes": [
         "business"
@@ -52,5 +57,8 @@
       "url": "https://esansw.org.au/news/16290/information-on-becoming-a-member/?type_fr=",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

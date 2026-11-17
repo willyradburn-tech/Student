@@ -26,7 +26,6 @@
   "verified": "2026-10-15",
   "cadence": "medium",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Eligibility",
@@ -34,5 +33,6 @@
       "url": "https://www.acmi.net.au/contact/frequently-asked-questions-ticketing",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

@@ -2,7 +2,7 @@
   "id": "scu-naturopathic-medicine-indigenous-student-scholarship",
   "name": "Naturopathic Medicine Indigenous Student Scholarship (SCU)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $2,500 for Aboriginal or Torres Strait Islander students in SCU's health and lifestyle or naturopathic medicine courses.",
   "key": "The successful recipient can receive funding up to $2,500.",
   "who": [
@@ -71,5 +71,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-12-18"
+  "closes": "2026-12-18",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

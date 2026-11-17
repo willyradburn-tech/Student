@@ -2,7 +2,7 @@
   "id": "nsw-bert-evans-apprentice-scholarships",
   "name": "Bert Evans Apprentice Scholarships",
   "provider": "NSW Government",
-  "category": "payments",
+  "category": "tafe",
   "summary": "Scholarship for first-year NSW apprentices facing financial or personal hardship, paid over three years.",
   "key": "Grant recipients may receive up to $15,000 over three years.",
   "who": [
@@ -44,7 +44,16 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
+      ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
       ]
     }
   },
@@ -62,5 +71,8 @@
       "page_date": null
     }
   ],
-  "closes": "closed"
+  "closes": "closed",
+  "states": [
+    "nsw"
+  ]
 }

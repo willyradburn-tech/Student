@@ -27,9 +27,9 @@
   "verified": "2026-10-13",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "source": {
     "url": "https://www.figma.com/education/",
     "label": "Figma: Education"
-  }
+  },
+  "openToAll": true
 }

@@ -2,7 +2,7 @@
   "id": "anu-student-urgent-relief-bursary",
   "name": "ANU Student Urgent Relief Bursary (SURF)",
   "provider": "Australian National University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Non-repayable bursary for enrolled ANU students facing significant financial hardship from unforeseen events who need immediate help.",
   "key": "The maximum total amount disbursed may not exceed $2,000 AUD per calendar year.",
   "who": [
@@ -37,7 +37,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "anu"
       ]
     }
   },
@@ -61,5 +61,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "anu",
+  "states": [
+    "act"
+  ]
 }

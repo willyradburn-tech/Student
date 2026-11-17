@@ -2,7 +2,7 @@
   "id": "flinders-peter-torjul-interstate-student-scholarship",
   "name": "Flinders Peter Torjul Interstate Student Scholarship",
   "provider": "Flinders University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$10,000 a year for up to four years for interstate students (outside SA and NT) with financial need starting a Flinders degree.",
   "key": "$10,000 per annum for up to four years.",
   "who": [
@@ -40,7 +40,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "flinders"
       ]
     },
     "res": {
@@ -78,5 +78,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "flinders",
+  "states": [
+    "sa"
+  ]
 }

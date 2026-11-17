@@ -2,7 +2,7 @@
   "id": "deakin-essentials-voucher",
   "name": "Deakin essentials grocery voucher",
   "provider": "Deakin University",
-  "category": "uni",
+  "category": "campus",
   "summary": "A one-off Woolworths grocery voucher for Deakin students facing short-term financial hardship.",
   "who": [
     "Currently enrolled Deakin student facing short-term financial hardship."
@@ -34,7 +34,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "deakin"
       ]
     },
     "campus": {
@@ -50,5 +50,9 @@
       "url": "https://www.deakin.edu.au/students/enrolment-and-fees/financial-assistance/financial-support",
       "page_date": null
     }
+  ],
+  "institution": "deakin",
+  "states": [
+    "vic"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "cdu-vet-tuition-fee-exemption",
   "name": "CDU TAFE tuition fee exemption for Centrelink recipients",
   "provider": "Charles Darwin University",
-  "category": "loans",
+  "category": "tafe",
   "summary": "CDU TAFE students on a Centrelink or Veterans' Affairs payment, or holding humanitarian or refugee visas, pay no tuition on NT Government subsidised courses.",
   "key": "Students who receive a Centrelink or Veteran's Affairs payment will be exempt from paying tuition fees.",
   "who": [
@@ -40,7 +40,7 @@
   "match": {
     "campus": {
       "yes": [
-        "other"
+        "nt"
       ]
     },
     "payment": {
@@ -54,6 +54,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -76,5 +79,8 @@
       "url": "https://www.cdu.edu.au/current-students/student-admin/fees-payments/tafevet-fees",
       "page_date": null
     }
+  ],
+  "states": [
+    "nt"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "scu-high-achiever-scholarship",
   "name": "SCU High Achiever Scholarship",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$36,000 offered automatically to 2026 school leavers with an ATAR of 85 or more starting a full-time SCU bachelor degree.",
   "key": "$36,000.",
   "who": [
@@ -48,6 +48,11 @@
         "citizen",
         "pr"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -64,5 +69,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "tafe-nsw-barrington-roberts-memorial-award",
   "name": "Barrington Roberts Memorial Award",
   "provider": "TAFE NSW",
-  "category": "uni",
+  "category": "tafe",
   "summary": "A $4,000 award for 2026 graduates of TAFE NSW tourism, travel, events or hospitality qualifications.",
   "key": "Valued at $4,000.",
   "who": [
@@ -34,9 +34,17 @@
   "cadence": "high",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -53,5 +61,8 @@
       "url": "https://www.tafensw.edu.au/scholarships/barrington-raymund-roberts-memorial-award",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

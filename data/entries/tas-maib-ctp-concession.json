@@ -30,7 +30,24 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "tas"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -47,5 +64,8 @@
       "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
       "page_date": null
     }
+  ],
+  "states": [
+    "tas"
   ]
 }

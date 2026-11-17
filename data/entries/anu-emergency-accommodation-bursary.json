@@ -2,7 +2,7 @@
   "id": "anu-emergency-accommodation-bursary",
   "name": "ANU Emergency Accommodation Bursary",
   "provider": "Australian National University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Variable-value bursary to help continuing ANU students in financial hardship with accommodation costs.",
   "key": "Value: Variable",
   "who": [
@@ -29,7 +29,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "anu"
       ]
     }
   },
@@ -47,5 +47,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "anu",
+  "states": [
+    "act"
+  ]
 }

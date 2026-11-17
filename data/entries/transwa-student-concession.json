@@ -41,6 +41,23 @@
     },
     "age": {
       "min": 16
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -56,5 +73,8 @@
       "url": "https://www.transwa.wa.gov.au/fares/concessions",
       "page_date": null
     }
+  ],
+  "states": [
+    "wa"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "scu-vice-chancellors-scholarship",
   "name": "SCU Vice Chancellor's Scholarship",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$50,000 offered automatically to the top 10 school leavers with an ATAR of 95 or more starting full-time at SCU.",
   "key": "$50,000.",
   "who": [
@@ -64,5 +64,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

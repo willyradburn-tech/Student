@@ -31,7 +31,16 @@
   "match": {
     "campus": {
       "yes": [
-        "other"
+        "nt"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
       ]
     }
   },
@@ -48,5 +57,8 @@
       "url": "https://nt.gov.au/driving/public-transport-cycling/public-buses/fares",
       "page_date": null
     }
+  ],
+  "states": [
+    "nt"
   ]
 }

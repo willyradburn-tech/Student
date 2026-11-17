@@ -2,7 +2,7 @@
   "id": "tafe-nsw-oliver-shaul-scholarship",
   "name": "Oliver Shaul Scholarship (commercial cookery)",
   "provider": "TAFE NSW",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Funds a final-year TAFE NSW commercial cookery student to train overseas for at least three months.",
   "who": [
     "TAFE NSW student in the final year of the Certificate III in Commercial Cookery.",
@@ -35,9 +35,17 @@
   "cadence": "high",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -54,5 +62,8 @@
       "url": "https://www.tafensw.edu.au/scholarships/oliver-shaul-scholarship",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

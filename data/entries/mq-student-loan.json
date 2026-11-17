@@ -2,7 +2,7 @@
   "id": "mq-student-loan",
   "name": "Macquarie University Interest-Free Student Loan",
   "provider": "Macquarie University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Interest-free loan for onshore Macquarie students to cover textbooks, computers, software, fieldtrips and placement travel.",
   "key": "Up to $2,000, or up to $500 for a computer, interest-free.",
   "who": [
@@ -31,7 +31,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "mq"
       ]
     },
     "campus": {
@@ -47,5 +47,9 @@
       "url": "https://students.mq.edu.au/finances/assistance/grants-loans",
       "page_date": null
     }
+  ],
+  "institution": "mq",
+  "states": [
+    "nsw"
   ]
 }

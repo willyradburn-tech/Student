@@ -35,12 +35,21 @@
   "match": {
     "campus": {
       "yes": [
-        "other"
+        "tas"
       ]
     },
     "load": {
       "yes": [
         "full"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
       ]
     }
   },
@@ -57,5 +66,8 @@
       "url": "https://www.metrotas.com.au/fares/concessions/",
       "page_date": null
     }
+  ],
+  "states": [
+    "tas"
   ]
 }

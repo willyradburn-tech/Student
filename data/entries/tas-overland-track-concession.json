@@ -2,7 +2,7 @@
   "id": "tas-overland-track-concession",
   "name": "Overland Track and Three Capes Track booking discount",
   "provider": "Tasmanian Government",
-  "category": "health",
+  "category": "streaming",
   "summary": "Discounted booking fees on the Overland Track and Three Capes Track for concession cardholders, including Health Care Card holders.",
   "key": "A discount on booking fees is available to eligible concession card holders.",
   "who": [
@@ -30,7 +30,15 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "tas"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -47,5 +55,8 @@
       "url": "https://www.concessions.tas.gov.au/browse-categories/parks-and-heritage",
       "page_date": null
     }
+  ],
+  "states": [
+    "tas"
   ]
 }

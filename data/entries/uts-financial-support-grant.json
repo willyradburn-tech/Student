@@ -2,7 +2,7 @@
   "id": "uts-financial-support-grant",
   "name": "UTS Financial Support Grant",
   "provider": "University of Technology Sydney",
-  "category": "uni",
+  "category": "campus",
   "summary": "Non-repayable grant for low-income UTS students to cover course costs or essential living costs such as rent or utility arrears.",
   "key": "Grants are usually approved for amounts up to $500.",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "uts"
       ]
     },
     "campus": {
@@ -52,5 +52,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uts",
+  "states": [
+    "nsw"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "griffith-chaplaincy-free-pancake-breakfasts",
   "name": "Chaplaincy free pancake breakfasts",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free weekly pancake breakfasts during trimester at Griffith's South Bank, Nathan and Logan campuses.",
   "catches": [
     "Weekly during trimester from Week 2.",
@@ -39,5 +39,9 @@
       "url": "https://student.griffith.edu.au/student-support/spiritual-wellbeing/chaplaincy",
       "page_date": null
     }
+  ],
+  "institution": "griffith",
+  "states": [
+    "qld"
   ]
 }

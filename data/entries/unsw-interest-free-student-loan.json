@@ -2,7 +2,7 @@
   "id": "unsw-interest-free-student-loan",
   "name": "UNSW Interest-Free Student Loan",
   "provider": "UNSW Sydney",
-  "category": "uni",
+  "category": "campus",
   "summary": "Interest-free repayable loan for enrolled UNSW students who have completed at least one term.",
   "key": "UNSW student loans are typically offered up to a value of $1,500, with up to $4,000 in exceptional circumstances.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unsw"
       ]
     },
     "campus": {
@@ -52,5 +52,9 @@
       "url": "https://www.unsw.edu.au/student/support/financial-support/loans",
       "page_date": null
     }
+  ],
+  "institution": "unsw",
+  "states": [
+    "nsw"
   ]
 }

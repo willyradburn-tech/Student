@@ -2,7 +2,7 @@
   "id": "unimelb-narrm-scholarship",
   "name": "Narrm Scholarship (University of Melbourne)",
   "provider": "University of Melbourne",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A $6,500 yearly living allowance for Access Melbourne undergraduates, plus relocation and accommodation allowances for some.",
   "key": "$6,500 a year for four years, up to $35,500, plus a $3,000 relocation allowance for regional or remote students.",
   "who": [
@@ -38,7 +38,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unimelb"
       ]
     },
     "campus": {
@@ -67,5 +67,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "unimelb",
+  "states": [
+    "vic"
+  ]
 }

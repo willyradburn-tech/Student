@@ -2,7 +2,7 @@
   "id": "uq-science-placement-enabling-grant",
   "name": "UQ Faculty of Science Placement Enabling Grant",
   "provider": "University of Queensland, Faculty of Science",
-  "category": "uni",
+  "category": "campus",
   "summary": "Grant for UQ science students in financial need to cover the extra costs of a required placement.",
   "key": "Up to $2,000.",
   "who": [
@@ -66,5 +66,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-10-31"
+  "closes": "2026-10-31",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

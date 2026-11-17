@@ -2,7 +2,7 @@
   "id": "cqu-cqunicares-study-resource-equity-bursary",
   "name": "CQUniCares Study Resource Equity Bursary",
   "provider": "CQUniversity",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Bursary for First Nations CQUniversity students to help with study resources.",
   "key": "Up to $1,000.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "cqu"
       ]
     },
     "atsi": {
@@ -65,5 +65,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "cqu",
+  "states": [
+    "qld"
+  ]
 }

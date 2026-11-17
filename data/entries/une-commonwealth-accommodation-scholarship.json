@@ -2,7 +2,7 @@
   "id": "une-commonwealth-accommodation-scholarship",
   "name": "UNE Commonwealth Accommodation Scholarship",
   "provider": "University of New England",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Accommodation support for Aboriginal and Torres Strait Islander students in financial need who relocate to study at UNE.",
   "key": "Up to $10,800 (paid pro-rata for part-time and fast-track study).",
   "who": [
@@ -37,7 +37,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "une"
       ]
     },
     "atsi": {
@@ -77,5 +77,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "une",
+  "states": [
+    "nsw"
+  ]
 }

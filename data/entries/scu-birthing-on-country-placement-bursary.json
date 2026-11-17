@@ -2,7 +2,7 @@
   "id": "scu-birthing-on-country-placement-bursary",
   "name": "Birthing on Country Placement Bursary (SCU)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A $2,500 bursary for Aboriginal and Torres Strait Islander SCU midwifery students on a placement at an Aboriginal Health Service.",
   "key": "$2,500 for one year.",
   "who": [
@@ -48,6 +48,14 @@
       "yes": [
         "care"
       ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -64,5 +72,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

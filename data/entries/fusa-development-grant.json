@@ -2,7 +2,7 @@
   "id": "fusa-development-grant",
   "name": "FUSA Development Grant",
   "provider": "Flinders University Student Association (FUSA)",
-  "category": "uni",
+  "category": "campus",
   "summary": "$800 grant for Flinders students taking part in a professional development activity.",
   "key": "$800",
   "who": [
@@ -33,7 +33,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "flinders"
       ]
     }
   },
@@ -57,5 +57,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "flinders",
+  "states": [
+    "sa"
+  ]
 }

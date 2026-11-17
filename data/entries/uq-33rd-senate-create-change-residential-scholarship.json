@@ -2,7 +2,7 @@
   "id": "uq-33rd-senate-create-change-residential-scholarship",
   "name": "33rd UQ Senate Create Change Residential Scholarship",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Accommodation scholarship for commencing UQ students with an ATAR of 89+ who face financial hardship and live at an approved residence.",
   "key": "$10,000 towards accommodation fees, for 1 year.",
   "who": [
@@ -54,6 +54,14 @@
         "citizen",
         "pr"
       ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
     }
   },
   "evidence": [
@@ -71,5 +79,10 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ],
+  "vlabel": "You get"
 }

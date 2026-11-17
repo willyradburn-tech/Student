@@ -2,7 +2,7 @@
   "id": "unsw-law-disability-support-scholarship",
   "name": "UNSW Law Disability Support Scholarship",
   "provider": "UNSW Sydney",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Yearly scholarship for UNSW Law and Justice students with a long-term medical condition or disability who are in financial need.",
   "key": "$5,000 per annum for minimum program duration.",
   "who": [
@@ -34,12 +34,20 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unsw"
       ]
     },
     "campus": {
       "yes": [
         "nsw"
+      ]
+    },
+    "disability": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -51,5 +59,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "unsw",
+  "states": [
+    "nsw"
+  ]
 }

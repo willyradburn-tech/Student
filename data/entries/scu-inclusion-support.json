@@ -2,7 +2,7 @@
   "id": "scu-inclusion-support",
   "name": "SCU Inclusion Support (disability and carers)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free support for SCU students with a disability, medical condition or injury, or who care for someone, including equipment and assistive software.",
   "key": "Free access to inclusive technology and software, specialised equipment and reasonable adjustments.",
   "who": [
@@ -38,6 +38,22 @@
       "yes": [
         "scu"
       ]
+    },
+    "disability": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    },
+    "parent": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -53,5 +69,9 @@
       "url": "https://www.scu.edu.au/current-students/services-and-support/inclusion-support/",
       "page_date": null
     }
+  ],
+  "institution": "scu",
+  "states": [
+    "nsw"
   ]
 }

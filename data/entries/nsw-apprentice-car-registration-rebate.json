@@ -2,7 +2,7 @@
   "id": "nsw-apprentice-car-registration-rebate",
   "name": "NSW apprentice $100 car registration rebate",
   "provider": "NSW Government",
-  "category": "transport",
+  "category": "tafe",
   "summary": "First and second year NSW apprentices can get $100 back on the registration of a car in their own name.",
   "key": "First and second year apprentices may be eligible to receive a $100 rebate on their car registration.",
   "who": [
@@ -34,6 +34,7 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }
@@ -51,5 +52,8 @@
       "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "swtafe-wurreker-first-nations-scholarship",
   "name": "SWTAFE First Nations Scholarship (Wurreker)",
   "provider": "South West TAFE (Wurreker)",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Four scholarships of up to $800 for First Nations students at South West TAFE.",
   "key": "up to $800 (four available)",
   "who": [
@@ -45,6 +45,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -62,5 +65,8 @@
       "page_date": null
     }
   ],
-  "closes": "closed"
+  "closes": "closed",
+  "states": [
+    "vic"
+  ]
 }

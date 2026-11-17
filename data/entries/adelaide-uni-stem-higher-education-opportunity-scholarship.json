@@ -2,7 +2,7 @@
   "id": "adelaide-uni-stem-higher-education-opportunity-scholarship",
   "name": "Adelaide University STEM Higher Education Opportunity Scholarship",
   "provider": "Adelaide University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$3,000 a year for equity-group students in Engineering, IT or Science programs, including women in non-traditional areas.",
   "key": "$3,000 per year for the duration of the program.",
   "who": [
@@ -40,7 +40,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "adelaide"
       ]
     },
     "res": {
@@ -74,5 +74,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "adelaide",
+  "states": [
+    "sa"
+  ]
 }

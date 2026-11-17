@@ -2,7 +2,7 @@
   "id": "usyd-financial-support-voucher",
   "name": "University of Sydney Financial Support Voucher",
   "provider": "University of Sydney",
-  "category": "uni",
+  "category": "campus",
   "summary": "One-off $250 voucher for food or essential items for University of Sydney students facing immediate financial difficulty.",
   "key": "A voucher worth $250 for food or essential items (e.g. medical items).",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "sydney"
       ]
     },
     "campus": {
@@ -51,5 +51,9 @@
       "url": "https://www.sydney.edu.au/students/financial-support/financial-support-vouchers.html",
       "page_date": null
     }
+  ],
+  "institution": "sydney",
+  "states": [
+    "nsw"
   ]
 }

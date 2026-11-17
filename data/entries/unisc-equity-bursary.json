@@ -2,7 +2,7 @@
   "id": "unisc-equity-bursary",
   "name": "UniSC Equity Bursary",
   "provider": "University of the Sunshine Coast",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "One-study-period bursary for full-time UniSC undergraduates from low income or disadvantaged backgrounds.",
   "key": "A$2,500 for one study period for applicants with the highest level of financial and/or personal hardship (A$1,000 for a high level).",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "usc"
       ]
     },
     "res": {
@@ -70,5 +70,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "usc",
+  "states": [
+    "qld"
+  ]
 }

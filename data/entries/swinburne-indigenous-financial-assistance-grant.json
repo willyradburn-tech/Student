@@ -2,7 +2,7 @@
   "id": "swinburne-indigenous-financial-assistance-grant",
   "name": "Swinburne Indigenous Financial Assistance Grant",
   "provider": "Swinburne University",
-  "category": "uni",
+  "category": "campus",
   "summary": "A $1,000 one-off grant for Aboriginal and Torres Strait Islander Swinburne students facing an emergency or hardship.",
   "key": "$1,000 (one-off payment).",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "swinburne"
       ]
     },
     "atsi": {
@@ -63,5 +63,9 @@
       "page_date": null
     }
   ],
-  "closes": "2026-12-31"
+  "closes": "2026-12-31",
+  "institution": "swinburne",
+  "states": [
+    "vic"
+  ]
 }

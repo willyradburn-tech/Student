@@ -32,6 +32,11 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
     "field": {
       "yes": [
         "other"
@@ -57,5 +62,8 @@
       "url": "https://www.qls.com.au/qls-membership/student-membership",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld"
   ]
 }

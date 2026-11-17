@@ -2,7 +2,7 @@
   "id": "flinders-community-market",
   "name": "Flinders Community Market (free food)",
   "provider": "Flinders University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free fruit, vegetables and bread plus low-cost pantry items for all Flinders students every Thursday in semester.",
   "key": "Free and low-cost food.",
   "who": [
@@ -34,7 +34,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "flinders"
       ]
     }
   },
@@ -57,5 +57,9 @@
       "url": "https://oasis.flinders.edu.au/flinders-community-market",
       "page_date": null
     }
+  ],
+  "institution": "flinders",
+  "states": [
+    "sa"
   ]
 }

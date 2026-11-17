@@ -2,7 +2,7 @@
   "id": "rmit-career-success-wil-grant",
   "name": "RMIT Career Success WIL Grant",
   "provider": "RMIT University",
-  "category": "uni",
+  "category": "campus",
   "summary": "A $1,000 grant for low-SES or Indigenous RMIT bachelor students in hardship doing a work placement of two weeks or more.",
   "key": "$1,000, paid after the placement. 40 available.",
   "who": [
@@ -37,7 +37,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "rmit"
       ]
     },
     "campus": {
@@ -55,6 +55,11 @@
       "yes": [
         "yes"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -65,5 +70,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "rmit",
+  "states": [
+    "vic"
+  ]
 }

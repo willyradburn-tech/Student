@@ -2,7 +2,7 @@
   "id": "uts-housing-rental-subsidy",
   "name": "UTS Housing Rental Subsidy",
   "provider": "University of Technology Sydney",
-  "category": "uni",
+  "category": "campus",
   "summary": "Rent subsidy for local UTS students on a UTS Housing lease at Yura Mudang.",
   "key": "Awards usually range between $1,500 to $2,500 for a 26 week period.",
   "who": [
@@ -33,7 +33,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "uts"
       ]
     },
     "campus": {
@@ -60,5 +60,9 @@
       "url": "https://www.uts.edu.au/for-students/current-students/support/financial-help/financial-assistance-programs",
       "page_date": null
     }
+  ],
+  "institution": "uts",
+  "states": [
+    "nsw"
   ]
 }

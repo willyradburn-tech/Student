@@ -2,7 +2,7 @@
   "id": "tas-national-parks-pass-concession",
   "name": "Tasmanian National Parks pass concession",
   "provider": "Tasmanian Government",
-  "category": "health",
+  "category": "streaming",
   "summary": "20% off annual and 2-year Tasmanian National Parks passes for concession cardholders, including Health Care Card holders.",
   "key": "A 20% discount on annual and 2-year National Parks passes is available to eligible concession card holders.",
   "who": [
@@ -29,7 +29,15 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "tas"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -46,5 +54,8 @@
       "url": "https://www.concessions.tas.gov.au/browse-categories/parks-and-heritage",
       "page_date": null
     }
+  ],
+  "states": [
+    "tas"
   ]
 }

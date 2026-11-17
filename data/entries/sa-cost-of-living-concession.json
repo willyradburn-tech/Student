@@ -39,10 +39,27 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "sa"
       ]
     },
     "payment": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
       "yes": [
         "yes"
       ],
@@ -70,5 +87,8 @@
       "url": "https://www.sa.gov.au/topics/care-and-support/concessions/household-concessions/cost-of-living-concessions",
       "page_date": null
     }
+  ],
+  "states": [
+    "sa"
   ]
 }

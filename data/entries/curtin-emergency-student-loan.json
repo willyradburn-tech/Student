@@ -2,7 +2,7 @@
   "id": "curtin-emergency-student-loan",
   "name": "Curtin Emergency Student Loan",
   "provider": "Curtin University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Loan of up to $2,000, repaid within six months, for Curtin students with a temporary, unexpected financial need.",
   "key": "Successful recipients may borrow up to $2000.",
   "who": [
@@ -37,7 +37,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "curtin"
       ]
     }
   },
@@ -54,5 +54,9 @@
       "url": "https://www.curtin.edu.au/students/personal-support/financial-advice/curtin-emergency-student-loans",
       "page_date": null
     }
+  ],
+  "institution": "curtin",
+  "states": [
+    "wa"
   ]
 }

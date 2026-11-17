@@ -2,7 +2,7 @@
   "id": "lords-taverners-tafe-nsw-north-coast-grants",
   "name": "Lord's Taverners TAFE NSW grants (North Coast)",
   "provider": "Lord's Taverners Northern NSW",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Urgent grants of $500 to $1,500 for TAFE NSW students on the North Coast facing hardship.",
   "key": "Grants range from $500 to $1500.",
   "who": [
@@ -46,6 +46,7 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }
@@ -69,5 +70,8 @@
       "url": "https://lordstaverners-northernnsw.com.au/what-we-do/tafe-nsw-grants/",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

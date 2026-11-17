@@ -2,7 +2,7 @@
   "id": "scu-stem-scholarship",
   "name": "SCU STEM Scholarship",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$27,000 over three years for 2026 Year 12 graduates of listed regional high schools starting a full-time STEM degree at SCU.",
   "key": "$27,000 ($9,000 a year for three years).",
   "who": [
@@ -58,6 +58,14 @@
         "citizen",
         "pr"
       ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -74,5 +82,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

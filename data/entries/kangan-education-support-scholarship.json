@@ -2,7 +2,7 @@
   "id": "kangan-education-support-scholarship",
   "name": "Kangan Institute Education Support Scholarship",
   "provider": "Kangan Institute (Bendigo Kangan Institute)",
-  "category": "uni",
+  "category": "tafe",
   "summary": "A fee waiver or reduction for Kangan and Bendigo TAFE students facing financial or personal disadvantage.",
   "key": "Can provide local students with a waiver or a reduction of their course fees.",
   "who": [
@@ -45,6 +45,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -61,5 +64,8 @@
       "url": "https://www.kangan.edu.au/study-with-us/prospective-students/scholarships/education-support-scholarship",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

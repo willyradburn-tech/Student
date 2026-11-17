@@ -2,7 +2,7 @@
   "id": "unsw-president-vice-chancellors-equity-scholarship",
   "name": "UNSW President and Vice-Chancellor's Equity Scholarship",
   "provider": "UNSW Sydney",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Yearly equity scholarship for commencing UNSW undergraduate or postgraduate students in low-SES circumstances.",
   "key": "$5,000 per annum for the minimum duration of program.",
   "who": [
@@ -34,12 +34,20 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unsw"
       ]
     },
     "campus": {
       "yes": [
         "nsw"
+      ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
       ]
     }
   },
@@ -51,5 +59,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "unsw",
+  "states": [
+    "nsw"
+  ]
 }

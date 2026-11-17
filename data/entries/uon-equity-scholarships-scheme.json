@@ -2,7 +2,7 @@
   "id": "uon-equity-scholarships-scheme",
   "name": "Equity Scholarships Scheme University of Newcastle (ESSUN)",
   "provider": "University of Newcastle",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Scholarship for University of Newcastle undergraduates on Centrelink means-tested income support.",
   "key": "Up to $8,000 for one academic year of study.",
   "who": [
@@ -39,7 +39,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "newcastle"
       ]
     },
     "res": {
@@ -75,5 +75,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-03-03"
+  "closes": "2027-03-03",
+  "institution": "newcastle",
+  "states": [
+    "nsw"
+  ]
 }

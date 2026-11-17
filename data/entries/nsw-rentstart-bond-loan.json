@@ -39,6 +39,15 @@
       "yes": [
         "nsw"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
     }
   },
   "evidence": [
@@ -54,5 +63,8 @@
       "url": "https://www.service.nsw.gov.au/transaction/apply-rentstart-bond-loan",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

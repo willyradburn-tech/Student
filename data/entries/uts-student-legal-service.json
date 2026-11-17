@@ -2,7 +2,7 @@
   "id": "uts-student-legal-service",
   "name": "UTS Student Legal Service",
   "provider": "University of Technology Sydney",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free legal advice for enrolled UTS students on tenancy, employment, traffic, consumer, debt and other matters.",
   "key": "Free legal advice for all students currently enrolled at UTS.",
   "who": [
@@ -30,7 +30,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "uts"
       ]
     },
     "campus": {
@@ -46,5 +46,9 @@
       "url": "https://www.uts.edu.au/for-students/current-students/support/when-things-go-wrong/student-legal-service",
       "page_date": null
     }
+  ],
+  "institution": "uts",
+  "states": [
+    "nsw"
   ]
 }

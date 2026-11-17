@@ -2,7 +2,7 @@
   "id": "uwa-sos-it-equipment-scheme",
   "name": "UWA SOS IT Equipment Scheme",
   "provider": "University of Western Australia",
-  "category": "uni",
+  "category": "campus",
   "summary": "Laptop loan for a teaching semester for UWA students facing financial hardship or unexpected misadventure.",
   "key": "A loan laptop granted for the duration of a teaching semester.",
   "who": [
@@ -33,7 +33,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "uwa"
       ]
     }
   },
@@ -50,5 +50,9 @@
       "url": "https://www.uwa.edu.au/students/support/financial-assistance",
       "page_date": null
     }
+  ],
+  "institution": "uwa",
+  "states": [
+    "wa"
   ]
 }

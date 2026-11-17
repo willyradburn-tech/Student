@@ -2,7 +2,7 @@
   "id": "scu-preparing-for-success-pathway-scholarship",
   "name": "Preparing for Success Pathway Scholarship (SCU)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$2,500 offered with an Early Offer to SCU's Preparing for Success pathway program in 2027, paid as you progress into a bachelor degree.",
   "key": "Each scholarship is worth a total of $2,500.",
   "who": [
@@ -36,6 +36,11 @@
       "yes": [
         "scu"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -46,5 +51,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

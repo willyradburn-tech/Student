@@ -25,7 +25,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Free licence in select markets",
@@ -33,5 +32,6 @@
       "url": "https://www.vectorworks.net/en-US/education",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

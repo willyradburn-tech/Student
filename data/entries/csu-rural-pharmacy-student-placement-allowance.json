@@ -2,7 +2,7 @@
   "id": "csu-rural-pharmacy-student-placement-allowance",
   "name": "Charles Sturt Rural Pharmacy Student Placement Allowance",
   "provider": "Charles Sturt University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Help with travel and accommodation for Charles Sturt pharmacy students on rural placements.",
   "key": "Up to $3,000 per eligible student placement.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "csu"
       ]
     },
     "field": {
@@ -48,6 +48,14 @@
       "yes": [
         "citizen",
         "pr"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -84,5 +92,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-12-04"
+  "closes": "2026-12-04",
+  "institution": "csu",
+  "states": [
+    "nsw"
+  ]
 }

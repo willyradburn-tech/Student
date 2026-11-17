@@ -2,7 +2,7 @@
   "id": "csu-first-nations-education-costs-scholarship",
   "name": "Charles Sturt First Nations Education Costs Scholarship",
   "provider": "Charles Sturt University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Scholarship for First Nations Charles Sturt students in financial need to cover study costs like textbooks and laptops.",
   "key": "Value: up to $5,000.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "csu"
       ]
     },
     "atsi": {
@@ -77,5 +77,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-10-16"
+  "closes": "2026-10-16",
+  "institution": "csu",
+  "states": [
+    "nsw"
+  ]
 }

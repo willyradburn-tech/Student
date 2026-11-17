@@ -2,7 +2,7 @@
   "id": "qut-oodgeroo-noonuccal-scholarship",
   "name": "Oodgeroo Noonuccal Undergraduate and Postgraduate Scholarship",
   "provider": "QUT",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A scholarship for Aboriginal and Torres Strait Islander students in QUT undergraduate or postgraduate courses.",
   "key": "$7,500 for undergraduate students and $10,000 for postgraduate students.",
   "who": [
@@ -65,5 +65,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

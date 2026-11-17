@@ -2,7 +2,7 @@
   "id": "unsw-access-scholarship",
   "name": "UNSW Access Scholarship",
   "provider": "UNSW Sydney",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Yearly scholarship for commencing local UNSW undergraduates who have experienced educational disadvantage.",
   "key": "$10,000 per annum for the minimum duration of program.",
   "who": [
@@ -33,7 +33,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unsw"
       ]
     },
     "campus": {
@@ -45,6 +45,14 @@
       "yes": [
         "citizen",
         "pr"
+      ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
       ]
     }
   },
@@ -62,5 +70,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "unsw",
+  "states": [
+    "nsw"
+  ]
 }

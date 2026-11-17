@@ -2,7 +2,7 @@
   "id": "nt-apprentice-travel-accommodation-subsidy",
   "name": "NT apprentice travel and accommodation subsidy",
   "provider": "NT Department of Education",
-  "category": "payments",
+  "category": "tafe",
   "summary": "Partial subsidy for NT apprentices and trainees who live more than 50 km from the training provider for their off-the-job training.",
   "key": "50 cents per km by road and $700 per full week of accommodation plus $100 per extra day.",
   "who": [
@@ -36,11 +36,12 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "nt"
       ]
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }
@@ -64,5 +65,8 @@
       "url": "https://education.nt.gov.au/policies/skills-nt/apprenticeship-and-traineeship-travel-and-accommodation-subsidy-scheme-policy",
       "page_date": "2023-06-05"
     }
+  ],
+  "states": [
+    "nt"
   ]
 }

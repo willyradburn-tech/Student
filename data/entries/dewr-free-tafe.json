@@ -2,7 +2,7 @@
   "id": "dewr-free-tafe",
   "name": "Free TAFE (Fee-Free TAFE)",
   "provider": "Department of Employment and Workplace Relations",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Free TAFE and VET course places funded nationally and delivered by each state and territory, prioritised for groups who face barriers to study.",
   "key": "At least 100,000 Free TAFE and VET places per year from 2027, now a permanent feature of the national VET system.",
   "who": [
@@ -35,6 +35,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },

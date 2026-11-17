@@ -35,6 +35,12 @@
       "yes": [
         "other"
       ]
+    },
+    "level": {
+      "yes": [
+        "pg",
+        "hdr"
+      ]
     }
   },
   "evidence": [

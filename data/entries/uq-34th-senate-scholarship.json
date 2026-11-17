@@ -2,7 +2,7 @@
   "id": "uq-34th-senate-scholarship",
   "name": "34th UQ Senate Scholarship Fund",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Aspire scheme scholarship for commencing UQ bachelor students who hold the Queensland Commitment Scholarship.",
   "key": "$4,500 for 1 year.",
   "who": [
@@ -42,6 +42,19 @@
         "citizen",
         "pr"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
     }
   },
   "evidence": [
@@ -58,5 +71,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "nsw-apprentice-transport-concession-card",
   "name": "NSW Transport Concession Entitlement Card for apprentices",
   "provider": "Transport for NSW",
-  "category": "transport",
+  "category": "tafe",
   "summary": "Apprentices and new entrant trainees registered in NSW get concession Opal fares and concession fares on regional buses.",
   "who": [
     "Apprentices and new entrant trainees registered in NSW"
@@ -36,7 +36,16 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -59,5 +68,8 @@
       "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

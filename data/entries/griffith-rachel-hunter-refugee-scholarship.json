@@ -2,7 +2,7 @@
   "id": "griffith-rachel-hunter-refugee-scholarship",
   "name": "Rachel Hunter Refugee Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $20,000 for permanent humanitarian visa holders starting their first Griffith undergraduate degree.",
   "key": "Maximum value of $20,000, payable in trimester instalments.",
   "who": [
@@ -41,6 +41,11 @@
       "yes": [
         "pr"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -57,5 +62,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

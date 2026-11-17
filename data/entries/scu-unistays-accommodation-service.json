@@ -2,7 +2,7 @@
   "id": "scu-unistays-accommodation-service",
   "name": "SCU UniStays accommodation finder",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "campus",
   "summary": "A free SCU service for finding off-campus long and short-term housing, plus tenancy help from the Accommodation Officer.",
   "key": "UniStays is a free service that helps you find off-campus long and short-term accommodation options.",
   "who": [
@@ -42,5 +42,9 @@
       "url": "https://www.scu.edu.au/current-students/services-and-support/accommodation/",
       "page_date": null
     }
+  ],
+  "institution": "scu",
+  "states": [
+    "nsw"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "tafe-nsw-lions-mount-panorama-equity-scholarship",
   "name": "Lions Club of Mount Panorama Equity Scholarship",
   "provider": "TAFE NSW",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Four $300 equity scholarships for TAFE NSW students living in the Bathurst area.",
   "key": "4 equity scholarships valued at $300 each.",
   "who": [
@@ -42,6 +42,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -58,5 +61,8 @@
       "url": "https://www.tafensw.edu.au/scholarships/lions-club-of-mount-panorama-equity-scholarship",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

@@ -22,12 +22,12 @@
   ],
   "cadence": "high",
   "cap": "maybe",
-  "match": {},
   "verified": "2026-10-13",
   "review": "approved",
   "status": "verified",
   "source": {
     "url": "https://www.hp.com/au-en/shop/student/about-the-program",
     "label": "HP: Student Store"
-  }
+  },
+  "openToAll": true
 }

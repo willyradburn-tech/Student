@@ -23,7 +23,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Student pricing",
@@ -31,5 +30,6 @@
       "url": "https://ulysses.app/pricing",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

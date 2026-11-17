@@ -25,7 +25,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Free for every student",
@@ -39,5 +38,6 @@
       "url": "https://www.solidworks.com/product/students",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

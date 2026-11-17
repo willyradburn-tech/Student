@@ -31,7 +31,13 @@
   "verified": "2026-10-15",
   "cadence": "medium",
   "review": "approved",
-  "match": {},
+  "match": {
+    "uni": {
+      "yes": [
+        "utas"
+      ]
+    }
+  },
   "evidence": [
     {
       "claim": "Free",
@@ -40,5 +46,8 @@
       "page_date": null
     }
   ],
-  "closes": "closed"
+  "closes": "closed",
+  "states": [
+    "tas"
+  ]
 }

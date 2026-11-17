@@ -2,7 +2,7 @@
   "id": "csu-pathways-to-practice-placement-scholarship",
   "name": "Charles Sturt Pathways to Practice Placement Scholarship",
   "provider": "Charles Sturt University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Weekly payment for Charles Sturt students in financial need doing compulsory work integrated learning placements.",
   "key": "Eligible students can receive $338.60 per week of placement to a maximum of $2,708.80.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "csu"
       ]
     }
   },
@@ -67,5 +67,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-12-07"
+  "closes": "2026-12-07",
+  "institution": "csu",
+  "states": [
+    "nsw"
+  ]
 }

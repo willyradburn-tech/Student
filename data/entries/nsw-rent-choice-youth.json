@@ -41,6 +41,15 @@
     "age": {
       "min": 16,
       "max": 24
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
     }
   },
   "evidence": [
@@ -56,5 +65,8 @@
       "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rent-choice-youth",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

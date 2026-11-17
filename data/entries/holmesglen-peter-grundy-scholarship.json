@@ -2,7 +2,7 @@
   "id": "holmesglen-peter-grundy-scholarship",
   "name": "Holmesglen Peter Grundy Scholarship (international students)",
   "provider": "Holmesglen Foundation",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Five $1,000 tuition credits for current Holmesglen international students hit by unexpected financial hardship.",
   "key": "Each scholarship has a value of $1,000, credited to tuition.",
   "who": [
@@ -46,6 +46,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -62,5 +65,8 @@
       "url": "https://www.holmesglen.edu.au/study-with-us/scholarships-and-financial-aid/scholarships/peter-grundy-scholarship",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "usyd-chancellors-committee-atsi-bursary",
   "name": "Chancellor's Committee Aboriginal and Torres Strait Islander Students Bursary",
   "provider": "University of Sydney",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Once-off bursary for Aboriginal or Torres Strait Islander undergraduate students at the University of Sydney.",
   "key": "Up to $3,000, paid once.",
   "who": [
@@ -31,7 +31,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "sydney"
       ]
     },
     "campus": {
@@ -42,6 +42,11 @@
     "atsi": {
       "yes": [
         "yes"
+      ]
+    },
+    "level": {
+      "yes": [
+        "ug"
       ]
     }
   },
@@ -54,5 +59,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "sydney",
+  "states": [
+    "nsw"
+  ]
 }

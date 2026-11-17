@@ -2,7 +2,7 @@
   "id": "monash-mnhs-scholars-grant",
   "name": "Monash Medicine, Nursing and Health Sciences Scholars Grant",
   "provider": "Monash University",
-  "category": "uni",
+  "category": "campus",
   "summary": "A $3,000 one-off grant for full-time Monash health undergraduates from an equity or disadvantaged group.",
   "key": "$3,000 one-off.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "monash"
       ]
     },
     "campus": {
@@ -69,5 +69,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "monash",
+  "states": [
+    "vic"
+  ]
 }

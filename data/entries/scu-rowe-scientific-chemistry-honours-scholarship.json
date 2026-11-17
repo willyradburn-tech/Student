@@ -2,7 +2,7 @@
   "id": "scu-rowe-scientific-chemistry-honours-scholarship",
   "name": "Rowe Scientific Chemistry Honours Scholarship (SCU)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$5,000 for an SCU Bachelor of Science with Honours student doing a chemistry project.",
   "key": "$5,000 for one year.",
   "who": [
@@ -43,6 +43,11 @@
         "citizen",
         "pr"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -60,5 +65,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-14"
+  "closes": "2027-02-14",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

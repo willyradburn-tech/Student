@@ -2,7 +2,7 @@
   "id": "scu-student-opportunities-fund",
   "name": "Southern Cross Student Opportunities Fund",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Up to $7,500 towards travel, accommodation and activities for an almost-confirmed career or skills opportunity, for SCU undergraduates past first year.",
   "key": "Worth up to $7,500 each.",
   "who": [
@@ -38,6 +38,14 @@
       "yes": [
         "scu"
       ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
     }
   },
   "evidence": [
@@ -55,5 +63,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-12-16"
+  "closes": "2026-12-16",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

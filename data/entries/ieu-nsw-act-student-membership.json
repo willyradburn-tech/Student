@@ -30,9 +30,23 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "nsw",
+        "act"
+      ]
+    },
     "field": {
       "yes": [
         "other"
+      ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
       ]
     }
   },
@@ -43,5 +57,9 @@
       "url": "https://www.ieu.asn.au/why-join-us/student-teachers/",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw",
+    "act"
   ]
 }

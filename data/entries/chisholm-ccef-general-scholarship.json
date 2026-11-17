@@ -2,7 +2,7 @@
   "id": "chisholm-ccef-general-scholarship",
   "name": "Caroline Chisholm Education Foundation General Scholarship",
   "provider": "Caroline Chisholm Education Foundation (Chisholm Institute)",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Fee help for Chisholm VET students with a Health Care Card: up to $1,000 for Free TAFE courses or $800 for other courses.",
   "key": "In 2026, the limit is $1,000 for Free TAFE courses and $800 for non-Free TAFE courses; foundation courses and VCE are fully funded.",
   "who": [
@@ -51,6 +51,17 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -73,5 +84,8 @@
       "url": "https://chisholm.edu.au/about-us/caroline-chisholm-education-foundation/scholarships",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

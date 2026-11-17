@@ -2,7 +2,7 @@
   "id": "griffith-src-student-pantry",
   "name": "SRC Student Pantry and food support",
   "provider": "Griffith University Student Representative Council",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free essential food items for Griffith students at Nathan, Logan and South Bank, with no proof of hardship needed.",
   "who": [
     "Griffith students at Brisbane South (Nathan), Logan and Brisbane City (South Bank); online students can visit a nearby campus."
@@ -50,5 +50,9 @@
       "url": "https://griffithsrc.com.au/food-support/",
       "page_date": null
     }
+  ],
+  "institution": "griffith",
+  "states": [
+    "qld"
   ]
 }

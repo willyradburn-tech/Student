@@ -2,7 +2,7 @@
   "id": "adelaide-uni-whyalla-student-support-grant",
   "name": "Adelaide University Whyalla Student Support Grant",
   "provider": "Adelaide University",
-  "category": "uni",
+  "category": "campus",
   "summary": "$3,000 grant for 100% online Adelaide University students in the Whyalla region affected by the blast furnace closure.",
   "key": "The value of the Grant is $3,000",
   "who": [
@@ -37,7 +37,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "adelaide"
       ]
     },
     "res": {
@@ -68,5 +68,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-10-25"
+  "closes": "2026-10-25",
+  "institution": "adelaide",
+  "states": [
+    "sa"
+  ]
 }

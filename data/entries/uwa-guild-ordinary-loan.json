@@ -2,7 +2,7 @@
   "id": "uwa-guild-ordinary-loan",
   "name": "UWA Guild Ordinary Loan",
   "provider": "UWA Student Guild",
-  "category": "uni",
+  "category": "campus",
   "summary": "Interest-free loan of up to $1,000, repaid over up to 12 months, for UWA students who are Guild members.",
   "key": "Borrow up to $1,000.",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "uwa"
       ]
     }
   },
@@ -52,5 +52,9 @@
       "url": "https://www.uwastudentguild.com/support/topic/loans",
       "page_date": null
     }
+  ],
+  "institution": "uwa",
+  "states": [
+    "wa"
   ]
 }

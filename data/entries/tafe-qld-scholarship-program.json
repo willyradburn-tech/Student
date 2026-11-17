@@ -2,7 +2,7 @@
   "id": "tafe-qld-scholarship-program",
   "name": "TAFE Queensland Scholarship Program",
   "provider": "TAFE Queensland",
-  "category": "uni",
+  "category": "tafe",
   "summary": "100 scholarships of $5,000 a year, including access and equity awards, for new TAFE Queensland students and first-year apprentices.",
   "key": "Each year 100 x $5,000 scholarships are awarded.",
   "who": [
@@ -36,6 +36,11 @@
   "cadence": "high",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
     "res": {
       "yes": [
         "citizen",
@@ -44,7 +49,16 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
+      ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
       ]
     }
   },
@@ -68,5 +82,8 @@
       "page_date": null
     }
   ],
-  "closes": "closed"
+  "closes": "closed",
+  "states": [
+    "qld"
+  ]
 }

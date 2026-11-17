@@ -33,6 +33,11 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
     "field": {
       "yes": [
         "other"
@@ -58,5 +63,8 @@
       "url": "https://qtu.asn.au/join-online-downloadforms/student-membership-brochure-and-application-form",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "chsa-free-lunches-printing",
   "name": "CHSA free lunches and free printing (Coffs Harbour)",
   "provider": "CHSA (Coffs Harbour Students Association)",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free lunches through the year for all SCU students and free printing from the Uni Lounge computers at the Coffs Harbour campus.",
   "key": "Free lunches throughout the year for active members and all SCU students, and free printing from Uni Lounge computers.",
   "who": [
@@ -52,5 +52,9 @@
       "url": "https://scuchsa.com.au/membership-perks/",
       "page_date": null
     }
+  ],
+  "institution": "scu",
+  "states": [
+    "nsw"
   ]
 }

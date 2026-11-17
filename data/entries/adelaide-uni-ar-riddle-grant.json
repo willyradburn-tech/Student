@@ -2,7 +2,7 @@
   "id": "adelaide-uni-ar-riddle-grant",
   "name": "Adelaide University A R Riddle Grant",
   "provider": "Adelaide University",
-  "category": "uni",
+  "category": "campus",
   "summary": "One-off grant for Adelaide University students in the final semester of Honours or postgraduate coursework who are in financial hardship.",
   "key": "Total value $3,000, as a one-off payment; the annual value varies with funds available.",
   "who": [
@@ -37,13 +37,19 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "adelaide"
       ]
     },
     "res": {
       "yes": [
         "citizen",
         "pr"
+      ]
+    },
+    "level": {
+      "yes": [
+        "pg",
+        "hdr"
       ]
     }
   },
@@ -68,5 +74,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "adelaide",
+  "states": [
+    "sa"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "uq-flannery-foundation-scholarship",
   "name": "Flannery Foundation Scholarship (UQ)",
   "provider": "University of Queensland and Flannery Foundation",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Aspire scheme scholarship for Queensland Commitment Scholarship holders from outer regional or remote Queensland.",
   "key": "$4,500 for 1 year.",
   "who": [
@@ -48,6 +48,14 @@
         "citizen",
         "pr"
       ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -65,5 +73,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-26"
+  "closes": "2027-02-26",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

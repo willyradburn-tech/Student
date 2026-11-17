@@ -2,7 +2,7 @@
   "id": "usyd-general-bursary",
   "name": "University of Sydney General Bursary",
   "provider": "University of Sydney",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Non-repayable bursary for domestic University of Sydney students in genuine, immediate financial hardship.",
   "key": "Worth up to $2000 per semester, depending on available funds.",
   "who": [
@@ -37,7 +37,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "sydney"
       ]
     },
     "campus": {
@@ -66,5 +66,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "sydney",
+  "states": [
+    "nsw"
+  ]
 }

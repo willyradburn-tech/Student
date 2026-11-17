@@ -2,7 +2,7 @@
   "id": "swinburne-student-emergency-hardship-grant",
   "name": "Swinburne Student Emergency Hardship Grant",
   "provider": "Swinburne University",
-  "category": "uni",
+  "category": "campus",
   "summary": "One-off grant of up to $1,000 for full-time Swinburne undergraduates from low-income backgrounds hit by an unexpected event.",
   "key": "Up to $1,000.",
   "who": [
@@ -31,7 +31,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "swinburne"
       ]
     },
     "load": {
@@ -54,5 +54,9 @@
       "page_date": null
     }
   ],
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "swinburne",
+  "states": [
+    "vic"
+  ]
 }

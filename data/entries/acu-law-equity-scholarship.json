@@ -2,7 +2,7 @@
   "id": "acu-law-equity-scholarship",
   "name": "ACU Law Equity Scholarship",
   "provider": "Australian Catholic University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$5,000 for domestic ACU Law students who have faced hardship or barriers to getting into higher education.",
   "key": "$5,000.",
   "who": [
@@ -31,7 +31,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "acu"
       ]
     },
     "res": {
@@ -60,5 +60,6 @@
       "page_date": null
     }
   ],
-  "closes": "2027-03-01"
+  "closes": "2027-03-01",
+  "institution": "acu"
 }

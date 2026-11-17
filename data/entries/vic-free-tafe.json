@@ -2,7 +2,7 @@
   "id": "vic-free-tafe",
   "name": "Free TAFE (Victoria)",
   "provider": "Victorian Government",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Tuition-free places in priority TAFE courses for eligible students training in Victoria.",
   "key": "If you are eligible for Free TAFE, all your tuition fees will be covered.",
   "who": [
@@ -49,6 +49,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -71,5 +74,8 @@
       "url": "https://www.vic.gov.au/eligibility",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

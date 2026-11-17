@@ -2,7 +2,7 @@
   "id": "griffith-student-guild-free-legal-service",
   "name": "Student Guild free legal service",
   "provider": "Griffith University Gold Coast Student Guild",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free legal advice from McInnes Wilson Lawyers for all currently enrolled Griffith students.",
   "key": "Free legal advice through the Student Guild's partnership with McInnes Wilson Lawyers.",
   "who": [
@@ -51,5 +51,9 @@
       "url": "https://gugcstudentguild.com.au/legal-service/",
       "page_date": null
     }
+  ],
+  "institution": "griffith",
+  "states": [
+    "qld"
   ]
 }

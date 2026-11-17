@@ -2,7 +2,7 @@
   "id": "une-life-technology-bursary",
   "name": "UNE Technology Bursary",
   "provider": "UNE Life",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "One-off payment to help continuing UNE students in financial need maintain or replace a computer.",
   "key": "A one-off payment of up to $1,500 to support students in maintaining or replacing a computer.",
   "who": [
@@ -30,7 +30,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "une"
       ]
     },
     "res": {
@@ -54,5 +54,6 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "une"
 }

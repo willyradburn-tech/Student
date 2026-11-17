@@ -31,7 +31,6 @@
   "verified": "2026-10-15",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Licence terms",
@@ -39,5 +38,6 @@
       "url": "https://www.rhino3d.com/sales/pacific/Australia/QLD",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

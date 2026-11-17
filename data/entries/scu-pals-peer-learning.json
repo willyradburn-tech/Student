@@ -2,7 +2,7 @@
   "id": "scu-pals-peer-learning",
   "name": "SCU Peer Assisted Learning Support (PALS)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free 30-minute online study sessions with experienced fellow students for anyone enrolled at SCU.",
   "key": "A free 30-minute online appointment with a PALS Mentor.",
   "who": [
@@ -40,5 +40,9 @@
       "url": "https://www.scu.edu.au/current-students/learning-zone/pals/",
       "page_date": null
     }
+  ],
+  "institution": "scu",
+  "states": [
+    "nsw"
   ]
 }

@@ -27,12 +27,12 @@
     "The current offer ends on 30 October 2026."
   ],
   "cadence": "high",
-  "match": {},
   "verified": "2026-10-13",
   "review": "approved",
   "status": "verified",
   "source": {
     "url": "https://www.dell.com/en-au/lp/students",
     "label": "Dell: student discounts"
-  }
+  },
+  "openToAll": true
 }

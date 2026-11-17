@@ -2,7 +2,7 @@
   "id": "mq-higher-study-scholarship",
   "name": "Macquarie University Higher Study Scholarship",
   "provider": "Macquarie University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Yearly payment for postgraduate coursework or Honours students in financial hardship with academic excellence.",
   "key": "$12,000 per year (full-time rate).",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "mq"
       ]
     },
     "campus": {
@@ -53,6 +53,12 @@
       "yes": [
         "yes"
       ]
+    },
+    "level": {
+      "yes": [
+        "pg",
+        "hdr"
+      ]
     }
   },
   "evidence": [
@@ -63,5 +69,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "mq",
+  "states": [
+    "nsw"
+  ]
 }

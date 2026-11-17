@@ -2,7 +2,7 @@
   "id": "unimelb-access-bachelor-of-arts-scholarship",
   "name": "Melbourne Access Bachelor of Arts Scholarship",
   "provider": "University of Melbourne",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A $10,000 yearly allowance for Access Melbourne Arts students from financially disadvantaged or rural backgrounds.",
   "key": "$10,000 a year, up to $30,000, about 4 offered.",
   "who": [
@@ -33,12 +33,25 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unimelb"
       ]
     },
     "campus": {
       "yes": [
         "vic"
+      ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -50,5 +63,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "unimelb",
+  "states": [
+    "vic"
+  ]
 }

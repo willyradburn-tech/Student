@@ -2,7 +2,7 @@
   "id": "scu-quinn-law-group-criminal-law-scholarship",
   "name": "Quinn Law Group Criminal Law Scholarship (SCU)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$1,000 for SCU Bachelor of Laws students in second year or above with strong criminal law results.",
   "key": "$1,000.",
   "who": [
@@ -42,6 +42,11 @@
       "yes": [
         "other"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -59,5 +64,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-14"
+  "closes": "2027-02-14",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "uq-leo-howard-memorial-bursary",
   "name": "Leo Howard Memorial Bursary (UQ)",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Bursary for early-stage full-time UQ engineering students who can show financial hardship.",
   "who": [
     "Enrolled full-time in the BE(Hons), BE(Hons)/Master of Engineering, or an engineering dual.",
@@ -62,5 +62,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

@@ -27,6 +27,12 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "qld",
+        "nt"
+      ]
+    },
     "field": {
       "yes": [
         "other"
@@ -40,5 +46,9 @@
       "url": "https://ieuqnt.org.au/university/",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld",
+    "nt"
   ]
 }

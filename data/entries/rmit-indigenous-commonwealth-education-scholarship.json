@@ -2,7 +2,7 @@
   "id": "rmit-indigenous-commonwealth-education-scholarship",
   "name": "RMIT Indigenous Commonwealth Education Scholarship",
   "provider": "RMIT University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $7,000 a year for Aboriginal and Torres Strait Islander RMIT students in financial hardship or who moved from regional areas.",
   "key": "Up to $7,000 a year full-time, or $3,500 part-time.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "rmit"
       ]
     },
     "campus": {
@@ -47,6 +47,14 @@
     "atsi": {
       "yes": [
         "yes"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -59,5 +67,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-10-20"
+  "closes": "2026-10-20",
+  "institution": "rmit",
+  "states": [
+    "vic"
+  ]
 }

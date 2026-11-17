@@ -2,7 +2,7 @@
   "id": "uq-internship-grants",
   "name": "UQ Internship Grants",
   "provider": "University of Queensland, Student Enrichment and Success",
-  "category": "uni",
+  "category": "campus",
   "summary": "Grants for UQ students doing an in-person global or embassy internship, prioritising First Nations, low-SES, regional and disabled students.",
   "key": "Up to AUD $3,000 for a Global Internship (in-person) and up to AUD $2,000 for a UQ Embassy Internship (in-person).",
   "who": [
@@ -38,6 +38,14 @@
       "yes": [
         "uq"
       ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -54,5 +62,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

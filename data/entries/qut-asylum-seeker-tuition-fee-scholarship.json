@@ -2,7 +2,7 @@
   "id": "qut-asylum-seeker-tuition-fee-scholarship",
   "name": "QUT Asylum Seeker Tuition Fee Scholarship",
   "provider": "QUT",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A full tuition fee waiver plus an equity scholarship for asylum seekers starting a QUT undergraduate degree.",
   "key": "A full tuition fee waiver, plus a guaranteed Equity Scholarship of $2,100 (2024 terms).",
   "who": [
@@ -36,6 +36,11 @@
       "yes": [
         "qut"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -46,5 +51,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

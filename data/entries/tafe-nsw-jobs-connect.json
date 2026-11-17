@@ -2,7 +2,7 @@
   "id": "tafe-nsw-jobs-connect",
   "name": "TAFE NSW Jobs Connect",
   "provider": "TAFE NSW",
-  "category": "uni",
+  "category": "tafe",
   "summary": "A free TAFE NSW service that connects students with employers.",
   "who": [
     "TAFE NSW students."
@@ -24,9 +24,17 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -37,5 +45,8 @@
       "url": "https://www.tafensw.edu.au/study/support-services",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

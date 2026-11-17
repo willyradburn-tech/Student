@@ -2,7 +2,7 @@
   "id": "griffith-financial-support",
   "name": "Griffith University financial support",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "campus",
   "summary": "One-off hardship support, emergency vouchers and loans, and placement bursaries for Griffith students.",
   "tags": [
     "griffith",
@@ -55,5 +55,9 @@
   "source": {
     "url": "https://student.griffith.edu.au/my-study/scholarships/other-financial-support",
     "label": "Griffith University: other financial support"
-  }
+  },
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

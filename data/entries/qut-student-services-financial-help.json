@@ -2,7 +2,7 @@
   "id": "qut-student-services-financial-help",
   "name": "QUT Student Services financial help",
   "provider": "QUT",
-  "category": "uni",
+  "category": "campus",
   "summary": "QUT welfare officers help students manage money and access financial support such as Equity Emergency Bursaries.",
   "who": [
     "QUT students, domestic and international."
@@ -48,5 +48,9 @@
       "url": "https://www.qut.edu.au/study/international/support",
       "page_date": null
     }
+  ],
+  "institution": "qut",
+  "states": [
+    "qld"
   ]
 }

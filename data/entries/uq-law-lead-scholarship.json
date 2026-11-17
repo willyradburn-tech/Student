@@ -2,7 +2,7 @@
   "id": "uq-law-lead-scholarship",
   "name": "UQ Law LEAD Scholarship",
   "provider": "University of Queensland, TC Beirne School of Law",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Scholarship for school leavers starting a UQ law degree who have faced educational, social or financial disadvantage.",
   "key": "$8,000 per year for up to 5 years.",
   "who": [
@@ -66,5 +66,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-11-01"
+  "closes": "2026-11-01",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

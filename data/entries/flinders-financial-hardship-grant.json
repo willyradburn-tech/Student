@@ -2,7 +2,7 @@
   "id": "flinders-financial-hardship-grant",
   "name": "Flinders Financial Hardship Grant",
   "provider": "Flinders University Student Association (FUSA)",
-  "category": "uni",
+  "category": "campus",
   "summary": "$500 second-half-of-year grant for domestic or international Flinders students with 36 units done who face financial hardship.",
   "key": "The value of the grant awarded will be $500.",
   "who": [
@@ -37,7 +37,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "flinders"
       ]
     }
   },
@@ -55,5 +55,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "flinders",
+  "states": [
+    "sa"
+  ]
 }

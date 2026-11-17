@@ -2,7 +2,7 @@
   "id": "qut-cs-energy-indigenous-scholarship",
   "name": "QUT CS Energy Indigenous Scholarship",
   "provider": "QUT and CS Energy",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "An industry scholarship for Aboriginal and Torres Strait Islander undergraduates in business, science, engineering or technology from a low-income background.",
   "key": "Valued at $10,000, paid in two $5,000 instalments.",
   "who": [
@@ -82,5 +82,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

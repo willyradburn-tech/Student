@@ -2,7 +2,7 @@
   "id": "uqu-kampus-kitchen",
   "name": "UQ Union Kampus Kitchen free dinner",
   "provider": "UQ Union",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free dinners for UQ students at St Lucia, Gatton, Herston and Dutton Park.",
   "who": [
     "UQ students. St Lucia scans your student ID."
@@ -45,5 +45,9 @@
       "url": "https://uqu.com.au/student-advocacy-and-support",
       "page_date": null
     }
+  ],
+  "institution": "uq",
+  "states": [
+    "qld"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "vic-skills-and-jobs-centres",
   "name": "Skills and Jobs Centres (free career and training advice)",
   "provider": "Victorian Government",
-  "category": "career",
+  "category": "tafe",
   "summary": "Free career, employment and training advice at centres across Victoria, many based at TAFEs.",
   "key": "Skills and Jobs Centres offer free career, employment and training support services.",
   "who": [
@@ -36,6 +36,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -52,5 +55,8 @@
       "url": "https://www.vic.gov.au/skills-and-jobs-centres",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "griffith-lesley-chenoweth-scholarship",
   "name": "Lesley Chenoweth Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $2,000 for full-time Griffith undergraduates in financial hardship, with preference for Logan students.",
   "key": "Maximum value is $2,000, paid in two instalments.",
   "who": [
@@ -65,5 +65,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "dewr-national-training-complaints-hotline",
   "name": "National Training Complaints Hotline",
   "provider": "Department of Employment and Workplace Relations",
-  "category": "career",
+  "category": "tafe",
   "summary": "A national phone line and form for complaints about your training experience in VET, referred to the right authority.",
   "who": [
     "Anyone with a complaint about their experience while doing vocational training."
@@ -33,6 +33,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },

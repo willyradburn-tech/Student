@@ -2,7 +2,7 @@
   "id": "anusa-parents-carers-grant",
   "name": "ANUSA Parents and Carers' Grant",
   "provider": "ANU Students' Association (ANUSA)",
-  "category": "uni",
+  "category": "campus",
   "summary": "ANUSA grant for ANU students with a dependant in their care who are experiencing financial hardship.",
   "tags": [
     "anu",
@@ -24,7 +24,15 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "anu"
+      ]
+    },
+    "parent": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -36,5 +44,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "anu",
+  "states": [
+    "act"
+  ]
 }

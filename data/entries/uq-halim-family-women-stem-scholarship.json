@@ -2,7 +2,7 @@
   "id": "uq-halim-family-women-stem-scholarship",
   "name": "Halim Family Women in STEM Scholarship (UQ)",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Aspire scheme scholarship for women starting a STEM bachelor at UQ who hold the Queensland Commitment Scholarship.",
   "who": [
     "Domestic female student commencing a bachelor program with a significant component of STEM, with no prior bachelor-level study.",
@@ -43,6 +43,19 @@
         "citizen",
         "pr"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
+    },
+    "gender": {
+      "yes": [
+        "woman"
+      ],
+      "maybe": [
+        "nb"
+      ]
     }
   },
   "evidence": [
@@ -60,5 +73,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-26"
+  "closes": "2027-02-26",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

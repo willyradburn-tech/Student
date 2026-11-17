@@ -2,7 +2,7 @@
   "id": "tastafe-free-counselling",
   "name": "TasTAFE free student counselling",
   "provider": "TasTAFE",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Free, confidential counselling for TasTAFE students when personal matters affect their training.",
   "key": "Our service is free and confidential.",
   "who": [
@@ -30,12 +30,15 @@
   "match": {
     "campus": {
       "yes": [
-        "other"
+        "tas"
       ]
     },
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -46,5 +49,8 @@
       "url": "https://www.tastafe.tas.edu.au/students/support/counselling-support",
       "page_date": null
     }
+  ],
+  "states": [
+    "tas"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "griffith-career-achievers-graduate-accelerator",
   "name": "Career Achievers Program and Graduate Accelerator Program",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Funding for equity undergraduates' professional development, placements, internships or global mobility activities.",
   "who": [
     "Currently enrolled domestic undergraduates in particular program areas.",
@@ -51,5 +51,9 @@
       "url": "https://student.griffith.edu.au/my-study/scholarships/other-financial-support",
       "page_date": null
     }
+  ],
+  "institution": "griffith",
+  "states": [
+    "qld"
   ]
 }

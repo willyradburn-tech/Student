@@ -2,7 +2,7 @@
   "id": "csu-pathways-to-practice-intensive-school-scholarship",
   "name": "Charles Sturt Pathways to Practice Intensive School Scholarship",
   "provider": "Charles Sturt University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Daily payment to help Charles Sturt students attend compulsory on-campus intensive schools.",
   "key": "$80 per day, plus extra support based on distance travelled.",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "csu"
       ]
     }
   },
@@ -60,5 +60,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "csu",
+  "states": [
+    "nsw"
+  ]
 }

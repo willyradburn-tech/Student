@@ -37,12 +37,12 @@
     "Check whether your uni already gives you Office for free before you pay."
   ],
   "cadence": "high",
-  "match": {},
   "verified": "2026-10-13",
   "review": "approved",
   "status": "verified",
   "source": {
     "url": "https://www.microsoft.com/en-au/microsoft-365/college-student-pricing",
     "label": "Microsoft: student pricing for Microsoft 365"
-  }
+  },
+  "openToAll": true
 }

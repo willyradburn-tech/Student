@@ -2,7 +2,7 @@
   "id": "cit-fee-free-tafe",
   "name": "CIT Fee-Free TAFE (Free TAFE from 2027)",
   "provider": "Canberra Institute of Technology",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Tuition-free CIT courses for people 17 and over who live or work in the ACT and are new to the course; becomes Free TAFE in 2027.",
   "key": "Fee-Free TAFE provides free training to people seeking to learn, retrain or upskill.",
   "who": [
@@ -47,6 +47,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -81,5 +84,9 @@
       "url": "https://cit.edu.au/study/fee-free-tafe",
       "page_date": null
     }
+  ],
+  "states": [
+    "act",
+    "nsw"
   ]
 }

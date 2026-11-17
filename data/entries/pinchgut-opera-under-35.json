@@ -35,6 +35,14 @@
       "yes": [
         "nsw"
       ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -50,5 +58,8 @@
       "url": "https://www.pinchgutopera.com.au/frequently-asked-questions",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "griffith-bendigo-bank-accounting-finance-economics-scholarship",
   "name": "Bendigo Bank Accounting, Finance, and Economics Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Scholarship for Griffith accounting, finance and economics undergraduates who have experienced educational disadvantage.",
   "key": "Up to $15,000 (the scholarship section states a maximum value of $5,000, paid at $625 per 10 credit points).",
   "who": [
@@ -67,5 +67,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-03-15"
+  "closes": "2027-03-15",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

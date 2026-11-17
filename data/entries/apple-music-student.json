@@ -26,9 +26,9 @@
   "verified": "2026-10-13",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "source": {
     "url": "https://www.apple.com/au/apple-music/",
     "label": "Apple: Apple Music"
-  }
+  },
+  "openToAll": true
 }

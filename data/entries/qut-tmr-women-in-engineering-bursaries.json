@@ -2,7 +2,7 @@
   "id": "qut-tmr-women-in-engineering-bursaries",
   "name": "Department of Transport and Main Roads Women in Engineering Bursaries",
   "provider": "QUT and Queensland Department of Transport and Main Roads",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Bursaries for women in second or third year of a QUT Bachelor of Engineering who live in Queensland.",
   "key": "$5,000 each, offered to four continuing domestic students (2024 terms).",
   "who": [
@@ -59,6 +59,19 @@
       "yes": [
         "full"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
+    },
+    "gender": {
+      "yes": [
+        "woman"
+      ],
+      "maybe": [
+        "nb"
+      ]
     }
   },
   "evidence": [
@@ -74,5 +87,9 @@
       "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0013/1235101/terms-conditions-tmr-women-in-engineering-bursaries.pdf",
       "page_date": null
     }
+  ],
+  "institution": "qut",
+  "states": [
+    "qld"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "griffith-patricia-fronek-memorial-bursary",
   "name": "Patricia Fronek Memorial Bursary",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $1,000 for Griffith social work students in financial hardship.",
   "key": "Maximum value is $1,000, payable in a single instalment.",
   "who": [
@@ -55,5 +55,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

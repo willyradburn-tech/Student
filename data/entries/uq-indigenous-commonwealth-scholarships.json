@@ -2,7 +2,7 @@
   "id": "uq-indigenous-commonwealth-scholarships",
   "name": "UQ Indigenous Commonwealth Scholarships (UQ-ICS)",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Per-semester education costs and accommodation scholarships for Aboriginal and Torres Strait Islander students in any UQ coursework program.",
   "key": "UQ-ICECS: $1,500 each semester, UQ-ICAS $2,500 each semester.",
   "who": [
@@ -66,5 +66,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-26"
+  "closes": "2027-02-26",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

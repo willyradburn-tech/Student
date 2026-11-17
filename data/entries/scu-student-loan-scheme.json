@@ -2,7 +2,7 @@
   "id": "scu-student-loan-scheme",
   "name": "SCU interest-free student loans",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Small interest-free loans, from $100 emergency loans to $1,500, for SCU students whose study is at risk from financial hardship.",
   "key": "Interest-free loans from $100 (emergency) up to $1,500, including a $1,000 placement loan.",
   "who": [
@@ -77,5 +77,9 @@
       "url": "https://www.scu.edu.au/current-students/services-and-support/financial-support/student-loans/",
       "page_date": null
     }
+  ],
+  "institution": "scu",
+  "states": [
+    "nsw"
   ]
 }

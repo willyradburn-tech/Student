@@ -2,7 +2,7 @@
   "id": "unsw-financial-hardship-grant",
   "name": "UNSW Financial Hardship Grant",
   "provider": "UNSW Sydney",
-  "category": "uni",
+  "category": "campus",
   "summary": "Non-repayable grant for UNSW students facing unforeseen hardship, covering living costs, study costs, medical bills, laptops and bonds.",
   "who": [
     "Facing hardship due to circumstances outside your control",
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unsw"
       ]
     },
     "campus": {
@@ -52,5 +52,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "unsw",
+  "states": [
+    "nsw"
+  ]
 }

@@ -25,9 +25,9 @@
   "verified": "2026-10-13",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "source": {
     "url": "https://www.notion.com/help/notion-for-education",
     "label": "Notion: Notion for education"
-  }
+  },
+  "openToAll": true
 }

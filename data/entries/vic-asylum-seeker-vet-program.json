@@ -2,7 +2,7 @@
   "id": "vic-asylum-seeker-vet-program",
   "name": "Asylum Seeker VET Program (ASVET)",
   "provider": "Victorian Government",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Lets eligible asylum seekers and refugees in Victoria study Skills First courses at concession fees, plus select Free TAFE courses.",
   "who": [
     "Humanitarian, protection or refugee visa holders and their dependants",
@@ -39,6 +39,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -55,5 +58,8 @@
       "url": "https://www.vic.gov.au/asylum-seeker-vet-program",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

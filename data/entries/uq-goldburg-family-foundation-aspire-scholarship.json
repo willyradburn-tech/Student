@@ -2,7 +2,7 @@
   "id": "uq-goldburg-family-foundation-aspire-scholarship",
   "name": "Goldburg Family Foundation Aspire Scholarship (UQ)",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Extra first-year scholarship in UQ's Aspire scheme for Queensland Commitment Scholarship recipients.",
   "key": "$4,500 for 1 year.",
   "who": [
@@ -43,6 +43,14 @@
         "citizen",
         "pr"
       ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
     }
   },
   "evidence": [
@@ -60,5 +68,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-26"
+  "closes": "2027-02-26",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

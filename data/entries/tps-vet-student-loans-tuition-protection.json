@@ -2,7 +2,7 @@
   "id": "tps-vet-student-loans-tuition-protection",
   "name": "Tuition Protection for VET Student Loans",
   "provider": "Tuition Protection Service (Department of Education)",
-  "category": "loans",
+  "category": "tafe",
   "summary": "If your VET Student Loans provider closes or stops your course, the TPS helps you move to a replacement course or re-credits your loan.",
   "who": [
     "Students with a VET Student Loan whose provider defaults, for example by closing, not starting a course or stopping it partway through."
@@ -35,6 +35,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },

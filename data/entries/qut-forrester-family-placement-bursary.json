@@ -2,7 +2,7 @@
   "id": "qut-forrester-family-placement-bursary",
   "name": "Forrester Family Nursing and Teaching Practical Placement Bursary",
   "provider": "QUT",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A placement bursary for Aboriginal and Torres Strait Islander QUT students on a work integrated learning placement.",
   "key": "$250, $500 or $750.",
   "who": [
@@ -71,5 +71,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

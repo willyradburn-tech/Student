@@ -2,7 +2,7 @@
   "id": "coastrs-free-food-lunch-vouchers",
   "name": "CoastRs free snacks and weekly lunch vouchers (Gold Coast)",
   "provider": "CoastRs (SCU Gold Coast student association)",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free weekly snacks and drinks in the student lounge and weekly lunch vouchers at SCU Gold Coast, with membership for $1 a year.",
   "key": "A yearly membership is just $1.",
   "who": [
@@ -55,5 +55,9 @@
       "url": "https://coastrs.com.au/",
       "page_date": null
     }
+  ],
+  "institution": "scu",
+  "states": [
+    "qld"
   ]
 }

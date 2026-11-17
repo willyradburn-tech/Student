@@ -20,7 +20,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Free for students",
@@ -28,5 +27,6 @@
       "url": "https://www.twinmotion.com/en-US/license",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

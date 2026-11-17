@@ -2,7 +2,7 @@
   "id": "uq-bel-student-scholarship",
   "name": "UQ Business, Economics and Law Student Scholarship",
   "provider": "University of Queensland, Faculty of Business, Economics and Law",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Annual scholarship for full-time domestic undergraduates in UQ business, economics or law who can show financial hardship.",
   "key": "$4,500 per year.",
   "who": [
@@ -70,5 +70,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "qld-career-boost",
   "name": "Career Boost (formerly Higher Level Skills)",
   "provider": "Queensland Government",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Subsidised priority skill sets and Certificate IV or higher courses for Queenslanders; students pay a co-contribution fee.",
   "key": "Career Boost helps Queenslanders develop higher-level skills needed to secure employment, advance their careers, or progress to further education.",
   "who": [
@@ -47,6 +47,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -63,5 +66,8 @@
       "url": "https://tafeqld.edu.au/courses/apply-and-enrol/subsidised-training",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld"
   ]
 }

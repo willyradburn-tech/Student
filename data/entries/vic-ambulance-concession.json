@@ -34,6 +34,23 @@
       "yes": [
         "vic"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -55,5 +72,8 @@
       "url": "https://www.ambulance.vic.gov.au/ambulance-victoria-membership-scheme-business-rules/40-eligibility-and-concession-cards",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

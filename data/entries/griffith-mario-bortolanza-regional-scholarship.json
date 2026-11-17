@@ -2,7 +2,7 @@
   "id": "griffith-mario-bortolanza-regional-scholarship",
   "name": "Mario Bortolanza Regional Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $20,000 for students relocating from regional Queensland to start a music degree at the Queensland Conservatorium.",
   "key": "Up to $5,000 per year, up to $20,000 in total including honours.",
   "who": [
@@ -57,6 +57,14 @@
       "yes": [
         "full"
       ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -73,5 +81,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

@@ -41,7 +41,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "source": {
     "url": "https://education.github.com/pack",
     "label": "GitHub Education: Student Developer Pack"
@@ -55,5 +54,6 @@
       "url": "https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student",
       "label": "GitHub Docs: apply as a student"
     }
-  ]
+  ],
+  "openToAll": true
 }

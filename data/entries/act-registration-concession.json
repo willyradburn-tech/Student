@@ -2,7 +2,7 @@
   "id": "act-registration-concession",
   "name": "ACT vehicle registration concession",
   "provider": "Access Canberra",
-  "category": "transport",
+  "category": "bills",
   "summary": "No registration fees on one light vehicle for Canberra holders of a Low Income Health Care Card or Pensioner Concession Card.",
   "key": "Holders of a current Services Australia Pensioner Concession Card or Low Income Health Care Card pay zero registration fees.",
   "who": [
@@ -37,6 +37,23 @@
       "yes": [
         "act"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -52,5 +69,8 @@
       "url": "https://www.accesscanberra.act.gov.au/driving-transport-and-parking/registration/concessions-for-registration-fees",
       "page_date": null
     }
+  ],
+  "states": [
+    "act"
   ]
 }

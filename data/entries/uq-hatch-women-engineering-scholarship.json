@@ -2,7 +2,7 @@
   "id": "uq-hatch-women-engineering-scholarship",
   "name": "Hatch Women in Engineering Scholarship (UQ)",
   "provider": "University of Queensland and Hatch",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "One-year scholarship for female domestic UQ engineering students partway through their degree.",
   "key": "$12,000 for 1 year.",
   "who": [
@@ -53,6 +53,14 @@
         "citizen",
         "pr"
       ]
+    },
+    "gender": {
+      "yes": [
+        "woman"
+      ],
+      "maybe": [
+        "nb"
+      ]
     }
   },
   "evidence": [
@@ -69,5 +77,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

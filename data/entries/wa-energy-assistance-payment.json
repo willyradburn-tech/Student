@@ -2,7 +2,7 @@
   "id": "wa-energy-assistance-payment",
   "name": "WA Energy Assistance Payment",
   "provider": "Synergy (WA Government)",
-  "category": "health",
+  "category": "bills",
   "summary": "A yearly credit on your WA electricity bill if you hold a Health Care Card or other concession card.",
   "key": "$334.49 of their energy bill each year.",
   "who": [
@@ -36,6 +36,23 @@
       "yes": [
         "wa"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -45,5 +62,8 @@
       "url": "https://www.synergy.net.au/Your-home/Manage-account/Rebates-and-concessions",
       "page_date": null
     }
+  ],
+  "states": [
+    "wa"
   ]
 }

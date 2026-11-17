@@ -2,7 +2,7 @@
   "id": "flinders-emergency-student-support-grant",
   "name": "Flinders Emergency Student Support Grant",
   "provider": "Flinders University Student Association (FUSA)",
-  "category": "uni",
+  "category": "campus",
   "summary": "Year-round non-repayable grant of $500 to $1,000 for domestic full-time Flinders students in short-term financial hardship.",
   "key": "The value of the grant awarded will be between $500 to $1,000.",
   "who": [
@@ -40,7 +40,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "flinders"
       ]
     },
     "res": {
@@ -78,5 +78,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "flinders",
+  "states": [
+    "sa"
+  ]
 }

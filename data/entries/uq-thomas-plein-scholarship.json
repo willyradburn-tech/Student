@@ -2,7 +2,7 @@
   "id": "uq-thomas-plein-scholarship",
   "name": "Thomas A. Plein Foundation Undergraduate Scholarship",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A $4,500 scholarship for a domestic UQ undergraduate in financial hardship.",
   "tags": [
     "uq",
@@ -50,7 +50,16 @@
         "citizen",
         "pr"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
-  "closes": "2027-01-24"
+  "closes": "2027-01-24",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

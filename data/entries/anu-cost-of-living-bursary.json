@@ -2,7 +2,7 @@
   "id": "anu-cost-of-living-bursary",
   "name": "ANU Cost of Living Bursary",
   "provider": "Australian National University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Basic Needs Supports bursary for domestic ANU undergraduates who are First Nations or from a low-SES postcode.",
   "key": "Cost of Living bursary: $300 per semester",
   "who": [
@@ -32,7 +32,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "anu"
       ]
     },
     "res": {
@@ -56,5 +56,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "anu",
+  "states": [
+    "act"
+  ]
 }

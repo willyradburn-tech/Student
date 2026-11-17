@@ -2,7 +2,7 @@
   "id": "dewr-vet-student-loans",
   "name": "VET Student Loans",
   "provider": "Department of Employment and Workplace Relations",
-  "category": "loans",
+  "category": "tafe",
   "summary": "A Commonwealth loan that pays tuition for approved diploma, advanced diploma and some graduate VET courses, repaid through the tax system.",
   "key": "2026 maximum loan caps: Band 1 $6,428, Band 2 $12,858, Band 3 $19,290, and $96,467 for specific (Schedule 2) courses.",
   "numbers": [
@@ -58,6 +58,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },

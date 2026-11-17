@@ -22,7 +22,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Free",
@@ -36,5 +35,6 @@
       "url": "https://www.jmp.com/en/academic/jmp-student-edition",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

@@ -2,7 +2,7 @@
   "id": "gordon-accessible-scholarships",
   "name": "The Gordon Accessible Scholarships",
   "provider": "The Gordon",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Year-round scholarships for Gordon students who hit unexpected adversity during their studies.",
   "who": [
     "Gordon students experiencing unexpected adversity"
@@ -40,6 +40,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -56,5 +59,8 @@
       "url": "https://www.thegordon.edu.au/students/scholarships",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

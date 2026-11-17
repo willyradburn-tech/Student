@@ -2,7 +2,7 @@
   "id": "griffith-vice-chancellors-academic-achievement-scholarship",
   "name": "Vice Chancellor's Academic Achievement Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Cash scholarship for high-achieving school leavers starting their first Griffith undergraduate degree.",
   "key": "Cash (from $15,000) + Student Academy of Excellence offer + access to a travel grant.",
   "who": [
@@ -35,6 +35,11 @@
       "yes": [
         "griffith"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -51,5 +56,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

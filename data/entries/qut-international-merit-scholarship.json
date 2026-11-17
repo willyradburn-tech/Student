@@ -2,7 +2,7 @@
   "id": "qut-international-merit-scholarship",
   "name": "QUT International Merit Scholarship",
   "provider": "Queensland University of Technology",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Ongoing 25% tuition fee scholarship for high-achieving international students starting an undergraduate or postgraduate course at QUT.",
   "key": "You'll receive an ongoing scholarship to cover 25% of your tuition fees per semester of study at QUT",
   "who": [
@@ -60,5 +60,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

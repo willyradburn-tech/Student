@@ -2,7 +2,7 @@
   "id": "scu-gosling-electrical-engineering-scholarship",
   "name": "Gosling Electrical Scholarship for Engineering (SCU)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$15,000 over three years for a second-year SCU engineering student from, or willing to travel to, the Coffs Harbour region.",
   "key": "$15,000, paid as $5,000 per year for 3 years.",
   "who": [
@@ -59,5 +59,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-14"
+  "closes": "2027-02-14",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "tastafe-fee-concession",
   "name": "TasTAFE fee concession",
   "provider": "TasTAFE",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Reduced TasTAFE tuition fees on subsidised courses for students on Centrelink payments, Health Care Card holders and listed dependants.",
   "who": [
     "Receiving certain Centrelink allowances or pensions, such as Youth Allowance",
@@ -36,7 +36,7 @@
   "match": {
     "campus": {
       "yes": [
-        "other"
+        "tas"
       ]
     },
     "payment": {
@@ -50,6 +50,17 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -72,5 +83,8 @@
       "url": "https://www.concessions.tas.gov.au/concessions/education/tasmanian_polytechnic/tuition_fee_concession",
       "page_date": null
     }
+  ],
+  "states": [
+    "tas"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "ecu-cost-of-living-support-bursary",
   "name": "ECU Cost of Living Support Bursary",
   "provider": "Edith Cowan University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "An automatic cost-of-living bursary ECU offers to domestic students it identifies as likely to need support.",
   "who": [
     "Currently enrolled domestic student.",
@@ -34,7 +34,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "ecu"
       ]
     },
     "res": {
@@ -58,5 +58,9 @@
       "page_date": null
     }
   ],
-  "closes": "2026-12-31"
+  "closes": "2026-12-31",
+  "institution": "ecu",
+  "states": [
+    "wa"
+  ]
 }

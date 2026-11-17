@@ -2,7 +2,7 @@
   "id": "monash-undergraduate-accommodation-scholarship",
   "name": "Monash Undergraduate Accommodation Scholarship",
   "provider": "Monash University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A $2,587 accommodation scholarship for Monash undergraduates in financial hardship who will live in Monash University Accommodation.",
   "key": "$2,587, with 45 offered.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "monash"
       ]
     },
     "campus": {
@@ -49,6 +49,11 @@
         "citizen",
         "pr"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -59,5 +64,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "monash",
+  "states": [
+    "vic"
+  ]
 }

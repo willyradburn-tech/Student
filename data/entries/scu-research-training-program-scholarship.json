@@ -2,7 +2,7 @@
   "id": "scu-research-training-program-scholarship",
   "name": "Research Training Program (RTP) Scholarship at SCU",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A tax-free living stipend for full-time domestic research degree (HDR) candidates at Southern Cross University.",
   "key": "AU$35,550 per annum (2027 rate, indexed annually), paid tax-free and fortnightly.",
   "who": [
@@ -51,6 +51,14 @@
       "yes": [
         "full"
       ]
+    },
+    "level": {
+      "yes": [
+        "hdr"
+      ],
+      "maybe": [
+        "pg"
+      ]
     }
   },
   "evidence": [
@@ -74,5 +82,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-10-31"
+  "closes": "2026-10-31",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

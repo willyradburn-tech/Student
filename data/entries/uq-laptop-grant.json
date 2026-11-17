@@ -2,7 +2,7 @@
   "id": "uq-laptop-grant",
   "name": "UQ Laptop Grant",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "campus",
   "summary": "Financial assistance for UQ students whose laptop is damaged, broken or needs repair, so they can keep studying.",
   "who": [
     "UQ students whose laptop is damaged, broken, or in need of repair."
@@ -51,5 +51,9 @@
       "url": "https://my.uq.edu.au/information-and-services/student-support/financial-support/financial-support-overview/apply-financial-hardship-assistance",
       "page_date": null
     }
+  ],
+  "institution": "uq",
+  "states": [
+    "qld"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "griffith-john-willett-international-scholarship",
   "name": "Griffith John Willett International Scholarship (Master of Global Development)",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "50% tuition scholarship for students from listed Asian countries starting Griffith's Master of Global Development in Trimester 1 2028.",
   "key": "The Scholarship covers 50% of postgraduate coursework tuition fees only for the duration of the program.",
   "who": [
@@ -73,5 +73,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

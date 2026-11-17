@@ -2,7 +2,7 @@
   "id": "scu-opem-psychology-honours-scholarship",
   "name": "OPEM Psychology Honours Scholarship (SCU)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$1,000 for a full-time on-campus SCU psychology honours student, with preference for sustainability research.",
   "key": "$1,000.",
   "who": [
@@ -58,5 +58,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-14"
+  "closes": "2027-02-14",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

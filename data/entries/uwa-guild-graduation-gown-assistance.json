@@ -2,7 +2,7 @@
   "id": "uwa-guild-graduation-gown-assistance",
   "name": "UWA graduation gown assistance",
   "provider": "UWA Student Guild",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free graduation attire for UWA students in financial hardship who are eligible to graduate at the upcoming ceremony.",
   "who": [
     "UWA students eligible to graduate at the upcoming ceremony",
@@ -30,7 +30,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "uwa"
       ]
     }
   },
@@ -41,5 +41,9 @@
       "url": "https://www.uwastudentguild.com/support/topic/grants",
       "page_date": null
     }
+  ],
+  "institution": "uwa",
+  "states": [
+    "wa"
   ]
 }

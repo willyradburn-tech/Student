@@ -54,6 +54,15 @@
       "yes": [
         "yes"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
     }
   },
   "source": {

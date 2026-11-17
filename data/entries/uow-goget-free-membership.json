@@ -30,7 +30,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "uow"
       ]
     }
   },
@@ -41,5 +41,9 @@
       "url": "https://www.uow.edu.au/about/locations/wollongong/getting-to-campus/car-share",
       "page_date": null
     }
+  ],
+  "institution": "uow",
+  "states": [
+    "nsw"
   ]
 }

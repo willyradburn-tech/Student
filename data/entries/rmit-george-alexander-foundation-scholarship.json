@@ -2,7 +2,7 @@
   "id": "rmit-george-alexander-foundation-scholarship",
   "name": "George Alexander Foundation Scholarship (RMIT)",
   "provider": "RMIT University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $10,000 a year for high-achieving rural and regional students moving to Melbourne to start a bachelor degree at RMIT.",
   "key": "Up to $10,000 a year for up to three years. Seven offered.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "rmit"
       ]
     },
     "campus": {
@@ -52,6 +52,19 @@
     "away": {
       "yes": [
         "yes"
+      ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -70,5 +83,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-01-31"
+  "closes": "2027-01-31",
+  "institution": "rmit",
+  "states": [
+    "vic"
+  ]
 }

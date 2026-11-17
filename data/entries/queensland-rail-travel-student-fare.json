@@ -32,6 +32,11 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
     "load": {
       "yes": [
         "full"
@@ -60,5 +65,8 @@
       "url": "https://www.queenslandrailtravel.com.au/Planyourtrip/rail-fares/students",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld"
   ]
 }

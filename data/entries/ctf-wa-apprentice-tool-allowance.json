@@ -2,7 +2,7 @@
   "id": "ctf-wa-apprentice-tool-allowance",
   "name": "WA construction apprentice tool allowance",
   "provider": "Construction Training Fund WA",
-  "category": "tech",
+  "category": "tafe",
   "summary": "WA construction apprentices and trainees can claim back money spent on tools and safety gear at the start and end of training.",
   "key": "Up to $1,000 reimbursement at commencement and up to $1,000 at completion for tools or safety equipment.",
   "who": [
@@ -41,6 +41,7 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }
@@ -59,5 +60,8 @@
       "url": "https://ctf.wa.gov.au/funding/apprentice-tool-allowance",
       "page_date": null
     }
+  ],
+  "states": [
+    "wa"
   ]
 }

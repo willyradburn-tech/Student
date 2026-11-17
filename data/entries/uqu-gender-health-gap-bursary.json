@@ -2,7 +2,7 @@
   "id": "uqu-gender-health-gap-bursary",
   "name": "UQ Union Gender Health Gap Bursary",
   "provider": "UQ Union",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "One-off UQ Union bursary for UQ students facing financial difficulty with gender-related health costs, open all year.",
   "who": [
     "UQ students facing financial difficulty."
@@ -43,5 +43,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

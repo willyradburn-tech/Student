@@ -2,7 +2,7 @@
   "id": "griffith-laurenson-family-imagine-bursary",
   "name": "Laurenson Family Imagine Bursary",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $1,500 for female Griffith students in an arts or design and business dual degree.",
   "key": "Maximum value is $1,500, paid in instalments.",
   "who": [
@@ -47,6 +47,14 @@
       "yes": [
         "full"
       ]
+    },
+    "gender": {
+      "yes": [
+        "woman"
+      ],
+      "maybe": [
+        "nb"
+      ]
     }
   },
   "evidence": [
@@ -58,5 +66,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "griffith-mannu-kala-foundation-md-scholarship",
   "name": "Mannu Kala Foundation MD Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Full tuition for students facing educational disadvantage starting Griffith's Doctor of Medicine.",
   "key": "100% tuition fees for the duration of degree.",
   "who": [
@@ -58,5 +58,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

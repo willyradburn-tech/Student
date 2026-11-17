@@ -2,7 +2,7 @@
   "id": "vic-excess-electricity-concession",
   "name": "Victorian excess electricity concession",
   "provider": "Victorian Department of Families, Fairness and Housing",
-  "category": "health",
+  "category": "bills",
   "summary": "17.5% off the part of your yearly electricity costs above a high threshold, for Victorian Health Care Card holders.",
   "key": "17.5% of electricity usage and service costs above the annual threshold.",
   "who": [
@@ -36,6 +36,23 @@
       "yes": [
         "vic"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -45,5 +62,8 @@
       "url": "https://services.dffh.vic.gov.au/node/156",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

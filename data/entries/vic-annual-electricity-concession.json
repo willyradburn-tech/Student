@@ -2,7 +2,7 @@
   "id": "vic-annual-electricity-concession",
   "name": "Victorian annual electricity concession",
   "provider": "Victorian Department of Families, Fairness and Housing",
-  "category": "health",
+  "category": "bills",
   "summary": "17.5% off electricity usage and service costs for Victorian account holders with a Health Care Card.",
   "key": "17.5 per cent of electricity usage and service costs.",
   "who": [
@@ -31,6 +31,23 @@
       "yes": [
         "vic"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -52,5 +69,8 @@
       "url": "https://services.dffh.vic.gov.au/node/151",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

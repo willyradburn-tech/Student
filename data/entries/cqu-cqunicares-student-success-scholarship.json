@@ -2,7 +2,7 @@
   "id": "cqu-cqunicares-student-success-scholarship",
   "name": "CQUniCares Student Success Scholarship",
   "provider": "CQUniversity",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Donor-funded scholarship for CQUniversity students whose financial circumstances are affecting their study.",
   "key": "Up to $5,000, paid per term by study load.",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "cqu"
       ]
     },
     "res": {
@@ -72,5 +72,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "closed"
+  "closes": "closed",
+  "institution": "cqu",
+  "states": [
+    "qld"
+  ]
 }

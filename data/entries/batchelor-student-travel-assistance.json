@@ -2,7 +2,7 @@
   "id": "batchelor-student-travel-assistance",
   "name": "Batchelor Institute workshop travel, accommodation and meals",
   "provider": "Batchelor Institute of Indigenous Tertiary Education",
-  "category": "transport",
+  "category": "tafe",
   "summary": "Travel, accommodation and meals covered for Indigenous Batchelor students on ABSTUDY attending study workshops at Batchelor or Alice Springs.",
   "key": "Cost of Travel, accommodation and meals are covered for the duration of the workshop.",
   "who": [
@@ -37,6 +37,11 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "nt"
+      ]
+    },
     "atsi": {
       "yes": [
         "yes"
@@ -50,6 +55,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -66,5 +74,8 @@
       "url": "https://batchelor.edu.au/students/student-travel",
       "page_date": null
     }
+  ],
+  "states": [
+    "nt"
   ]
 }

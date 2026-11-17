@@ -2,7 +2,7 @@
   "id": "griffith-student-guild-tuesday-cook-up",
   "name": "Student Guild Tuesday Cook Up",
   "provider": "Griffith University Gold Coast Student Guild",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free dinner for Gold Coast students every Tuesday night, cooked by the Student Guild.",
   "how": [
     "Just show up at The Deck (G07); no registration needed."
@@ -40,5 +40,9 @@
       "url": "https://gugcstudentguild.com.au/food-support/",
       "page_date": null
     }
+  ],
+  "institution": "griffith",
+  "states": [
+    "qld"
   ]
 }

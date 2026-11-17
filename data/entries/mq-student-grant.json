@@ -2,7 +2,7 @@
   "id": "mq-student-grant",
   "name": "Macquarie University Student Grant",
   "provider": "Macquarie University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Non-repayable grant for onshore Macquarie students toward study costs and, in some cases, living expenses.",
   "key": "Up to $2,000, or up to $500 for a computer; grants do not need to be repaid.",
   "who": [
@@ -32,7 +32,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "mq"
       ]
     },
     "campus": {
@@ -49,5 +49,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "mq",
+  "states": [
+    "nsw"
+  ]
 }

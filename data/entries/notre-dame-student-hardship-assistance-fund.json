@@ -2,7 +2,7 @@
   "id": "notre-dame-student-hardship-assistance-fund",
   "name": "Notre Dame Student Hardship Assistance Fund",
   "provider": "University of Notre Dame Australia",
-  "category": "uni",
+  "category": "campus",
   "summary": "One-off grants of $250 to $1,000 for Notre Dame students hit by an unforeseen hardship.",
   "key": "Grants of between $250 and $1000 are available to eligible students.",
   "who": [
@@ -37,7 +37,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "notredame"
       ]
     }
   },
@@ -48,5 +48,9 @@
       "url": "https://www.notredame.edu.au/study/fees-costs-and-scholarships/financial-assistance/financial-hardship-support",
       "page_date": null
     }
+  ],
+  "institution": "notredame",
+  "states": [
+    "wa"
   ]
 }

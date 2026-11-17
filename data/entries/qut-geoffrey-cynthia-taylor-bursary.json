@@ -2,7 +2,7 @@
   "id": "qut-geoffrey-cynthia-taylor-bursary",
   "name": "Geoffrey and Cynthia Taylor Bursary",
   "provider": "QUT",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A bursary for continuing Aboriginal and Torres Strait Islander QUT students studying full time.",
   "key": "Valued at $1,000.",
   "who": [
@@ -68,5 +68,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

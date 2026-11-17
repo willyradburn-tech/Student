@@ -2,7 +2,7 @@
   "id": "tas-taswater-concession",
   "name": "TasWater water and sewerage concession",
   "provider": "Tasmanian Government",
-  "category": "health",
+  "category": "bills",
   "summary": "Government-funded discount on TasWater bills for concession cardholders who are responsible for the account.",
   "key": "Eligible TasWater customers can receive a Tasmanian Government funded discount of up to $249.43 ($124.72 for water charges and $124.72 for sewerage charges) for the 2026-27 financial year.",
   "who": [
@@ -30,7 +30,24 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "tas"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -47,5 +64,8 @@
       "url": "https://www.concessions.tas.gov.au/browse-categories/property,-water-and-land-tax",
       "page_date": null
     }
+  ],
+  "states": [
+    "tas"
   ]
 }

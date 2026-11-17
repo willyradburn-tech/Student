@@ -2,7 +2,7 @@
   "id": "tas-apprentice-travel-accommodation-contribution",
   "name": "Tasmanian apprentice travel and accommodation contribution",
   "provider": "Skills Tasmania",
-  "category": "payments",
+  "category": "tafe",
   "summary": "Skills Tasmania contributes to travel and accommodation costs for Tasmanian apprentices and trainees who travel to training.",
   "key": "41 cents per km road travel (21 km or more one way) and $55 per night accommodation ($100 interstate).",
   "who": [
@@ -31,11 +31,12 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "tas"
       ]
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }
@@ -59,5 +60,8 @@
       "url": "https://www.skills.tas.gov.au/__data/assets/pdf_file/0017/602522/Travel-and-Accommodation-Contribution-Policy-and-Payment-Rates.pdf",
       "page_date": "2025-09-01"
     }
+  ],
+  "states": [
+    "tas"
   ]
 }

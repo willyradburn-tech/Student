@@ -24,7 +24,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "One year",
@@ -38,5 +37,6 @@
       "url": "https://lumion.com/product/educational-licenses",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

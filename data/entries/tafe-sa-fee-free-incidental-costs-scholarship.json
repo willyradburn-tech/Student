@@ -2,7 +2,7 @@
   "id": "tafe-sa-fee-free-incidental-costs-scholarship",
   "name": "TAFE SA Fee Free TAFE Incidental Costs Scholarship",
   "provider": "TAFE SA",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Up to $185 towards equipment, clothing and other incidental costs for concession card holders in hardship doing a TAFE SA Fee Free course.",
   "key": "You can apply for up to $185.00 for incidental costs associated with a FFT course over the life of the course.",
   "who": [
@@ -37,12 +37,23 @@
   "match": {
     "campus": {
       "yes": [
-        "other"
+        "sa"
       ]
     },
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -65,5 +76,8 @@
       "url": "https://www.tafesa.edu.au/apply-enrol/before-starting/scholarships-grants/fee-free-tafe-incidental-costs",
       "page_date": null
     }
+  ],
+  "states": [
+    "sa"
   ]
 }

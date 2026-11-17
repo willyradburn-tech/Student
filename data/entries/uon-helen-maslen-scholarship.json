@@ -2,7 +2,7 @@
   "id": "uon-helen-maslen-scholarship",
   "name": "Helen Maslen Scholarship",
   "provider": "University of Newcastle",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Scholarship for UON students who have come to higher education as part of surviving domestic violence.",
   "key": "A benefit of $5,000, paid as $2,500 each semester.",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "newcastle"
       ]
     }
   },
@@ -60,5 +60,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-03-03"
+  "closes": "2027-03-03",
+  "institution": "newcastle",
+  "states": [
+    "nsw"
+  ]
 }

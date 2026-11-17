@@ -2,7 +2,7 @@
   "id": "uq-roger-trundle-memorial-scholarship",
   "name": "Roger Trundle Memorial Scholarship (UQ)",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Two-year scholarship for UQ civil engineering students facing financial, educational, geographic or cultural disadvantage.",
   "key": "$15,000 per year for up to 2 years.",
   "who": [
@@ -70,5 +70,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

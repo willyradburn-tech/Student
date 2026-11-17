@@ -33,6 +33,23 @@
       "yes": [
         "act"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -42,5 +59,8 @@
       "url": "https://esa.act.gov.au/about-esa-emergency-services/ambulance/fees-and-charges",
       "page_date": null
     }
+  ],
+  "states": [
+    "act"
   ]
 }

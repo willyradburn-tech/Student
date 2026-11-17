@@ -2,7 +2,7 @@
   "id": "unimelb-umsu-union-mart",
   "name": "UMSU Union Mart free food and groceries",
   "provider": "University of Melbourne Student Union",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free food, drink and household products for all University of Melbourne students at Parkville and Southbank.",
   "who": [
     "All University of Melbourne students."
@@ -32,7 +32,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unimelb"
       ]
     },
     "campus": {
@@ -48,5 +48,9 @@
       "url": "https://umsu.unimelb.edu.au/support/help-advice/",
       "page_date": null
     }
+  ],
+  "institution": "unimelb",
+  "states": [
+    "vic"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "gordon-jump-start-scholarships",
   "name": "The Gordon Jump Start Scholarships (Round 1)",
   "provider": "The Gordon",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Scholarships for students in financial hardship starting a Gordon course via early offer rounds; Gordon scholarships range from $500 to $7,000.",
   "key": "The Gordon's Scholarships range in value from $500 to $7000.",
   "who": [
@@ -47,6 +47,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -75,5 +78,8 @@
       "url": "https://www.thegordon.edu.au/students/scholarships",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

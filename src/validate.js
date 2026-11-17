@@ -29,6 +29,16 @@ function validateEntry(e, categoryIds, where) {
   if (e.kind !== undefined && !Hub.KINDS.includes(e.kind)) at("kind must be one of " + Hub.KINDS.join(", "));
   if (e.claim !== undefined && !Hub.CLAIMS.includes(e.claim)) at("claim must be one of " + Hub.CLAIMS.join(", "));
   if (e.cost !== undefined && !Hub.COSTS.includes(e.cost)) at("cost must be one of " + Hub.COSTS.join(", "));
+  if (e.vlabel !== undefined && !["You get", "You pay", "You save", "Cost"].includes(e.vlabel)) at('vlabel must be "You get", "You pay", "You save" or "Cost"');
+  if (e.institution !== undefined && !Hub.INST_NAME[e.institution]) at("institution " + e.institution + " is not in the institution list in shared.js");
+  if (e.states !== undefined && !(Array.isArray(e.states) && e.states.every((x) => Hub.STATES.some((s) => s[0] === x)))) at("states must be a list of state ids such as qld or nsw");
+  if (e.openToAll !== undefined && e.openToAll !== true) at("openToAll can only be true");
+  if (!Object.keys(e.match || {}).length && !e.openToAll) at("add at least one match rule, or set openToAll to true if any student can claim it");
+  if (e.openToAll && Object.keys(e.match || {}).length) at("openToAll entries should have no match rules");
+  if (e.affiliate !== undefined) {
+    if (!e.affiliate || !/^https:\/\//.test(e.affiliate.url || "")) at("affiliate.url must be an https link");
+    if (e.kind === "Government" || e.kind === "Uni" || ["payments", "loans", "tax", "scholarships", "campus", "tafe", "bills"].includes(e.category)) at("affiliate links are never allowed on government, uni or study-support entries");
+  }
   if (e.value !== undefined && (typeof e.value !== "string" || e.value.length > 24)) at("value must be a short string such as \"Free\" or \"$1,000\"");
   LIST_FIELDS.forEach((k) => {
     if (e[k] !== undefined && !(Array.isArray(e[k]) && e[k].every((x) => typeof x === "string"))) at(k + " must be a list of sentences");

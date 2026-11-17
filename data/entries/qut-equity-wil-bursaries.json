@@ -2,7 +2,7 @@
   "id": "qut-equity-wil-bursaries",
   "name": "QUT Equity Work Integrated Learning (WIL) Bursaries",
   "provider": "QUT",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Help with the costs of a mandatory placement for QUT students in financial hardship, including a relocation bursary.",
   "key": "Valued at up to AU$3,000, paid once, with the amount depending on the bursary type.",
   "who": [
@@ -60,5 +60,9 @@
       "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0003/1557093/qut-equity-work-integrated-learning-bursaries-terms-and-conditions.pdf",
       "page_date": null
     }
+  ],
+  "institution": "qut",
+  "states": [
+    "qld"
   ]
 }

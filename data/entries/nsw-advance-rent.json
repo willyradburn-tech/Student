@@ -32,6 +32,15 @@
       "yes": [
         "nsw"
       ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
     }
   },
   "evidence": [
@@ -47,5 +56,8 @@
       "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rentstart-bond-loan-factsheet-for-clients",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

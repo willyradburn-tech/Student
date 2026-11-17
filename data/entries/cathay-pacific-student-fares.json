@@ -32,7 +32,6 @@
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
-  "match": {},
   "evidence": [
     {
       "claim": "Up to 10% off",
@@ -46,5 +45,6 @@
       "url": "https://flights.cathaypacific.com/en_AU/offers/student-flights.html",
       "page_date": null
     }
-  ]
+  ],
+  "openToAll": true
 }

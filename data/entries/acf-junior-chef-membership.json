@@ -2,7 +2,7 @@
   "id": "acf-junior-chef-membership",
   "name": "Australian Culinary Federation Junior Chef membership",
   "provider": "Australian Culinary Federation",
-  "category": "career",
+  "category": "tafe",
   "summary": "Discounted chef association membership for apprentice and student chefs and pastry chefs.",
   "key": "Junior Chef Member $44 + GST (also Junior Pastry Chef Member $44 + GST).",
   "who": [
@@ -30,8 +30,14 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "vic"
+      ]
+    },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }
@@ -49,5 +55,8 @@
       "url": "https://memberships.austculinary.com.au",
       "page_date": null
     }
+  ],
+  "states": [
+    "vic"
   ]
 }

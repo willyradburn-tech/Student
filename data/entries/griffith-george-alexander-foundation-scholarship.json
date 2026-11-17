@@ -2,7 +2,7 @@
   "id": "griffith-george-alexander-foundation-scholarship",
   "name": "George Alexander Foundation Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $30,000 over three years for recent school leavers relocating to study a Griffith undergraduate degree.",
   "key": "From 2027 the maximum value is $30,000, paid in instalments over a maximum of three years.",
   "who": [
@@ -53,6 +53,11 @@
       "yes": [
         "full"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -69,5 +74,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

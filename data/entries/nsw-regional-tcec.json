@@ -60,7 +60,17 @@
         "vic",
         "wa",
         "act",
-        "other"
+        "sa",
+        "tas",
+        "nt"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },

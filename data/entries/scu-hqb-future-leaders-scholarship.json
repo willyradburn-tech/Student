@@ -2,7 +2,7 @@
   "id": "scu-hqb-future-leaders-scholarship",
   "name": "HQB Future Leaders Scholarship (SCU Business)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$5,000 for an SCU Bachelor of Business student starting their final year with a credit average or better.",
   "key": "$5,000 for one year.",
   "who": [
@@ -42,6 +42,11 @@
       "yes": [
         "business"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -59,5 +64,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-14"
+  "closes": "2027-02-14",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "tas-driver-licence-concession",
   "name": "Tasmanian driver licence concession",
   "provider": "Tasmanian Government",
-  "category": "transport",
+  "category": "bills",
   "summary": "Cheaper full driver licence fees in Tasmania for concession cardholders under 65, including Health Care Card holders.",
   "who": [
     "Eligible applicants aged under 65 years with an eligible concession card; the Services Australia Health Care Card is shown as eligible"
@@ -26,7 +26,24 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "tas"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -49,5 +66,8 @@
       "url": "https://www.concessions.tas.gov.au/browse-categories/licences",
       "page_date": null
     }
+  ],
+  "states": [
+    "tas"
   ]
 }

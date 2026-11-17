@@ -52,6 +52,12 @@
       "maybe": [
         "pr"
       ]
+    },
+    "uni": {
+      "no": [
+        "tafe",
+        "apprentice"
+      ]
     }
   },
   "source": {

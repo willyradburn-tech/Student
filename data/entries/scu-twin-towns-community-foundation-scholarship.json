@@ -2,7 +2,7 @@
   "id": "scu-twin-towns-community-foundation-scholarship",
   "name": "Twin Towns Services Community Foundation Scholarship (SCU Gold Coast)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$5,000 for a Tweed or Gold Coast resident starting a full-time bachelor degree at SCU's Gold Coast campus.",
   "key": "$5,000 per scholarship for one year.",
   "who": [
@@ -56,6 +56,11 @@
         "citizen",
         "pr"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -73,5 +78,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-14"
+  "closes": "2027-02-14",
+  "institution": "scu",
+  "states": [
+    "qld"
+  ]
 }

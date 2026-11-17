@@ -2,7 +2,7 @@
   "id": "uq-bert-vera-thiess-civil-engineering-scholarship",
   "name": "Bert and Vera Thiess Scholarship in Civil Engineering (UQ)",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "One-year scholarship for full-time domestic UQ engineering students who can show financial need.",
   "key": "$20,000 for 1 year.",
   "who": [
@@ -74,5 +74,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "nsw-fee-free-training",
   "name": "NSW Fee-Free TAFE and Fee Free training",
   "provider": "NSW Government (Skills NSW) and TAFE NSW",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Tuition-free priority courses at TAFE NSW and other Smart and Skilled providers for eligible NSW residents.",
   "key": "Skills NSW provides fully subsidised training to gain skills in Australia's growing industries.",
   "who": [
@@ -44,6 +44,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -60,5 +63,8 @@
       "url": "https://www.tafensw.edu.au/fee-free",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

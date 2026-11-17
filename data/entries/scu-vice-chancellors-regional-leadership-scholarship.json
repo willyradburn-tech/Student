@@ -2,7 +2,7 @@
   "id": "scu-vice-chancellors-regional-leadership-scholarship",
   "name": "SCU Vice Chancellor's Regional Leadership Scholarship",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "$50,000 offered automatically to the top 10 regional school leavers with an ATAR of 90 or more starting full-time at SCU.",
   "key": "$50,000.",
   "who": [
@@ -49,6 +49,14 @@
         "nsw",
         "qld"
       ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -65,5 +73,10 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "scu",
+  "states": [
+    "nsw",
+    "qld"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "wsu-free-community-meals",
   "name": "WSU Free Community Dinners and Breakfasts",
   "provider": "Western Sydney University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free weekly community dinners and breakfasts on WSU campuses during semester.",
   "who": [
     "All Western Sydney University students"
@@ -34,7 +34,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "wsu"
       ]
     },
     "campus": {
@@ -50,5 +50,9 @@
       "url": "https://www.westernsydney.edu.au/students/support/food-security-programs",
       "page_date": null
     }
+  ],
+  "institution": "wsu",
+  "states": [
+    "nsw"
   ]
 }

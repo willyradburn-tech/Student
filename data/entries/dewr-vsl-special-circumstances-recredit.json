@@ -2,7 +2,7 @@
   "id": "dewr-vsl-special-circumstances-recredit",
   "name": "VET Student Loans re-credit for special circumstances",
   "provider": "Department of Employment and Workplace Relations",
-  "category": "loans",
+  "category": "tafe",
   "summary": "If circumstances beyond your control stopped you finishing VET units, you can ask your provider to re-credit the VET Student Loan for them.",
   "who": [
     "VET Student Loans students whose studies were stopped by circumstances beyond their control that began or got worse after the census day."
@@ -35,6 +35,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },

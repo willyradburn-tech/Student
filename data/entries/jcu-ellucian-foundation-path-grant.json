@@ -2,7 +2,7 @@
   "id": "jcu-ellucian-foundation-path-grant",
   "name": "Ellucian Foundation PATH Grant (JCU)",
   "provider": "James Cook University",
-  "category": "uni",
+  "category": "campus",
   "summary": "A $1,500 grant for full-time JCU bachelor students at risk of dropping out after recent financial hardship.",
   "key": "The grant value is $1,500.",
   "who": [
@@ -37,12 +37,17 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "jcu"
       ]
     },
     "load": {
       "yes": [
         "full"
+      ]
+    },
+    "level": {
+      "yes": [
+        "ug"
       ]
     }
   },
@@ -60,5 +65,9 @@
       "page_date": null
     }
   ],
-  "closes": "2026-10-30"
+  "closes": "2026-10-30",
+  "institution": "jcu",
+  "states": [
+    "qld"
+  ]
 }

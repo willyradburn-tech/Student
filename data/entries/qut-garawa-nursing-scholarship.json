@@ -2,7 +2,7 @@
   "id": "qut-garawa-nursing-scholarship",
   "name": "Garawa Nursing Scholarship",
   "provider": "QUT",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Covers the costs of a rural or remote Northern Territory nursing placement for Aboriginal and Torres Strait Islander QUT students.",
   "key": "Awarded to the value of $5,000, spent first on placement travel and accommodation.",
   "who": [
@@ -53,6 +53,14 @@
       "yes": [
         "yes"
       ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -69,5 +77,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "qut",
+  "states": [
+    "qld"
+  ]
 }

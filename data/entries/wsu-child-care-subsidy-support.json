@@ -2,7 +2,7 @@
   "id": "wsu-child-care-subsidy-support",
   "name": "Western Sydney University Child Care Subsidy Support",
   "provider": "Western Sydney University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Financial help with childcare fees for WSU student parents and carers who meet the financial assistance criteria.",
   "who": [
     "Meets Financial Assistance criteria",
@@ -33,12 +33,20 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "wsu"
       ]
     },
     "campus": {
       "yes": [
         "nsw"
+      ]
+    },
+    "parent": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -49,5 +57,9 @@
       "url": "https://www.westernsydney.edu.au/students/services-and-facilities/student-welfare-services/financial-support",
       "page_date": null
     }
+  ],
+  "institution": "wsu",
+  "states": [
+    "nsw"
   ]
 }

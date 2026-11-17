@@ -2,7 +2,7 @@
   "id": "scu-elite-athlete-performer-program",
   "name": "SCU Elite Athlete and Performer Program",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Study flexibility and case-by-case grants for travel, registration and competition costs for elite athletes and performers at SCU.",
   "who": [
     "Athletes identified as elite by a listed body, such as a state academy or institute of sport or a national senior squad.",
@@ -48,5 +48,9 @@
       "url": "https://www.scu.edu.au/current-students/unilife/elite-athletes-and-performers/",
       "page_date": null
     }
+  ],
+  "institution": "scu",
+  "states": [
+    "nsw"
   ]
 }

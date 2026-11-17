@@ -2,7 +2,7 @@
   "id": "uqu-gender-affirmation-bursary",
   "name": "UQ Union Gender Affirmation Bursary",
   "provider": "UQ Union",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "One-off UQ Union bursary to help UQ students with gender affirmation costs, open all year.",
   "who": [
     "UQ students facing financial difficulty."
@@ -44,5 +44,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

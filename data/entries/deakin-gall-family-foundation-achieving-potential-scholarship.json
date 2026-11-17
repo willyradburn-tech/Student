@@ -2,7 +2,7 @@
   "id": "deakin-gall-family-foundation-achieving-potential-scholarship",
   "name": "Gall Family Foundation Achieving Potential Scholarship (Deakin Warrnambool)",
   "provider": "Deakin University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $30,000 for domestic students facing hardship who start a bachelor degree on campus at Deakin Warrnambool.",
   "key": "$10,000 a year for three years or $7,500 a year for four, $30,000 in total.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "deakin"
       ]
     },
     "campus": {
@@ -49,6 +49,11 @@
         "citizen",
         "pr"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -60,5 +65,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2026-12-16"
+  "closes": "2026-12-16",
+  "institution": "deakin",
+  "states": [
+    "vic"
+  ]
 }

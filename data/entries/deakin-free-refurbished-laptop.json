@@ -2,7 +2,7 @@
   "id": "deakin-free-refurbished-laptop",
   "name": "Deakin free refurbished laptop",
   "provider": "Deakin University",
-  "category": "uni",
+  "category": "campus",
   "summary": "A free refurbished laptop with a 12-month warranty for Deakin students in financial difficulty.",
   "key": "A refurbished laptop at no cost, with a 12-month warranty.",
   "who": [
@@ -36,7 +36,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "deakin"
       ]
     },
     "campus": {
@@ -52,5 +52,9 @@
       "url": "https://www.deakin.edu.au/students/enrolment-and-fees/financial-assistance/financial-support",
       "page_date": null
     }
+  ],
+  "institution": "deakin",
+  "states": [
+    "vic"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "uon-indigenous-accommodation-scholarship",
   "name": "University of Newcastle Indigenous Accommodation Scholarship",
   "provider": "University of Newcastle",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Commonwealth-funded scholarship for Aboriginal and Torres Strait Islander students relocating from remote, rural or regional areas to study at UON.",
   "key": "A total benefit of up to $5500, paid in two equal instalments of $2750.",
   "who": [
@@ -37,7 +37,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "newcastle"
       ]
     },
     "atsi": {
@@ -48,6 +48,14 @@
     "away": {
       "yes": [
         "yes"
+      ]
+    },
+    "regional": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -72,5 +80,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-03-03"
+  "closes": "2027-03-03",
+  "institution": "newcastle",
+  "states": [
+    "nsw"
+  ]
 }

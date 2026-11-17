@@ -2,7 +2,7 @@
   "id": "griffith-free-counselling",
   "name": "Griffith counselling and wellbeing services",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free, confidential counselling for enrolled Griffith students, plus a 24/7 mental wellbeing support line.",
   "key": "Free and confidential counselling, plus the 24/7 Mental Wellbeing Support Line on 1300 785 442.",
   "who": [
@@ -44,5 +44,9 @@
       "url": "https://student.griffith.edu.au/student-support/counselling",
       "page_date": null
     }
+  ],
+  "institution": "griffith",
+  "states": [
+    "qld"
   ]
 }

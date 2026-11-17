@@ -37,10 +37,17 @@
       "maybe": [
         "pr"
       ]
+    },
+    "uni": {
+      "no": [
+        "tafe",
+        "apprentice"
+      ]
     }
   },
   "source": {
     "url": "https://www.studyassist.gov.au/download/246/2026-sa-help-fact-sheet/213/document/pdf",
     "label": "Study Assist: 2026 SA-HELP fact sheet"
-  }
+  },
+  "states": []
 }

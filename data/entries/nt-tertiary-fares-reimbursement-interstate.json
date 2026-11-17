@@ -37,7 +37,7 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "nt"
       ]
     },
     "load": {
@@ -48,6 +48,15 @@
     "away": {
       "yes": [
         "yes"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
       ]
     }
   },
@@ -64,5 +73,8 @@
       "url": "https://nt.gov.au/learning/student-financial-help-and-scholarships/financial-help-for-isolated-students/tertiary-fares-reimbursement-schemes/tertiary-fares-reimbursement-interstate",
       "page_date": null
     }
+  ],
+  "states": [
+    "nt"
   ]
 }

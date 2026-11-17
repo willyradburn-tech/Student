@@ -44,6 +44,14 @@
       "yes": [
         "scu"
       ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
+      ]
     }
   },
   "evidence": [
@@ -65,5 +73,10 @@
       "url": "https://www.scu.edu.au/health-clinic/",
       "page_date": null
     }
-  ]
+  ],
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ],
+  "value": "Free"
 }

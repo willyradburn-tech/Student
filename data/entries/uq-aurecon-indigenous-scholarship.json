@@ -2,7 +2,7 @@
   "id": "uq-aurecon-indigenous-scholarship",
   "name": "Aurecon Indigenous Scholarship (UQ)",
   "provider": "University of Queensland and Aurecon",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Annual scholarship for full-time Aboriginal and Torres Strait Islander UQ coursework students in financial need.",
   "key": "At least $8,000 per year.",
   "who": [
@@ -63,5 +63,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-26"
+  "closes": "2027-02-26",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

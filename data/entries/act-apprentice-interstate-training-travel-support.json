@@ -2,7 +2,7 @@
   "id": "act-apprentice-interstate-training-travel-support",
   "name": "ACT interstate training travel support for apprentices",
   "provider": "Skills Canberra",
-  "category": "payments",
+  "category": "tafe",
   "summary": "ACT apprentices whose qualification needs interstate block training can claim travel support after returning.",
   "how": [
     "Email a signed and stamped Application for Interstate Training Travel Support form to skills@act.gov.au."
@@ -37,6 +37,7 @@
     },
     "uni": {
       "yes": [
+        "apprentice",
         "tafe"
       ]
     }
@@ -48,5 +49,8 @@
       "url": "https://www.act.gov.au/skills/students/australian-apprenticeships",
       "page_date": null
     }
+  ],
+  "states": [
+    "act"
   ]
 }

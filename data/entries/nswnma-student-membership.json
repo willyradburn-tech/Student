@@ -28,6 +28,11 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "nsw"
+      ]
+    },
     "field": {
       "yes": [
         "care"
@@ -41,5 +46,8 @@
       "url": "https://www.nswnma.asn.au/nswnmamembers/student-membership",
       "page_date": null
     }
+  ],
+  "states": [
+    "nsw"
   ]
 }

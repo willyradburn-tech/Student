@@ -2,7 +2,7 @@
   "id": "uon-shaping-futures-scholarship",
   "name": "University of Newcastle Shaping Futures Scholarship",
   "provider": "University of Newcastle",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Lump-sum scholarship for full-time UON undergraduates affected by educational disadvantage.",
   "key": "A benefit of $5000 to be paid as a lump sum.",
   "who": [
@@ -37,7 +37,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "newcastle"
       ]
     },
     "res": {
@@ -73,5 +73,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-03-03"
+  "closes": "2027-03-03",
+  "institution": "newcastle",
+  "states": [
+    "nsw"
+  ]
 }

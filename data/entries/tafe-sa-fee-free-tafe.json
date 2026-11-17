@@ -2,7 +2,7 @@
   "id": "tafe-sa-fee-free-tafe",
   "name": "TAFE SA Fee Free TAFE courses",
   "provider": "TAFE SA",
-  "category": "loans",
+  "category": "tafe",
   "summary": "Tuition-free TAFE SA places for students new to the course, jointly funded by the Australian and South Australian governments.",
   "key": "Fee Free TAFE covers the tuition fee of the course.",
   "who": [
@@ -31,12 +31,15 @@
   "match": {
     "campus": {
       "yes": [
-        "other"
+        "sa"
       ]
     },
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -59,5 +62,8 @@
       "url": "https://www.tafesa.edu.au/courses/fee-free-tafe-courses",
       "page_date": null
     }
+  ],
+  "states": [
+    "sa"
   ]
 }

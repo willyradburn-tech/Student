@@ -2,7 +2,7 @@
   "id": "unsw-arc-financial-counselling",
   "name": "Arc UNSW Financial Counselling",
   "provider": "Arc UNSW Student Life",
-  "category": "uni",
+  "category": "campus",
   "summary": "Free financial counselling for Arc members on budgeting, debt and planning.",
   "key": "Free for Arc members.",
   "who": [
@@ -29,7 +29,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unsw"
       ]
     },
     "campus": {
@@ -45,5 +45,9 @@
       "url": "https://www.unsw.edu.au/student/support/financial-support",
       "page_date": null
     }
+  ],
+  "institution": "unsw",
+  "states": [
+    "nsw"
   ]
 }

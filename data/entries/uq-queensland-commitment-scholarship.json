@@ -2,7 +2,7 @@
   "id": "uq-queensland-commitment-scholarship",
   "name": "UQ Queensland Commitment Scholarship",
   "provider": "University of Queensland",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Living-cost scholarship for new UQ undergraduates who get the maximum Financial Hardship adjustment through QTAC's Educational Access Scheme.",
   "key": "The Queensland Commitment Scholarship provides $7,000 per year to help with living costs while you study full time.",
   "who": [
@@ -68,5 +68,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "uq",
+  "states": [
+    "qld"
+  ]
 }

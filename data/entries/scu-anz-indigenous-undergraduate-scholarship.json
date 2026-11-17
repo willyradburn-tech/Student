@@ -2,7 +2,7 @@
   "id": "scu-anz-indigenous-undergraduate-scholarship",
   "name": "ANZ Indigenous Undergraduate Scholarship (SCU)",
   "provider": "Southern Cross University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "A $15,000 scholarship for a full-time Aboriginal or Torres Strait Islander undergraduate student at Southern Cross University.",
   "key": "$15,000.",
   "who": [
@@ -56,6 +56,11 @@
       "yes": [
         "full"
       ]
+    },
+    "level": {
+      "yes": [
+        "ug"
+      ]
     }
   },
   "evidence": [
@@ -73,5 +78,9 @@
     }
   ],
   "cap": "maybe",
-  "closes": "2027-02-14"
+  "closes": "2027-02-14",
+  "institution": "scu",
+  "states": [
+    "nsw"
+  ]
 }

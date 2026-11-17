@@ -38,14 +38,19 @@ Each concession is one file in `data/entries/`. The file name must match its `id
 | `source`, `extra_sources` | Official pages: `{ "url": "https://…", "label": "…" }`. |
 | `status` | `verified`, `rechecking` or `unverified`. |
 | `verified` | The date it was last checked, as `YYYY-MM-DD`. |
-| `cadence` | `high` (14 days), `medium` (30) or `low` (90). Sets the next-check date. |
+| `cadence` | `high` (45 days), `medium` (90) or `low` (180). Sets the next-check date. |
+| `institution` | The one university the entry belongs to (an id from `INSTITUTIONS` in `src/assets/shared.js`). Drives the by-university pages. |
+| `states` | States the entry covers, for example `["qld"]`. Empty or missing means national. |
+| `vlabel` | `You get`, `You pay`, `You save` or `Cost`. Overrides the guessed label on the card. |
+| `openToAll` | `true` for entries with no eligibility rules. Use it instead of `match`. |
+| `affiliate` | `{ "url", "text" }`. Never allowed on government, university or study-support entries. |
 | `review` | `approved` puts it on the public site. Anything else keeps it as a draft. |
 | `match`, `cap` | Rules for the "What could you get?" questions. See below. |
 | `tags` | Extra search words, such as `["opal", "train"]`. |
 
 ### Matching rules
 
-Each key in `match` is one of the questions: `state` (where you live), `campus` (where you study), `age`, `load`, `res`, `uni`, `field`, `payment`, `away`, `prac`, `atsi`. Use `campus` for city transport concessions and `state` for anything that depends on where you live.
+Each key in `match` is one of the questions: `state` (where you live), `campus` (where you study), `age`, `load`, `res`, `uni`, `field`, `payment`, `away`, `prac`, `atsi`, `level`, `year`, `hcc`, `regional`, `disability`, `parent`, `gender`. `uni` takes a university id, `tafe`, `apprentice` or `other`. Every entry needs `match` rules or `openToAll`. Use `campus` for city transport concessions and `state` for anything that depends on where you live.
 
 ```json
 "match": {
@@ -97,7 +102,11 @@ build.js               turns the above into dist/ or preview/
 
 ## Keeping the data current
 
-A scheduled task rechecks the most overdue entries three times a week by following `scripts/RECHECK.md` (`due.js --brief --limit 25`, one page fetch each, then `scripts/recheck.js`). Changed or missing offers become "rechecking" and stay live as "Might apply" until you review them in `research/recheck-log.md`. Recheck intervals: high 45 days, medium 90, low 180.
+A scheduled task rechecks the most overdue entries three times a week by following `scripts/RECHECK.md` (`due.js --brief --limit 25`, one page fetch each, then `scripts/recheck.js`). Changed or missing offers become "rechecking" and stay live as "Might apply" until you review them in `research/recheck-log.md`. Recheck intervals: high 45 days, medium 90, low 180. Entries past their date show "Recheck due" on the site until they are checked.
+
+The weekly link check (`.github/workflows/link-check.yml`) is separate. It only tests that source pages and the live site respond.
+
+To preview drafts and the review queue, run `node build.js --preview`.
 
 
 The entry files in `data/entries/` are the only source of truth. Every tool reads and writes them.
@@ -105,7 +114,9 @@ The entry files in `data/entries/` are the only source of truth. Every tool read
 ```
 node scripts/due.js              list entries due for a recheck (or not yet verified)
 node scripts/due.js --json       those entries as JSON, to paste into the research prompt in VERIFY mode
-node scripts/due.js --sheet      the same claims as CSV rows for the Gemini sheet's Requests tab
+node scripts/check-links.js      check every source page still loads (also run weekly by GitHub Actions)
+npm test                         matcher, search, schema and build tests (run by CI on every push)
+node scripts/migrate-v2.js       the one-off migration to the v2 schema; kept for reference
 node scripts/merge.js out.json   preview what a research agent's output would change
 node scripts/merge.js out.json --write   save it
 ```
@@ -113,7 +124,7 @@ node scripts/merge.js out.json --write   save it
 `merge.js` checks every entry against the schema before writing anything. It sends an entry back to pending review whenever its figures, eligibility, matching rules or status change, so those always get a human check. New entries always arrive as pending.
 
 A typical week:
-1. `node scripts/due.js --json > due.json`, then run the research prompt in VERIFY mode with that file. Optionally paste `--sheet` rows into the Gemini sheet for a second opinion.
+1. `node scripts/due.js --json > due.json`, then run the research prompt in VERIFY mode with that file.
 2. Save the agent's answer as `out.json` and run `node scripts/merge.js out.json`. Read the summary, then rerun it with `--write`.
 3. Run `node build.js --preview`, read the drafts, and approve them by setting `"review": "approved"`.
 4. Commit and push. Netlify rebuilds the live site.

@@ -16,7 +16,17 @@
   "cadence": "medium",
   "review": "approved",
   "cap": "maybe",
-  "match": {},
+  "match": {
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    }
+  },
   "source": {
     "url": "https://www.servicesaustralia.gov.au/how-much-education-entry-payment-you-can-get",
     "label": "Services Australia: Education Entry Payment"

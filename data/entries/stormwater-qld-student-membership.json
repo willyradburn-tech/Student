@@ -32,6 +32,11 @@
   "cadence": "medium",
   "review": "approved",
   "match": {
+    "state": {
+      "yes": [
+        "qld"
+      ]
+    },
     "field": {
       "yes": [
         "engineering",
@@ -41,6 +46,11 @@
     "load": {
       "yes": [
         "full"
+      ]
+    },
+    "level": {
+      "yes": [
+        "ug"
       ]
     }
   },
@@ -57,5 +67,8 @@
       "url": "https://stormwaterqueensland.asn.au/about/membership/",
       "page_date": null
     }
+  ],
+  "states": [
+    "qld"
   ]
 }

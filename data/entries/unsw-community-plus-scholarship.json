@@ -2,7 +2,7 @@
   "id": "unsw-community-plus-scholarship",
   "name": "UNSW Community Plus Scholarship",
   "provider": "UNSW Sydney",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Accommodation scholarship paying residential college fees for commencing low-SES UNSW students living on campus.",
   "key": "Up to $25,000 per annum towards residential fees for minimum program duration.",
   "who": [
@@ -35,7 +35,7 @@
   "match": {
     "uni": {
       "yes": [
-        "other"
+        "unsw"
       ]
     },
     "campus": {
@@ -47,6 +47,14 @@
       "yes": [
         "yes"
       ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
     }
   },
   "evidence": [
@@ -57,5 +65,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "unsw",
+  "states": [
+    "nsw"
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "griffith-nealemon-business-school-scholarship",
   "name": "Nealemon Business School Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $5,000 for first-year Griffith Business School undergraduates facing educational disadvantage.",
   "key": "Maximum value of the scholarship is $5,000.",
   "who": [
@@ -53,6 +53,14 @@
       "yes": [
         "full"
       ]
+    },
+    "year": {
+      "yes": [
+        "first"
+      ],
+      "maybe": [
+        "cont"
+      ]
     }
   },
   "evidence": [
@@ -69,5 +77,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

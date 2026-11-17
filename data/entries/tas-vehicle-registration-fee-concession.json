@@ -2,7 +2,7 @@
   "id": "tas-vehicle-registration-fee-concession",
   "name": "Tasmanian vehicle registration fee discount",
   "provider": "Tasmanian Government",
-  "category": "transport",
+  "category": "bills",
   "summary": "Discount on Tasmanian vehicle registration fees for concession cardholders, including Health Care Card holders.",
   "who": [
     "Hold an eligible concession card; the Services Australia Health Care Card is shown as eligible"
@@ -28,7 +28,24 @@
   "match": {
     "state": {
       "yes": [
-        "other"
+        "tas"
+      ]
+    },
+    "res": {
+      "yes": [
+        "citizen",
+        "pr"
+      ],
+      "maybe": [
+        "intl"
+      ]
+    },
+    "hcc": {
+      "yes": [
+        "yes"
+      ],
+      "maybe": [
+        "no"
       ]
     }
   },
@@ -45,5 +62,8 @@
       "url": "https://www.concessions.tas.gov.au/browse-categories/vehicles",
       "page_date": null
     }
+  ],
+  "states": [
+    "tas"
   ]
 }

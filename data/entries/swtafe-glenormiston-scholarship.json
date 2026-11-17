@@ -2,7 +2,7 @@
   "id": "swtafe-glenormiston-scholarship",
   "name": "South West TAFE Glenormiston Scholarship",
   "provider": "South West TAFE Foundation",
-  "category": "uni",
+  "category": "tafe",
   "summary": "Up to $2,000 for SWTAFE students' course-related travel, accommodation, exchange or study abroad.",
   "key": "up to $2000",
   "who": [
@@ -42,6 +42,9 @@
     "uni": {
       "yes": [
         "tafe"
+      ],
+      "maybe": [
+        "apprentice"
       ]
     }
   },
@@ -59,5 +62,8 @@
       "page_date": null
     }
   ],
-  "closes": "closed"
+  "closes": "closed",
+  "states": [
+    "vic"
+  ]
 }

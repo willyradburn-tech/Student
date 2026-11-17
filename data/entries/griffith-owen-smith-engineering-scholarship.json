@@ -2,7 +2,7 @@
   "id": "griffith-owen-smith-engineering-scholarship",
   "name": "Owen Smith in Memoriam Engineering Scholarship",
   "provider": "Griffith University",
-  "category": "uni",
+  "category": "scholarships",
   "summary": "Up to $5,000 for penultimate-year Griffith engineering students facing educational disadvantage.",
   "key": "Maximum value is $5,000.",
   "who": [
@@ -69,5 +69,9 @@
       "page_date": null
     }
   ],
-  "cap": "maybe"
+  "cap": "maybe",
+  "institution": "griffith",
+  "states": [
+    "qld"
+  ]
 }

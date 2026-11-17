@@ -18,22 +18,40 @@
     "note": "The tax rules most students run into once they start working."
   },
   {
+    "id": "tafe",
+    "name": "TAFE and apprenticeships",
+    "short": "TAFE",
+    "note": "Fee-free TAFE, apprentice payments and travel help, tool allowances and TAFE scholarships and support."
+  },
+  {
+    "id": "scholarships",
+    "name": "Scholarships and bursaries",
+    "short": "Scholarships",
+    "note": "Scholarships, bursaries, awards and prizes from universities, TAFEs, foundations and student unions."
+  },
+  {
+    "id": "campus",
+    "name": "Hardship, loans and campus services",
+    "short": "Campus help",
+    "note": "Emergency grants, short-term loans, food pantries, counselling, legal advice and other free services from your uni and student union."
+  },
+  {
     "id": "transport",
     "name": "Getting around",
     "short": "Getting around",
     "note": "Cheaper fares between home and campus, and student fares for flights and coaches."
   },
   {
-    "id": "health",
-    "name": "Health and concession cards",
-    "short": "Health",
-    "note": "Concession cards, free and cheaper health services, and the rebates a Health Care Card unlocks."
+    "id": "bills",
+    "name": "Bills and living costs",
+    "short": "Bills",
+    "note": "Energy, water and gas concessions and vehicle registration discounts, mostly with a concession card."
   },
   {
-    "id": "uni",
-    "name": "Scholarships, uni and TAFE help",
-    "short": "Uni and TAFE",
-    "note": "Scholarships, bursaries, hardship grants, loans and free services from universities, TAFEs and their student unions."
+    "id": "health",
+    "name": "Health, fitness and concession cards",
+    "short": "Health",
+    "note": "Concession cards, free and cheaper health services, gyms and the rebates a Health Care Card unlocks."
   },
   {
     "id": "software",
