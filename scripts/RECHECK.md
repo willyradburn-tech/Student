@@ -3,9 +3,9 @@
 Follow these steps exactly. Keep the run small and cheap: one fetch per entry, no extra research.
 
 1. In the repo folder, run `node scripts/due.js --brief --limit 25`. This prints up to 25 overdue entries as JSON (id, name, key, who, closes, url). If it prints `[]`, stop: nothing is due.
-2. For each entry, call WebFetch on its `url` once, with this prompt:
+2. For each entry, fetch its `url` once with `firecrawl_scrape` (formats ["markdown"], onlyMainContent true, and the `objective` field set to "Recheck a student concession entry"). WebFetch cannot be used here, because it refuses URLs that were not typed in the prompt. Read the returned markdown and answer this question from it:
    "Does this page still offer [name]? Quote the exact sentence that states [key], and the sentence that says who is eligible. If a closing date is shown, give it as YYYY-MM-DD. If the offer has ended or the page no longer describes it, say so."
-   Do not use WebSearch, and do not fetch any other page. If the fetch fails or redirects, retry once on the redirect URL only.
+   Do not use WebSearch, and do not fetch any other page. Keep each scrape to a single call. If the fetch fails or redirects, retry once on the redirect URL only.
 3. Decide one result per entry:
    - `confirmed`: the page still states the same figure and eligibility. Put the quoted sentence in `quote`, and any future closing date in `closes`.
    - `closed`: the page says the current round has closed and gives no future date.
