@@ -28,8 +28,8 @@
     "url": "https://www.scu.edu.au/scholarships/father-paul-pidcock-scholarship/",
     "label": "Southern Cross University: Father Paul Pidcock Scholarship"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -60,6 +60,12 @@
     {
       "claim": "Closing date",
       "quote": "Applications close on 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/father-paul-pidcock-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
+      "quote": "$2,500 for one year",
       "url": "https://www.scu.edu.au/scholarships/father-paul-pidcock-scholarship/",
       "page_date": null
     }

@@ -63,6 +63,7 @@
     "vic"
   ],
   "open_questions": [
-    "2026-11-19 gone: Page loaded with only the heading 'Special Offers' and no student or concession content in the fetched text."
+    "2026-11-19 gone: Page loaded with only the heading 'Special Offers' and no student or concession content in the fetched text.",
+    "2026-11-19 changed: Page fetched (modified 2026-11-13) but returned only the heading 'Special Offers' with no offer text, so student concession could not be verified."
   ]
 }

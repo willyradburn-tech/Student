@@ -19,8 +19,8 @@
     "url": "https://www.stata.com/order/new/edu/profplus/student-pricing/",
     "label": "Stata: Student pricing"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "evidence": [
@@ -33,6 +33,12 @@
     {
       "claim": "Price",
       "quote": "$48 USD",
+      "url": "https://www.stata.com/order/new/edu/profplus/student-pricing/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
+      "quote": "Students currently enrolled at degree-granting institutions may purchase a single-user Stata license at the prices listed below. Stata/BE $48 USD 6 months",
       "url": "https://www.stata.com/order/new/edu/profplus/student-pricing/",
       "page_date": null
     }

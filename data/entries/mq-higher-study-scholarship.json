@@ -75,6 +75,7 @@
     "nsw"
   ],
   "open_questions": [
-    "2026-11-19 gone: Page returned 404 (Page not found), also after redirect to www.mq.edu.au."
+    "2026-11-19 gone: Page returned 404 (Page not found), also after redirect to www.mq.edu.au.",
+    "2026-11-19 gone: Page returns 404 (Page not found), also after www redirect."
   ]
 }

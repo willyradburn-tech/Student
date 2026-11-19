@@ -31,7 +31,7 @@
     "url": "https://www.scu.edu.au/scholarships/pro-invest-group-rise-hotel-management-scholarship/",
     "label": "Southern Cross University: Pro-invest Group RISE Hotel Management Scholarship"
   },
-  "status": "unverified",
+  "status": "rechecking",
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
@@ -74,5 +74,8 @@
   "institution": "scu",
   "states": [
     "nsw"
+  ],
+  "open_questions": [
+    "2026-11-19 changed: Page adds a low socio-economic status requirement (Centrelink means-tested payment or FTB Part A) and lists diplomas through masters degrees; two scholarships available. Page says: \"Meet the criteria for low socio-economic status by demonstration one of the following: Are receiving or expect to receive a Centrelink means-tested income support payment\""
   ]
 }

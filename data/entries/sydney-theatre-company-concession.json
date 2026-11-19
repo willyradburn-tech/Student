@@ -26,8 +26,8 @@
     "url": "https://www.sydneytheatre.com.au/ticket-info/ticketing-faqs",
     "label": "Sydney Theatre Company: Ticketing FAQs"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -53,6 +53,12 @@
     {
       "claim": "ID needed",
       "quote": "Concession tickets will not be issued until valid ID has been presented to our Box Office when picking up tickets, or an upgrade fee may be payable.",
+      "url": "https://www.sydneytheatre.com.au/ticket-info/ticketing-faqs",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
+      "quote": "Current Full Time Student Card; Valid proof of age ID if you are under 30 years old.",
       "url": "https://www.sydneytheatre.com.au/ticket-info/ticketing-faqs",
       "page_date": null
     }

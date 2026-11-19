@@ -62,6 +62,7 @@
     "vic"
   ],
   "open_questions": [
-    "2026-11-19 gone: URL redirected to an unrelated MTC education page and returned 404 (Page not found)."
+    "2026-11-19 gone: URL redirected to an unrelated MTC education page and returned 404 (Page not found).",
+    "2026-11-19 gone: URL redirects to /education/learning-programs/ticket-prices-and-discounts which returns 404 Page not found."
   ]
 }

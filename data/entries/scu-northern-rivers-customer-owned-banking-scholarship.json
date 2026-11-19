@@ -31,8 +31,8 @@
     "url": "https://www.scu.edu.au/scholarships/northern-rivers-customer-owned-banking-scholarship/",
     "label": "Southern Cross University: Northern Rivers Customer-Owned Banking Scholarship"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -76,6 +76,12 @@
     {
       "claim": "Closing date",
       "quote": "Applications close 14 February 2027.",
+      "url": "https://www.scu.edu.au/scholarships/northern-rivers-customer-owned-banking-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
+      "quote": "The Northern Rivers Customer-Owned Banking Scholarship is a three-year scholarship to support a new Bachelor of Business student... Value $15,000",
       "url": "https://www.scu.edu.au/scholarships/northern-rivers-customer-owned-banking-scholarship/",
       "page_date": null
     }

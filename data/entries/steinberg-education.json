@@ -19,14 +19,20 @@
     "url": "https://www.steinberg.net/education/",
     "label": "Steinberg: Education"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "evidence": [
     {
       "claim": "Educational prices",
       "quote": "Students and teachers can buy Steinberg software at educational prices.",
+      "url": "https://www.steinberg.net/education/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
+      "quote": "These industry-standard applications for music creation and audio production are available at special pricing for students, teachers, and institutions.",
       "url": "https://www.steinberg.net/education/",
       "page_date": null
     }

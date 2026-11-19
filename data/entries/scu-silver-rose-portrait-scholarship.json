@@ -30,8 +30,8 @@
     "url": "https://www.scu.edu.au/scholarships/silver-rose-portrait-photography-scholarship/",
     "label": "Southern Cross University: Silver Rose Portrait Photography Scholarship"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -55,6 +55,12 @@
   "evidence": [
     {
       "claim": "Amount",
+      "quote": "$5000 for one year",
+      "url": "https://www.scu.edu.au/scholarships/silver-rose-portrait-photography-scholarship/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
       "quote": "$5000 for one year",
       "url": "https://www.scu.edu.au/scholarships/silver-rose-portrait-photography-scholarship/",
       "page_date": null

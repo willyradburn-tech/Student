@@ -25,7 +25,7 @@
     "url": "https://seymourcentre.com/more/university-of-sydney-students",
     "label": "Seymour Centre: University of Sydney Students"
   },
-  "status": "unverified",
+  "status": "rechecking",
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
@@ -58,5 +58,8 @@
   "institution": "sydney",
   "states": [
     "nsw"
+  ],
+  "open_questions": [
+    "2026-11-19 changed: Page says the program ran until the end of 2025 with a renewal option; no 2026/2027 confirmation. Page says: \"This program runs until the end of 2025 with a renewal option at the beginning of each year.\""
   ]
 }

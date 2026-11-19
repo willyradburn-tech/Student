@@ -22,3 +22,19 @@ Needs a person:
 
 ## 2026-11-19
 1 checked: 1 confirmed, 0 closed, 0 changed, 0 gone, 0 blocked.
+
+## 2026-11-19
+25 checked: 11 confirmed, 2 closed, 7 changed, 5 gone, 0 blocked.
+Needs a person:
+- maple-student-edition (changed): Page no longer states the $75 price; only says 'Buy Maple' and a 15-day free trial. https://www.maplesoft.com/products/maple/students/
+- mq-education-costs-scholarship (gone): Page returns 404 (Page not found), also after www redirect. https://www.mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-education-costs-scholarship
+- mq-higher-study-scholarship (gone): Page returns 404 (Page not found), also after www redirect. https://mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-university-higher-study-scholarship-full-time-rate
+- mq-regional-remote-support-scholarship (gone): Page returns 404 (Page not found), also after www redirect. https://mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-regional-and-remote-support-scholarship
+- mtc-concession-rush (gone): URL redirects to /education/learning-programs/ticket-prices-and-discounts which returns 404 Page not found. https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/
+- opera-australia-concession (changed): Page fetched (modified 2026-11-13) but returned only the heading 'Special Offers' with no offer text, so student concession could not be verified. https://opera.org.au/buy/special-offers
+- qso-student-tickets (gone): Page returns 404 on two fetches (live, maxAge 0). https://qso.com.au/events/2025/for-students
+- queensland-theatre-35-and-under (changed): URL now redirects to the 2025 Season page (outdated); no 2026/2027 offer shown. https://queenslandtheatre.com.au/season-tickets-1
+- qut-asylum-seeker-tuition-fee-scholarship (changed): Now: full tuition scholarship plus guaranteed QUT Equity Scholarship of $4,200 each year (two $2,100 instalments), for Semester 1 2027; applications close 11 January 2027; eligibility lists visas 785, 790, 786, 449 and Bridging visas, and the page says Citizenship: International. https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-asylum-seeker-tuition-fee-scholarship
+- qut-indigenous-australian-accommodation-scholarship (changed): Page now describes the Semester 2, 2026 round (closed 2 September 2026), accommodation fully funded to 31 Dec 2026; the $31,100 figure is not stated. https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-indigenous-australian-accommodation-program
+- scu-pro-invest-rise-hotel-management-scholarship (changed): Page adds a low socio-economic status requirement (Centrelink means-tested payment or FTB Part A) and lists diplomas through masters degrees; two scholarships available. https://www.scu.edu.au/scholarships/pro-invest-group-rise-hotel-management-scholarship/
+- seymour-centre-usyd-student-rush (changed): Page says the program ran until the end of 2025 with a renewal option; no 2026/2027 confirmation. https://seymourcentre.com/more/university-of-sydney-students

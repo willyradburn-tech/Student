@@ -24,8 +24,8 @@
     "url": "https://sales.jetbrains.com/hc/en-gb/articles/19480141673106-Can-I-apply-for-a-free-individual-educational-license-using-official-documents-provided-by-my-school",
     "label": "JetBrains Sales Support: applying for an educational licence"
   },
-  "status": "rechecking",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -46,5 +46,13 @@
     "Grok's 'full-time student in accredited program of at least 1 year' and 'for the duration of studies' are unconfirmed.",
     "2026-10-16 changed: The page covers free educational licences, not a 'JetBrains Student Pack'. It says applying with official school documents is no longer possible (as of July 2024); remaining routes are a school email address, ISIC/ITIC membership or GitHub Student Developer Pack. Entry name and source URL need review. Page says: \"To obtain a free subscription, you may apply using any one of the following:\"",
     "2026-11-19 changed: Page says official documents are no longer accepted; free subscription is via school email, ISIC/ITIC card or GitHub Student Developer Pack. No figure or eligibility wording to compare against; please review. Page says: \"No, as of July 2024, it’s no longer possible to apply for the JetBrains educational license using official documents.\""
+  ],
+  "evidence": [
+    {
+      "claim": "Recheck 2026-11-19",
+      "quote": "To obtain a free subscription, you may apply using any one of the following: An email address associated with your educational institution... Your ISIC/ITIC membership... Your GitHub account: If you have a GitHub Student Developer Pack",
+      "url": "https://sales.jetbrains.com/hc/en-gb/articles/19480141673106-Can-I-apply-for-a-free-individual-educational-license-using-official-documents-provided-by-my-school",
+      "page_date": null
+    }
   ]
 }

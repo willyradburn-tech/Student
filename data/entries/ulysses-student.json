@@ -19,13 +19,19 @@
     "url": "https://ulysses.app/pricing",
     "label": "Ulysses: Pricing"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "evidence": [
     {
       "claim": "Student pricing",
+      "quote": "Reduced pricing for students",
+      "url": "https://ulysses.app/pricing",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
       "quote": "Reduced pricing for students",
       "url": "https://ulysses.app/pricing",
       "page_date": null

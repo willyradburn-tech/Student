@@ -19,8 +19,8 @@
     "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
     "label": "Sydney Symphony Orchestra: Special Pricing"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -33,6 +33,12 @@
   "evidence": [
     {
       "claim": "From $20",
+      "quote": "Our Student Rush Tickets start from just $20.",
+      "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
       "quote": "Our Student Rush Tickets start from just $20.",
       "url": "https://www.sydneysymphony.com/concert-tickets/ticket-information/special-pricing",
       "page_date": null
