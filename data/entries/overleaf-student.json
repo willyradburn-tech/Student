@@ -18,13 +18,19 @@
     "url": "https://www.overleaf.com/user/subscription/plans",
     "label": "Overleaf: Plans and pricing"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "evidence": [
     {
       "claim": "Student eligibility",
+      "quote": "Available to students currently enrolled at a degree-granting institution.",
+      "url": "https://www.overleaf.com/user/subscription/plans",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
       "quote": "Available to students currently enrolled at a degree-granting institution.",
       "url": "https://www.overleaf.com/user/subscription/plans",
       "page_date": null

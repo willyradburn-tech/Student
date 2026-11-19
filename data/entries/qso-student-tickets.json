@@ -29,7 +29,7 @@
     "url": "https://qso.com.au/events/2025/for-students",
     "label": "Queensland Symphony Orchestra: For Students"
   },
-  "status": "unverified",
+  "status": "rechecking",
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
@@ -62,5 +62,8 @@
   ],
   "states": [
     "qld"
+  ],
+  "open_questions": [
+    "2026-11-19 gone: Page returned 404 (Page Not Found)."
   ]
 }

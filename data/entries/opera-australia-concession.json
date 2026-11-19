@@ -26,7 +26,7 @@
     "url": "https://opera.org.au/buy/special-offers",
     "label": "Opera Australia: Special Offers"
   },
-  "status": "unverified",
+  "status": "rechecking",
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
@@ -61,5 +61,8 @@
   "states": [
     "nsw",
     "vic"
+  ],
+  "open_questions": [
+    "2026-11-19 gone: Page loaded with only the heading 'Special Offers' and no student or concession content in the fetched text."
   ]
 }

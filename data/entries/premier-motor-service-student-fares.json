@@ -23,8 +23,8 @@
     "url": "https://premierms.com.au/tickets/",
     "label": "Premier Motor Service: Tickets"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -47,6 +47,12 @@
     {
       "claim": "Discounted fares exist",
       "quote": "We have a range of discounted fares available for children as well as concession card holders",
+      "url": "https://premierms.com.au/tickets/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
+      "quote": "We have a range of discounted fares available for children as well as concession card holders including students, pensioners and seniors.",
       "url": "https://premierms.com.au/tickets/",
       "page_date": null
     }

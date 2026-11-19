@@ -26,8 +26,8 @@
     "url": "https://www.pinchgutopera.com.au/frequently-asked-questions",
     "label": "Pinchgut Opera: Frequently Asked Questions"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -55,6 +55,12 @@
     {
       "claim": "Proof before issue",
       "quote": "Proof of eligibility for Pensioner Concessions and Under 35s will need to be provided to Pinchgut Opera Ticketing on request, before tickets are issued.",
+      "url": "https://www.pinchgutopera.com.au/frequently-asked-questions",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
+      "quote": "Valid proof of age ID if you are under 35 years old.",
       "url": "https://www.pinchgutopera.com.au/frequently-asked-questions",
       "page_date": null
     }

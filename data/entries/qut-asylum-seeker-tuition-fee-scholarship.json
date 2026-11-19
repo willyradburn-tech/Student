@@ -27,7 +27,7 @@
     "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-asylum-seeker-tuition-fee-scholarship",
     "label": "QUT: Asylum Seeker Tuition Fee Scholarship"
   },
-  "status": "unverified",
+  "status": "rechecking",
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
@@ -55,5 +55,8 @@
   "institution": "qut",
   "states": [
     "qld"
+  ],
+  "open_questions": [
+    "2026-11-19 changed: Equity Scholarship now $4,200 per year (two $2,100 instalments), not $2,100; eligible visas now also include 786 and 449 and bridging visas; applications close 2027-01-11. Page says: \"a guaranteed QUT Equity Scholarship of $4,200 each year, paid in two instalments of $2,100.\""
   ]
 }

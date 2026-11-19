@@ -25,8 +25,8 @@
     "url": "https://www.queenslandballet.com.au/tickets",
     "label": "Queensland Ballet: How to book tickets"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -52,6 +52,12 @@
     {
       "claim": "Single ticket types",
       "quote": "Single tickets available with Adult, Concession, Under 30, Child and Group price types.",
+      "url": "https://www.queenslandballet.com.au/tickets",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
+      "quote": "Available to those aged 30 years and under at time of booking.",
       "url": "https://www.queenslandballet.com.au/tickets",
       "page_date": null
     }

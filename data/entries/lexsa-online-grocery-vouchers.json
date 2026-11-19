@@ -27,8 +27,8 @@
     "url": "https://www.lexsa.com.au/support",
     "label": "LEXSA: Support"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -48,6 +48,12 @@
     {
       "claim": "Membership cost",
       "quote": "students can join for $5 then renew each year for $1",
+      "url": "https://www.lexsa.com.au/support",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
+      "quote": "LEXSA Members who are Southern Cross University Students who cannot get to Lismore Campus can register for a limited voucher to help them purchase food and household essentials.",
       "url": "https://www.lexsa.com.au/support",
       "page_date": null
     }

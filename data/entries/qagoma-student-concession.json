@@ -26,8 +26,8 @@
     "url": "https://www.qagoma.qld.gov.au/visit/ticket-faqs/",
     "label": "QAGOMA: General ticket information"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -53,6 +53,12 @@
     {
       "claim": "Show card",
       "quote": "Individual patrons must show concession cards at the exhibition entry to receive concession ticket price.",
+      "url": "https://www.qagoma.qld.gov.au/visit/ticket-faqs/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
+      "quote": "Entry to the Gallery is free, some exhibitions, cinema screenings and events may require a paid or booked ticket.",
       "url": "https://www.qagoma.qld.gov.au/visit/ticket-faqs/",
       "page_date": null
     }

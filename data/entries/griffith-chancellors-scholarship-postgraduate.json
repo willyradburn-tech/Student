@@ -27,8 +27,8 @@
     "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships-postgraduate-students",
     "label": "Griffith University: Chancellor's Scholarship for Postgraduate (Coursework) Students"
   },
-  "status": "rechecking",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -60,6 +60,12 @@
     {
       "claim": "main eligibility rule",
       "quote": "demonstrate educational disadvantage based on a comprehensive assessment by the University",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships-postgraduate-students",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
+      "quote": "The maximum base value is $4,000, payable in instalments of $500 per 10 Credit Points for each enrolled trimester that conditions are met, up to the maximum value of the scholarship.",
       "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/chancellors-scholarships-postgraduate-students",
       "page_date": null
     }

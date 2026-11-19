@@ -18,7 +18,7 @@
     "url": "https://www.maplesoft.com/products/maple/students/",
     "label": "Maplesoft: Maple for students"
   },
-  "status": "unverified",
+  "status": "rechecking",
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
@@ -30,5 +30,8 @@
       "page_date": null
     }
   ],
-  "openToAll": true
+  "openToAll": true,
+  "open_questions": [
+    "2026-11-19 changed: Page no longer states the 'starts at just $75' price; shows Buy Maple and a 15-day free trial only. Page says: \"Maple is cheaper than many graphing calculators, is easier to use, and does more.\""
+  ]
 }

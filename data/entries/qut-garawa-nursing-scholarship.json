@@ -29,8 +29,8 @@
     "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/garawa-nursing-scholarship",
     "label": "QUT: Garawa Nursing Scholarship"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -75,11 +75,18 @@
       "quote": "identify as Aboriginal and/or Torres Strait Islander.",
       "url": "https://cms.qut.edu.au/__data/assets/pdf_file/0019/1250155/ns42-ns89-nursing-garawanursingscholarship-terms-conditions.pdf",
       "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
+      "quote": "You will receive a scholarship valued at up to $5,000.",
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/garawa-nursing-scholarship",
+      "page_date": null
     }
   ],
   "cap": "maybe",
   "institution": "qut",
   "states": [
     "qld"
-  ]
+  ],
+  "closes": "2027-01-24"
 }

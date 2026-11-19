@@ -22,8 +22,8 @@
     "url": "https://www.murrays.com.au/express-services/help/passenger-types",
     "label": "Murrays: Passenger types"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -37,6 +37,12 @@
     {
       "claim": "Student passenger type eligibility",
       "quote": "Includes full-time students aged 16 and over with a valid Student ID card",
+      "url": "https://www.murrays.com.au/express-services/help/passenger-types",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
+      "quote": "Includes full-time students aged 16 and over with a valid Student ID card from a school, university or educational institution.",
       "url": "https://www.murrays.com.au/express-services/help/passenger-types",
       "page_date": null
     }

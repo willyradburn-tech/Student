@@ -29,8 +29,8 @@
     "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-school-of-engineering-queensland-regional-electronic-engineering-bursary",
     "label": "Griffith University: Queensland Regional Electronic Engineering Bursary"
   },
-  "status": "rechecking",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -70,6 +70,12 @@
       "quote": "Maximum value is $2,500, paid in instalments.",
       "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-school-of-engineering-queensland-regional-electronic-engineering-bursary",
       "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
+      "quote": "Maximum value is $2,500, paid in instalments.",
+      "url": "https://www.griffith.edu.au/scholarships/scholarship-listings/griffith-school-of-engineering-queensland-regional-electronic-engineering-bursary",
+      "page_date": null
     }
   ],
   "cap": "maybe",
@@ -79,5 +85,6 @@
   "institution": "griffith",
   "states": [
     "qld"
-  ]
+  ],
+  "closes": "2027-01-29"
 }

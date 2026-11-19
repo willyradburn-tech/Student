@@ -25,7 +25,7 @@
     "url": "https://www.mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-education-costs-scholarship",
     "label": "Macquarie University: Macquarie Education Costs Scholarship"
   },
-  "status": "unverified",
+  "status": "rechecking",
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
@@ -69,5 +69,8 @@
   "institution": "mq",
   "states": [
     "nsw"
+  ],
+  "open_questions": [
+    "2026-11-19 gone: Page returned 404 (Page not found), also after redirect to www.mq.edu.au."
   ]
 }

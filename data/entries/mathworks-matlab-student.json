@@ -19,8 +19,8 @@
     "url": "https://au.mathworks.com/products/matlab/student.html",
     "label": "MathWorks Australia: MATLAB for students"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-19",
   "cadence": "high",
   "review": "approved",
   "evidence": [
@@ -33,6 +33,12 @@
     {
       "claim": "Suite contents",
       "quote": "Includes MATLAB, Simulink, Online Training, and some of the most widely used add-on products.",
+      "url": "https://au.mathworks.com/products/matlab/student.html",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-19",
+      "quote": "Buy MATLAB and Simulink Student Suite",
       "url": "https://au.mathworks.com/products/matlab/student.html",
       "page_date": null
     }

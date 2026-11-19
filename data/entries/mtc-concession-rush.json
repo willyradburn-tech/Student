@@ -27,7 +27,7 @@
     "url": "https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/",
     "label": "Melbourne Theatre Company: Ticket Prices and Discounts"
   },
-  "status": "unverified",
+  "status": "rechecking",
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
@@ -60,5 +60,8 @@
   ],
   "states": [
     "vic"
+  ],
+  "open_questions": [
+    "2026-11-19 gone: URL redirected to an unrelated MTC education page and returned 404 (Page not found)."
   ]
 }
