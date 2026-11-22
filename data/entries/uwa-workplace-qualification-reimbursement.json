@@ -29,8 +29,8 @@
     "url": "https://www.uwa.edu.au/students/support/financial-assistance",
     "label": "UWA: Financial support"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-22",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -50,6 +50,12 @@
     {
       "claim": "Condition",
       "quote": "Pre-approved students must provide a tax invoice and certificate of completion to UWA within 30 days",
+      "url": "https://www.uwa.edu.au/students/support/financial-assistance",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-22",
+      "quote": "The UWA Workplace Qualification Reimbursement Program supports domestic students with the costs (up to $150) associated with completing qualifications often required for casual or part-time work during their studies at UWA.",
       "url": "https://www.uwa.edu.au/students/support/financial-assistance",
       "page_date": null
     }

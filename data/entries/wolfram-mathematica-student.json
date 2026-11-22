@@ -24,8 +24,8 @@
     "url": "https://www.wolfram.com/mathematica/pricing/students/",
     "label": "Wolfram: Mathematica student pricing"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-22",
   "cadence": "high",
   "review": "approved",
   "evidence": [
@@ -38,6 +38,12 @@
     {
       "claim": "Proof required",
       "quote": "Proof of enrollment is required.",
+      "url": "https://www.wolfram.com/mathematica/pricing/students/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-22",
+      "quote": "Mathematica Student subscriptions are available to part-time or full-time primary and secondary students and students working toward an associate's, bachelor's, master's, doctoral or equivalent degree at an accredited educational institution or approved homeschool location. It is also available to part-time, non-degree-seeking students if required for a class.",
       "url": "https://www.wolfram.com/mathematica/pricing/students/",
       "page_date": null
     }

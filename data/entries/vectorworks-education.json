@@ -21,14 +21,20 @@
     "url": "https://www.vectorworks.net/en-US/education",
     "label": "Vectorworks: Education"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-22",
   "cadence": "high",
   "review": "approved",
   "evidence": [
     {
       "claim": "Free licence in select markets",
       "quote": "Students and educators in select global markets can download a free educational license",
+      "url": "https://www.vectorworks.net/en-US/education",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-22",
+      "quote": "Students and educators in select global markets can download a free educational license of Vectorworks Design Suite software, with entertainment industry add-ons available upon request.",
       "url": "https://www.vectorworks.net/en-US/education",
       "page_date": null
     }

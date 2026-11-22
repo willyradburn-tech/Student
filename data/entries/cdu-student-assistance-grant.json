@@ -27,7 +27,7 @@
     "url": "https://www.cdu.edu.au/files/2026-06/Student%20Assistance%20Grant%20T%26Cs-%20Semester%201%202026.pdf",
     "label": "CDU: Student Assistance Grant terms, Semester 1 2026"
   },
-  "status": "unverified",
+  "status": "rechecking",
   "verified": "2026-10-15",
   "cadence": "high",
   "review": "approved",
@@ -49,5 +49,8 @@
   "institution": "cdu",
   "states": [
     "nt"
+  ],
+  "open_questions": [
+    "2026-11-22 changed: Document is the Semester 1 2026 T&Cs (students commencing after 26 June 2026 not eligible); no current-round terms shown Page says: \"$150 one-off payment\""
   ]
 }

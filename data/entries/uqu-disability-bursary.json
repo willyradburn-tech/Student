@@ -22,7 +22,7 @@
     "url": "https://uqu.com.au/student-advocacy-and-support",
     "label": "UQ Union: Student Advocacy and Support"
   },
-  "status": "unverified",
+  "status": "rechecking",
   "verified": "2026-10-14",
   "cadence": "high",
   "review": "approved",
@@ -60,5 +60,8 @@
   "institution": "uq",
   "states": [
     "qld"
+  ],
+  "open_questions": [
+    "2026-11-22 changed: Page still says applications are open and close Friday 21 November at 9am (no year given); that date has passed, so the round status is unclear Page says: \"Applications are currently open and will close on Friday 21 November at 9am.\""
   ]
 }

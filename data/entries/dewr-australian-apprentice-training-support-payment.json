@@ -21,8 +21,8 @@
     "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
     "label": "DEWR: Australian Apprenticeships Incentive System payments overview"
   },
-  "status": "unverified",
-  "verified": "2026-10-15",
+  "status": "verified",
+  "verified": "2026-11-22",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -45,6 +45,12 @@
       "quote": "Effective as of 1 July 2026",
       "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
       "page_date": "2026-07-01"
+    },
+    {
+      "claim": "Recheck 2026-11-22",
+      "quote": "Payments at 6 months Full-time $625 Part-time $315; 12 months $625 $315; 18 months $625 $310; 24 months $625 $310",
+      "url": "https://www.dewr.gov.au/id/download/16760/australian-apprenticeships-incentive-system-payment-summary/43087/australian-apprenticeships-incentive-system-payments-overview/pdf",
+      "page_date": null
     }
   ]
 }

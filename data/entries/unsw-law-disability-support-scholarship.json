@@ -27,8 +27,8 @@
     "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
     "label": "UNSW Scholarships: UNSW Equity Scholarships for 2027"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-22",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -55,6 +55,12 @@
     {
       "claim": "$5,000 per year",
       "quote": "Supports the Faculty of Law and Justice students with a long-term medical condition or disability",
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-22",
+      "quote": "UNSW Law Disability Support Scholarship (PUCE1014) | Supports the Faculty of Law and Justice students with a long-term medical condition or disability and are in financial need. | $5,000 per annum for minimum program duration",
       "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
       "page_date": null
     }

@@ -29,8 +29,8 @@
     "url": "https://scholarships.uq.edu.au/scholarship/lendlease-women-civil-engineering-scholarship",
     "label": "UQ Scholarships: Lendlease Women in Civil Engineering Scholarship"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-22",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -74,6 +74,12 @@
     {
       "claim": "Civil engineering students",
       "quote": "are enrolled in any civil engineering discipline",
+      "url": "https://scholarships.uq.edu.au/scholarship/lendlease-women-civil-engineering-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-22",
+      "quote": "are enrolled full-time in the Bachelor of Engineering (Honours) or Bachelor of Engineering (Honours)/ Master of Engineering or dual engineering program; are enrolled in any civil engineering discipline",
       "url": "https://scholarships.uq.edu.au/scholarship/lendlease-women-civil-engineering-scholarship",
       "page_date": null
     }

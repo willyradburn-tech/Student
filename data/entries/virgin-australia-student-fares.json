@@ -25,14 +25,20 @@
     "url": "https://www.virginaustralia.com/au/en/book/partner-offers/student-discounts/",
     "label": "Virgin Australia: Student discounts"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-22",
   "cadence": "high",
   "review": "approved",
   "evidence": [
     {
       "claim": "Discounted student airfares",
       "quote": "Enjoy discounted student airfares, flexible options, and great value on popular domestic and international routes.",
+      "url": "https://www.virginaustralia.com/au/en/book/partner-offers/student-discounts/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-22",
+      "quote": "Student discounts with Student Beans. Verify your student status.",
       "url": "https://www.virginaustralia.com/au/en/book/partner-offers/student-discounts/",
       "page_date": null
     }

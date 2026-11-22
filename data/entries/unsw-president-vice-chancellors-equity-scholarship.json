@@ -27,8 +27,8 @@
     "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
     "label": "UNSW Scholarships: UNSW Equity Scholarships for 2027"
   },
-  "status": "unverified",
-  "verified": "2026-10-14",
+  "status": "verified",
+  "verified": "2026-11-22",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -55,6 +55,12 @@
     {
       "claim": "$5,000 per year",
       "quote": "$5,000 per annum for the minimum duration of program",
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-22",
+      "quote": "UNSW President and Vice-Chancellor's Equity Scholarship (UGCE1319) | Assists students who are experiencing low socioeconomic circumstances to undertake full-time undergraduate or postgraduate study at UNSW. | $5,000 per annum for the minimum duration of program",
       "url": "https://www.scholarships.unsw.edu.au/scholarships/id/2000",
       "page_date": null
     }

@@ -38,3 +38,21 @@ Needs a person:
 - qut-indigenous-australian-accommodation-scholarship (changed): Page now describes the Semester 2, 2026 round (closed 2 September 2026), accommodation fully funded to 31 Dec 2026; the $31,100 figure is not stated. https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-indigenous-australian-accommodation-program
 - scu-pro-invest-rise-hotel-management-scholarship (changed): Page adds a low socio-economic status requirement (Centrelink means-tested payment or FTB Part A) and lists diplomas through masters degrees; two scholarships available. https://www.scu.edu.au/scholarships/pro-invest-group-rise-hotel-management-scholarship/
 - seymour-centre-usyd-student-rush (changed): Page says the program ran until the end of 2025 with a renewal option; no 2026/2027 confirmation. https://seymourcentre.com/more/university-of-sydney-students
+
+## 2026-11-22
+25 checked: 10 confirmed, 2 closed, 6 changed, 6 gone, 1 blocked.
+Needs a person:
+- mq-education-costs-scholarship (gone): Page returned 404 Page not found https://www.mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-education-costs-scholarship
+- mq-higher-study-scholarship (gone): Page returned 404 Page not found https://mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-university-higher-study-scholarship-full-time-rate
+- mq-regional-remote-support-scholarship (gone): Page returned 404 Page not found https://mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-regional-and-remote-support-scholarship
+- mtc-concession-rush (gone): URL redirected to a 404 Page not found on mtc.com.au https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/
+- opera-australia-concession (gone): Page loaded with only the heading 'Special Offers' and no mention of student or concession tickets https://opera.org.au/buy/special-offers
+- qso-student-tickets (gone): Page returned 404 Page Not Found https://qso.com.au/events/2025/for-students
+- queensland-theatre-35-and-under (changed): URL now serves the 2025 Season ticket page, which is out of date https://queenslandtheatre.com.au/season-tickets-1
+- qut-asylum-seeker-tuition-fee-scholarship (changed): Page now says $4,200 each year (two $2,100 instalments) plus full tuition waiver; eligible visas now also include subclass 786 and 449; applications close 11 January 2027 https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-asylum-seeker-tuition-fee-scholarship
+- qut-indigenous-australian-accommodation-scholarship (changed): Page now describes fully funded accommodation at Student One for Semester 2 2026 starts, no $31,100 figure; applications closed 2 September 2026 https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-indigenous-australian-accommodation-program
+- seymour-centre-usyd-student-rush (changed): Page still offers Student Rush but says the program runs until the end of 2025 with a renewal option each year https://seymourcentre.com/more/university-of-sydney-students
+- uqu-disability-bursary (changed): Page still says applications are open and close Friday 21 November at 9am (no year given); that date has passed, so the round status is unclear https://uqu.com.au/student-advocacy-and-support
+- cdu-student-assistance-grant (changed): Document is the Semester 1 2026 T&Cs (students commencing after 26 June 2026 not eligible); no current-round terms shown https://www.cdu.edu.au/files/2026-06/Student%20Assistance%20Grant%20T%26Cs-%20Semester%201%202026.pdf
+Site blocks automated reading, check by hand:
+- maple-student-edition: https://www.maplesoft.com/products/maple/students/
