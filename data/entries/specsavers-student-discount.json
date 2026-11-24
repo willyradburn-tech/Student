@@ -24,14 +24,20 @@
     "url": "https://www.specsavers.com.au/special-offers/student-discount",
     "label": "Specsavers: Student discount"
   },
-  "status": "unverified",
-  "verified": "2026-10-15",
+  "status": "verified",
+  "verified": "2026-11-24",
   "cadence": "high",
   "review": "approved",
   "evidence": [
     {
       "claim": "Condition",
       "quote": "Current student card",
+      "url": "https://www.specsavers.com.au/special-offers/student-discount",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-24",
+      "quote": "25% off 1 pair of glasses from the $149 range or above. If you are a student, select one pair of glasses from the $149 range or above and you are entitled to receive 25% off the total price.",
       "url": "https://www.specsavers.com.au/special-offers/student-discount",
       "page_date": null
     }

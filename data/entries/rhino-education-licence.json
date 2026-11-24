@@ -27,7 +27,7 @@
     "url": "https://www.rhino3d.com/sales/pacific/Australia/QLD",
     "label": "Rhino: Australian resellers and pricing"
   },
-  "status": "unverified",
+  "status": "rechecking",
   "verified": "2026-10-15",
   "cadence": "high",
   "review": "approved",
@@ -39,5 +39,8 @@
       "page_date": null
     }
   ],
-  "openToAll": true
+  "openToAll": true,
+  "open_questions": [
+    "2026-11-24 changed: Page now lists Rhino 9 (not Rhino 8) at US$195 for single-user educational licence. Page says: \"Rhino 9 for Windows and Mac | US$ 195\""
+  ]
 }

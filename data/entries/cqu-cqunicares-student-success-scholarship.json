@@ -29,7 +29,7 @@
     "label": "CQUniversity: CQUniCares Student Success Scholarship"
   },
   "status": "unverified",
-  "verified": "2026-10-16",
+  "verified": "2026-11-24",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -66,6 +66,12 @@
     },
     {
       "claim": "Recheck 2026-10-16",
+      "quote": "Please note this scholarship opportunity is currently closed.",
+      "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1043921/cqunicares-student-success-scholarship-donorfunded",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-24",
       "quote": "Please note this scholarship opportunity is currently closed.",
       "url": "https://cqu.edu.au/study/prepare/scholarships/find-a-scholarship/1043921/cqunicares-student-success-scholarship-donorfunded",
       "page_date": null

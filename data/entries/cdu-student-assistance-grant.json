@@ -27,8 +27,8 @@
     "url": "https://www.cdu.edu.au/files/2026-06/Student%20Assistance%20Grant%20T%26Cs-%20Semester%201%202026.pdf",
     "label": "CDU: Student Assistance Grant terms, Semester 1 2026"
   },
-  "status": "rechecking",
-  "verified": "2026-10-15",
+  "status": "verified",
+  "verified": "2026-11-24",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -41,6 +41,12 @@
   "evidence": [
     {
       "claim": "Value",
+      "quote": "$150 one-off payment",
+      "url": "https://www.cdu.edu.au/files/2026-06/Student%20Assistance%20Grant%20T%26Cs-%20Semester%201%202026.pdf",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-24",
       "quote": "$150 one-off payment",
       "url": "https://www.cdu.edu.au/files/2026-06/Student%20Assistance%20Grant%20T%26Cs-%20Semester%201%202026.pdf",
       "page_date": null

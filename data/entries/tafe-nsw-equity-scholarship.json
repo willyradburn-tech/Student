@@ -31,7 +31,7 @@
     "label": "TAFE NSW: Equity Scholarship"
   },
   "status": "unverified",
-  "verified": "2026-10-15",
+  "verified": "2026-11-24",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -66,6 +66,12 @@
     },
     {
       "claim": "Status",
+      "quote": "Applications for Equity Scholarships is now closed.",
+      "url": "https://www.tafensw.edu.au/scholarships/equity-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-24",
       "quote": "Applications for Equity Scholarships is now closed.",
       "url": "https://www.tafensw.edu.au/scholarships/equity-scholarship",
       "page_date": null

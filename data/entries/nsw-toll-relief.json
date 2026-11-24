@@ -25,8 +25,8 @@
     "url": "https://www.service.nsw.gov.au/toll-relief-faqs",
     "label": "Service NSW: Toll relief program"
   },
-  "status": "unverified",
-  "verified": "2026-10-15",
+  "status": "verified",
+  "verified": "2026-11-24",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -49,6 +49,12 @@
     {
       "claim": "Rebate",
       "quote": "claim a $50 cap toll relief rebate every 3 months",
+      "url": "https://www.service.nsw.gov.au/toll-relief-faqs",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-24",
+      "quote": "Eligible motorists can claim a $50 cap toll relief rebate every 3 months for their toll spend of between $50 and $400 a week.",
       "url": "https://www.service.nsw.gov.au/toll-relief-faqs",
       "page_date": null
     }

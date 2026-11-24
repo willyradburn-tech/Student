@@ -30,7 +30,7 @@
     "label": "QUT: I-MED Medical Imaging Bursary"
   },
   "status": "unverified",
-  "verified": "2026-11-19",
+  "verified": "2026-11-24",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -74,6 +74,12 @@
     {
       "claim": "Recheck 2026-11-19",
       "quote": "You need to complete and submit the online application form by 11.59pm on the closing date, 11 January 2026.",
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/i-med-radiology-network-medical-imaging-bursary",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-24",
+      "quote": "Applications open21 July 2025Applications close11 January 2026",
       "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/i-med-radiology-network-medical-imaging-bursary",
       "page_date": null
     }

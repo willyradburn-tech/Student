@@ -30,7 +30,7 @@
     "url": "https://adelaide.edu.au/study/scholarships/dom/ar-riddle-grant/",
     "label": "Adelaide University: A R Riddle Grant"
   },
-  "status": "unverified",
+  "status": "rechecking",
   "verified": "2026-10-16",
   "cadence": "high",
   "review": "approved",
@@ -78,5 +78,8 @@
   "institution": "adelaide",
   "states": [
     "sa"
+  ],
+  "open_questions": [
+    "2026-11-24 changed: Page no longer states a $3,000 total; says annual value varies with funds. Latest close date 18 September 2026 has passed. Page says: \"The annual value of the grant varies depending on the funds available and the number and merit of applications received.\""
   ]
 }

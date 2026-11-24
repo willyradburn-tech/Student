@@ -24,8 +24,8 @@
     "url": "https://www.ptc.com/en/store/products/mathcad/ptc-mathcad-prime-student",
     "label": "PTC: Mathcad Prime Student"
   },
-  "status": "unverified",
-  "verified": "2026-10-15",
+  "status": "verified",
+  "verified": "2026-11-24",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -39,6 +39,12 @@
     {
       "claim": "Eligibility",
       "quote": "available to current students whose intended use is for personal learning",
+      "url": "https://www.ptc.com/en/store/products/mathcad/ptc-mathcad-prime-student",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-24",
+      "quote": "PTC Mathcad Prime Student Edition is available to current students whose intended use is for personal learning (not for teaching or research). Not available for labs or institutions. A valid university email address is required for purchase.",
       "url": "https://www.ptc.com/en/store/products/mathcad/ptc-mathcad-prime-student",
       "page_date": null
     }

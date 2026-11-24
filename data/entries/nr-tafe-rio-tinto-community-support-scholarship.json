@@ -24,8 +24,8 @@
     "url": "https://www.northregionaltafe.wa.edu.au/scholarships",
     "label": "North Regional TAFE: Scholarships"
   },
-  "status": "unverified",
-  "verified": "2026-10-15",
+  "status": "verified",
+  "verified": "2026-11-24",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -69,6 +69,12 @@
     {
       "claim": "Eligible fields",
       "quote": "The scholarship provides assistance for selected qualifications and skill sets across Community Services,",
+      "url": "https://www.northregionaltafe.wa.edu.au/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-24",
+      "quote": "The scholarship provides assistance for selected qualifications and skill sets across Community Services, Health and Nursing, School-Based Education Support, and Beauty",
       "url": "https://www.northregionaltafe.wa.edu.au/scholarships",
       "page_date": null
     }

@@ -56,3 +56,20 @@ Needs a person:
 - cdu-student-assistance-grant (changed): Document is the Semester 1 2026 T&Cs (students commencing after 26 June 2026 not eligible); no current-round terms shown https://www.cdu.edu.au/files/2026-06/Student%20Assistance%20Grant%20T%26Cs-%20Semester%201%202026.pdf
 Site blocks automated reading, check by hand:
 - maple-student-edition: https://www.maplesoft.com/products/maple/students/
+
+## 2026-11-24
+25 checked: 6 confirmed, 6 closed, 6 changed, 7 gone, 0 blocked.
+Needs a person:
+- mq-education-costs-scholarship (gone): Page returns 404 (Page not found) at the recorded URL. https://www.mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-education-costs-scholarship
+- mq-higher-study-scholarship (gone): Page returns 404 (Page not found) at the recorded URL. https://mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-university-higher-study-scholarship-full-time-rate
+- mq-regional-remote-support-scholarship (gone): Page returns 404 (Page not found) at the recorded URL. https://mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-regional-and-remote-support-scholarship
+- mtc-concession-rush (gone): Page returns 404 (Sorry, it seems you were trying to access a page that doesn't exist) after redirecting. https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/
+- opera-australia-concession (gone): Page loaded with only the heading 'Special Offers' and no offer details visible to the scraper. https://opera.org.au/buy/special-offers
+- qso-student-tickets (gone): Page returns 404 (Page Not Found). https://qso.com.au/events/2025/for-students
+- queensland-theatre-35-and-under (changed): URL now redirects to the 2025 Season page, not the current season. Concession wording still present but for 2025. https://queenslandtheatre.com.au/season-tickets-1
+- qut-asylum-seeker-tuition-fee-scholarship (changed): Now 2027 terms: guaranteed Equity Scholarship is $4,200 per year (two $2,100 instalments), not $2,100. Applications 5 Oct 2026 to 11 Jan 2027. Eligible visa list wider. https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-asylum-seeker-tuition-fee-scholarship
+- qut-indigenous-australian-accommodation-scholarship (changed): Page now describes the Semester 2, 2026 round (accommodation funded to 31 Dec 2026, applications closed 2 Sept 2026); no $31,100 rental value stated. https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-indigenous-australian-accommodation-program
+- seymour-centre-usyd-student-rush (changed): Page says the program runs until end of 2025 with a renewal option; no confirmation for 2026/27. https://seymourcentre.com/more/university-of-sydney-students
+- nvivo-student-licence (gone): Page returns 404 (We couldn't find that page). https://lumivero.com/?p=44184
+- rhino-education-licence (changed): Page now lists Rhino 9 (not Rhino 8) at US$195 for single-user educational licence. https://www.rhino3d.com/sales/pacific/Australia/QLD
+- adelaide-uni-ar-riddle-grant (changed): Page no longer states a $3,000 total; says annual value varies with funds. Latest close date 18 September 2026 has passed. https://adelaide.edu.au/study/scholarships/dom/ar-riddle-grant/

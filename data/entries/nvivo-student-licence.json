@@ -25,7 +25,7 @@
     "url": "https://lumivero.com/?p=44184",
     "label": "Lumivero: NVivo Student Version"
   },
-  "status": "unverified",
+  "status": "rechecking",
   "verified": "2026-10-15",
   "cadence": "high",
   "review": "approved",
@@ -37,5 +37,8 @@
       "page_date": null
     }
   ],
-  "openToAll": true
+  "openToAll": true,
+  "open_questions": [
+    "2026-11-24 gone: Page returns 404 (We couldn't find that page)."
+  ]
 }

@@ -25,8 +25,8 @@
     "url": "https://www.northregionaltafe.wa.edu.au/scholarships",
     "label": "North Regional TAFE: Scholarships"
   },
-  "status": "unverified",
-  "verified": "2026-10-15",
+  "status": "verified",
+  "verified": "2026-11-24",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -62,6 +62,12 @@
     {
       "claim": "Hardship criterion",
       "quote": "and are awarded to prospective students who can demonstrate educational disadvantage and financial hardship.",
+      "url": "https://www.northregionaltafe.wa.edu.au/scholarships",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-24",
+      "quote": "NR TAFE's Scholarship Program provides opportunities for Kimberley and Pilbara residents to progress their career aspirations in a range of eligible industry areas.",
       "url": "https://www.northregionaltafe.wa.edu.au/scholarships",
       "page_date": null
     }
