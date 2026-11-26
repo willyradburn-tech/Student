@@ -32,7 +32,7 @@
     "label": "La Trobe Student Union: Safety Net"
   },
   "status": "unverified",
-  "verified": "2026-11-24",
+  "verified": "2026-11-26",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -62,6 +62,12 @@
     },
     {
       "claim": "Recheck 2026-11-24",
+      "quote": "Safety Net applications are closed as all funding has been allocated.",
+      "url": "https://www.latrobesu.org.au/support/safetynet/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-26",
       "quote": "Safety Net applications are closed as all funding has been allocated.",
       "url": "https://www.latrobesu.org.au/support/safetynet/",
       "page_date": null

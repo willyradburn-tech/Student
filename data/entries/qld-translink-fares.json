@@ -21,7 +21,7 @@
     "School leavers can keep using a green concession go card and may need to update its expiry date."
   ],
   "status": "verified",
-  "verified": "2026-10-12",
+  "verified": "2026-11-26",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -46,5 +46,13 @@
   },
   "states": [
     "qld"
+  ],
+  "evidence": [
+    {
+      "claim": "Recheck 2026-11-26",
+      "quote": "All fares on Translink services are now 50 cents per journey, regardless of how far you travel on the network or how you choose to pay",
+      "url": "https://translink.com.au/tickets-and-fares/concessions/tertiary",
+      "page_date": null
+    }
   ]
 }

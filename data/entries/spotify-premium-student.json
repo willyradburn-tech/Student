@@ -19,7 +19,7 @@
   "catches": [
     "After 4 years it moves to Premium Individual at $15.99 a month."
   ],
-  "status": "verified",
+  "status": "rechecking",
   "verified": "2026-10-12",
   "cadence": "high",
   "review": "approved",
@@ -31,5 +31,8 @@
   "source": {
     "url": "https://www.spotify.com/au/student/",
     "label": "Spotify: Premium Student"
-  }
+  },
+  "open_questions": [
+    "2026-11-26 changed: Page confirms $7.99/month, over 18 and up to 4 years, but the scraped page does not mention a free first month. Page says: \"You will be charged $7.99/month.\""
+  ]
 }

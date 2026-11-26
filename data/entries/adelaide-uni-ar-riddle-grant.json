@@ -31,7 +31,7 @@
     "label": "Adelaide University: A R Riddle Grant"
   },
   "status": "rechecking",
-  "verified": "2026-10-16",
+  "verified": "2026-11-26",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -69,6 +69,12 @@
     {
       "claim": "Recheck 2026-10-16",
       "quote": "The annual value of the grant varies depending on the funds available.",
+      "url": "https://adelaide.edu.au/study/scholarships/dom/ar-riddle-grant/",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-26",
+      "quote": "Semester 2 – 18 September 2026",
       "url": "https://adelaide.edu.au/study/scholarships/dom/ar-riddle-grant/",
       "page_date": null
     }

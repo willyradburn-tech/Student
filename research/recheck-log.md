@@ -73,3 +73,22 @@ Needs a person:
 - nvivo-student-licence (gone): Page returns 404 (We couldn't find that page). https://lumivero.com/?p=44184
 - rhino-education-licence (changed): Page now lists Rhino 9 (not Rhino 8) at US$195 for single-user educational licence. https://www.rhino3d.com/sales/pacific/Australia/QLD
 - adelaide-uni-ar-riddle-grant (changed): Page no longer states a $3,000 total; says annual value varies with funds. Latest close date 18 September 2026 has passed. https://adelaide.edu.au/study/scholarships/dom/ar-riddle-grant/
+
+## 2026-11-26
+25 checked: 1 confirmed, 9 closed, 7 changed, 8 gone, 0 blocked.
+Needs a person:
+- spotify-premium-student (changed): Page confirms $7.99/month, over 18 and up to 4 years, but the scraped page does not mention a free first month. https://www.spotify.com/au/student/
+- student-start-up-loan (gone): Services Australia page returned 404 (news item no longer available). Needs a new source URL and 2027 round details. https://www.servicesaustralia.gov.au/student-start-up-loan-ssl-applications-are-now-open-for-july-december-2026
+- mq-education-costs-scholarship (gone): Macquarie page returned 404 (page not found). https://www.mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-education-costs-scholarship
+- mq-higher-study-scholarship (gone): Macquarie page returned 404 (page not found). https://mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-university-higher-study-scholarship-full-time-rate
+- mq-regional-remote-support-scholarship (gone): Macquarie page returned 404 (page not found). https://mq.edu.au/study/admissions-and-entry/scholarships/domestic/macquarie-regional-and-remote-support-scholarship
+- mtc-concession-rush (gone): URL redirected to an MTC 404 page (page not found). https://www.mtc.com.au/plays-and-tickets/ticket-information/ticket-prices-and-discounts/
+- opera-australia-concession (gone): Page loaded with only the heading 'Special Offers' and no offer details visible; cannot confirm concession. https://opera.org.au/buy/special-offers
+- qso-student-tickets (gone): QSO page returned 404 (Page Not Found); the 2025 URL has expired. https://qso.com.au/events/2025/for-students
+- queensland-theatre-35-and-under (changed): URL now redirects to the 2025 Season page, which is out of date. It still lists concession for those who can provide a copy of their Full Time Student ID and 35 & Under pricing, but a current season page is needed. https://queenslandtheatre.com.au/season-tickets-1
+- qut-asylum-seeker-tuition-fee-scholarship (changed): Now shows 2027 terms: guaranteed Equity Scholarship of $4,200 each year (two instalments of $2,100); eligible visas listed differ (Citizenship: International); applications 5 Oct 2026 to 11 Jan 2027. https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-asylum-seeker-tuition-fee-scholarship
+- qut-indigenous-australian-accommodation-scholarship (changed): Page now describes the Semester 2, 2026 round (closed 2 September 2026) with fully funded accommodation at Student One Elizabeth Street to 31 December 2026; the $31,100 figure is not stated. https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-indigenous-australian-accommodation-program
+- seymour-centre-usyd-student-rush (changed): Eligibility unchanged, but page says the program only runs until the end of 2025 with a renewal option each year, so current status is unclear. https://seymourcentre.com/more/university-of-sydney-students
+- nvivo-student-licence (gone): Lumivero page returned 404 (page not found). https://lumivero.com/?p=44184
+- rhino-education-licence (changed): Education price is still US$195 but now for Rhino 9 (entry says Rhino 8). https://www.rhino3d.com/sales/pacific/Australia/QLD
+- uqu-disability-bursary (changed): Page says applications are open and close Friday 21 November (no year, likely stale; 21 Nov 2026 is a Saturday). Page last modified 2026-11-16. Needs a person to check. https://uqu.com.au/student-advocacy-and-support

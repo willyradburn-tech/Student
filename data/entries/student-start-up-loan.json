@@ -21,7 +21,7 @@
     "You pay it back with indexation, so it can add up over time.",
     "The page we checked gives no closing date. Check Services Australia."
   ],
-  "status": "verified",
+  "status": "rechecking",
   "verified": "2026-10-12",
   "cadence": "high",
   "review": "approved",
@@ -45,5 +45,8 @@
   "source": {
     "url": "https://www.servicesaustralia.gov.au/student-start-up-loan-ssl-applications-are-now-open-for-july-december-2026",
     "label": "Services Australia: Student Start-up Loan applications"
-  }
+  },
+  "open_questions": [
+    "2026-11-26 gone: Services Australia page returned 404 (news item no longer available). Needs a new source URL and 2027 round details."
+  ]
 }

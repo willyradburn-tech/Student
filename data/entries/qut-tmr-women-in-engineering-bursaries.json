@@ -30,7 +30,7 @@
     "label": "QUT: TMR Women in Engineering Bursaries"
   },
   "status": "unverified",
-  "verified": "2026-11-24",
+  "verified": "2026-11-26",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -95,6 +95,12 @@
     },
     {
       "claim": "Recheck 2026-11-24",
+      "quote": "Applications open23 June 2026Applications close3 August 2026",
+      "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/women-in-engineering-bursaries",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-26",
       "quote": "Applications open23 June 2026Applications close3 August 2026",
       "url": "https://www.qut.edu.au/study/fees-and-scholarships/scholarships/women-in-engineering-bursaries",
       "page_date": null

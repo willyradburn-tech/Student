@@ -25,7 +25,7 @@
     "label": "University of Sydney: Advertised bursaries"
   },
   "status": "unverified",
-  "verified": "2026-11-22",
+  "verified": "2026-11-26",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -59,6 +59,12 @@
     },
     {
       "claim": "Recheck 2026-11-22",
+      "quote": "Semester 2 advertised bursary applications will open from Monday, 17 August and close Sunday, 13 September 2026.",
+      "url": "https://www.sydney.edu.au/students/financial-support/advertised-bursaries.html",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-26",
       "quote": "Semester 2 advertised bursary applications will open from Monday, 17 August and close Sunday, 13 September 2026.",
       "url": "https://www.sydney.edu.au/students/financial-support/advertised-bursaries.html",
       "page_date": null

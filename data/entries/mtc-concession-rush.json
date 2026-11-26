@@ -65,6 +65,7 @@
     "2026-11-19 gone: URL redirected to an unrelated MTC education page and returned 404 (Page not found).",
     "2026-11-19 gone: URL redirects to /education/learning-programs/ticket-prices-and-discounts which returns 404 Page not found.",
     "2026-11-22 gone: URL redirected to a 404 Page not found on mtc.com.au",
-    "2026-11-24 gone: Page returns 404 (Sorry, it seems you were trying to access a page that doesn't exist) after redirecting."
+    "2026-11-24 gone: Page returns 404 (Sorry, it seems you were trying to access a page that doesn't exist) after redirecting.",
+    "2026-11-26 gone: URL redirected to an MTC 404 page (page not found)."
   ]
 }

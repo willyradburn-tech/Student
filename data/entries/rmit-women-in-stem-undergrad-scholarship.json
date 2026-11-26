@@ -32,7 +32,7 @@
     "label": "RMIT: Women in STEM Undergraduate Scholarship"
   },
   "status": "unverified",
-  "verified": "2026-11-19",
+  "verified": "2026-11-26",
   "cadence": "high",
   "review": "approved",
   "match": {
@@ -76,6 +76,12 @@
     },
     {
       "claim": "Recheck 2026-11-19",
+      "quote": "Currently, this scholarship is not available for future application rounds.",
+      "url": "https://www.rmit.edu.au/scholarships/coursework/women-in-stem-undergrad-scholarship",
+      "page_date": null
+    },
+    {
+      "claim": "Recheck 2026-11-26",
       "quote": "Currently, this scholarship is not available for future application rounds.",
       "url": "https://www.rmit.edu.au/scholarships/coursework/women-in-stem-undergrad-scholarship",
       "page_date": null
